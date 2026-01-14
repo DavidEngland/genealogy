@@ -1,0 +1,84 @@
+0 HEAD
+1 SOUR FTW
+2 VERS 7.00
+2 NAME Family Tree Maker for Windows
+2 CORP The Learning Company, Inc., Banner Blue Division
+3 ADDR 39500 Stevenson Pl.  #204
+4 CONT Fremont, CA 95439
+3 PHON (510) 794-6850
+1 DEST FTW
+1 DATE 20 JUL 2003
+1 CHAR ANSI
+1 SUBM @SUBM@
+1 FILE C:\FTW\Prosser Family.GED2.GED
+1 GEDC
+2 VERS 5.5
+1 _SCHEMA
+2 INDI
+3 _FA1
+4 LABL Fact 1
+3 _FA2
+4 LABL Fact 2
+3 _FA3
+4 LABL Fact 3
+3 _FA4
+4 LABL Fact 4
+3 _FA5
+4 LABL Fact 5
+3 _FA6
+4 LABL Fact 6
+3 _FA7
+4 LABL Fact 7
+3 _FA8
+4 LABL Fact 8
+3 _FA9
+4 LABL Fact 9
+3 _FA10
+4 LABL Fact 10
+3 _FA11
+4 LABL Fact 11
+3 _FA12
+4 LABL Fact 12
+3 _FA13
+4 LABL Fact 13
+3 _MREL
+4 LABL Relationship to Mother
+3 _FREL
+4 LABL Relationship to Father
+2 FAM
+3 _FA1
+4 LABL Marriage fact
+3 _FA2
+4 LABL Fact 2
+3 _MSTAT
+4 LABL Marriage Beginning Status
+3 _MEND
+4 LABL Marriage Ending Status
+0 @SUBM@ SUBM
+0 @I0230@ INDI
+1 NAME Elizabeth /Roberts/
+1 SEX F
+1 BIRT
+2 DATE 26 JUL 1792
+1 FAMS @F064@
+1 FAMC @F038@
+0 @I0245@ INDI
+1 NAME John /England/
+1 SEX M
+1 BIRT
+2 DATE ABT. 1788
+2 PLAC South Carolina
+1 DEAT
+2 DATE ABT. 1858
+1 FAMS @F064@
+0 @F038@ FAM
+1 CHIL @I0230@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE ABT. 1790
+2 PLAC Pendleton District, South Carolina
+0 @F064@ FAM
+1 HUSB @I0245@
+1 WIFE @I0230@
+0 TRLR

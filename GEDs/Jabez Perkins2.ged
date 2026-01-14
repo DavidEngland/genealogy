@@ -1,0 +1,634 @@
+0 HEAD
+1 SOUR ANCESTRY
+2 NAME Online Family Tree
+2 VERS 1.0
+2 CORP MyFamily.com, Inc.
+3 ADDR 360 W 4800 N
+4 CONT Provo, UT  84604
+4 PHON (801) 705-7000
+1 GEDC
+2 VERS 4.0
+2 FORM LINEAGE-LINKED
+1 CHAR ANSI
+1 FILE OUR FAMILIES
+1 DATE 26 Jan 2007
+0 @I650520456@ INDI
+1 NAME Milton E. /White/
+2 GIVN Milton E.
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE 2 Dec 1821
+2 PLAC Whitely County, Kentucky
+1 DEAT
+2 DATE 25 Aug 1908
+2 PLAC Whitely County, Kentucky
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMS @F557998629@
+1 FAMC @F557998639@
+1 FAMS @F557998638@
+0 @I650520540@ INDI
+1 NAME Harrison /White/
+2 GIVN Harrison
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE 28 Feb 1788
+2 PLAC Jefferson County, TN
+1 DEAT
+2 DATE 7 Nov 1853
+2 PLAC Cumberland River, Whitley Co., KY
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMS @F557998639@
+1 FAMC @F557998640@
+0 @I650520541@ INDI
+1 NAME Amy /Perkins/
+2 GIVN Amy
+2 SURN Perkins
+1 SEX F
+1 BIRT
+2 DATE 7 Aug 1794
+2 PLAC Grayson Co., VA
+1 DEAT
+2 DATE 1 Aug 1862
+2 PLAC Whitely County, Kentucky
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMS @F557998639@
+1 FAMC @F557998641@
+0 @I650520542@ INDI
+1 NAME Jabez /White/
+2 GIVN Jabez
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE 23 Apr 1817
+2 PLAC Kentucky
+1 DEAT
+2 DATE 27 Dec 1888
+2 PLAC Whitely County, Kentucky
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMC @F557998639@
+0 @I650520543@ INDI
+1 NAME Elizabeth /White/
+2 GIVN Elizabeth
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE 5 Jul 1818
+2 PLAC Kentucky
+1 DEAT
+2 DATE 10 Nov 1844
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMC @F557998639@
+0 @I650520544@ INDI
+1 NAME Nancy /White/
+2 GIVN Nancy
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE 16 May 1823
+2 PLAC Kentucky
+1 DEAT
+2 DATE Mar 1854
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMC @F557998639@
+0 @I650520545@ INDI
+1 NAME Wm. Blueford /White/
+2 GIVN Wm. Blueford
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE Dec 1825
+2 PLAC Kentucky
+1 DEAT
+2 DATE 5 Jan 1901
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMC @F557998639@
+1 NOTE Captian, Co. E, 32 KY INF, Civil War.
+2 CONT He left no decendants.
+0 @I650520546@ INDI
+1 NAME Mary Serelda /White/
+2 GIVN Mary Serelda
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE 23 Mar 1828
+2 PLAC Kentucky
+1 DEAT
+2 DATE 29 Mar 1892
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMC @F557998639@
+0 @I650520547@ INDI
+1 NAME John Calvin /White/
+2 GIVN John Calvin
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE 9 Jan 1830
+2 PLAC Kentucky
+1 DEAT
+2 DATE 10 Feb 1838
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMC @F557998639@
+0 @I650520550@ INDI
+1 NAME Jabez /Perkins/
+2 GIVN Jabez
+2 SURN Perkins
+1 SEX M
+1 BIRT
+2 DATE 11 Nov 1766
+2 PLAC New Haven, CT
+1 DEAT
+2 DATE Bef 13 Feb 1836
+2 PLAC Whitley County, Kentucky
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMS @F557998641@
+1 NOTE WILL of JABUS PERKINS, of Whitley Co., KY was made 27 Dec 1
+2 CONT 835, and
+2 CONT probated
+2 CONC  February Term, 1836.
+2 CONT I Jabus Perkins of the County of Whitley and State o
+2 CONT f 
+2 CONC Kentucky being sick
+2 CONT and low in boddy but of Sound Mind and disposing memory an
+2 CONT d Calling to mind the
+2 CONT mortality of man and knowing that it is appointed for 
+2 CONC all m
+2 CONT en to die I make and
+2 CONT ordain this my last will and testament in the foll
+2 CONC owung man
+2 CONT ne
+2 CONT To wit, first of all I will my sole to God that gav
+2 CONT e it and my
+2 CONC  body to be
+2 CONT buried in a decent and Christian like maner and Touching o
+2 CONT n my W
+2 CONC orldly Estate
+2 CONT which it hath pleased God to bles me with I dispose of in t
+2 CONT he 
+2 CONC maner following,
+2 CONT To wit, I give and bequeath to my Son Timothy Perkin
+2 CONT s One D
+2 CONC oll
+2 CONT I give and Bequeath to my Son Jesse Perkins One Dollar
+2 CONT I give and bequeat
+2 CONC h to my Son Jabes Perkins One Dollar
+2 CONT I Give and Bequeath to My Daughter Lucy C
+2 CONC ox one Dollar
+2 CONT I Give and Bequeath to my Daughter Patty     ah One D
+2 CONT oll
+2 CONT I Gi
+2 CONC ve and Bequeath to my two Daughters Amy White an
+2 CONT d Nancy White one
+2 CONT Note of La
+2 CONC nd on Demcey White to be Eaqually devided betwee
+2 CONT n th
+2 CONT I give and bequeath to 
+2 CONC my Son William Perkins all o
+2 CONT f my land in the State
+2 CONT of Illinois and all my la
+2 CONC nd in the State of Kentucky and al
+2 CONT l of my waggons and
+2 CONT oxen and horses and st
+2 CONC ock of Every kind and farming tools a
+2 CONT nd all of my house
+2 CONT hold and kitching fu
+2 CONC rniture and my ----- hanner and my Wil
+2 CONT l is that together
+2 CONT with the rest that 
+2 CONC William Perkins Support and Take Care o
+2 CONT f my Wife Nan
+2 CONT Perkins So long as she 
+2 CONC lives
+2 CONT I give and Bequeath to the heirs of Sollomon Perkin
+2 CONT s -----
+2 CONT Ratify and
+2 CONC  Confirming this to be my Last Will and Tes
+2 CONT tament in witness I
+2 CONT have here unt
+2 CONC o set my hand and seal this 27th of December 1
+2 CONT 835
+2 CONT Jabes (X) Perkins
+2 CONT Atest: 
+2 CONC B.B. Creekmore, John Moses, Wm. B. Creekmore
+2 CONT State of Ky Whitley County CT Feb
+2 CONC y Term 1836
+2 CONT The last will & testament of Jabes Perkins Decd was p
+2 CONT roduced in 
+2 CONC a
+2 CONT proven by the oaths of B.B. Creekmore & John Moses & Wm B
+2 CONT . Creekmore
+2 CONT Subs
+2 CONC cribing Witnesses which is ordered by the Court to be r
+2 CONT ecorde
+2 CONT A coppy test: 
+2 CONC ----------------
+0 @I650520551@ INDI
+1 NAME Timothy /Perkins/
+2 GIVN Timothy
+2 SURN Perkins
+1 SEX M
+1 BIRT
+2 DATE 1784
+2 PLAC Grayson Co., VA
+1 DEAT
+2 DATE Aft 1836
+2 PLAC Gentry County, MO
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMC @F557998641@
+1 FAMS @F557999579@
+0 @I650520552@ INDI
+1 NAME Jesse Alvin /Perkins/
+2 GIVN Jesse Alvin
+2 SURN Perkins
+1 SEX M
+1 BIRT
+2 DATE 10 May 1787
+2 PLAC Grayson Co., VA
+1 DEAT
+2 DATE 7 Mar 1856
+2 PLAC IL
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMS @F557999580@
+1 FAMC @F557998641@
+0 @I650520553@ INDI
+1 NAME Lucy /Perkins/
+2 GIVN Lucy
+2 SURN Perkins
+1 SEX F
+1 BIRT
+2 DATE 31 Mar 1792
+2 PLAC Grayson Co., VA
+1 DEAT
+2 DATE Aft 1835
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMS @F557999581@
+1 FAMC @F557998641@
+0 @I650520554@ INDI
+1 NAME Sarah Patty /Perkins/
+2 GIVN Sarah Patty
+2 SURN Perkins
+1 SEX F
+1 BIRT
+2 DATE 1795
+2 PLAC Grayson Co., VA
+1 DEAT
+2 DATE Aft 1835
+2 PLAC Bureau Co., IL.
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMC @F557998641@
+1 FAMS @F557999583@
+0 @I650520555@ INDI
+1 NAME Jabus /Perkins/
+2 GIVN Jabus
+2 SURN Perkins
+1 SEX M
+1 BIRT
+2 DATE 1796
+2 PLAC Grayson Co., VA
+1 DEAT
+2 DATE 13 Jan 1859
+2 PLAC Kennemers Cove, Marshall Co., AL.
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMS @F557999584@
+1 FAMC @F557998641@
+1 FAMS @F557999585@
+0 @I650520556@ INDI
+1 NAME William /Perkins/
+2 GIVN William
+2 SURN Perkins
+1 SEX M
+1 BIRT
+2 DATE 1801
+2 PLAC Virginia
+1 DEAT
+2 DATE Feb 1864
+2 PLAC Kentucky
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMS @F557999586@
+1 FAMC @F557998641@
+1 FAMS @F557999587@
+0 @I650520557@ INDI
+1 NAME Solomon /Perkins/
+2 GIVN Solomon
+2 SURN Perkins
+1 SEX M
+1 BIRT
+2 DATE 27 Aug 1786
+2 PLAC Virginia
+1 DEAT
+2 DATE 1824
+2 PLAC Whitely County, Kentucky
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMC @F557998641@
+0 @I650520558@ INDI
+1 NAME Nancy /Perkins/
+2 GIVN Nancy
+2 SURN Perkins
+1 SEX F
+1 BIRT
+2 DATE 1803
+2 PLAC Grayson County, Virginia
+1 DEAT
+2 DATE Aft 1860
+1 EVEN Alt. Birth
+2 TYPE Unknown
+2 DATE 1803
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMS @F557999568@
+1 FAMC @F557998641@
+0 @I650523830@ INDI
+1 NAME Nancy /White/
+2 GIVN Nancy
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE 22 Nov 1838
+2 PLAC Tennessee
+1 DEAT
+2 DATE 1 Apr 1928
+2 PLAC McAlester, Pittsburg County, Oklahoma
+1 BURI
+2 PLAC Oak Hill Cemetery, Mcalester, Oklahoma
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMC @F557999568@
+1 FAMS @F557999567@
+0 @I650523831@ INDI
+1 NAME Dempsey /White/
+2 GIVN Dempsey
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE 1798
+2 PLAC Tennessee
+1 DEAT
+2 DATE Aft 1860
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMC @F557998640@
+1 FAMS @F557999568@
+0 @I650523832@ INDI
+1 NAME Milton E. /White/
+2 GIVN Milton E.
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE 31 Mar 1824
+2 PLAC Whitley County, Kentucky
+1 DEAT
+2 DATE 6 Apr 1882
+2 PLAC Whitley County, Kentucky
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMC @F557999568@
+0 @I650523833@ INDI
+1 NAME Jesse Perkins /White/
+2 GIVN Jesse Perkins
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE Abt 1820
+2 PLAC Whitley County, Kentucky
+1 DEAT
+2 DATE Bet 1870 and 1880
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMC @F557999568@
+0 @I650523858@ INDI
+1 NAME Nancy /Ann/
+2 GIVN Nancy
+2 SURN Ann
+1 SEX F
+1 BIRT
+2 DATE 1766
+1 DEAT
+2 PLAC Kentucky
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMS @F557998641@
+0 @I650523859@ INDI
+1 NAME Mary /Ann/
+2 GIVN Mary
+2 SURN Ann
+1 SEX F
+1 DEAT
+2 DATE 1843
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMS @F557999579@
+0 @I650523860@ INDI
+1 NAME Amy /Girton/
+2 GIVN Amy
+2 SURN Girton
+1 SEX F
+1 BIRT
+2 DATE 29 Oct 1801
+1 DEAT
+2 DATE 8 Nov 1882
+2 PLAC Bureau Co., IL.
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMS @F557999580@
+0 @I650523861@ INDI
+1 NAME Living /UNKNOWN/
+2 GIVN Living
+2 SURN UNKNOWN
+1 SEX M
+1 FAMS @F557999581@
+0 @I650523862@ INDI
+1 NAME Living /UNKNOWN/
+2 GIVN Living
+2 SURN UNKNOWN
+1 SEX M
+1 FAMS @F557999583@
+0 @I650523863@ INDI
+1 NAME Rachel /Wright/
+2 GIVN Rachel
+2 SURN Wright
+1 SEX F
+1 DEAT
+2 PLAC Marshall County, Alabama
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMS @F557999584@
+0 @I650523864@ INDI
+1 NAME Sarah /Kirby/
+2 GIVN Sarah
+2 SURN Kirby
+1 SEX F
+1 BIRT
+2 DATE Abt 1807
+2 PLAC Tennessee
+1 DEAT
+2 DATE Aft 1860
+2 PLAC Marshall County, Alabama
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMS @F557999585@
+0 @I650523865@ INDI
+1 NAME Margaret /Mc Kee/
+2 GIVN Margaret
+2 SURN Mc Kee
+1 SEX F
+1 BIRT
+2 DATE 1800
+1 DEAT
+2 DATE Abt 1831
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMS @F557999586@
+0 @I650523866@ INDI
+1 NAME Rebecca /Shephard/
+2 GIVN Rebecca
+2 SURN Shephard
+1 SEX F
+1 BIRT
+2 DATE 1810
+1 DEAT
+2 DATE 26 Jun 1866
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMS @F557999587@
+0 @I650523867@ INDI
+1 NAME Alvin /Perkins/
+2 GIVN Alvin
+2 SURN Perkins
+1 SEX M
+1 BIRT
+2 DATE Abt 1835
+2 PLAC IL
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMC @F557999580@
+0 @I650523868@ INDI
+1 NAME Emily /Perkins/
+2 GIVN Emily
+2 SURN Perkins
+1 SEX F
+1 BIRT
+2 DATE Abt 1839
+2 PLAC IL
+1 CHAN
+2 DATE 15 Sep 2006
+1 FAMC @F557999580@
+0 @F557998629@ FAM
+1 MARR
+2 DATE 20 Sep 1847
+2 PLAC Whitely County, Kentucky
+1 HUSB @I650520456@
+1 NOTE CHAN15 Sep 2006
+0 @F557998638@ FAM
+1 MARR
+2 DATE 10 Nov 1864
+2 PLAC Whitely County, Kentucky
+1 HUSB @I650520456@
+1 NOTE CHAN15 Sep 2006
+0 @F557998639@ FAM
+1 MARR
+2 DATE 30 Nov 1815
+2 PLAC Barboursville, Knox Co., KY
+1 HUSB @I650520540@
+1 WIFE @I650520541@
+1 CHIL @I650520456@
+1 CHIL @I650520542@
+1 CHIL @I650520543@
+1 CHIL @I650520544@
+1 CHIL @I650520545@
+1 CHIL @I650520546@
+1 CHIL @I650520547@
+1 NOTE CHAN15 Sep 2006
+0 @F557998640@ FAM
+1 CHIL @I650520540@
+1 CHIL @I650523831@
+1 NOTE CHAN15 Sep 2006
+0 @F557998641@ FAM
+1 MARR
+2 DATE Abt 1783
+2 PLAC Grayson County, Virginia
+1 HUSB @I650520550@
+1 WIFE @I650523858@
+1 CHIL @I650520551@
+1 CHIL @I650520557@
+1 CHIL @I650520552@
+1 CHIL @I650520553@
+1 CHIL @I650520541@
+1 CHIL @I650520554@
+1 CHIL @I650520555@
+1 CHIL @I650520556@
+1 CHIL @I650520558@
+1 NOTE CHAN15 Sep 2006
+0 @F557999567@ FAM
+1 MARR
+2 DATE 22 Sep 1867
+2 PLAC Whitley County, Kentucky
+1 WIFE @I650523830@
+1 NOTE CHAN15 Sep 2006
+0 @F557999568@ FAM
+1 HUSB @I650523831@
+1 WIFE @I650520558@
+1 CHIL @I650523830@
+1 CHIL @I650523832@
+1 CHIL @I650523833@
+1 NOTE CHAN15 Sep 2006
+0 @F557999579@ FAM
+1 HUSB @I650520551@
+1 WIFE @I650523859@
+1 NOTE CHAN15 Sep 2006
+0 @F557999580@ FAM
+1 HUSB @I650520552@
+1 WIFE @I650523860@
+1 CHIL @I650523867@
+1 CHIL @I650523868@
+1 NOTE CHAN15 Sep 2006
+0 @F557999581@ FAM
+1 HUSB @I650523861@
+1 WIFE @I650520553@
+1 NOTE CHAN15 Sep 2006
+0 @F557999583@ FAM
+1 HUSB @I650523862@
+1 WIFE @I650520554@
+1 NOTE CHAN15 Sep 2006
+0 @F557999584@ FAM
+1 HUSB @I650520555@
+1 WIFE @I650523863@
+1 NOTE CHAN15 Sep 2006
+0 @F557999585@ FAM
+1 MARR
+2 DATE Abt 1843
+2 PLAC Marshall County, Alabama
+1 HUSB @I650520555@
+1 WIFE @I650523864@
+1 NOTE CHAN15 Sep 2006
+0 @F557999586@ FAM
+1 MARR
+2 DATE 15 Mar 1821
+2 PLAC Whitley County, Kentucky
+1 HUSB @I650520556@
+1 WIFE @I650523865@
+1 NOTE CHAN15 Sep 2006
+0 @F557999587@ FAM
+1 MARR
+2 DATE 1832
+1 HUSB @I650520556@
+1 WIFE @I650523866@
+1 NOTE CHAN15 Sep 2006
+0 TRLR

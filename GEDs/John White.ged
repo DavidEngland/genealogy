@@ -1,0 +1,7727 @@
+0 HEAD
+1 SOUR Legacy
+2 VERS 6.0
+2 NAME Legacy (R)
+2 CORP Millennia Corp.
+3 ADDR PO Box 9410
+4 CONT Surprise, AZ 85374
+1 DEST Legacy
+1 DATE 6 May 2006
+1 SUBM @S0@
+1 FILE Davisson.ged
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR ANSI
+0 @I1@ INDI
+1 NAME Living /Davisson/
+1 SEX M
+1 FAMS @F1@
+1 FAMC @F2@
+0 @I16692@ INDI
+1 NAME Jessie Mae /Parker/
+2 GIVN Jessie Mae
+2 SURN Parker
+2 SOUR @S106@
+3 PAGE page 414
+3 QUAY 3
+2 SOUR @S468@
+3 PAGE 7
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE 9 Oct 1907
+2 PLAC Hollis, Harmon, Oklahoma
+2 SOUR @S106@
+3 PAGE page 414
+3 QUAY 3
+2 SOUR @S468@
+3 PAGE 7
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 2 Mar 2001
+2 PLAC Fresno, Fresno, California
+2 SOUR @S106@
+3 PAGE page 414
+3 QUAY 3
+2 SOUR @S468@
+3 PAGE 7
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 BURI
+2 PLAC Fresno, Fresno, California
+2 SOUR @S468@
+3 PAGE 7
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 ADDR 175 S. Cornelia
+3 CONT Fresno County, California
+3 _NAME Fresno Memorial Gardens
+3 ADR1 175 S. Cornelia
+3 CITY Fresno County
+3 STAE California
+2 NOTE @XI16692@
+1 SOUR @S421@
+1 _UID 54E4BC0E25F64302B92DB12A526D8287EBAD
+1 CHAN
+2 DATE 6 May 2006
+3 TIME 09:37
+1 FAMS @F5305@
+1 FAMC @F5985@
+1 NOTE @NI16692@
+2 SOUR @S550@
+3 PAGE page 42
+3 QUAY 3
+0 @I16693@ INDI
+1 NAME Twilla Vaneta /Brown/
+2 GIVN Twilla Vaneta
+2 SURN Brown
+2 SOUR @S468@
+3 PAGE 9
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE 31 Dec 1929
+2 PLAC Altus, Jackson, Oklahoma
+2 SOUR @S468@
+3 PAGE 9
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SOUR @S430@
+1 _UID 9F049D0E9BE74E64BF68BB1AEE44BF5BCA4A
+1 CHAN
+2 DATE 19 Mar 2004
+3 TIME 21:14
+1 FAMS @F5728@
+1 FAMC @F34650259@
+0 @I16705@ INDI
+1 NAME Joel D. /Trolinder/
+2 GIVN Joel D.
+2 SURN Trolinder
+2 SOUR @S106@
+3 PAGE page 414
+3 QUAY 3
+2 SOUR @S468@
+3 PAGE 7
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 26 Aug 1906
+2 PLAC Saint Jo, Montague, Texas
+2 SOUR @S106@
+3 PAGE page 414
+3 QUAY 3
+2 SOUR @S468@
+3 PAGE 7
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SOUR @S421@
+1 _UID 3A1679F583074D63B3E144273A85B9C332AD
+1 CHAN
+2 DATE 6 May 2006
+3 TIME 09:37
+1 FAMS @F5305@
+1 FAMC @F5202@
+0 @I17385@ INDI
+1 NAME GW /Morrison/
+2 GIVN GW
+2 SURN Morrison
+2 SOUR @S468@
+3 PAGE 9
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 SOUR @S550@
+3 PAGE Page 42
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 SOUR @S568@
+3 PAGE Page 20
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 NAME Dub /Morrison/
+2 GIVN Dub
+2 SURN Morrison
+1 SEX M
+1 BIRT
+2 DATE 21 May 1928
+2 PLAC Hartford, Sebastian, Arkansas
+2 SOUR @S550@
+3 PAGE Page 42
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 SOUR @S568@
+3 PAGE Page 20
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID 1BC317EBDCA6437FAC883A346A89AD167C00
+1 CHAN
+2 DATE 5 Jun 2004
+3 TIME 08:53
+1 FAMS @F5729@
+1 FAMC @F6680@
+1 NOTE @NI17385@
+0 @I17386@ INDI
+1 NAME Living /Morrison/
+1 SEX M
+1 FAMS @F5731@
+1 FAMC @F5729@
+0 @I17387@ INDI
+1 NAME Living /Morrison/
+1 SEX F
+1 FAMS @F5730@
+1 FAMC @F5729@
+0 @I17654@ INDI
+1 NAME Living /Trolinder/
+1 SEX F
+1 FAMS @F34651077@
+1 FAMC @F5728@
+0 @I17655@ INDI
+1 NAME Living /Trolinder/
+1 SEX F
+1 FAMS @F34651076@
+1 FAMC @F5728@
+0 @I17660@ INDI
+1 NAME Donald Wayne /Trolinder/
+2 GIVN Donald Wayne
+2 SURN Trolinder
+1 SEX M
+1 BIRT
+2 DATE 18 Feb 1929
+2 PLAC Hollis, Harmon, Oklahoma
+1 SOUR @S421@
+1 SOUR @S430@
+1 ADDR 3398 E Holland
+2 CONT Fresno, California 93726
+2 _NAME Donald Trolinder
+2 _SORT Trolinder, Donald
+2 ADR1 3398 E Holland
+2 CITY Fresno
+2 STAE California
+2 POST 93726
+1 _UID 5D5AF9A317BB4B9A84B8C4FE28D135F32996
+1 CHAN
+2 DATE 13 Mar 2004
+3 TIME 17:12
+1 FAMS @F5728@
+1 FAMC @F5305@
+0 @I17664@ INDI
+1 NAME Living /Trolinder/
+1 SEX F
+1 FAMS @F34651073@
+1 FAMS @F34651074@
+1 FAMS @F34651075@
+1 FAMC @F5728@
+0 @I17920@ INDI
+1 NAME Herbert A. /Wilson/
+2 GIVN Herbert A.
+2 SURN Wilson
+2 NSFX M.D.
+2 SOUR @S550@
+3 PAGE Page 33
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 17 Sep 1895
+2 PLAC Wister, Le Flore, Oklahoma Territory
+2 SOUR @S483@
+2 SOUR @S550@
+3 PAGE Page 33
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 7 Mar 1963
+2 PLAC McAlester, Pittsburg, Oklahoma
+2 SOUR @S483@
+2 SOUR @S550@
+3 PAGE Page 33
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SOUR @S471@
+1 _UID 9CC91E38A67F41BD94019912B12E93D86852
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 09:00
+1 FAMS @F5938@
+1 FAMC @F5983@
+0 @I17921@ INDI
+1 NAME Roy Lee "Jerry" /Wilson/
+2 GIVN Roy Lee "Jerry"
+2 SURN Wilson
+1 SEX M
+1 BIRT
+2 DATE 18 Jul 1934
+2 SOUR @S483@
+1 BURI
+2 DATE 15 Jan 1969
+2 SOUR @S483@
+1 SOUR @S471@
+1 _UID 6AD3334C2DD84D9196B149A39C14CFD324AB
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:29
+1 FAMC @F5938@
+0 @I17930@ INDI
+1 NAME Vera /Parker/
+2 GIVN Vera
+2 SURN Parker
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE 26 Dec 1890
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 1907
+2 PLAC Harmon Co., Oklahoma
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 BURI
+2 PLAC Hollis, Harmon, Oklahoma
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 ADDR
+3 CONT Hollis, Oklahoma
+3 _NAME Dryden Cemetery
+3 CITY Hollis
+3 STAE Oklahoma
+1 _STAT Never Married
+1 SOUR @S471@
+1 _UID 355FC56314884A02940A9FEF310B02869426
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 08:17
+1 FAMC @F5985@
+0 @I17931@ INDI
+1 NAME Arah /Parker/
+2 GIVN Arah
+2 SURN Parker
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE 18 Aug 1897
+2 PLAC Haileyville, Pittsburg, Oklahoma
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 1 Sep 1987
+2 PLAC McAllen, Hidalgo, Texas
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SOUR @S471@
+1 _UID 306AEAD7AF5843119DCEE746578AF3DE0030
+1 CHAN
+2 DATE 22 May 2005
+3 TIME 13:59
+1 FAMS @F5941@
+1 FAMC @F5985@
+1 NOTE @NI17931@
+0 @I17932@ INDI
+1 NAME Henry Herman /Swindle/
+2 GIVN Henry Herman
+2 SURN Swindle
+2 SOUR @S550@
+3 PAGE Page 38
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 2 Mar 1891
+2 PLAC Hutto, Williamson, Texas
+2 SOUR @S550@
+3 PAGE Page 38
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 1955
+2 PLAC Pharr, Hidalgo, Texas
+2 SOUR @S550@
+3 PAGE Page 38
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SOUR @S471@
+1 _UID 496044F829E34FAF8F09109B89EF86EC1C71
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:21
+1 FAMS @F5941@
+0 @I17933@ INDI
+1 NAME James Hugh /Parker/
+2 GIVN James Hugh
+2 SURN Parker
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 14 Mar 1900
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 1973
+2 PLAC Hollis, Harmon, Oklahoma
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SOUR @S471@
+1 SOUR @S496@
+1 CENS
+2 DATE 1930
+2 NOTE 1930 Census
+3 CONT Parker, J. Hugh; 30 years old; Born:  Oklahoma; Father born
+3 CONC :  Kentucky; Mother born:  Arkansas; Occupation:  Farmer; I
+3 CONC ndustry:  Cotton Farm.
+3 CONT Parker, Pearl May; Wife; 28 years old; Born:  Oklahoma; Fat
+3 CONC her born:  Ohio; Mother born:  Ohio; Occupation: None.
+3 CONT Parker, Edith M.; Daughter; 11 years old; Born:  Oklahoma
+3 CONC ; Father born:  Oklahoma;  Mother born: Oklahoma.
+3 CONT Parker, C. Dolan; Son; 7 years old; Born:  Oklahoma; Fathe
+3 CONC r born:  Oklahoma; Mother born: Oklahoma.
+3 CONT Parker, Norris D.; Son; 3 years old; Born:  Oklahoma; Fathe
+3 CONC r born: Oklahoma; Mother born: Oklahoma.
+3 CONT Parker, M. Maudeen; Daughter; 4/12 year old; Born:  Oklahom
+3 CONC a; Father born:  Oklahoma; Mother born: Oklahoma.
+3 CONT Source:  1930 United States Federal Census, State: Oklahoma
+3 CONC , County: Harmon, City, township: Dryden Township, Enumerat
+3 CONC ion District: 29-1, Sheet Number: 4-B, Enumeration Date:  A
+3 CONC pril 8-9, 1930.
+3 CONT (Even though this census gives the birthplace of Hugh's mot
+3 CONC her as Arkansas, she was actually born in Missouri.)
+1 _UID E199365BB41841E3A28A548A83E20C3DB31E
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:36
+1 FAMS @F5942@
+1 FAMC @F5985@
+1 NOTE @NI17933@
+0 @I17934@ INDI
+1 NAME Pearl May /Bradley/
+2 GIVN Pearl May
+2 SURN Bradley
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE 12 May 1902
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 22 Jan 1989
+2 PLAC Hollis, Harmon, Oklahoma
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SOUR @S471@
+1 _UID 15756F84989E472C803EC188D993227732E5
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:35
+1 FAMS @F5942@
+0 @I17935@ INDI
+1 NAME Lois Paulina /Parker/
+2 GIVN Lois Paulina
+2 SURN Parker
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE 17 Dec 1909
+2 PLAC Dryden, Harmon, Oklahoma
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 4 Jan 1931
+2 PLAC Meadow, Terry, Texas
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SOUR @S471@
+1 _UID 499DE66FA61C488EAA7CC16744FF0C9606BC
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:47
+1 FAMS @F5943@
+1 FAMC @F5985@
+1 NOTE @NI17935@
+2 SOUR @S550@
+3 PAGE Page 42
+3 QUAY 3
+3 DATE 11 Oct 2003
+0 @I17936@ INDI
+1 NAME Emmett /Watkins/
+2 GIVN Emmett
+2 SURN Watkins
+2 SOUR @S550@
+3 PAGE Page 42
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 26 Mar 1907
+2 PLAC Hollis, Harmon, Oklahoma
+2 SOUR @S550@
+3 PAGE Page 42
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 9 Jun 1994
+2 PLAC Seminole, Gaines, Texas
+2 SOUR @S550@
+3 PAGE Page 42
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SOUR @S471@
+1 _UID 2D7E4673DDDA4018A506467A83F5C11027C4
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:46
+1 FAMS @F5943@
+0 @I17937@ INDI
+1 NAME Maudeen /Parker/
+2 GIVN Maudeen
+2 SURN Parker
+1 SEX F
+1 BIRT
+2 DATE 1929
+2 PLAC Harmon Co., Oklahoma
+1 DEAT
+2 DATE 1943
+2 PLAC Hollis, Harmon, Oklahoma
+1 BURI
+2 PLAC Hollis, Harmon, Oklahoma
+2 ADDR
+3 CONT Hollis, Oklahoma
+3 _NAME Fairmount Cemetery
+3 CITY Hollis
+3 STAE Oklahoma
+1 _STAT Never Married
+1 SOUR @S471@
+1 _UID A5EA5325A1DF444AB1E4513D80D23DA46B43
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:42
+1 FAMC @F5942@
+0 @I17938@ INDI
+1 NAME Clarence B. /Wright/
+2 GIVN Clarence B.
+2 SURN Wright
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Aug 1890
+2 PLAC Crawford Co., Arkansas
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 7477F9E597724178BFC9B01FC642135D5AC7
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 08:44
+1 FAMC @F5984@
+0 @I17939@ INDI
+1 NAME Ista Grace /Wright/
+2 GIVN Ista Grace
+2 SURN Wright
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE 1892
+2 PLAC Crawford Co., Arkansas
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 1982
+2 PLAC Modesto, Calaveras, California
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SOUR @S471@
+1 _UID 8607170C1654473F82A6835A69BDD2CB6800
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 08:44
+1 FAMS @F6260@
+1 FAMC @F5984@
+0 @I17940@ INDI
+1 NAME Claude /Wright/
+2 GIVN Claude
+2 SURN Wright
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 1 Aug 1895
+2 PLAC Wister, Le Flore, Oklahoma Territory
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 15 Sep 1896
+2 PLAC Wister, Le Flore, Oklahoma Territory
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _STAT Never Married
+1 SOUR @S471@
+1 _UID B1E426B433C4433BB194194C967A6F6C79DB
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 08:45
+1 FAMC @F5984@
+0 @I17941@ INDI
+1 NAME J. Frederick /Wright/
+2 GIVN J. Frederick
+2 SURN Wright
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 NAME James Frederick /Wright/
+2 GIVN James Frederick
+2 SURN Wright
+1 SEX M
+1 BIRT
+2 DATE Oct 1897
+2 PLAC Wister, Le Flore, Oklahoma Territory
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 1918
+2 PLAC McAlester, Pittsburg, Oklahoma
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SOUR @S471@
+1 _UID 16EEA51FB29D48D9835891F9D9FEF1BC2132
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:57
+1 FAMS @F6262@
+1 FAMC @F5984@
+1 NOTE @NI17941@
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+0 @I17942@ INDI
+1 NAME Lillian /Parker/
+2 GIVN Lillian
+2 SURN Parker
+2 SOUR @S550@
+3 PAGE Page 34
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE Abt 1901
+2 PLAC Oklahoma
+2 SOUR @S550@
+3 PAGE Page 34
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 SOUR @S471@
+1 _UID F7E95560B7804621A158FD1DF0420EF17718
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 09:06
+1 FAMC @F5982@
+0 @I17943@ INDI
+1 NAME Anna /Parker/
+2 GIVN Anna
+2 SURN Parker
+2 SOUR @S550@
+3 PAGE Page 35
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 SOUR @S550@
+3 PAGE Page 45
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE Abt 1910
+2 PLAC Wister Junction, Le Flore, Oklahoma
+2 SOUR @S550@
+3 PAGE Page 35
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 SOUR @S550@
+3 PAGE Page 45
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 PLAC Stockton, San Joaquin, California
+2 SOUR @S550@
+3 PAGE Page 35
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 SOUR @S550@
+3 PAGE Page 45
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SOUR @S471@
+1 _UID AFBE509B723D42CE9C036FA0A92ABF479EB0
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:12
+1 FAMS @F6113@
+1 FAMC @F5980@
+0 @I17945@ INDI
+1 NAME Golden Luster /Parker/
+2 GIVN Golden Luster
+2 SURN Parker
+1 SEX M
+1 BIRT
+2 DATE Dec 1886
+2 PLAC Crawford Co., Arkansas
+1 DEAT
+2 DATE Aug 1967
+1 SOUR @S471@
+1 _UID 83295D314A63483088DD1D17EC0D4142746A
+1 CHAN
+2 DATE 28 Mar 2004
+3 TIME 13:49
+1 FAMS @F6241@
+1 FAMC @F6242@
+1 NOTE @NI17945@
+0 @I17987@ INDI
+1 NAME Nathaniel Benton /Smith/
+2 GIVN Nathaniel Benton
+2 SURN Smith
+1 SEX M
+1 BIRT
+2 DATE 15 Jan 1848
+2 SOUR @S483@
+1 DEAT
+2 DATE 19 May 1923
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S483@
+1 BURI
+2 PLAC Redbird, Whitley, Kentucky
+2 ADDR
+3 CONT Redbird, Kentucky
+3 _NAME Redbird Cemetery
+3 CITY Redbird
+3 STAE Kentucky
+1 SOUR @S471@
+1 _UID F4B1A97876074E9DA5A9E808CAC4C77A3B36
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:29
+1 FAMS @F5967@
+1 FAMC @F6238@
+0 @I17988@ INDI
+1 NAME John Henry /Smith/
+2 GIVN John Henry
+2 SURN Smith
+2 SOUR @S550@
+3 PAGE Page 28
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Abt 1890
+2 SOUR @S550@
+3 PAGE Page 28
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 4896A05EAE7E4CBAA9C972BABA0C442BE1B8
+1 CHAN
+2 DATE 23 Mar 2004
+3 TIME 16:04
+1 FAMC @F5967@
+0 @I17989@ INDI
+1 NAME Walter Bird /Smith/
+2 GIVN Walter Bird
+2 SURN Smith
+2 SOUR @S550@
+3 PAGE Page 28
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Abt 1894
+2 SOUR @S550@
+3 PAGE Page 28
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 SOUR @S471@
+1 _UID C2E0C29EA27B41B1A49028D1DD4BF8389618
+1 CHAN
+2 DATE 23 Mar 2004
+3 TIME 16:04
+1 FAMC @F5967@
+0 @I17991@ INDI
+1 NAME Laura /Smith/
+2 GIVN Laura
+2 SURN Smith
+2 SOUR @S550@
+3 PAGE Page 28
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE 19 Aug 1884
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S483@
+2 SOUR @S550@
+3 PAGE Page 28
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 15 Oct 1886
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S483@
+2 SOUR @S550@
+3 PAGE Page 28
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SOUR @S471@
+1 _UID 2D0931D94DBE4C8EA8D8C904F3C89CFBC40F
+1 CHAN
+2 DATE 23 Mar 2004
+3 TIME 16:04
+1 FAMC @F5967@
+0 @I18008@ INDI
+1 NAME William Henderson /Parker/
+2 GIVN William Henderson
+2 SURN Parker
+1 SEX M
+1 BIRT
+2 DATE 8 Apr 1824
+2 PLAC Claiborne Co., Tennessee
+2 SOUR @S510@
+3 PAGE FHL Film 1254446; National Archives Film T9-0446; Page 176C
+3 QUAY 3
+1 DEAT
+2 DATE 11 Mar 1898
+2 PLAC Wister, Le Flore, Oklahoma Territory
+2 CAUS Paralysis
+3 SOUR @S550@
+4 PAGE Page 12
+4 QUAY 3
+4 DATE 11 Oct 2003
+2 SOUR @S495@
+1 BURI
+2 PLAC Wister, Le Flore, Oklahoma Territory
+2 ADDR
+3 CONT Wister, Oklahoma
+3 _NAME Wister City Cemetery
+3 CITY Wister
+3 STAE Oklahoma
+1 SOUR @S460@
+1 SOUR @S471@
+1 EVEN
+2 TYPE Alt. Birth
+2 DATE 8 Apr 1824
+2 PLAC Nashville, Davidson, Tennessee
+2 SOUR @S550@
+3 PAGE Page 12
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 CENS
+2 DATE 1880
+2 PLAC Jofield, Whitley, Kentucky
+2 SOUR @S510@
+3 PAGE FHL Film 1254446; National Archives Film T9-0446; Page 176C
+3 QUAY 3
+1 EVEN 18th Kentucky Infantry, Co. F, Private
+2 TYPE Military
+2 DATE 20 Sep 1864
+2 NOTE Drafted
+1 EVEN June 23, 1865 
+2 TYPE Military Discharge
+2 PLAC London, Laurel, Kentucky
+2 NOTE Detachment papers:  Eyes: Hazel; Hair: Black; Complexion: D
+3 CONC ark; Height 5 ft. 7 in.  He was detached in Chattanooga, T
+3 CONC N and drew $44.47.
+2 SOUR @S550@
+3 PAGE Page 12
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID 643C652A8EE942BCA78CFBF6532DAA7E70A8
+1 CHAN
+2 DATE 6 May 2006
+3 TIME 09:37
+1 FAMS @F5978@
+1 FAMS @F5979@
+1 FAMC @F5993@
+1 NOTE @NI18008@
+1 NOTE @MI18008@
+2 SOUR @S553@
+0 @I18010@ INDI
+1 NAME Sarah /Parker/
+2 GIVN Sarah
+2 SURN Parker
+1 SEX F
+1 BIRT
+2 DATE 19 Dec 1863
+2 PLAC Williamsburg, Whitley, Kentucky
+1 DEAT
+2 DATE 1 Jul 1943
+2 PLAC Whitley Co., Kentucky
+1 BURI
+2 PLAC Redbird, Whitley, Kentucky
+2 ADDR
+3 CONT Redbird, Kentucky
+3 _NAME Steely Cemetery
+3 CITY Redbird
+3 STAE Kentucky
+1 SOUR @S471@
+1 _UID 96EFF096213C4D66A992D0E3E7D42B1706F1
+1 CHAN
+2 DATE 23 Mar 2004
+3 TIME 15:56
+1 FAMS @F5967@
+1 FAMC @F5978@
+0 @I18013@ INDI
+1 NAME Nancy /White/
+2 GIVN Nancy
+2 SURN White
+2 SOUR @S550@
+3 PAGE Page 12
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE 22 Nov 1838
+2 PLAC Claiborne Co., Tennessee
+2 SOUR @S472@
+2 SOUR @S550@
+3 PAGE Page 12
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 1 Apr 1928
+2 PLAC McAlester, Pittsburg, Oklahoma
+2 SOUR @S550@
+3 PAGE Page 12
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 BURI
+2 PLAC McAlester, Pittsburg, Oklahoma
+2 SOUR @S550@
+3 PAGE Page 12
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 ADDR
+3 CONT Wister, Oklahoma
+3 _NAME Oak Hill Cemetery
+3 CITY Wister
+3 STAE Oklahoma
+1 SOUR @S471@
+1 EVEN Deeded to J. C. Dowdy
+2 TYPE Land
+2 DATE 31 Dec 1892
+2 NOTE W. H. Parker
+3 CONT To}
+3 CONT J. C. Dowdy
+3 CONT Know all men by these presents That we W. H. Parker & Nanc
+3 CONC y Parker for and in consideration of the sum of one dolla
+3 CONC r to us in hand paid and the premises hereinafter ? forth d
+3 CONC o hereby grant bargain and sell Mr. J. C. Dowdy and unto hi
+3 CONC s heirs and assigns for the following property:
+3 CONT         North West Quarter of the South West Quarter of Sec
+3 CONC tion 16 Town 5 Range 32 West, containing 
+3 CONT         40 acres, more or less, in Sebastian County Arkansa
+3 CONC s.   And I, Nancy Parker, wife of the said W. H. Parker fo
+3 CONC r and in consideration of the said sum of money release an
+3 CONC d relinquish my right and possibility of dower in and to sa
+3 CONC id premises, this sale is on condition of that whereas we a
+3 CONC re justly indebted unto the said J. C. Dowdy in the sum o
+3 CONC f three hundred & fourteen & 08/100 ($314.08) dollars evide
+3 CONC nced by two notes, one for $157.04 due December 1st 189
+3 CONC 3 - The other note for $157.04 due December 1st 1894, eac
+3 CONC h to be as 10 per cent interest from date till paid.  Now i
+3 CONC f they shall pay said moneys at the times and in the manne
+3 CONC r aforesaid, then the above conveyance shall be null and vo
+3 CONC id otherwise to remain in full force.  And in case of non p
+3 CONC ayment then the said grantee or his assignee shall have pow
+3 CONC er to sell said property at public sale to the highest bidd
+3 CONC er for cash at Slatonville and state of Arkansas, public no
+3 CONC tice of the time and place of said sale having first been g
+3 CONC iven thirty 30 days by advertising in some newspaper publis
+3 CONC hed in said county at which sale the said grantee or his as
+3 CONC signee may bid and purchase as any third person might do an
+3 CONC d we hereby warrant the title to said property against al
+3 CONC l claims and authorize the said grantee or his assignee t
+3 CONC o convey said property to any one purchasing at said sale a
+3 CONC nd to convey an absolute title thereto and the recital of t
+3 CONC his deed of conveyance shall be taken as prima facie true
+3 CONC .  And in case said grantee or his assignee shall become th
+3 CONC e purchaser of said lands then the recorder of said count
+3 CONC y shall execute to said purchaser a deed therefor which whe
+3 CONC n so made shall pass title to said lands to said purchase
+3 CONC r his heirs and assigns forever in fee.  And the proceeds o
+3 CONC f said sale shall be applied first to the payment of all co
+3 CONC sts and expenses attending said sale, second to the paymen
+3 CONC t of said debt and interest and the remainder, if any, shal
+3 CONC l be paid to said Grantor.
+3 CONT Given under our hands and seals this 30th day of November 1
+3 CONC 892.
+3 CONT    						W. H. Parker              SEAL
+3 CONT    						Nancy x Parker
+3 CONT    						         her mark
+3 CONT Attest to Nancy Parker's Mark
+3 CONT G. E. Parker
+3 CONT Mary Parker
+3 CONT    			Acknowledgment
+3 CONT State of Arkansas
+3 CONT County of Sebastian
+3 CONT    	Be it remembered that on this day came before the under
+3 CONC signed a Justice of the Peace within and for the county afo
+3 CONC resaid duly commissioned and acting W. H. Parker & Nancy Pa
+3 CONC rker to me well known as the grantors in the foregoing dee
+3 CONC d and stated that they had executed the same for the consid
+3 CONC eration and purposes therein mentioned and set forth.  An
+3 CONC d on the same day also voluntarily appeared before me the s
+3 CONC aid Nancy Parker wife of the said W. H. Parker to me well k
+3 CONC nown and in the absence of her said husband declaring tha
+3 CONC t she had of her own free will signed and sealed the reliqu
+3 CONC ishment of Dower in the foregoing deed for the consideratio
+3 CONC n and purposes therein mentioned and set forth without comp
+3 CONC ression or undue influence of her said husband witness my h
+3 CONC and and seal as such Justice of the Peace this 30th day o
+3 CONC f November 1892.
+3 CONT    				D. D. Forman, J.P.                   SEAL
+3 CONT Filed for record on this 31st day of December 1892 at 8:3
+3 CONC 0 oclock AM.
+3 CONT    				(Cannot read signature)
+3 CONT Source:  Deed Record Book, page 573, copied at County Cour
+3 CONC t House, Greenwood, Arkansas.
+1 _UID 8803D4BB3AE543B3BBFF12125772BA2ABA23
+1 CHAN
+2 DATE 6 May 2006
+3 TIME 09:37
+1 FAMS @F5979@
+1 FAMS @F5974@
+1 FAMC @F6042@
+1 NOTE @NI18013@
+0 @I18014@ INDI
+1 NAME Sampson A. /Parker/
+2 GIVN Sampson A.
+2 SURN Parker
+1 SEX M
+1 BIRT
+2 DATE 17 Mar 1878
+2 PLAC Williamsburg, Whitley, Kentucky
+2 SOUR @S510@
+3 PAGE FHL Film 1254446; National Archives Film T9-0446; Page 176C
+3 QUAY 3
+2 SOUR @S483@
+1 DEAT
+2 DATE 4 Mar 1954
+2 PLAC McAlester, Pittsburg, Oklahoma
+2 CAUS coronary blockage
+2 SOUR @S483@
+2 SOUR @S557@
+1 BURI
+2 PLAC Savanna, Pittsburg, Oklahoma
+1 SOUR @S460@
+1 SOUR @S471@
+1 CENS
+2 DATE 1880
+2 PLAC Jofield, Whitley, Kentucky
+2 SOUR @S510@
+3 PAGE FHL Film 1254446; National Archives Film T9-0446; Page 176C
+3 QUAY 3
+1 EVEN
+2 TYPE Alt. Death
+2 DATE 1851
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S550@
+3 PAGE Page 18
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 OCCU trader
+2 DATE 1900
+2 SOUR @S550@
+3 PAGE Page 34
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 SOUR @S557@
+1 OCCU farmer
+2 SOUR @S557@
+1 _UID B4499C39E32345E394E2D0CEBAAF5552246B
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 09:23
+1 FAMS @F5980@
+1 FAMC @F5979@
+1 NOTE @NI18014@
+1 NOTE @MI18014@
+2 SOUR @S557@
+0 @I18015@ INDI
+1 NAME Nettie /Carpenter/
+2 GIVN Nettie
+2 SURN Carpenter
+1 SEX F
+1 BIRT
+2 DATE 10 Jan 1887
+2 SOUR @S483@
+1 DEAT
+2 DATE 17 May 1955
+2 PLAC McAlester, Pittsburg, Oklahoma
+2 SOUR @S483@
+1 SOUR @S471@
+1 _UID 7FC2EED5F7134AF0B4405479C1FDAC51C435
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:29
+1 FAMS @F5980@
+0 @I18016@ INDI
+1 NAME George E. /Parker/
+2 GIVN George E.
+2 SURN Parker
+2 SOUR @S550@
+3 PAGE Page 17
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 1876
+2 PLAC Williamsburg, Whitley, Kentucky
+2 SOUR @S483@
+2 SOUR @S550@
+3 PAGE Page 17
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 1947
+2 PLAC Heavener, Le Flore, Oklahoma
+2 SOUR @S483@
+2 SOUR @S550@
+3 PAGE Page 17
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 BURI
+2 PLAC Heavener, Le Flore, Oklahoma
+2 SOUR @S550@
+3 PAGE Page 17
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SOUR @S471@
+1 OCCU Deputy Marshall
+2 DATE 1900
+2 PLAC Oklahoma Territory
+2 SOUR @S550@
+3 PAGE Page 17
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 OCCU carpenter
+2 SOUR @S550@
+3 PAGE Page 18
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID 9B5E18C464CC43F4A50FB2B60D152A58FC86
+1 CHAN
+2 DATE 23 Mar 2004
+3 TIME 13:03
+1 FAMS @F5981@
+1 FAMC @F5979@
+1 NOTE @MI18016@
+2 SOUR @S554@
+0 @I18017@ INDI
+1 NAME Elvira /Mitchell/
+2 GIVN Elvira
+2 SURN Mitchell
+1 SEX F
+1 BIRT
+2 DATE 1877
+2 SOUR @S483@
+1 DEAT
+2 DATE 1946
+2 SOUR @S483@
+1 SOUR @S471@
+1 _UID 85F892D27F5D4867A2EAD5601EE0D7C9CBC3
+1 CHAN
+2 DATE 23 Mar 2004
+3 TIME 13:03
+1 FAMS @F5981@
+0 @I18018@ INDI
+1 NAME Frank Henderson /Parker/
+2 GIVN Frank Henderson
+2 SURN Parker
+2 SOUR @S550@
+3 PAGE Page 17
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 SOUR @S550@
+3 PAGE Page 34
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE May 1873
+2 PLAC Williamsburg, Whitley, Kentucky
+2 SOUR @S550@
+3 PAGE Page 17
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 SOUR @S550@
+3 PAGE Page 34
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 1953
+2 PLAC Oklahoma City, Oklahoma, Oklahoma
+2 SOUR @S550@
+3 PAGE Page 17
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 SOUR @S550@
+3 PAGE Page 34
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 BURI
+2 PLAC Heavener, Le Flore, Oklahoma
+2 SOUR @S550@
+3 PAGE Page 17
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 SOUR @S550@
+3 PAGE Page 34
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 ADDR
+3 CONT Heavener, Oklahoma
+3 _NAME Reinhart Cemetery
+3 CITY Heavener
+3 STAE Oklahoma
+1 SOUR @S471@
+1 _UID D14D96799BDA44D890350F177669E26FD9D4
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 09:04
+1 FAMS @F5982@
+1 FAMC @F5979@
+1 NOTE @NI18018@
+0 @I18019@ INDI
+1 NAME Lucy /Irons/
+2 GIVN Lucy
+2 SURN Irons
+2 SOUR @S550@
+3 PAGE Page 34
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE Feb 1877
+2 PLAC England
+2 SOUR @S550@
+3 PAGE Page 34
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 SOUR @S471@
+1 _UID AEDBCAA38BA2417B893AB53A465807659B30
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 09:03
+1 FAMS @F5982@
+0 @I18020@ INDI
+1 NAME McClellan /Wilson/
+2 GIVN McClellan
+2 SURN Wilson
+2 NSFX M.D.
+2 SOUR @S550@
+3 PAGE Page 30
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 26 Jun 1864
+2 PLAC Booneville, Owsley, Kentucky
+2 SOUR @S483@
+2 SOUR @S550@
+3 PAGE Page 30
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 15 Oct 1941
+2 PLAC McAlester, Pittsburg, Oklahoma
+2 SOUR @S483@
+2 SOUR @S550@
+3 PAGE Page 30
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SOUR @S471@
+1 OCCU doctor
+2 PLAC Wister, Le Flore, Oklahoma
+2 SOUR @S550@
+3 PAGE Page 33
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID 09C5A3B3D9914E108C3E1483260F594D28FC
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 08:59
+1 FAMS @F5983@
+1 NOTE @NI18020@
+0 @I18021@ INDI
+1 NAME Vianna Bell /Parker/
+2 GIVN Vianna Bell
+2 SURN Parker
+2 SOUR @S550@
+3 PAGE Page 17
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 SOUR @S550@
+3 PAGE Page 30
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE 4 Sep 1871
+2 PLAC Williamsburg, Whitley, Kentucky
+2 SOUR @S550@
+3 PAGE Page 17
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 SOUR @S550@
+3 PAGE Page 30
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 4 May 1954
+2 PLAC McAlester, Pittsburg, Oklahoma
+2 CAUS lung cancer
+2 SOUR @S550@
+3 PAGE Page 17
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 SOUR @S550@
+3 PAGE Page 30
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 BURI
+2 PLAC McAlester, Pittsburg, Oklahoma
+2 SOUR @S550@
+3 PAGE Page 17
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 SOUR @S550@
+3 PAGE Page 30
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SOUR @S471@
+1 _UID 77A57632A3ED46E9BF3528C2F4953384A177
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 08:54
+1 FAMS @F5983@
+1 FAMC @F5979@
+1 NOTE @NI18021@
+0 @I18022@ INDI
+1 NAME James Henderson /Wright/
+2 GIVN James Henderson
+2 SURN Wright
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Nov 1867
+2 PLAC Kentucky
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 1910
+2 PLAC Fort Smith, Sebastian, Arkansas
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SOUR @S471@
+1 OCCU Barber
+2 DATE 1900
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID B5E9FBC1B3DA446C898AA52E0B13E8D55890
+1 CHAN
+2 DATE 28 Mar 2004
+3 TIME 13:45
+1 FAMS @F5984@
+1 FAMC @F2939@
+1 NOTE @NI18022@
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+0 @I18023@ INDI
+1 NAME Lucy Idella /Parker/
+2 GIVN Lucy Idella
+2 SURN Parker
+2 SOUR @S550@
+3 PAGE Page 17
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE 28 Dec 1869
+2 PLAC Williamsburg, Whitley, Kentucky
+2 SOUR @S510@
+3 PAGE FHL Film 1254446; National Archives Film T9-0446; Page 176C
+3 QUAY 3
+2 SOUR @S550@
+3 PAGE Page 17
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 28 Sep 1943
+2 PLAC McAlester, Pittsburg, Oklahoma
+2 SOUR @S550@
+3 PAGE Page 17
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 BURI
+2 PLAC McAlester, Pittsburg, Oklahoma
+2 SOUR @S550@
+3 PAGE Page 17
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SOUR @S460@
+1 SOUR @S471@
+1 CENS
+2 DATE 1880
+2 PLAC Jofield, Whitley, Kentucky
+2 SOUR @S510@
+3 PAGE FHL Film 1254446; National Archives Film T9-0446; Page 176C
+3 QUAY 3
+1 _UID 1BE6892227B046E8820DC7E56A554B5B51D0
+1 CHAN
+2 DATE 29 Apr 2006
+3 TIME 18:55
+1 FAMS @F5984@
+1 FAMS @F6242@
+1 FAMC @F5979@
+1 NOTE @NI18023@
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+0 @I18024@ INDI
+1 NAME Jesse Buford /Parker/
+2 GIVN Jesse Buford
+2 SURN Parker
+2 SOUR @S468@
+3 PAGE 7
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 22 Jul 1868
+2 PLAC Williamsburg, Whitley, Kentucky
+1 DEAT
+2 DATE 22 Feb 1943
+2 PLAC Hollis, Harmon, Oklahoma
+2 CAUS Heart attack
+1 BURI
+2 PLAC Hollis, Harmon, Oklahoma
+2 ADDR
+3 CONT Hollis, Oklahoma
+3 _NAME Dryden Cemetery
+3 CITY Hollis
+3 STAE Oklahoma
+1 SOUR @S471@
+1 SOUR @S496@
+1 OCCU railroad construction worker
+2 DATE Bef 1903
+2 SOUR @S550@
+3 PAGE Page 28
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 EVEN
+2 TYPE Moved
+2 DATE 1903
+2 PLAC Harmon Co., Oklahoma
+2 SOUR @S550@
+3 PAGE Page 28
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 EVEN
+2 TYPE Resided
+2 DATE 1912
+2 PLAC Haileyville, Pittsburg, Oklahoma
+2 SOUR @S550@
+3 PAGE Page 28
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID AF47E9F90AEC4FCF81F6C97376D4BE70176C
+1 CHAN
+2 DATE 6 May 2006
+3 TIME 09:37
+1 FAMS @F5985@
+1 FAMC @F5979@
+0 @I18025@ INDI
+1 NAME Emma Belle /Tabor/
+2 GIVN Emma Belle
+2 SURN Tabor
+2 SOUR @S468@
+3 PAGE 7
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE 26 Oct 1871
+2 PLAC Polk Co., Missouri
+1 DEAT
+2 DATE 8 Jun 1957
+2 PLAC Hollis, Harmon, Oklahoma
+1 BURI
+2 PLAC Hollis, Harmon, Oklahoma
+2 ADDR
+3 CONT Hollis, Oklahoma
+3 _NAME Dryden Cemetery
+3 CITY Hollis
+3 STAE Oklahoma
+1 SOUR @S471@
+1 SOUR @S496@
+1 _UID 1A0B110F14F440EFA5745E6E731AE8815762
+1 CHAN
+2 DATE 6 May 2006
+3 TIME 09:37
+1 FAMS @F5985@
+1 FAMC @F5631@
+1 NOTE @NI18025@
+0 @I18026@ INDI
+1 NAME Mary C. /Parker/
+2 GIVN Mary C.
+2 SURN Parker
+1 NAME Mamie /Parker/
+2 GIVN Mamie
+2 SURN Parker
+1 SEX F
+1 BIRT
+2 DATE 22 Jul 1868
+2 PLAC Whitley Co., Kentucky
+1 DEAT
+2 DATE 12 May 1895
+2 PLAC Wister, Le Flore, Oklahoma Territory
+1 BURI
+2 PLAC Wister, Le Flore, Oklahoma Territory
+1 _STAT Never Married
+1 SOUR @S471@
+1 _UID 951777D9A7944EE6808CCB3B6E661131937C
+1 CHAN
+2 DATE 23 Mar 2004
+3 TIME 11:01
+1 FAMC @F5979@
+1 NOTE @NI18026@
+0 @I18030@ INDI
+1 NAME Jasper Newton /White/
+2 GIVN Jasper Newton
+2 SURN White
+2 SOUR @S550@
+3 PAGE Page 27
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Jun 1848
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S550@
+3 PAGE Page 27
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 1909
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S550@
+3 PAGE Page 27
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SOUR @S471@
+1 _UID 4C8F332CC8FE4677B1E2B2111219EAD4FCCE
+1 CHAN
+2 DATE 23 Mar 2004
+3 TIME 15:54
+1 FAMS @F5987@
+1 FAMS @F5988@
+1 FAMS @F5989@
+1 FAMS @F6068@
+1 FAMC @F6036@
+1 NOTE @NI18030@
+2 SOUR @S556@
+2 SOUR @S69@
+0 @I18031@ INDI
+1 NAME Susan R. /Parker/
+2 GIVN Susan R.
+2 SURN Parker
+2 SOUR @S550@
+3 PAGE Page 26
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE 1855
+2 PLAC Williamsburg, Whitley, Kentucky
+2 SOUR @S550@
+3 PAGE Page 26
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 1879
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S550@
+3 PAGE Page 26
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 BURI
+2 SOUR @S550@
+3 PAGE Page 26
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 ADDR
+3 CONT Whitley County, Kentucky
+3 _NAME Concord Cemetery
+3 CITY Whitley County
+3 STAE Kentucky
+2 NOTE @XI18031@
+1 SOUR @S471@
+1 _UID 820AA0B5369342F4A2079D06F50744319D57
+1 CHAN
+2 DATE 23 Mar 2004
+3 TIME 15:36
+1 FAMS @F5987@
+1 FAMC @F5978@
+0 @I18032@ INDI
+1 NAME Ruth /White/
+2 GIVN Ruth
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE Abt 1882
+1 DEAT Y
+1 SOUR @S471@
+1 _UID F0BDFBAA3005483CBA9679E843CD5784A7BF
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:54
+1 FAMC @F5987@
+0 @I18033@ INDI
+1 NAME Sarah /White/
+2 GIVN Sarah
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE Abt 1880
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 2E7B464AA68E4CD5A8D9ADF9E85F9AC55BD2
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:54
+1 FAMC @F5987@
+0 @I18034@ INDI
+1 NAME Infant /White/
+2 GIVN Infant
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE Abt 1877
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 08C10C9A17CA4B43AE7022FB3932FD66E761
+1 CHAN
+2 DATE 23 Mar 2004
+3 TIME 15:39
+1 FAMC @F5987@
+1 NOTE @NI18034@
+0 @I18035@ INDI
+1 NAME Rutha /Parker/
+2 GIVN Rutha
+2 SURN Parker
+2 SOUR @S550@
+3 PAGE Page 17
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 SOUR @S550@
+3 PAGE Page 27
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE 19 Dec 1863
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S550@
+3 PAGE Page 17
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 SOUR @S550@
+3 PAGE Page 27
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE Abt 1895
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S550@
+3 PAGE Page 17
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 SOUR @S550@
+3 PAGE Page 27
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SOUR @S471@
+1 _UID B6C88D7B371B4BF5A780FAC40A564D701AF1
+1 CHAN
+2 DATE 23 Mar 2004
+3 TIME 15:52
+1 FAMS @F5988@
+1 FAMC @F5978@
+1 NOTE @NI18035@
+0 @I18036@ INDI
+1 NAME Alfred Franklin /White/
+2 GIVN Alfred Franklin
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE Oct 1879
+2 PLAC Whitley Co., Kentucky
+1 DEAT Y
+1 SOUR @S471@
+1 _UID EA087EE2D86F4BF694F3A572C687FD25E718
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:29
+1 FAMS @F5990@
+1 FAMC @F5988@
+0 @I18038@ INDI
+1 NAME Everett Luke /White/
+2 GIVN Everett Luke
+2 SURN White
+2 SOUR @S550@
+3 PAGE Page 38
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 15 Mar 1905
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S550@
+3 PAGE Page 38
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 5 Dec 1967
+2 PLAC Lansing, Ingham, Michigan
+2 SOUR @S550@
+3 PAGE Page 38
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SOUR @S471@
+1 _UID D888C0665C674891BE8204C58C4B6DBE2DE4
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:19
+1 FAMC @F5990@
+1 NOTE @NI18038@
+0 @I18039@ INDI
+1 NAME Naomi /White/
+2 GIVN Naomi
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE Abt 1875
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 0ACC89B6DFEC480D80B0AA19FE809C6DAF93
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:54
+1 FAMC @F5987@
+0 @I18085@ INDI
+1 NAME Martha E. /West/
+2 GIVN Martha E.
+2 SURN West
+1 SEX F
+1 BIRT
+2 DATE 1 May 1861
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S69@
+2 SOUR @S486@
+2 SOUR @S483@
+1 DEAT
+2 DATE 3 Apr 1886
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S483@
+1 BURI
+2 PLAC Whitley Co., Kentucky
+2 ADDR
+3 CONT Whitley County, Kentucky
+3 _NAME Jellico Creek Cemetery
+3 CITY Whitley County
+3 STAE Kentucky
+1 SOUR @S471@
+1 _UID 5F6FE45FD4D541F398C4A592413ED3512471
+1 CHAN
+2 DATE 22 May 2005
+3 TIME 13:20
+1 FAMS @F6009@
+1 FAMS @F6025@
+1 NOTE @NI18085@
+2 SOUR @S602@
+0 @I18091@ INDI
+1 NAME Harrison /White/
+2 GIVN Harrison
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE 28 Feb 1788-1790
+2 PLAC Jefferson Co., Tennessee
+1 DEAT
+2 DATE 7 Nov 1853
+2 PLAC Whitley Co., Kentucky
+1 BURI
+2 PLAC Whitley Co., Kentucky
+2 ADDR
+3 CONT Redbird, Kentucky
+3 _NAME Redbird Cemetery
+3 CITY Redbird
+3 STAE Kentucky
+1 SOUR @S471@
+1 _UID C852DCF63245451BABC288F8D53D4D283743
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 05:52
+1 FAMS @F6028@
+1 FAMC @F6037@
+0 @I18092@ INDI
+1 NAME Amy /Perkins/
+2 GIVN Amy
+2 SURN Perkins
+2 SOUR @S471@
+1 SEX F
+1 BIRT
+2 DATE 7 Aug 1794
+2 PLAC Grayson Co., Virginia
+2 SOUR @S471@
+1 DEAT
+2 DATE 11 Aug 1882
+2 PLAC Whitley Co., Kentucky
+1 BURI
+2 PLAC Whitley Co., Kentucky
+2 ADDR
+3 CONT Redbird, Kentucky
+3 _NAME Redbird Cemetery
+3 CITY Redbird
+3 STAE Kentucky
+1 SOUR @S471@
+1 _UID 2E66AC12CA2E491E8BB9816E07699702EDA0
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 05:58
+1 FAMS @F6028@
+1 FAMC @F6026@
+0 @I18093@ INDI
+1 NAME Milton E. /White/
+2 GIVN Milton E.
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE 2 Dec 1821
+2 PLAC Whitley Co., Kentucky
+1 DEAT
+2 DATE 25 Aug 1908
+2 PLAC Whitley Co., Kentucky
+1 BURI
+2 PLAC Whitley Co., Kentucky
+2 ADDR
+3 CONT Whitley County, Kentucky
+3 _NAME Jellico Creek Cemetery
+3 CITY Whitley County
+3 STAE Kentucky
+1 SOUR @S471@
+1 _UID 45F63DEDFD4547D9A8907119659FEE5BD64E
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 05:53
+1 FAMS @F6029@
+1 FAMS @F6032@
+1 FAMC @F6028@
+0 @I18094@ INDI
+1 NAME Amy /White/
+2 GIVN Amy
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE 1848
+2 PLAC Kentucky
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 47ED42353C3F4EB0A378F4FE59BF2538A692
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 05:38
+1 FAMC @F6029@
+0 @I18095@ INDI
+1 NAME Sarah /White/
+2 GIVN Sarah
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE 1851
+2 PLAC Kentucky
+2 SOUR @S66@
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 0FC80A7FCD394A2CBA186E5A9E41CC7D9E44
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 05:38
+1 FAMC @F6029@
+0 @I18096@ INDI
+1 NAME Addison /White/
+2 GIVN Addison
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE 1 Jun 1852
+2 PLAC Whitley Co., Kentucky
+1 DEAT Y
+1 SOUR @S471@
+1 _UID A1DF9BF7D5CD45D2B866592625970AF624C6
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 05:38
+1 FAMC @F6029@
+0 @I18097@ INDI
+1 NAME Mary /White/
+2 GIVN Mary
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE 1854
+2 PLAC Kentucky
+2 SOUR @S66@
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 5FFB09C2841A435490E091D1224094B2D41A
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 05:38
+1 FAMC @F6029@
+0 @I18098@ INDI
+1 NAME William B. /White/
+2 GIVN William B.
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE 16 Mar 1857
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S486@
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 9D7B2C9D16DD4FD2B447B6B2B135D57B8E3C
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 05:38
+1 FAMC @F6029@
+0 @I18099@ INDI
+1 NAME Eliza /White/
+2 GIVN Eliza
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE Abt 1860
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S69@
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 42C339F9D9764EFD8E91B5B10CF5420FA83B
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 05:38
+1 FAMC @F6029@
+0 @I18100@ INDI
+1 NAME Elizabeth /Meadors/
+2 GIVN Elizabeth
+2 SURN Meadors
+1 SEX F
+1 BIRT
+2 DATE 11 Dec 1828
+2 PLAC Whitley Co., Kentucky
+1 DEAT
+2 DATE 14 May 1862
+2 PLAC Whitley Co., Kentucky
+1 BURI
+2 PLAC Whitley Co., Kentucky
+2 ADDR
+3 CONT Redbird, Kentucky
+3 _NAME Redbird Cemetery
+3 CITY Redbird
+3 STAE Kentucky
+1 SOUR @S471@
+1 _UID D55DB76413284C7F9F85E5F8C293DCC146EF
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 05:53
+1 FAMS @F6029@
+0 @I18101@ INDI
+1 NAME Martha L. /Shepherd/
+2 GIVN Martha L.
+2 SURN Shepherd
+1 SEX F
+1 BIRT
+2 DATE 20 Dec 1841
+2 PLAC Whitley Co., Kentucky
+1 DEAT
+2 DATE 27 Dec 1912
+2 PLAC Whitley Co., Kentucky
+1 BURI
+2 PLAC Whitley Co., Kentucky
+2 ADDR
+3 CONT Whitley County, Kentucky
+3 _NAME Jellico Creek Cemetery
+3 CITY Whitley County
+3 STAE Kentucky
+1 SOUR @S471@
+1 _UID ECC2B314A6224FD48D9C323A9C3F1E55436C
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 06:51
+1 FAMS @F6032@
+0 @I18102@ INDI
+1 NAME Rebecca /White/
+2 GIVN Rebecca
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE Abt 1866
+2 PLAC Whitley Co., Kentucky
+1 DEAT Y
+1 SOUR @S471@
+1 _UID E6ADB7B8DE734C878E598B0CEEBB2FA52136
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 05:38
+1 FAMC @F6032@
+0 @I18103@ INDI
+1 NAME Dempsey /White/
+2 GIVN Dempsey
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE Abt 1856
+2 PLAC Kentucky
+2 SOUR @S66@
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 549B37D8C23B4E2CBDDB75B01D8FA5189B1E
+1 CHAN
+2 DATE 12 Sep 2001
+1 FAMC @F6057@
+0 @I18104@ INDI
+1 NAME Louisa /White/
+2 GIVN Louisa
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE 3 Nov 1858
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S66@
+2 SOUR @S486@
+1 DEAT Y
+1 SOUR @S471@
+1 _UID DF7CDED1318C41BC9E384C7DC640ED489E16
+1 CHAN
+2 DATE 20 Jun 2002
+1 FAMC @F6057@
+0 @I18105@ INDI
+1 NAME Nancy Melvina /White/
+2 GIVN Nancy Melvina
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE 28 Mar 1861
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S69@
+2 SOUR @S486@
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 68CAC7D245014539BB8CF3ABF4A101C5CF0B
+1 CHAN
+2 DATE 20 Jun 2002
+1 FAMC @F6057@
+0 @I18106@ INDI
+1 NAME Charles Baer /West/
+2 GIVN Charles Baer
+2 SURN West
+1 SEX M
+1 BIRT
+2 DATE 31 Mar 1878
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S486@
+1 DEAT
+2 DATE 28 Apr 1964
+2 PLAC Whitley Co., Kentucky
+1 SOUR @S471@
+1 _UID C8845EABAF33451DA307DD6992652823CB99
+1 CHAN
+2 DATE 21 May 2002
+1 FAMS @F6035@
+1 FAMC @F6081@
+0 @I18107@ INDI
+1 NAME Amy /White/
+2 GIVN Amy
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE Abt 1866
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S69@
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 0E69B4CD96454239A819E286F336AFD72658
+1 CHAN
+2 DATE 21 Mar 2004
+3 TIME 08:51
+1 FAMC @F6056@
+0 @I18108@ INDI
+1 NAME Dempsey /White/
+2 GIVN Dempsey
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE Abt 1865
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S69@
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 09440A8CDC544869B0B3AD66B03BCC493A64
+1 CHAN
+2 DATE 21 Mar 2004
+3 TIME 08:51
+1 FAMC @F6056@
+0 @I18109@ INDI
+1 NAME Jesse F. /White/
+2 GIVN Jesse F.
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE Abt 1866
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S69@
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 52F8CA7E3C8444F886771B210334DB663F72
+1 CHAN
+2 DATE 21 Mar 2004
+3 TIME 08:51
+1 FAMC @F6056@
+0 @I18110@ INDI
+1 NAME Nicholas A. /White/
+2 GIVN Nicholas A.
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE 6 May 1802
+1 DEAT
+2 DATE 29 Jun 1876
+2 PLAC Whitley Co., Kentucky
+1 BURI
+2 PLAC Redbird, Whitley, Kentucky
+2 ADDR
+3 CONT Redbird, Kentucky
+3 _NAME Redbird Cemetery
+3 CITY Redbird
+3 STAE Kentucky
+1 SOUR @S471@
+1 _UID 5CF41DA6AD934903BB7FE0D5CA401E4B019B
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:54
+1 FAMS @F6036@
+1 FAMC @F6037@
+0 @I18111@ INDI
+1 NAME Nancy Anne /Sumner/
+2 GIVN Nancy Anne
+2 SURN Sumner
+1 SEX F
+1 BIRT
+2 DATE 1804
+2 PLAC Grayson Co., Virginia
+1 DEAT
+2 DATE Jul 1876
+2 PLAC Whitley Co., Kentucky
+1 BURI
+2 PLAC Redbird, Whitley, Kentucky
+2 ADDR
+3 CONT Redbird, Kentucky
+3 _NAME Redbird Cemetery
+3 CITY Redbird
+3 STAE Kentucky
+1 SOUR @S471@
+1 _UID D0163A7568324D8C8E55629C617B7A0C4B6B
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 06:53
+1 FAMS @F6036@
+0 @I18112@ INDI
+1 NAME John /White/
+2 GIVN John
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE Abt 1750
+2 PLAC North Carolina
+1 DEAT
+2 DATE 1829
+1 SOUR @S471@
+1 EVEN
+2 TYPE Alt. Birth
+2 PLAC Virginia
+1 _UID E46CE6DFC8A64E0EB0AFA1E967E055F559FE
+1 CHAN
+2 DATE 6 May 2006
+3 TIME 09:37
+1 FAMS @F6037@
+0 @I18113@ INDI
+1 NAME Mary /Shelton/
+2 GIVN Mary
+2 SURN Shelton
+1 SEX F
+1 DEAT
+2 DATE 1820-1828
+2 PLAC Whitley Co., Kentucky
+1 SOUR @S471@
+1 _UID 154E05459E204D468F3560072E0219EF6116
+1 CHAN
+2 DATE 6 May 2006
+3 TIME 09:37
+1 FAMS @F6037@
+0 @I18114@ INDI
+1 NAME Charlotta /White/
+2 GIVN Charlotta
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE 2 Jul 1785
+2 PLAC Franklin Co., North Carolina
+1 DEAT
+2 DATE 7 Feb 1872
+2 PLAC Whitley Co., Kentucky
+1 SOUR @S471@
+1 _UID 649C1F0DF33649D6B39F855C203902F1F3D0
+1 CHAN
+2 DATE 18 Mar 2001
+1 FAMS @F6038@
+1 FAMC @F6037@
+0 @I18115@ INDI
+1 NAME Mary /White/
+2 GIVN Mary
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE Abt 1793
+1 DEAT
+2 DATE Aft 1830
+2 PLAC Whitley Co., Kentucky
+1 SOUR @S471@
+1 _UID BDC3979DFB3C41A585EBD9C1B33A5FC2E991
+1 CHAN
+2 DATE 18 Mar 2001
+1 FAMS @F6039@
+1 FAMC @F6037@
+0 @I18117@ INDI
+1 NAME John Calvin /White/
+2 GIVN John Calvin
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE 1793-1795
+1 DEAT
+2 DATE Aft 1870
+2 PLAC Wayne Co., Tennessee
+1 SOUR @S471@
+1 _UID B79BD14BD17548F28C7136FB1F2DEC055969
+1 CHAN
+2 DATE 18 Mar 2001
+1 FAMS @F6041@
+1 FAMC @F6037@
+0 @I18118@ INDI
+1 NAME Dempsey /White/
+2 GIVN Dempsey
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE Abt 1798
+2 PLAC South Carolina
+1 DEAT
+2 DATE Aft 1860
+1 SOUR @S471@
+1 _UID 3B0DE8F4174841C7A2C0DF031F26293C7951
+1 CHAN
+2 DATE 6 May 2006
+3 TIME 09:37
+1 FAMS @F6042@
+1 FAMC @F6037@
+0 @I18119@ INDI
+1 NAME Nathaniel /Smith/
+2 GIVN Nathaniel
+2 SURN Smith
+1 SEX M
+1 DEAT Y
+1 SOUR @S471@
+1 _UID DD49E93A74D641B2998F3FF1053CCC06F17B
+1 CHAN
+2 DATE 21 Mar 2004
+3 TIME 08:51
+1 FAMS @F6038@
+0 @I18120@ INDI
+1 NAME Nicholas /Brummett/
+2 GIVN Nicholas
+2 SURN Brummett
+1 SEX M
+1 DEAT
+2 DATE Bef 1830
+1 SOUR @S471@
+1 _UID 308871AD9151467591BDA7117EDA6639708C
+1 CHAN
+2 DATE 18 Mar 2001
+1 FAMS @F6039@
+0 @I18122@ INDI
+1 NAME Lydia /Matthews/
+2 GIVN Lydia
+2 SURN Matthews
+1 SEX F
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 356F54C6019248CC8FCB8DF2E61CB4120638
+1 CHAN
+2 DATE 21 Mar 2004
+3 TIME 08:51
+1 FAMS @F6041@
+0 @I18123@ INDI
+1 NAME Nancy /Perkins/
+2 GIVN Nancy
+2 SURN Perkins
+1 SEX F
+1 BIRT
+2 DATE Abt 1804
+2 PLAC Grayson Co., Virginia
+1 DEAT
+2 DATE Aft 1860
+1 SOUR @S471@
+1 _UID 8EB9DE2823FA455EB4B8B8171F59DE87257A
+1 CHAN
+2 DATE 6 May 2006
+3 TIME 09:37
+1 FAMS @F6042@
+1 FAMC @F6026@
+0 @I18124@ INDI
+1 NAME Rebecca /White/
+2 GIVN Rebecca
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE 24 Mar 1848
+2 PLAC Tennessee
+1 DEAT
+2 DATE 28 Aug 1931
+2 PLAC Fort Smith, Sebastian, Arkansas
+1 SOUR @S471@
+1 _UID C5F6DF3E476240959C42540534FA704E7904
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:42
+1 FAMS @F6043@
+1 FAMC @F6044@
+0 @I18125@ INDI
+1 NAME Jesse Perkins /White/
+2 GIVN Jesse Perkins
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE Abt 1820
+2 PLAC Whitley Co., Kentucky
+1 DEAT
+2 DATE 1870-1880
+1 SOUR @S471@
+1 _UID DF4BB1463E4A49B29B5A5E7EDEE5D3222DAA
+1 CHAN
+2 DATE 25 Jun 2002
+1 FAMS @F6044@
+1 FAMC @F6042@
+0 @I18126@ INDI
+1 NAME Pamelia /Mahan/
+2 GIVN Pamelia
+2 SURN Mahan
+1 SEX F
+1 BIRT
+2 DATE Abt 1823
+2 PLAC Whitley Co., Kentucky
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 1109876D0B034E0C986F6CFE16CEE817CA8F
+1 CHAN
+2 DATE 21 Mar 2004
+3 TIME 08:51
+1 FAMS @F6044@
+0 @I18127@ INDI
+1 NAME Emeline /White/
+2 GIVN Emeline
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE Abt 1853
+2 PLAC Kentucky
+2 SOUR @S66@
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 7B7F2553C7D7498C9C95BF758F524AA318D4
+1 CHAN
+2 DATE 12 Sep 2001
+1 FAMC @F6057@
+0 @I18128@ INDI
+1 NAME Milford /White/
+2 GIVN Milford
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE Abt 1864
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S69@
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 5356EC68D4F649EEA9482181AEFFB72A1FFC
+1 CHAN
+2 DATE 22 May 2005
+3 TIME 13:28
+1 OBJE
+2 FORM mm
+2 FILE Milford White.tiff
+2 _SCBK Y
+2 _PRIM Y
+2 _TYPE PHOTO
+1 FAMS @F6009@
+1 FAMS @F6045@
+1 FAMC @F6057@
+1 NOTE @NI18128@
+2 SOUR @S602@
+0 @I18129@ INDI
+1 NAME Mary E. /White/
+2 GIVN Mary E.
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE Abt 1869
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S69@
+1 DEAT Y
+1 SOUR @S471@
+1 _UID ED677C7F437A4FCA9A900EC6C96C9E7C72B8
+1 CHAN
+2 DATE 12 Sep 2001
+1 FAMC @F6057@
+0 @I18130@ INDI
+1 NAME Diza Ann /White/
+2 GIVN Diza Ann
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE 7 Jan 1882
+2 PLAC Whitley Co., Kentucky
+1 DEAT
+2 DATE 9 Sep 1963
+2 PLAC Whitley Co., Kentucky
+1 SOUR @S471@
+1 _UID 9B8447F65658425DB16517ABC6C33E71B9EF
+1 CHAN
+2 DATE 22 May 2005
+3 TIME 13:20
+1 FAMS @F6035@
+1 FAMC @F6009@
+1 NOTE @NI18130@
+2 SOUR @S602@
+0 @I18131@ INDI
+1 NAME Lusia /White/
+2 GIVN Lusia
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE Abt 1841
+2 PLAC Kentucky
+2 SOUR @S65@
+1 DEAT Y
+1 SOUR @S471@
+1 _UID DE9BB3DD74F3461DB43926EA5C9E1E3B2300
+1 CHAN
+2 DATE 21 Mar 2004
+3 TIME 08:51
+1 FAMC @F6044@
+0 @I18132@ INDI
+1 NAME Dempsey /White/
+2 GIVN Dempsey
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE Abt 1843
+2 PLAC Kentucky
+2 SOUR @S65@
+1 DEAT Y
+1 SOUR @S471@
+1 _UID E024E05D64044F338708385BAB94507E5ADF
+1 CHAN
+2 DATE 21 Mar 2004
+3 TIME 08:51
+1 FAMC @F6044@
+0 @I18133@ INDI
+1 NAME Amy /White/
+2 GIVN Amy
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE Abt 1845
+2 PLAC Kentucky
+2 SOUR @S65@
+1 DEAT Y
+1 SOUR @S471@
+1 _UID D89F314269A2425799351F41B8B2CECEC2F8
+1 CHAN
+2 DATE 21 Mar 2004
+3 TIME 08:51
+1 FAMC @F6044@
+0 @I18134@ INDI
+1 NAME Mary /White/
+2 GIVN Mary
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE Abt 1846
+2 PLAC Kentucky
+2 SOUR @S65@
+1 DEAT Y
+1 SOUR @S471@
+1 _UID ED795A84E45342FE88D0854B5C51AE5E9CEC
+1 CHAN
+2 DATE 21 Mar 2004
+3 TIME 08:51
+1 FAMC @F6044@
+0 @I18135@ INDI
+1 NAME Nancy /White/
+2 GIVN Nancy
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE Abt 1840
+2 PLAC Kentucky
+2 SOUR @S65@
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 8E9DCB2BC5FC43C5A64255B987D788945AD5
+1 CHAN
+2 DATE 21 Mar 2004
+3 TIME 08:51
+1 FAMC @F6044@
+0 @I18136@ INDI
+1 NAME Holden Wade /White/
+2 GIVN Holden Wade
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE 3 May 1826
+2 PLAC Whitley Co., Kentucky
+1 DEAT
+2 DATE 22 Oct 1872
+2 PLAC Whitley Co., Kentucky
+1 BURI
+2 PLAC Whitley Co., Kentucky
+2 ADDR
+3 CONT Whitley County, Kentucky
+3 _NAME Pleasant Hill Cemetery
+3 CITY Whitley County
+3 STAE Kentucky
+1 SOUR @S471@
+1 _UID 0BFBD9CFA19E4AFFB593B4AA41B53C576520
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 06:04
+1 FAMS @F6046@
+1 FAMC @F6036@
+0 @I18137@ INDI
+1 NAME Naomi /White/
+2 GIVN Naomi
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE 25 Jul 1827
+1 DEAT
+2 DATE 16 Feb 1907
+1 SOUR @S471@
+1 _UID 65DBD3F3053C41C6ADAD0DCBBEA61E3D3F21
+1 CHAN
+2 DATE 5 Jun 2003
+1 FAMS @F6047@
+1 FAMC @F6036@
+0 @I18138@ INDI
+1 NAME John /White/
+2 GIVN John
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE 4 Mar 1830
+1 DEAT
+2 DATE 28 Aug 1896
+1 SOUR @S471@
+1 _UID 914C53C103714682B9FCFAFE896474296407
+1 CHAN
+2 DATE 20 Jun 2002
+1 FAMS @F6048@
+1 FAMC @F6036@
+0 @I18139@ INDI
+1 NAME Mark /White/
+2 GIVN Mark
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE 27 Nov 1832
+1 DEAT
+2 DATE 30 Jun 1893
+1 BURI
+2 PLAC Whitley Co., Kentucky
+2 ADDR
+3 CONT Redbird, Kentucky
+3 _NAME Redbird Cemetery
+3 CITY Redbird
+3 STAE Kentucky
+1 SOUR @S471@
+1 _UID 13C3CD3221C1466B91CA6795748C23C8AA96
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 06:06
+1 FAMS @F6049@
+1 FAMS @F6050@
+1 FAMC @F6036@
+0 @I18140@ INDI
+1 NAME Melvina Nancy /White/
+2 GIVN Melvina Nancy
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE 9 Aug 1835
+2 PLAC Whitley Co., Kentucky
+1 DEAT
+2 DATE 18 Nov 1898
+2 PLAC Whitley Co., Kentucky
+1 BURI
+2 PLAC Whitley Co., Kentucky
+2 ADDR
+3 CONT Whitley County, Kentucky
+3 _NAME Concord Cemetery
+3 CITY Whitley County
+3 STAE Kentucky
+1 SOUR @S471@
+1 _UID AF97B695D5C44028BFC524697AAF6B2E65D7
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 06:10
+1 FAMS @F6051@
+1 FAMC @F6036@
+0 @I18141@ INDI
+1 NAME Anna /Worley/
+2 GIVN Anna
+2 SURN Worley
+1 SEX F
+1 BIRT
+2 DATE 3 Oct 1830
+2 PLAC Whitley Co., Kentucky
+1 DEAT
+2 DATE 26 Aug 1913
+2 PLAC Whitley Co., Kentucky
+1 BURI
+2 PLAC Whitley Co., Kentucky
+2 ADDR
+3 CONT Whitley County, Kentucky
+3 _NAME Pleasant Hill Cemetery
+3 CITY Whitley County
+3 STAE Kentucky
+1 SOUR @S471@
+1 _UID 84178F533C184D0793DC624FE97A0E8D43E9
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 06:03
+1 FAMS @F6046@
+0 @I18142@ INDI
+1 NAME Elijah /Worley/
+2 GIVN Elijah
+2 SURN Worley
+1 SEX M
+1 BIRT
+2 DATE Abt 1825
+2 PLAC Kentucky
+2 SOUR @S69@
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 5C6A6320B08C4B5680AA1AD50B897956A2B2
+1 CHAN
+2 DATE 21 Mar 2004
+3 TIME 08:51
+1 FAMS @F6047@
+0 @I18143@ INDI
+1 NAME Sarah /Worley/
+2 GIVN Sarah
+2 SURN Worley
+1 SEX F
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 33DFAF8B37D5469CAE0E9EA6687507C0DE66
+1 CHAN
+2 DATE 21 Mar 2004
+3 TIME 08:51
+1 FAMS @F6048@
+1 FAMS @F6050@
+0 @I18144@ INDI
+1 NAME Cinderella /Barnett/
+2 GIVN Cinderella
+2 SURN Barnett
+1 SEX F
+1 BIRT
+2 DATE 11 Feb 1834
+2 PLAC Pulaski Co., Kentucky
+1 DEAT
+2 DATE 14 Aug 1856
+2 PLAC Whitley Co., Kentucky
+1 BURI
+2 PLAC Whitley Co., Kentucky
+2 ADDR
+3 CONT Redbird, Kentucky
+3 _NAME Redbird Cemetery
+3 CITY Redbird
+3 STAE Kentucky
+1 SOUR @S471@
+1 _UID E960EEDAA9BF4436AB308A49F9AE57640346
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 06:06
+1 FAMS @F6049@
+0 @I18145@ INDI
+1 NAME N. A. /White/
+2 GIVN N. A.
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE Abt 1867
+2 PLAC Whitley Co., Kentucky
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 5FD6D52706CF4495962297688EF625529113
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 05:38
+1 FAMC @F6032@
+0 @I18146@ INDI
+1 NAME Sanford T. /Barnett/
+2 GIVN Sanford T.
+2 SURN Barnett
+1 SEX M
+1 BIRT
+2 DATE 24 Sep 1828
+1 DEAT
+2 DATE 17 Jun 1904
+2 PLAC Whitley Co., Kentucky
+1 BURI
+2 PLAC Whitley Co., Kentucky
+2 ADDR
+3 CONT Whitley County, Kentucky
+3 _NAME Concord Cemetery
+3 CITY Whitley County
+3 STAE Kentucky
+1 SOUR @S471@
+1 _UID 4C92B56C03464531BA494DC90B83523BF25F
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 06:10
+1 FAMS @F6051@
+0 @I18154@ INDI
+1 NAME Naomi /Shepherd/
+2 GIVN Naomi
+2 SURN Shepherd
+1 SEX F
+1 BIRT
+2 DATE Abt 1860
+2 PLAC Kentucky
+2 SOUR @S69@
+1 DEAT Y
+1 SOUR @S471@
+1 _UID DABBFE1826324446A3EE2A20B9A7D522BF98
+1 CHAN
+2 DATE 20 Jun 2002
+1 FAMS @F6045@
+0 @I18159@ INDI
+1 NAME M. L. /White/
+2 GIVN M. L.
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE 23 Mar 1874
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S486@
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 41145DD8616F4F9187436F59121F45F83A55
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 05:38
+1 FAMC @F6032@
+0 @I18160@ INDI
+1 NAME Nancy Jane /White/
+2 GIVN Nancy Jane
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE Abt 1894
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S486@
+1 DEAT
+2 DATE 5 Jul 1910
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S486@
+1 SOUR @S471@
+1 _UID A96B35514815405FAE96C9C4CBAE0F221180
+1 CHAN
+2 DATE 20 Jun 2002
+1 FAMC @F6045@
+0 @I18161@ INDI
+1 NAME Jesse Perkins /White/
+2 GIVN Jesse Perkins
+2 SURN White
+1 SEX M
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 448ED284DACE40009F7D2FDCC85B7128F358
+1 CHAN
+2 DATE 21 Mar 2004
+3 TIME 08:51
+1 FAMC @F6044@
+0 @I18162@ INDI
+1 NAME Josephine /White/
+2 GIVN Josephine
+2 SURN White
+1 SEX F
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 52CF72A0C242434B92E1C229207E85084EE8
+1 CHAN
+2 DATE 21 Mar 2004
+3 TIME 08:51
+1 FAMC @F6044@
+0 @I18163@ INDI
+1 NAME Lucinda /White/
+2 GIVN Lucinda
+2 SURN White
+1 SEX F
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 25EA7B02D9874ABA837C8ED771FFC558E1E7
+1 CHAN
+2 DATE 21 Mar 2004
+3 TIME 08:51
+1 FAMC @F6044@
+0 @I18164@ INDI
+1 NAME Permelia Emaline /White/
+2 GIVN Permelia Emaline
+2 SURN White
+1 SEX F
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 16C629BC488C4FE780F0BD8639D8D322842D
+1 CHAN
+2 DATE 21 Mar 2004
+3 TIME 08:51
+1 FAMC @F6044@
+0 @I18165@ INDI
+1 NAME William M. /White/
+2 GIVN William M.
+2 SURN White
+1 SEX M
+1 DEAT Y
+1 SOUR @S471@
+1 _UID FBC3CA8ABA0D48008317571524EA305CC178
+1 CHAN
+2 DATE 21 Mar 2004
+3 TIME 08:51
+1 FAMC @F6044@
+0 @I18166@ INDI
+1 NAME Joseph L. /Worley/
+2 GIVN Joseph L.
+2 SURN Worley
+1 SEX M
+1 BIRT
+2 DATE Abt 1853
+2 PLAC Kentucky
+2 SOUR @S69@
+1 DEAT Y
+1 SOUR @S471@
+1 _UID CC8B8624C0CF412184519812B8AB4AC5E320
+1 CHAN
+2 DATE 21 Mar 2004
+3 TIME 08:51
+1 FAMC @F6047@
+0 @I18168@ INDI
+1 NAME Jane /Worley/
+2 GIVN Jane
+2 SURN Worley
+1 SEX F
+1 BIRT
+2 DATE Abt 1857
+2 PLAC Kentucky
+2 SOUR @S69@
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 35B393F744B34540BF70E5834078EC9DC607
+1 CHAN
+2 DATE 21 Mar 2004
+3 TIME 08:51
+1 FAMC @F6047@
+0 @I18169@ INDI
+1 NAME Nancy /Worley/
+2 GIVN Nancy
+2 SURN Worley
+1 SEX F
+1 BIRT
+2 DATE Abt 1860
+2 PLAC Kentucky
+2 SOUR @S69@
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 9CCF4B958E204F30A284487ADDE552D549B4
+1 CHAN
+2 DATE 21 Mar 2004
+3 TIME 08:51
+1 FAMC @F6047@
+0 @I18170@ INDI
+1 NAME Sally /Worley/
+2 GIVN Sally
+2 SURN Worley
+1 SEX F
+1 BIRT
+2 DATE Abt 1863
+2 PLAC Kentucky
+2 SOUR @S69@
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 43CC3F0071EC4E9CAC8D326080F7A8DD5CE7
+1 CHAN
+2 DATE 21 Mar 2004
+3 TIME 08:51
+1 FAMC @F6047@
+0 @I18171@ INDI
+1 NAME James F. /Worley/
+2 GIVN James F.
+2 SURN Worley
+1 SEX M
+1 BIRT
+2 DATE Abt 1866
+2 PLAC Kentucky
+2 SOUR @S69@
+1 DEAT Y
+1 SOUR @S471@
+1 _UID EBD8970865D84B6E931AE72859D899D0AE40
+1 CHAN
+2 DATE 21 Mar 2004
+3 TIME 08:51
+1 FAMC @F6047@
+0 @I18174@ INDI
+1 NAME James Ervin /White/
+2 GIVN James Ervin
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE 4 Jul 1843
+2 PLAC Whitley Co., Kentucky
+1 DEAT
+2 DATE 9 Dec 1927
+2 PLAC Whitley Co., Kentucky
+1 BURI
+2 PLAC Whitley Co., Kentucky
+2 ADDR
+3 CONT Whitley County, Kentucky
+3 _NAME Pleasant Hill Cemetery
+3 CITY Whitley County
+3 STAE Kentucky
+1 SOUR @S471@
+1 _UID 66F271AA89AE49E1AED63B1E2CFE546A9905
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:29
+1 FAMS @F6056@
+1 FAMC @F6036@
+0 @I18175@ INDI
+1 NAME Lucinda Jane /Davis/
+2 GIVN Lucinda Jane
+2 SURN Davis
+1 SEX F
+1 BIRT
+2 DATE 1 Nov 1843
+2 PLAC Whitley Co., Kentucky
+1 DEAT
+2 PLAC Whitley Co., Kentucky
+1 BURI
+2 PLAC Whitley Co., Kentucky
+2 ADDR
+3 CONT Whitley County, Kentucky
+3 _NAME Pleasant Hill Cemetery
+3 CITY Whitley County
+3 STAE Kentucky
+1 SOUR @S471@
+1 _UID C22EB43F449C4EB98149AA5580A24BA5A51B
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:29
+1 FAMS @F6056@
+1 FAMC @F6178@
+0 @I18176@ INDI
+1 NAME Milton E. /White/
+2 GIVN Milton E.
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE 31 Mar 1824
+2 PLAC Whitley Co., Kentucky
+1 DEAT
+2 DATE 6 Apr 1882
+2 PLAC Whitley Co., Kentucky
+1 BURI
+2 PLAC Whitley Co., Kentucky
+2 ADDR
+3 CONT Redbird, Kentucky
+3 _NAME Redbird Cemetery
+3 CITY Redbird
+3 STAE Kentucky
+1 SOUR @S471@
+1 _UID E056B203B5D4422F8D6C78C12A961EAA9F01
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 06:18
+1 FAMS @F6057@
+1 FAMC @F6042@
+0 @I18177@ INDI
+1 NAME Elizabeth /Meadors/
+2 GIVN Elizabeth
+2 SURN Meadors
+1 SEX F
+1 BIRT
+2 DATE 30 Nov 1830
+2 PLAC Whitley Co., Kentucky
+1 DEAT
+2 DATE 5 Jun 1888
+2 PLAC Whitley Co., Kentucky
+1 BURI
+2 PLAC Whitley Co., Kentucky
+2 ADDR
+3 CONT Redbird, Kentucky
+3 _NAME Redbird Cemetery
+3 CITY Redbird
+3 STAE Kentucky
+1 SOUR @S471@
+1 _UID 3A99CD9C13CA4B28990FA90D5B748FD921C8
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 06:18
+1 FAMS @F6057@
+0 @I18191@ INDI
+1 NAME Dempsey /White/
+2 GIVN Dempsey
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE 1839
+2 PLAC Whitley Co., Kentucky
+1 DEAT
+2 DATE 6 Apr 1862
+2 PLAC Shiloh, Hardin, Tennessee
+1 BURI
+2 PLAC Shiloh, Hardin, Tennessee
+2 ADDR
+3 CONT Shiloh, Tennessee
+3 _NAME Shiloh National Cemetery
+3 CITY Shiloh
+3 STAE Tennessee
+2 NOTE @XI18191@
+1 SOUR @S471@
+1 _UID CFFB6ADF4D7940D3A956472176E0D3058192
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 06:56
+1 FAMS @F6064@
+1 FAMC @F6036@
+0 @I18192@ INDI
+1 NAME Elizabeth /Perkins/
+2 GIVN Elizabeth
+2 SURN Perkins
+1 SEX F
+1 BIRT
+2 DATE 3 Mar 1838
+2 PLAC Elk Valley, Campbell, Tennessee
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 2528A918F53E48E8B2711DF4451E34A6E2D1
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:29
+1 FAMS @F6064@
+1 FAMS @F6065@
+1 FAMS @F6170@
+0 @I18199@ INDI
+1 NAME Mary Ann /Freeman/
+2 GIVN Mary Ann
+2 SURN Freeman
+1 SEX F
+1 BIRT
+2 DATE Apr 1855
+2 PLAC Whitley Co., Kentucky
+1 DEAT
+2 DATE Aft 1909
+2 PLAC Whitley Co., Kentucky
+1 SOUR @S471@
+1 _UID A9ECAF5DD52F479484494445C09A5961EA9B
+1 CHAN
+2 DATE 19 Mar 2004
+3 TIME 22:34
+1 FAMS @F6068@
+0 @I18204@ INDI
+1 NAME William Patrick (Òpeaó) /Davis/
+2 GIVN William Patrick (Òpeaó)
+2 SURN Davis
+1 SEX M
+1 BIRT
+2 DATE 12 May 1848
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S65@
+1 DEAT
+2 DATE 18 Nov 1887
+2 PLAC Mountainburg, Crawford, Arkansas
+1 SOUR @S471@
+1 _UID DA93B53E5A1E4CDF88AAAF6E9C12DC795597
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:29
+1 FAMS @F6043@
+1 FAMC @F6178@
+1 FAMC @F6017@
+0 @I18427@ INDI
+1 NAME Louisa /Worley/
+2 GIVN Louisa
+2 SURN Worley
+1 SEX F
+1 BIRT
+2 DATE 5 Feb 1855
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S69@
+1 DEAT
+2 DATE 25 Sep 1906
+2 PLAC Whitley Co., Kentucky
+1 SOUR @S471@
+1 _UID ACE218F3190A466D8F33C7A0992225EE6679
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:29
+1 FAMS @F6117@
+1 FAMC @F6047@
+0 @I18457@ INDI
+1 NAME Edward F. /Davis/
+2 GIVN Edward F.
+2 SURN Davis
+1 SEX M
+1 SOUR @S471@
+1 _UID 7CFECCB9B99149D3985EB723BDCF830B4F18
+1 CHAN
+2 DATE 24 Sep 2000
+1 FAMS @F6136@
+1 FAMC @F6117@
+0 @I18489@ INDI
+1 NAME Mary E. /Freeman/
+2 GIVN Mary E.
+2 SURN Freeman
+1 SEX F
+1 BIRT
+2 DATE 1880
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S73@
+1 DEAT Y
+1 SOUR @S471@
+1 _UID 7441F56A295346449E7A5B3E89409CF62624
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 12:20
+1 FAMS @F5990@
+1 FAMC @F6005@
+0 @I18579@ INDI
+1 NAME James Henderson /Davis/
+2 GIVN James Henderson
+2 SURN Davis
+1 SEX M
+1 BIRT
+2 DATE 27 Nov 1851
+1 DEAT
+2 DATE 1922
+2 PLAC Whitley Co., Kentucky
+1 SOUR @S471@
+1 _UID D2032D85E42D446DA58BC0A7D9A90ED848AB
+1 CHAN
+2 DATE 24 Sep 2000
+1 FAMS @F6117@
+1 FAMC @F6178@
+0 @I18894@ INDI
+1 NAME Unknown //
+2 GIVN Unknown
+1 SEX M
+1 DEAT Y
+1 _UID 0DF98B3035E246F4BBD78E2A438824C81386
+1 CHAN
+2 DATE 23 Mar 2004
+3 TIME 12:36
+1 FAMS @F5974@
+0 @I18895@ INDI
+1 NAME William Troy /Parker/
+2 GIVN William Troy
+2 SURN Parker
+1 NAME William Troy /White/
+2 GIVN William Troy
+2 SURN White
+2 SOUR @S550@
+3 PAGE Page 14
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 SOUR @S550@
+3 PAGE Page 17
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Abt 1850
+2 PLAC White Co., Arkansas
+2 SOUR @S550@
+3 PAGE Page 17
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 CENS Shown as aged 6 at home with WH Parker and Nancy White Parker
+2 DATE 1870
+2 SOUR @S550@
+3 PAGE Page 17
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 EVEN
+2 TYPE Alt. Birth
+2 DATE 1849
+2 PLAC Whitley Co., Kentucky
+2 NOTE I believe this date must be wrong as his mother would hav
+3 CONC e been only 11 at the time.
+2 SOUR @S550@
+3 PAGE Page 35
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID 550CEB7D93564DAEB9FBBA5ADF57F3AE4CC5
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 09:32
+1 FAMS @F6243@
+1 FAMC @F5974@
+1 FAMC @F5979@
+1 NOTE @NI18895@
+0 @I18918@ INDI
+1 NAME Nancy /White/
+2 GIVN Nancy
+2 SURN White
+1 SEX F
+1 BIRT
+2 DATE Abt 1878
+1 DEAT Y
+1 _UID 1367202DBE994BDFAD2C1DF19327157876E4
+1 CHAN
+2 DATE 23 Mar 2004
+3 TIME 15:38
+1 FAMC @F5987@
+0 @I18919@ INDI
+1 NAME  /Smith/
+2 SURN Smith
+1 SEX M
+1 DEAT Y
+1 _UID 0E66B3B13A1C4999A2EADA6B2FD0A6DC62C5
+1 CHAN
+2 DATE 23 Mar 2004
+3 TIME 15:56
+1 FAMS @F6238@
+1 FAMC @F6038@
+0 @I18923@ INDI
+1 NAME Ida E /Smith/
+2 GIVN Ida E
+2 SURN Smith
+2 SOUR @S550@
+3 PAGE Page 28
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE Abt 1886
+2 SOUR @S550@
+3 PAGE Page 28
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID 7604EED211664E10A23D2D049DE706B25BD8
+1 CHAN
+2 DATE 23 Mar 2004
+3 TIME 16:04
+1 FAMC @F5967@
+0 @I18924@ INDI
+1 NAME Enoch Irwin /Smith/
+2 GIVN Enoch Irwin
+2 SURN Smith
+2 SOUR @S550@
+3 PAGE Page 28
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Abt 1888
+2 SOUR @S550@
+3 PAGE Page 28
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID 48F61B4850C6410DBB906150ED631DA917AB
+1 CHAN
+2 DATE 23 Mar 2004
+3 TIME 16:04
+1 FAMC @F5967@
+0 @I18925@ INDI
+1 NAME Emaline /Smith/
+2 GIVN Emaline
+2 SURN Smith
+2 SOUR @S550@
+3 PAGE Page 28
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE Abt 1896
+2 SOUR @S550@
+3 PAGE Page 28
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID 14084FB9A1894DFC84BEC2E8D691D35E1B31
+1 CHAN
+2 DATE 23 Mar 2004
+3 TIME 16:04
+1 FAMC @F5967@
+0 @I18926@ INDI
+1 NAME Williard Homer /Smith/
+2 GIVN Williard Homer
+2 SURN Smith
+2 SOUR @S550@
+3 PAGE Page 28
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Abt 1891
+2 SOUR @S550@
+3 PAGE Page 28
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID 9247D42A3A8A433CAFCAB5906E5158DAC9A4
+1 CHAN
+2 DATE 23 Mar 2004
+3 TIME 16:04
+1 FAMC @F5967@
+0 @I18927@ INDI
+1 NAME Robert Lee /Smith/
+2 GIVN Robert Lee
+2 SURN Smith
+2 SOUR @S550@
+3 PAGE Page 28
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Abt 1892
+2 SOUR @S550@
+3 PAGE Page 28
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID C7322B75ECA145079A2645FA9F001F62910B
+1 CHAN
+2 DATE 23 Mar 2004
+3 TIME 16:04
+1 FAMC @F5967@
+0 @I18930@ INDI
+1 NAME Jennie /Lewis/
+2 GIVN Jennie
+2 SURN Lewis
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE Abt 1895
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID 06C08B7C323C4FE9BD128CA7AA75C1287D5B
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 08:40
+1 FAMS @F6241@
+0 @I18931@ INDI
+1 NAME Frank /Wright/
+2 GIVN Frank
+2 SURN Wright
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 1900
+2 PLAC Wister, Le Flore, Oklahoma Territory
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID 29DD49D932D94AABB3F4CF07289E8FBFB9B0
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 08:47
+1 FAMC @F5984@
+0 @I18932@ INDI
+1 NAME Robert Paul /Wright/
+2 GIVN Robert Paul
+2 SURN Wright
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 1905
+2 PLAC Wister, Le Flore, Oklahoma Territory
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID 912C2F28FFEB496089B2764A80ACB620A471
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 08:47
+1 FAMC @F5984@
+0 @I18933@ INDI
+1 NAME Ralph McClellan /Wright/
+2 GIVN Ralph McClellan
+2 SURN Wright
+2 SOUR @S550@
+3 PAGE Page 30
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 2 May 1911
+2 PLAC Hartford, Sebastian, Arkansas
+2 SOUR @S550@
+3 PAGE Page 30
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 24 Jul 1997
+2 PLAC Riverside, Riverside, California
+2 SOUR @S550@
+3 PAGE Page 30
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID F03277FC10FD4656AA4FE5C834DD781885CB
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 08:49
+1 FAMS @F6264@
+1 FAMS @F6263@
+1 FAMC @F5984@
+0 @I18934@ INDI
+1 NAME Esther B /Wilson/
+2 GIVN Esther B
+2 SURN Wilson
+2 SOUR @S550@
+3 PAGE Page 34
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE 13 Dec 1900
+2 PLAC Oklahoma
+2 SOUR @S550@
+3 PAGE Page 34
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID C0DEEA13047B4013B3F79C36D6041657305F
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 09:02
+1 FAMC @F5983@
+0 @I18935@ INDI
+1 NAME Parker McClellan /Wilson/
+2 GIVN Parker McClellan
+2 SURN Wilson
+2 SOUR @S550@
+3 PAGE Page 34
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 24 Dec 1906
+2 PLAC Oklahoma
+2 SOUR @S550@
+3 PAGE Page 34
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID 3BC1C4B616B844528668933C3163B310EE78
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 09:02
+1 FAMC @F5983@
+0 @I18936@ INDI
+1 NAME Robert /Parker/
+2 GIVN Robert
+2 SURN Parker
+1 SEX M
+1 BIRT
+2 DATE Abt 1902
+2 PLAC Oklahoma
+1 DEAT Y
+1 _UID E92177F9F81D447CBD25468B9A3EE27E3A33
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 09:06
+1 FAMC @F5982@
+0 @I18937@ INDI
+1 NAME Walter /Parker/
+2 GIVN Walter
+2 SURN Parker
+2 SOUR @S550@
+3 PAGE Page 34
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Abt 1904
+2 PLAC Oklahoma
+2 SOUR @S550@
+3 PAGE Page 34
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID 88BD72604FC142F0A212F504A3B69D423E3C
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 09:19
+1 FAMC @F5982@
+0 @I18938@ INDI
+1 NAME Geneva /Parker/
+2 GIVN Geneva
+2 SURN Parker
+2 SOUR @S550@
+3 PAGE Page 34
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE Abt 1905
+2 PLAC Oklahoma
+2 SOUR @S550@
+3 PAGE Page 34
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID 43B9F2B2D18E4840819190D7149F784F7A41
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 09:05
+1 FAMC @F5982@
+0 @I18939@ INDI
+1 NAME Mildred /Parker/
+2 GIVN Mildred
+2 SURN Parker
+2 SOUR @S550@
+3 PAGE Page 35
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE Abt 1913
+2 PLAC Oklahoma
+2 SOUR @S550@
+3 PAGE Page 35
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID B40DD7BCAB5F478487E5C42E400A9200630F
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 09:24
+1 FAMC @F5980@
+0 @I18940@ INDI
+1 NAME Edgar /Parker/
+2 GIVN Edgar
+2 SURN Parker
+2 SOUR @S550@
+3 PAGE Page 35
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Abt 1915
+2 PLAC Oklahoma
+2 SOUR @S550@
+3 PAGE Page 35
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID A2F61562C8254B9B8B233C9E657D4E64FED8
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 09:24
+1 FAMC @F5980@
+0 @I18941@ INDI
+1 NAME Frances /Caddell/
+2 GIVN Frances
+2 SURN Caddell
+2 SOUR @S550@
+3 PAGE Page 35
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE 10 Nov 1849
+2 SOUR @S550@
+3 PAGE Page 35
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 19 Jun 1888
+2 PLAC Jellico Creek, Whitley, Kentucky
+2 SOUR @S550@
+3 PAGE Page 35
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID EF6247E7ED9945AC9CD1B85E059DD5DBCBE5
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 09:29
+1 FAMS @F6243@
+0 @I18942@ INDI
+1 NAME A J /Parker/
+2 GIVN A J
+2 SURN Parker
+1 SEX M
+1 BIRT
+2 DATE Abt 1873
+1 DEAT Y
+1 _UID CEEECCF030F74E38A8B3D95FE76A64FC69BF
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 09:34
+1 FAMC @F6243@
+0 @I18943@ INDI
+1 NAME Molly /Parker/
+2 GIVN Molly
+2 SURN Parker
+1 SEX F
+1 BIRT
+2 DATE Abt 1872
+1 DEAT Y
+1 _UID 62E55539850A42F0B176B3CF4C0AE2CA419F
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 09:33
+1 FAMS @F6244@
+1 FAMC @F6243@
+0 @I18944@ INDI
+1 NAME  /Steely/
+2 SURN Steely
+2 SOUR @S550@
+3 PAGE Page 35
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 DEAT Y
+1 _UID DEEC75F8CAB144DFBA56EB8A78B1F62BA4AC
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 09:30
+1 FAMS @F6244@
+0 @I18945@ INDI
+1 NAME Florence /Parker/
+2 GIVN Florence
+2 SURN Parker
+2 SOUR @S550@
+3 PAGE Page 35
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE Abt 1870
+2 SOUR @S550@
+3 PAGE Page 35
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID 37DE878E1FC64FA7AB56A76BBA305158AB1A
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 09:33
+1 FAMS @F6245@
+1 FAMC @F6243@
+0 @I18946@ INDI
+1 NAME Cal /Ball/
+2 GIVN Cal
+2 SURN Ball
+2 SOUR @S550@
+3 PAGE Page 35
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Abt 1866
+2 SOUR @S550@
+3 PAGE Page 35
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID 036CBA67943347199C535C3B1E5AD00B9058
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 09:31
+1 FAMS @F6245@
+0 @I18947@ INDI
+1 NAME Nancy Jane /Parker/
+2 GIVN Nancy Jane
+2 SURN Parker
+2 SOUR @S550@
+3 PAGE Page 35
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE Dec 1869
+2 SOUR @S550@
+3 PAGE Page 35
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 16 Mar 1948
+2 SOUR @S550@
+3 PAGE Page 35
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID 149002BA755B4CE1B4CF8B58A1F3B0ACB330
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 09:32
+1 FAMS @F6275@
+1 FAMC @F6243@
+0 @I18948@ INDI
+1 NAME Sarah Rachel /Parker/
+2 GIVN Sarah Rachel
+2 SURN Parker
+2 SOUR @S550@
+3 PAGE Page 35
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE 14 Apr 1876
+2 SOUR @S550@
+3 PAGE Page 35
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 11 Jul 1935
+2 SOUR @S550@
+3 PAGE Page 35
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID C6561073F95A4EE686237A204A17E35D0AFE
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 09:33
+1 FAMS @F6276@
+1 FAMS @F6278@
+1 FAMC @F6243@
+0 @I18972@ INDI
+1 NAME Sarah /White/
+2 GIVN Sarah
+2 SURN White
+2 SOUR @S550@
+3 PAGE Page 37
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE Abt 1898
+2 SOUR @S550@
+3 PAGE Page 37
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID 90871191440E474ABE914D64991D16299117
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:16
+1 FAMC @F5990@
+0 @I18973@ INDI
+1 NAME Ernest /White/
+2 GIVN Ernest
+2 SURN White
+2 SOUR @S550@
+3 PAGE Page 37
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Abt 1899
+2 SOUR @S550@
+3 PAGE Page 37
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID 8EA053FCD16D4D6396D12A7034BACEAED669
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:16
+1 FAMC @F5990@
+0 @I18974@ INDI
+1 NAME Edward /White/
+2 GIVN Edward
+2 SURN White
+2 SOUR @S550@
+3 PAGE Page 37
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Abt 1899
+2 SOUR @S550@
+3 PAGE Page 37
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID 23698D8DC11A4112A61A7A1217C6E4A98AC7
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:17
+1 FAMC @F5990@
+0 @I18975@ INDI
+1 NAME Jerome /White/
+2 GIVN Jerome
+2 SURN White
+2 SOUR @S550@
+3 PAGE Page 37
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Abt 1900
+2 SOUR @S550@
+3 PAGE Page 37
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID EC52F7FA3A594A7ABF4A66FB6470C249CF71
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:17
+1 FAMC @F5990@
+0 @I18976@ INDI
+1 NAME Elizabeth /White/
+2 GIVN Elizabeth
+2 SURN White
+2 SOUR @S550@
+3 PAGE Page 37
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE Abt 1902
+2 SOUR @S550@
+3 PAGE Page 37
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID 46B633453AAA4BAD8D14AB4BD7E3BE2D8C79
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:17
+1 FAMC @F5990@
+0 @I18977@ INDI
+1 NAME Jesse /White/
+2 GIVN Jesse
+2 SURN White
+2 SOUR @S550@
+3 PAGE Page 37
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Abt 1902
+2 SOUR @S550@
+3 PAGE Page 37
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID 0AD886476F144FFFB5C9C3EEB8AB0B3855E2
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:18
+1 FAMC @F5990@
+0 @I18978@ INDI
+1 NAME Ruth /White/
+2 GIVN Ruth
+2 SURN White
+2 SOUR @S550@
+3 PAGE Page 37
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE Abt 1903
+2 SOUR @S550@
+3 PAGE Page 37
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID B0A0D40DFD8B47BF934BB80CB65D9B14235D
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:18
+1 FAMC @F5990@
+0 @I18979@ INDI
+1 NAME Robert Lawrence /White/
+2 GIVN Robert Lawrence
+2 SURN White
+2 SOUR @S550@
+3 PAGE Page 37
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Abt 1904
+2 SOUR @S550@
+3 PAGE Page 37
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID A3103D3CC4B343DAB879D49C5F7B3680F197
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:18
+1 FAMC @F5990@
+0 @I18980@ INDI
+1 NAME Mary Edna /White/
+2 GIVN Mary Edna
+2 SURN White
+2 SOUR @S550@
+3 PAGE Page 37
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE Abt 1907
+2 SOUR @S550@
+3 PAGE Page 37
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID E233B98BD77B4FBEB4909624CCBF728D4011
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:18
+1 FAMC @F5990@
+0 @I18981@ INDI
+1 NAME Vera /Swindle/
+2 GIVN Vera
+2 SURN Swindle
+2 SOUR @S550@
+3 PAGE Page 38
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE 25 Apr 1917
+2 SOUR @S550@
+3 PAGE Page 38
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID 0D4A4F1AFA6040299CFE38B3C7E4AEE3443B
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:22
+1 FAMS @F5991@
+1 FAMC @F5941@
+0 @I18982@ INDI
+1 NAME Oren /Edmonson/
+2 GIVN Oren
+2 SURN Edmonson
+2 SOUR @S550@
+3 PAGE Page 38
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 4 Nov 1908
+2 SOUR @S550@
+3 PAGE Page 38
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE May 1974
+2 PLAC Pharr, Hidalgo, Texas
+2 SOUR @S550@
+3 PAGE Page 38
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID C7876312512E44CABBACE39AC08E25660D6F
+1 CHAN
+2 DATE 22 May 2005
+3 TIME 13:48
+1 FAMS @F5991@
+1 FAMC @F6536@
+1 NOTE @NI18982@
+2 SOUR @S604@
+0 @I18983@ INDI
+1 NAME Esta Lee /Swindle/
+2 GIVN Esta Lee
+2 SURN Swindle
+2 SOUR @S550@
+3 PAGE Page 38
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE 23 May 1922
+2 SOUR @S550@
+3 PAGE Page 38
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID C2FA072FBD624A33836FF6E4CAA35EE50A57
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:23
+1 FAMS @F6251@
+1 FAMC @F5941@
+0 @I18984@ INDI
+1 NAME Jesse Milton /Edmonson/
+2 GIVN Jesse Milton
+2 SURN Edmonson
+2 NPFX Rev.
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 20 Aug 1913
+2 PLAC Granite, Greer, Oklahoma
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 2000
+2 SOUR @S604@
+1 _UID EB959A6A6AD74666A57C0FD747315880C8B8
+1 CHAN
+2 DATE 22 May 2005
+3 TIME 13:58
+1 FAMS @F6251@
+1 FAMC @F6252@
+1 NOTE @NI18984@
+0 @I18987@ INDI
+1 NAME Wilma /Swindle/
+2 GIVN Wilma
+2 SURN Swindle
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 SOUR @S605@
+1 SEX F
+1 BIRT
+2 DATE 12 Oct 1922
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 SOUR @S605@
+1 _UID 46045AD506B642FF8C2DAA7D5F917AC181EA
+1 CHAN
+2 DATE 22 May 2005
+3 TIME 14:07
+1 FAMS @F6253@
+1 FAMC @F5941@
+0 @I18988@ INDI
+1 NAME Clayton /Vanderslice/
+2 GIVN Clayton
+2 SURN Vanderslice
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 SOUR @S605@
+1 SEX M
+1 BIRT
+2 DATE Abt 1920
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 SOUR @S605@
+1 _UID C7AB9A3C6D6241E291FE8A18B6ED55A609D8
+1 CHAN
+2 DATE 22 May 2005
+3 TIME 14:07
+1 FAMS @F6253@
+0 @I18989@ INDI
+1 NAME Edith Margaret /Parker/
+2 GIVN Edith Margaret
+2 SURN Parker
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE 1918
+2 PLAC Oklahoma
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 PLAC Harmon Co., Oklahoma
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID FDFACF986749445D8C86BB47A2D9977D52F1
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:37
+1 FAMS @F6254@
+1 FAMS @F6255@
+1 FAMC @F5942@
+0 @I18990@ INDI
+1 NAME Floyd /Cole/
+2 GIVN Floyd
+2 SURN Cole
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Abt 1918
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID A44BE45731A84597955CD76A3A947F37952E
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:37
+1 FAMS @F6254@
+0 @I18991@ INDI
+1 NAME Alton /Abernathy/
+2 GIVN Alton
+2 SURN Abernathy
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Abt 1915
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID 607C7594AEF4404F970E5C85970BC7E0E5DF
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:38
+1 FAMS @F6255@
+0 @I18992@ INDI
+1 NAME Carol Dolan /Parker/
+2 GIVN Carol Dolan
+2 SURN Parker
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 1922
+2 PLAC Harmon Co., Oklahoma
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID 7F520948653F49B59E677A6BF1416E89D72C
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:38
+1 FAMS @F6256@
+1 FAMC @F5942@
+0 @I18993@ INDI
+1 NAME Mary Rubylee /Pierce/
+2 GIVN Mary Rubylee
+2 SURN Pierce
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE 1922
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID 3AB145FDB780458080C6DAB2D78D98130A2A
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:38
+1 FAMS @F6256@
+0 @I18994@ INDI
+1 NAME Norris Douglas /Parker/
+2 GIVN Norris Douglas
+2 SURN Parker
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 1926
+2 PLAC Harmon Co., Oklahoma
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID 35825B755D694F109506AE85009C9843F124
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:39
+1 FAMS @F6257@
+1 FAMS @F6258@
+1 FAMC @F5942@
+0 @I18995@ INDI
+1 NAME Lawanda /Scott/
+2 GIVN Lawanda
+2 SURN Scott
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE Abt 1926
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE Abt 1975
+2 PLAC Hollis, Harmon, Oklahoma
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID 65C626DE16BE40278BFC38CCB0CC8F8686A5
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:41
+1 FAMS @F6257@
+1 NOTE @NI18995@
+0 @I18996@ INDI
+1 NAME Living //
+1 SEX F
+1 FAMS @F6258@
+0 @I18997@ INDI
+1 NAME Wilda /Watkins/
+2 GIVN Wilda
+2 SURN Watkins
+2 SOUR @S550@
+3 PAGE Page 42
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE 4 Aug 1927
+2 SOUR @S550@
+3 PAGE Page 42
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID EC9443D4A4194568818BA295F7433F25E2C9
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:48
+1 FAMS @F6259@
+1 FAMC @F5943@
+0 @I18998@ INDI
+1 NAME  /Lasly/
+2 SURN Lasly
+2 SOUR @S550@
+3 PAGE Page 42
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Abt 1925
+2 SOUR @S550@
+3 PAGE Page 42
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID 6FEBE928DA2A42B49703BBC57ABF48B2B2D8
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:48
+1 FAMS @F6259@
+0 @I18999@ INDI
+1 NAME Luther Sebastian /Florence/
+2 GIVN Luther Sebastian
+2 SURN Florence
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Oct 1888
+2 PLAC Arkansas
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE Jun 1943
+2 PLAC Modesto, Calaveras, California
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID 4660D1F33D8442FBBF8E72C8ECB24E805B04
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:49
+1 FAMS @F6260@
+0 @I19000@ INDI
+1 NAME Helen Kathryn /Florence/
+2 GIVN Helen Kathryn
+2 SURN Florence
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE Mar 1914
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID 54EAF78B2DEA40AA9E4E7A67A3CDBA01B984
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:50
+1 FAMC @F6260@
+0 @I19001@ INDI
+1 NAME Frances Eloise /Florence/
+2 GIVN Frances Eloise
+2 SURN Florence
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE Oct 1917
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID 55518EF09C66481C9358C1C4F0ACD69400DF
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:50
+1 FAMC @F6260@
+0 @I19002@ INDI
+1 NAME Frank Hamilton /Florence/
+2 GIVN Frank Hamilton
+2 SURN Florence
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Oct 1917
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID 3C0A87CBB4E74D2B963CD30E7F71EB4F88E9
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:51
+1 FAMC @F6260@
+0 @I19003@ INDI
+1 NAME Allen Louis /Florence/
+2 GIVN Allen Louis
+2 SURN Florence
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Aug 1920
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID 240A3887FF6B4346BB03BFE68A4DD5CDBCCD
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:51
+1 FAMC @F6260@
+0 @I19004@ INDI
+1 NAME Luther Eugene /Florence/
+2 GIVN Luther Eugene
+2 SURN Florence
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Jul 1922
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID BF89BD35AC98406A8F075ED0F3FAF08A53E1
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:51
+1 FAMC @F6260@
+0 @I19005@ INDI
+1 NAME Lucy June /Florence/
+2 GIVN Lucy June
+2 SURN Florence
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE Jun 1924
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID 637C8212E088492C9D696F0A37CF79C00EC6
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:52
+1 FAMC @F6260@
+0 @I19006@ INDI
+1 NAME James Harold /Florence/
+2 GIVN James Harold
+2 SURN Florence
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE May 1927
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID EBC882A5184447DBA3853A0DBE03B6C1FFF0
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:52
+1 FAMC @F6260@
+0 @I19007@ INDI
+1 NAME Living /Florence/
+1 SEX M
+1 FAMS @F6261@
+1 FAMC @F6260@
+0 @I19008@ INDI
+1 NAME Living //
+1 SEX F
+1 FAMS @F6261@
+0 @I19009@ INDI
+1 NAME Living /Florence/
+1 SEX M
+1 FAMC @F6260@
+0 @I19010@ INDI
+1 NAME Living /Florence/
+1 SEX M
+1 FAMC @F6260@
+0 @I19011@ INDI
+1 NAME Peggy //
+2 GIVN Peggy
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE Abt 1897
+2 PLAC Wister, Le Flore, Oklahoma Territory
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 1918
+2 PLAC McAlester, Pittsburg, Oklahoma
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID 959DB516788549A0B05D700B40DF9715361A
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:56
+1 FAMS @F6262@
+0 @I19012@ INDI
+1 NAME Harold /Wright/
+2 GIVN Harold
+2 SURN Wright
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 1917
+2 PLAC Oklahoma
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID 61584F3C0E3B4A5E94E7A482FCB58ECEE345
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:57
+1 FAMC @F6262@
+0 @I19013@ INDI
+1 NAME Martha Jane /Barber/
+2 GIVN Martha Jane
+2 SURN Barber
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE 14 Jul 1921
+2 PLAC San Diego, San Diego, California
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID 7216C6F442784B3DA289AD020F5A01F8C020
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:58
+1 FAMS @F6263@
+0 @I19014@ INDI
+1 NAME Frances A /Taylor/
+2 GIVN Frances A
+2 SURN Taylor
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE 1912
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID 28E37B7435A24186B33101D7ABE1E7E1A843
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:07
+1 FAMS @F6264@
+0 @I19015@ INDI
+1 NAME Living /Wright/
+1 SEX F
+1 FAMS @F6265@
+1 FAMC @F6263@
+0 @I19016@ INDI
+1 NAME Living /Ralston/
+1 SEX M
+1 FAMS @F6265@
+0 @I19017@ INDI
+1 NAME Living /Wright/
+1 SEX M
+1 FAMC @F6263@
+0 @I19018@ INDI
+1 NAME Living /Wright/
+1 SEX F
+1 FAMS @F6266@
+1 FAMC @F6263@
+0 @I19019@ INDI
+1 NAME Living /Tate/
+1 SEX M
+1 FAMS @F6266@
+0 @I19020@ INDI
+1 NAME Living /Wright/
+1 SEX F
+1 FAMS @F6267@
+1 FAMS @F6268@
+1 FAMS @F6269@
+1 FAMC @F6263@
+0 @I19021@ INDI
+1 NAME Living /Gascon/
+1 SEX M
+1 FAMS @F6267@
+0 @I19022@ INDI
+1 NAME Living /Sprague/
+1 SEX M
+1 FAMS @F6268@
+0 @I19023@ INDI
+1 NAME Living /Anderson/
+1 SEX M
+1 FAMS @F6269@
+0 @I19024@ INDI
+1 NAME Living /Wright/
+1 SEX F
+1 FAMS @F6270@
+1 FAMC @F6263@
+0 @I19025@ INDI
+1 NAME Living /Alcaraz/
+1 SEX M
+1 FAMS @F6270@
+0 @I19026@ INDI
+1 NAME Living /Wright/
+1 SEX F
+1 FAMS @F6271@
+1 FAMC @F6263@
+0 @I19027@ INDI
+1 NAME Living /Panousieris/
+1 SEX M
+1 FAMS @F6271@
+0 @I19028@ INDI
+1 NAME Living /Wright/
+1 SEX F
+1 FAMS @F6272@
+1 FAMC @F6264@
+0 @I19029@ INDI
+1 NAME Living /Johnson/
+1 SEX M
+1 FAMS @F6272@
+0 @I19030@ INDI
+1 NAME Living /Wright/
+1 SEX F
+1 FAMS @F6273@
+1 FAMC @F6264@
+0 @I19031@ INDI
+1 NAME Wendell Harlowe /Schultz/
+2 GIVN Wendell Harlowe
+2 SURN Schultz
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 24 Oct 1929
+2 PLAC Wisconsin
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID B78E736A3B074EB6ADAB8751DA4367809C44
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:08
+1 FAMS @F6273@
+0 @I19032@ INDI
+1 NAME Ralph McClellan /Wright/
+2 GIVN Ralph McClellan
+2 SURN Wright
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 18 May 1938
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE Sep 1982
+2 PLAC Las Vegas, Clark, Nevada
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID DD72E220087E4B2091E12A2E9BA02A45B6C8
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:09
+1 FAMS @F6274@
+1 FAMC @F6264@
+0 @I19033@ INDI
+1 NAME Living /B/
+1 SEX F
+1 FAMS @F6274@
+0 @I19034@ INDI
+1 NAME Living /Wright/
+1 SEX M
+1 FAMC @F6264@
+0 @I19035@ INDI
+1 NAME Living /Wilson/
+1 SEX M
+1 FAMC @F5938@
+0 @I19036@ INDI
+1 NAME Infant /Wilson/
+2 GIVN Infant
+2 SURN Wilson
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 9 Oct 1920
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 1920
+2 SOUR @S550@
+3 PAGE Page 44
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _STAT Never Married
+1 _UID 84004DF3CA7D42369E8C69038EE9CF9AF992
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:12
+1 FAMC @F5938@
+0 @I19037@ INDI
+1 NAME Russell /Davenport/
+2 GIVN Russell
+2 SURN Davenport
+2 SOUR @S550@
+3 PAGE Page 45
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 4 Aug 1906
+2 SOUR @S550@
+3 PAGE Page 45
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE Nov 1979
+2 SOUR @S550@
+3 PAGE Page 45
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID 29CEF6A6017A4CAB8CB89AB4A01359A44760
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:13
+1 FAMS @F6113@
+1 NOTE @NI19037@
+0 @I19038@ INDI
+1 NAME Living /Davenport/
+1 SEX M
+1 FAMC @F6113@
+0 @I19039@ INDI
+1 NAME Living /Davenport/
+1 SEX M
+1 FAMC @F6113@
+0 @I19040@ INDI
+1 NAME George /Cornelius/
+2 GIVN George
+2 SURN Cornelius
+2 SOUR @S550@
+3 PAGE Page 45
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE May 1867
+2 SOUR @S550@
+3 PAGE Page 45
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID 6CC331F2AED042BDA8892ECF89E4029703FF
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:14
+1 FAMS @F6275@
+0 @I19041@ INDI
+1 NAME Stanton /Cornelius/
+2 GIVN Stanton
+2 SURN Cornelius
+2 SOUR @S550@
+3 PAGE Page 45
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Abt 1890
+2 SOUR @S550@
+3 PAGE Page 45
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID CD40B006F1B84B7484BF3F3333F7BECA927D
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:15
+1 FAMC @F6275@
+0 @I19042@ INDI
+1 NAME Infant /Cornelius/
+2 GIVN Infant
+2 SURN Cornelius
+2 SOUR @S550@
+3 PAGE Page 45
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE Abt 1892
+2 SOUR @S550@
+3 PAGE Page 45
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID 818AD067C6B544C585132D83C87ACECAE8A3
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:15
+1 FAMC @F6275@
+0 @I19043@ INDI
+1 NAME Pearly /Cornelius/
+2 GIVN Pearly
+2 SURN Cornelius
+2 SOUR @S550@
+3 PAGE Page 45
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE Abt 1894
+2 SOUR @S550@
+3 PAGE Page 45
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID 8EA92CFD4C3943DB876A33659A4E2110A549
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:15
+1 FAMC @F6275@
+0 @I19044@ INDI
+1 NAME Walter /Cornelius/
+2 GIVN Walter
+2 SURN Cornelius
+2 SOUR @S550@
+3 PAGE Page 45
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Abt 1895
+2 SOUR @S550@
+3 PAGE Page 45
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID 0A7E65524345437DAAE52F22AA87A2C5FF6D
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:15
+1 FAMC @F6275@
+0 @I19045@ INDI
+1 NAME Sophia /Cornelius/
+2 GIVN Sophia
+2 SURN Cornelius
+2 SOUR @S550@
+3 PAGE Page 45
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE Abt 1897
+2 SOUR @S550@
+3 PAGE Page 45
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID D75E1AB865CF481098DC1DBC531EFAE73256
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:15
+1 FAMC @F6275@
+0 @I19046@ INDI
+1 NAME Coyt /Cornelius/
+2 GIVN Coyt
+2 SURN Cornelius
+2 SOUR @S550@
+3 PAGE Page 45
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Abt 1899
+2 SOUR @S550@
+3 PAGE Page 45
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID 40D369B559864E0DB27FEB3F4BEBDA6C428E
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:16
+1 FAMC @F6275@
+0 @I19047@ INDI
+1 NAME Lloyd /Cornelius/
+2 GIVN Lloyd
+2 SURN Cornelius
+2 SOUR @S550@
+3 PAGE Page 45
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Abt 1900
+2 SOUR @S550@
+3 PAGE Page 45
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID 548D74F24B244C64B019C7EA83A1B47C34EF
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:16
+1 FAMC @F6275@
+0 @I19048@ INDI
+1 NAME George L /Cox/
+2 GIVN George L
+2 SURN Cox
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 20 Mar 1892
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 18 Aug 1893
+2 PLAC Jellico Creek, Whitley, Kentucky
+2 CAUS tuberculosis
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID 506DBA9E012043A6A939781D286566C04908
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:19
+1 FAMS @F6276@
+1 FAMC @F6277@
+0 @I19051@ INDI
+1 NAME Joseph /Brassfield/
+2 GIVN Joseph
+2 SURN Brassfield
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 11 Nov 1866
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 19 Aug 1937
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID 750379BC8FAD456A8906EF8278D5872A9663
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:18
+1 FAMS @F6278@
+0 @I19052@ INDI
+1 NAME Nora Georgia /Cox/
+2 GIVN Nora Georgia
+2 SURN Cox
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE 7 Sep 1893
+2 PLAC Williamsburg, Whitley, Kentucky
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 20 Dec 1956
+2 PLAC Urbana, Champaign, Illinois
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 ADDR
+3 CONT Urbana, Illinois
+3 _NAME Mercy Hospital
+3 CITY Urbana
+3 STAE Illinois
+1 _UID 54F8429FF36D4C45B8FDED4DE2F029EEF641
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:20
+1 FAMS @F6279@
+1 FAMC @F6276@
+0 @I19053@ INDI
+1 NAME Robert Floyd /Malcolm/
+2 GIVN Robert Floyd
+2 SURN Malcolm
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 24 May 1886
+2 PLAC Berea, Madison, Kentucky
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 20 Sep 1959
+2 PLAC Palm Springs, Riverside, California
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID 2CA770473EC3467F926E011FE5E33F62D910
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:21
+1 FAMS @F6279@
+0 @I19054@ INDI
+1 NAME Flora Lee /Brassfield/
+2 GIVN Flora Lee
+2 SURN Brassfield
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE Aft 1897
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID E29470E274A24CF1BA9A922FA44BEA40491F
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:22
+1 FAMS @F6280@
+1 FAMC @F6278@
+0 @I19055@ INDI
+1 NAME Ottis /Taylor/
+2 GIVN Ottis
+2 SURN Taylor
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Abt 1895
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID FEC0C5846A574640B415A9B760CF06F8A4F8
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:22
+1 FAMS @F6280@
+0 @I19056@ INDI
+1 NAME Thomas /Brassfield/
+2 GIVN Thomas
+2 SURN Brassfield
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 1889
+2 PLAC Williamsburg, Whitley, Kentucky
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID E0ED8129DD954E73BF6CB2EF919531C895D0
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:23
+1 FAMC @F6278@
+0 @I19057@ INDI
+1 NAME Granville /Brassfield/
+2 GIVN Granville
+2 SURN Brassfield
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE 1897
+2 PLAC Jellico Creek, Whitley, Kentucky
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT
+2 DATE 28 Aug 1971
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _UID 3BBA18B02D7649ACAB235CBFAB25E50AFD09
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:24
+1 FAMS @F6281@
+1 FAMC @F6278@
+0 @I19058@ INDI
+1 NAME Ara //
+2 GIVN Ara
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 DEAT Y
+1 _UID BDF43E5AEB554F3592452A487837B20FC67F
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:24
+1 FAMS @F6281@
+0 @I19059@ INDI
+1 NAME Lula F /Brassfield/
+2 GIVN Lula F
+2 SURN Brassfield
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE Abt 1902
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID B0305AA70407406F871355E7CA49A40A32AE
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:24
+1 FAMS @F6282@
+1 FAMC @F6278@
+0 @I19060@ INDI
+1 NAME John Henry /Bates/
+2 GIVN John Henry
+2 SURN Bates
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Abt 1900
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID 71CFD2C9465D4352BCDB6BB76EEF3A086B9C
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:24
+1 FAMS @F6282@
+0 @I19061@ INDI
+1 NAME Nelle /Brassfield/
+2 GIVN Nelle
+2 SURN Brassfield
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX F
+1 BIRT
+2 DATE Abt 1910
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID 1888A32439FA483D9B644FE0908F77E1C41F
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:25
+1 FAMS @F6283@
+1 FAMC @F6278@
+0 @I19062@ INDI
+1 NAME Ernest /Baird/
+2 GIVN Ernest
+2 SURN Baird
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 SEX M
+1 BIRT
+2 DATE Abt 1910
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 DEAT Y
+1 _UID DF6B0D35842C49ACACD90A9C1D117D353C03
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:25
+1 FAMS @F6283@
+0 @I19862@ INDI
+1 NAME Jess /White/
+2 GIVN Jess
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE May 1882
+1 DEAT Y
+1 _UID B2BC62D2283448D381A39F97765805246AB9
+1 CHAN
+2 DATE 22 May 2005
+3 TIME 13:21
+1 FAMC @F6045@
+0 @I19876@ INDI
+1 NAME Margaret /West/
+2 GIVN Margaret
+2 SURN West
+1 SEX F
+1 _UID B8FD925E14C94B50A34A1994E16A3C37756F
+1 CHAN
+2 DATE 22 May 2005
+3 TIME 13:19
+1 FAMC @F6035@
+0 @I19883@ INDI
+1 NAME Living /Edmonson/
+1 SEX M
+1 FAMC @F6251@
+0 @I19884@ INDI
+1 NAME Living /Edmonson/
+1 SEX M
+1 FAMC @F6251@
+0 @I19885@ INDI
+1 NAME Living /Edmonson/
+1 SEX M
+1 FAMC @F6251@
+0 @I19886@ INDI
+1 NAME Living /Edmonson/
+1 SEX F
+1 FAMC @F6251@
+0 @I19887@ INDI
+1 NAME Living /Vanderslice/
+1 SEX F
+1 FAMC @F6253@
+0 @I19888@ INDI
+1 NAME Living /Vanderslice/
+1 SEX F
+1 FAMC @F6253@
+0 @I19889@ INDI
+1 NAME Living /Vanderslice/
+1 SEX M
+1 FAMC @F6253@
+0 @I2@ INDI
+1 NAME Living /Trolinder/
+1 SEX F
+1 FAMS @F1@
+1 FAMC @F5305@
+0 @I380@ INDI
+1 NAME Living /Parker/
+1 SEX M
+1 FAMC @F6257@
+0 @I54@ INDI
+1 NAME Living /Davisson/
+1 SEX M
+1 FAMS @F15@
+1 FAMS @F16@
+1 FAMC @F1@
+0 @I55@ INDI
+1 NAME Living /Davisson/
+1 SEX F
+1 FAMS @F17@
+1 FAMC @F1@
+0 @I56@ INDI
+1 NAME Living /Davisson/
+1 SEX F
+1 FAMS @F6799@
+1 FAMC @F1@
+0 @I9842@ INDI
+1 NAME Living /Trolinder/
+1 NAME Living /Trolinder/
+1 SEX F
+1 FAMS @F5729@
+1 FAMC @F5305@
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I54@
+1 CHIL @I55@
+1 CHIL @I56@
+0 @F15@ FAM
+1 HUSB @I54@
+0 @F16@ FAM
+1 HUSB @I54@
+0 @F17@ FAM
+1 WIFE @I55@
+0 @F2@ FAM
+1 MARR
+2 DATE 6 Apr 1928
+2 PLAC Wewoka, Seminole, Oklahoma
+2 SOUR @S2@
+3 PAGE Page 352
+3 QUAY 3
+3 DATE 16 Dec 2002
+1 EVEN
+2 TYPE Resided
+2 DATE Bef Jun 1944
+2 PLAC Wewoka, Seminole, Oklahoma
+2 SOUR @S106@
+3 PAGE page 370
+3 QUAY 3
+1 EMIG
+2 DATE 17 Jun 1944
+2 PLAC Fresno, Fresno, California
+2 SOUR @S106@
+3 PAGE page 370
+3 QUAY 3
+1 CHIL @I1@
+2 _PREF Y
+1 CHAN
+2 DATE 6 May 2006
+3 TIME 09:37
+0 @F2939@ FAM
+1 MARR
+1 CHIL @I18022@
+2 _PREF Y
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 08:32
+0 @F34650259@ FAM
+1 MARR
+1 CHIL @I16693@
+1 CHAN
+2 DATE 13 Mar 2004
+3 TIME 12:16
+0 @F34651073@ FAM
+1 WIFE @I17664@
+0 @F34651074@ FAM
+1 WIFE @I17664@
+0 @F34651075@ FAM
+1 WIFE @I17664@
+0 @F34651076@ FAM
+1 WIFE @I17655@
+0 @F34651077@ FAM
+1 WIFE @I17654@
+0 @F5202@ FAM
+1 MARR
+2 DATE 27 Nov 1898
+2 PLAC Montague Co., Texas
+2 SOUR @S592@
+3 PAGE Page 18
+3 QUAY 4
+1 CHIL @I16705@
+2 _PREF Y
+1 CHAN
+2 DATE 6 May 2006
+3 TIME 09:44
+0 @F5305@ FAM
+1 HUSB @I16705@
+2 _PREF Y
+1 WIFE @I16692@
+2 _PREF Y
+1 MARR
+2 DATE 18 Apr 1926
+2 PLAC Hardeman Co., Texas
+2 SOUR @S468@
+3 PAGE 7
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 SOUR @S592@
+3 PAGE Page 19
+3 QUAY 3
+1 EMIG to California
+2 DATE 1944
+2 PLAC Texas
+2 SOUR @S592@
+3 PAGE Page 19
+3 QUAY 3
+1 CHIL @I17660@
+1 CHIL @I9842@
+1 CHIL @I2@
+2 _PREF Y
+1 CHAN
+2 DATE 6 May 2006
+3 TIME 09:37
+0 @F5631@ FAM
+1 MARR
+2 DATE Bef 1870
+2 PLAC Polk County, Missouri
+1 CHIL @I18025@
+2 _PREF Y
+1 CHAN
+2 DATE 6 May 2006
+3 TIME 09:37
+0 @F5728@ FAM
+1 HUSB @I17660@
+2 _PREF Y
+1 WIFE @I16693@
+2 _PREF Y
+1 MARR
+2 DATE 19 Aug 1946
+2 PLAC Fresno, Fresno, California
+1 CHIL @I17664@
+1 CHIL @I17655@
+1 CHIL @I17654@
+1 CHAN
+2 DATE 13 Mar 2004
+3 TIME 12:18
+0 @F5729@ FAM
+1 HUSB @I17385@
+1 WIFE @I9842@
+1 CHIL @I17386@
+1 CHIL @I17387@
+0 @F5730@ FAM
+1 WIFE @I17387@
+0 @F5731@ FAM
+1 HUSB @I17386@
+0 @F5938@ FAM
+1 HUSB @I17920@
+2 _PREF Y
+1 MARR
+1 CHIL @I19036@
+1 CHIL @I19035@
+1 CHIL @I17921@
+2 _PREF Y
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:29
+0 @F5941@ FAM
+1 HUSB @I17932@
+2 _PREF Y
+1 WIFE @I17931@
+2 _PREF Y
+1 MARR
+2 DATE 27 Sep 1915
+2 SOUR @S550@
+3 PAGE Page 38
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 CHIL @I18981@
+2 _PREF Y
+1 CHIL @I18983@
+1 CHIL @I18987@
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:20
+0 @F5942@ FAM
+1 HUSB @I17933@
+2 _PREF Y
+1 WIFE @I17934@
+2 _PREF Y
+1 MARR
+2 DATE 8 Apr 1917
+2 PLAC Hollis, Harmon, Oklahoma
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 CHIL @I17937@
+2 _PREF Y
+1 CHIL @I18989@
+1 CHIL @I18992@
+1 CHIL @I18994@
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:35
+0 @F5943@ FAM
+1 HUSB @I17936@
+2 _PREF Y
+1 WIFE @I17935@
+2 _PREF Y
+1 MARR
+2 DATE 18 Dec 1926
+2 SOUR @S550@
+3 PAGE Page 42
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 CHIL @I18997@
+2 _PREF Y
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:46
+0 @F5967@ FAM
+1 HUSB @I17987@
+2 _PREF Y
+1 WIFE @I18010@
+2 _PREF Y
+1 MARR
+2 DATE 11 Dec 1883
+2 PLAC Whitley Co., Kentucky
+1 CHIL @I17991@
+2 _PREF Y
+1 CHIL @I18923@
+1 CHIL @I18924@
+1 CHIL @I17988@
+1 CHIL @I18926@
+1 CHIL @I18927@
+1 CHIL @I17989@
+1 CHIL @I18925@
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:29
+0 @F5974@ FAM
+1 HUSB @I18894@
+1 WIFE @I18013@
+2 _PREF Y
+1 MARR
+1 CHIL @I18895@
+2 _STAT Illegitimate
+2 _PREF Y
+1 CHAN
+2 DATE 23 Mar 2004
+3 TIME 12:35
+0 @F5978@ FAM
+1 HUSB @I18008@
+2 _PREF Y
+1 MARR
+2 DATE 3 Oct 1844
+2 PLAC Whitley Co., Kentucky
+2 SOUR @S487@
+1 EVEN
+2 TYPE Alt. Marriage
+2 DATE 30 Oct 1844
+2 SOUR @S550@
+3 PAGE Page 12
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 CHIL @I18031@
+2 _PREF Y
+1 CHIL @I18035@
+1 CHIL @I18010@
+1 CHAN
+2 DATE 23 Mar 2004
+3 TIME 12:34
+0 @F5979@ FAM
+1 HUSB @I18008@
+2 _PREF Y
+1 WIFE @I18013@
+2 _PREF Y
+1 MARR
+2 DATE 22 Sep 1867
+2 PLAC Whitley Co., Kentucky
+2 NOTE @NF5979@
+1 CHIL @I18895@
+1 CHIL @I18024@
+2 _PREF Y
+1 CHIL @I18026@
+1 CHIL @I18023@
+1 CHIL @I18021@
+1 CHIL @I18018@
+1 CHIL @I18016@
+1 CHIL @I18014@
+1 CHAN
+2 DATE 6 May 2006
+3 TIME 09:37
+0 @F5980@ FAM
+1 HUSB @I18014@
+2 _PREF Y
+1 WIFE @I18015@
+2 _PREF Y
+1 MARR
+2 DATE 1905
+2 SOUR @S550@
+3 PAGE Page 34
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 CHIL @I17943@
+2 _PREF Y
+1 CHIL @I18939@
+1 CHIL @I18940@
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 09:20
+0 @F5981@ FAM
+1 HUSB @I18016@
+2 _PREF Y
+1 WIFE @I18017@
+2 _PREF Y
+1 DIV Y
+1 MARR
+2 DATE 1901
+2 SOUR @S550@
+3 PAGE Page 17
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 _NONE
+1 CHAN
+2 DATE 23 Mar 2004
+3 TIME 13:03
+0 @F5982@ FAM
+1 HUSB @I18018@
+2 _PREF Y
+1 WIFE @I18019@
+2 _PREF Y
+1 MARR
+2 DATE 1900
+2 SOUR @S550@
+3 PAGE Page 34
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 CHIL @I17942@
+2 _PREF Y
+1 CHIL @I18936@
+1 CHIL @I18937@
+1 CHIL @I18938@
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 09:03
+0 @F5983@ FAM
+1 HUSB @I18020@
+2 _PREF Y
+1 WIFE @I18021@
+2 _PREF Y
+1 MARR
+2 DATE 1892
+2 SOUR @S550@
+3 PAGE Page 30
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 CHIL @I17920@
+2 _PREF Y
+1 CHIL @I18934@
+1 CHIL @I18935@
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 08:54
+0 @F5984@ FAM
+1 HUSB @I18022@
+2 _PREF Y
+1 WIFE @I18023@
+2 _PREF Y
+1 MARR
+2 DATE 1889
+2 PLAC Franklin Co., Arkansas
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+2 NOTE @NF5984@
+1 CHIL @I17938@
+2 _PREF Y
+1 CHIL @I17939@
+1 CHIL @I17940@
+1 CHIL @I17941@
+1 CHIL @I18931@
+1 CHIL @I18932@
+1 CHIL @I18933@
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 08:36
+0 @F5985@ FAM
+1 HUSB @I18024@
+2 _PREF Y
+1 WIFE @I18025@
+2 _PREF Y
+1 MARR
+2 DATE 8 Aug 1889
+2 PLAC Sebastian Co., Arkansas
+2 NOTE @NF5985@
+1 CHIL @I17930@
+2 _PREF Y
+1 CHIL @I17931@
+1 CHIL @I17933@
+1 CHIL @I16692@
+2 _PREF Y
+1 CHIL @I17935@
+1 CHAN
+2 DATE 6 May 2006
+3 TIME 09:37
+0 @F5987@ FAM
+1 HUSB @I18030@
+2 _PREF Y
+1 WIFE @I18031@
+2 _PREF Y
+1 MARR
+2 DATE 19 Sep 1867
+2 PLAC Whitley Co., Kentucky
+1 CHIL @I18039@
+2 _PREF Y
+1 CHIL @I18034@
+1 CHIL @I18918@
+1 CHIL @I18033@
+1 CHIL @I18032@
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:29
+0 @F5988@ FAM
+1 HUSB @I18030@
+2 _PREF Y
+1 WIFE @I18035@
+1 MARR
+2 DATE 29 Jan 1880
+2 PLAC Scott County, Tennessee
+1 CHIL @I18036@
+2 _PREF Y
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:29
+0 @F5989@ FAM
+1 HUSB @I18030@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:29
+0 @F5990@ FAM
+1 HUSB @I18036@
+2 _PREF Y
+1 WIFE @I18489@
+2 _PREF Y
+1 MARR
+2 DATE 1897
+2 PLAC Jellico, Scott County, Tennessee
+1 CHIL @I18972@
+1 CHIL @I18973@
+1 CHIL @I18974@
+1 CHIL @I18975@
+1 CHIL @I18976@
+1 CHIL @I18977@
+1 CHIL @I18978@
+1 CHIL @I18979@
+1 CHIL @I18038@
+2 _PREF Y
+1 CHIL @I18980@
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:29
+0 @F5991@ FAM
+1 HUSB @I18982@
+2 _PREF Y
+1 WIFE @I18981@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:22
+0 @F5993@ FAM
+1 MARR
+2 DATE Bef 1824
+2 PLAC Whitley Co., Kentucky
+1 CHIL @I18008@
+2 _PREF Y
+1 CHAN
+2 DATE 6 May 2006
+3 TIME 09:37
+0 @F6005@ FAM
+1 MARR
+1 CHIL @I18489@
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:27
+0 @F6009@ FAM
+1 HUSB @I18128@
+2 _PREF Y
+1 WIFE @I18085@
+2 _PREF Y
+1 MARR
+1 CHIL @I18130@
+2 _PREF Y
+1 CHAN
+2 DATE 19 Mar 2004
+3 TIME 22:34
+0 @F6017@ FAM
+1 MARR
+2 DATE 11 Mar 1830
+2 PLAC Whitley Co., Kentucky
+1 CHIL @I18204@
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:27
+0 @F6025@ FAM
+1 WIFE @I18085@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 22 May 2005
+3 TIME 13:24
+0 @F6026@ FAM
+1 MARR
+1 CHIL @I18123@
+2 _PREF Y
+1 CHIL @I18092@
+1 CHAN
+2 DATE 6 May 2006
+3 TIME 09:37
+0 @F6028@ FAM
+1 HUSB @I18091@
+2 _PREF Y
+1 WIFE @I18092@
+2 _PREF Y
+1 MARR
+1 CHIL @I18093@
+2 _PREF Y
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 05:38
+0 @F6029@ FAM
+1 HUSB @I18093@
+2 _PREF Y
+1 WIFE @I18100@
+2 _PREF Y
+1 MARR
+2 DATE 20 Sep 1847
+2 PLAC Whitley Co., Kentucky
+1 CHIL @I18094@
+2 _PREF Y
+1 CHIL @I18095@
+1 CHIL @I18096@
+1 CHIL @I18097@
+1 CHIL @I18098@
+1 CHIL @I18099@
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 05:38
+0 @F6032@ FAM
+1 HUSB @I18093@
+2 _PREF Y
+1 WIFE @I18101@
+1 MARR
+2 DATE 10 Nov 1864
+2 PLAC Whitley Co., Kentucky
+1 CHIL @I18102@
+2 _PREF Y
+1 CHIL @I18145@
+1 CHIL @I18159@
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 05:38
+0 @F6035@ FAM
+1 HUSB @I18106@
+2 _PREF Y
+1 WIFE @I18130@
+2 _PREF Y
+1 MARR
+1 CHIL @I19876@
+2 _PREF Y
+1 CHAN
+2 DATE 19 Mar 2004
+3 TIME 22:34
+0 @F6036@ FAM
+1 HUSB @I18110@
+2 _PREF Y
+1 WIFE @I18111@
+2 _PREF Y
+1 MARR
+1 CHIL @I18136@
+2 _PREF Y
+1 CHIL @I18137@
+1 CHIL @I18138@
+1 CHIL @I18139@
+1 CHIL @I18140@
+1 CHIL @I18191@
+1 CHIL @I18174@
+1 CHIL @I18030@
+1 CHAN
+2 DATE 19 Mar 2004
+3 TIME 22:34
+0 @F6037@ FAM
+1 HUSB @I18112@
+2 _PREF Y
+1 WIFE @I18113@
+2 _PREF Y
+1 MARR
+1 CHIL @I18114@
+1 CHIL @I18091@
+1 CHIL @I18117@
+1 CHIL @I18115@
+1 CHIL @I18118@
+2 _PREF Y
+1 CHIL @I18110@
+1 CHAN
+2 DATE 6 May 2006
+3 TIME 09:37
+0 @F6038@ FAM
+1 HUSB @I18119@
+2 _PREF Y
+1 WIFE @I18114@
+2 _PREF Y
+1 MARR
+1 CHIL @I18919@
+2 _PREF Y
+1 CHAN
+2 DATE 19 Mar 2004
+3 TIME 22:34
+0 @F6039@ FAM
+1 HUSB @I18120@
+2 _PREF Y
+1 WIFE @I18115@
+2 _PREF Y
+1 MARR
+2 DATE 21 Aug 1808
+2 PLAC Knox Co., Kentucky
+1 CHAN
+2 DATE 19 Mar 2004
+3 TIME 22:34
+0 @F6041@ FAM
+1 HUSB @I18117@
+2 _PREF Y
+1 WIFE @I18122@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 19 Mar 2004
+3 TIME 22:34
+0 @F6042@ FAM
+1 HUSB @I18118@
+2 _PREF Y
+1 WIFE @I18123@
+2 _PREF Y
+1 MARR
+1 CHIL @I18125@
+1 CHIL @I18176@
+1 CHIL @I18013@
+2 _PREF Y
+1 CHAN
+2 DATE 6 May 2006
+3 TIME 09:37
+0 @F6043@ FAM
+1 HUSB @I18204@
+2 _PREF Y
+1 WIFE @I18124@
+2 _PREF Y
+1 MARR
+2 DATE 25 Aug 1866
+2 PLAC Louisville, Jefferson, Kentucky
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:29
+0 @F6044@ FAM
+1 HUSB @I18125@
+2 _PREF Y
+1 WIFE @I18126@
+2 _PREF Y
+1 MARR
+1 CHIL @I18135@
+2 _PREF Y
+1 CHIL @I18131@
+1 CHIL @I18132@
+1 CHIL @I18133@
+1 CHIL @I18134@
+1 CHIL @I18124@
+1 CHIL @I18161@
+1 CHIL @I18162@
+1 CHIL @I18163@
+1 CHIL @I18164@
+1 CHIL @I18165@
+1 CHAN
+2 DATE 19 Mar 2004
+3 TIME 22:34
+0 @F6045@ FAM
+1 HUSB @I18128@
+2 _PREF Y
+1 WIFE @I18154@
+1 MARR
+1 CHIL @I19862@
+1 CHIL @I18160@
+2 _PREF Y
+1 CHAN
+2 DATE 19 Mar 2004
+3 TIME 22:34
+0 @F6046@ FAM
+1 HUSB @I18136@
+2 _PREF Y
+1 WIFE @I18141@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 19 Mar 2004
+3 TIME 22:34
+0 @F6047@ FAM
+1 HUSB @I18142@
+2 _PREF Y
+1 WIFE @I18137@
+2 _PREF Y
+1 MARR
+1 CHIL @I18166@
+2 _PREF Y
+1 CHIL @I18427@
+1 CHIL @I18168@
+1 CHIL @I18169@
+1 CHIL @I18170@
+1 CHIL @I18171@
+1 CHAN
+2 DATE 19 Mar 2004
+3 TIME 22:34
+0 @F6048@ FAM
+1 HUSB @I18138@
+2 _PREF Y
+1 WIFE @I18143@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 19 Mar 2004
+3 TIME 22:34
+0 @F6049@ FAM
+1 HUSB @I18139@
+2 _PREF Y
+1 WIFE @I18144@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 19 Mar 2004
+3 TIME 22:34
+0 @F6050@ FAM
+1 HUSB @I18139@
+1 WIFE @I18143@
+1 MARR
+1 CHAN
+2 DATE 19 Mar 2004
+3 TIME 22:34
+0 @F6051@ FAM
+1 HUSB @I18146@
+2 _PREF Y
+1 WIFE @I18140@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 19 Mar 2004
+3 TIME 22:34
+0 @F6056@ FAM
+1 HUSB @I18174@
+2 _PREF Y
+1 WIFE @I18175@
+2 _PREF Y
+1 MARR
+1 CHIL @I18107@
+2 _PREF Y
+1 CHIL @I18108@
+1 CHIL @I18109@
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:29
+0 @F6057@ FAM
+1 HUSB @I18176@
+2 _PREF Y
+1 WIFE @I18177@
+2 _PREF Y
+1 MARR
+2 DATE 12 May 1849
+2 PLAC Whitley Co., Kentucky
+1 CHIL @I18127@
+2 _PREF Y
+1 CHIL @I18103@
+1 CHIL @I18104@
+1 CHIL @I18105@
+1 CHIL @I18128@
+1 CHIL @I18129@
+1 CHAN
+2 DATE 19 Mar 2004
+3 TIME 22:34
+0 @F6064@ FAM
+1 HUSB @I18191@
+2 _PREF Y
+1 WIFE @I18192@
+2 _PREF Y
+1 MARR
+2 DATE 10 Feb 1861
+2 PLAC Whitley Co., Kentucky
+1 CHAN
+2 DATE 19 Mar 2004
+3 TIME 22:34
+0 @F6065@ FAM
+1 WIFE @I18192@
+2 _PREF Y
+1 MARR
+2 DATE 10 Feb 1861
+2 PLAC Whitley Co., Kentucky
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:29
+0 @F6068@ FAM
+1 HUSB @I18030@
+2 _PREF Y
+1 WIFE @I18199@
+1 MARR
+1 CHAN
+2 DATE 19 Mar 2004
+3 TIME 22:34
+0 @F6081@ FAM
+1 MARR
+2 DATE 4 May 1854
+2 PLAC Whitley Co., Kentucky
+1 CHIL @I18106@
+2 _PREF Y
+1 CHAN
+2 DATE 21 Mar 2004
+3 TIME 07:54
+0 @F6113@ FAM
+1 HUSB @I19037@
+2 _PREF Y
+1 WIFE @I17943@
+2 _PREF Y
+1 MARR
+1 CHIL @I19038@
+2 _PREF Y
+1 CHIL @I19039@
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:13
+0 @F6117@ FAM
+1 HUSB @I18579@
+2 _PREF Y
+1 WIFE @I18427@
+2 _PREF Y
+1 MARR
+1 CHIL @I18457@
+2 _PREF Y
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:27
+0 @F6136@ FAM
+1 HUSB @I18457@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:27
+0 @F6170@ FAM
+1 WIFE @I18192@
+1 MARR
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:27
+0 @F6178@ FAM
+1 MARR
+2 DATE 12 Jan 1841
+2 PLAC Whitley Co., Kentucky
+1 CHIL @I18175@
+2 _PREF Y
+1 CHIL @I18204@
+1 CHIL @I18579@
+1 CHAN
+2 DATE 20 Mar 2004
+3 TIME 08:27
+0 @F6238@ FAM
+1 HUSB @I18919@
+2 _PREF Y
+1 MARR
+1 CHIL @I17987@
+2 _PREF Y
+1 CHAN
+2 DATE 23 Mar 2004
+3 TIME 15:56
+0 @F6241@ FAM
+1 HUSB @I17945@
+2 _PREF Y
+1 WIFE @I18930@
+2 _PREF Y
+1 MARR
+2 DATE 1913
+2 SOUR @S550@
+3 PAGE Page 29
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 08:40
+0 @F6242@ FAM
+1 WIFE @I18023@
+1 MARR
+1 CHIL @I17945@
+2 _STAT Illegitimate
+2 _PREF Y
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 08:41
+0 @F6243@ FAM
+1 HUSB @I18895@
+2 _PREF Y
+1 WIFE @I18941@
+2 _PREF Y
+1 MARR
+2 DATE 14 Jan 1869
+1 CHIL @I18947@
+1 CHIL @I18945@
+1 CHIL @I18943@
+1 CHIL @I18942@
+2 _PREF Y
+1 CHIL @I18948@
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 09:32
+0 @F6244@ FAM
+1 HUSB @I18944@
+2 _PREF Y
+1 WIFE @I18943@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 09:30
+0 @F6245@ FAM
+1 HUSB @I18946@
+2 _PREF Y
+1 WIFE @I18945@
+2 _PREF Y
+1 MARR
+2 DATE Abt 1886
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 09:33
+0 @F6251@ FAM
+1 HUSB @I18984@
+2 _PREF Y
+1 WIFE @I18983@
+2 _PREF Y
+1 MARR
+1 CHIL @I19883@
+2 _PREF Y
+1 CHIL @I19884@
+1 CHIL @I19885@
+1 CHIL @I19886@
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:24
+0 @F6252@ FAM
+1 MARR
+1 CHIL @I18984@
+2 _PREF Y
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:25
+0 @F6253@ FAM
+1 HUSB @I18988@
+2 _PREF Y
+1 WIFE @I18987@
+2 _PREF Y
+1 MARR
+1 CHIL @I19887@
+2 _PREF Y
+1 CHIL @I19888@
+1 CHIL @I19889@
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:27
+0 @F6254@ FAM
+1 HUSB @I18990@
+2 _PREF Y
+1 WIFE @I18989@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:37
+0 @F6255@ FAM
+1 HUSB @I18991@
+1 WIFE @I18989@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:38
+0 @F6256@ FAM
+1 HUSB @I18992@
+2 _PREF Y
+1 WIFE @I18993@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:38
+0 @F6257@ FAM
+1 HUSB @I18994@
+2 _PREF Y
+1 WIFE @I18995@
+2 _PREF Y
+1 MARR
+2 DATE 1943
+2 PLAC Hollis, Harmon, Oklahoma
+2 SOUR @S550@
+3 PAGE Page 39
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 CHIL @I380@
+2 _PREF Y
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:40
+0 @F6258@ FAM
+1 HUSB @I18994@
+1 WIFE @I18996@
+0 @F6259@ FAM
+1 HUSB @I18998@
+2 _PREF Y
+1 WIFE @I18997@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:48
+0 @F6260@ FAM
+1 HUSB @I18999@
+2 _PREF Y
+1 WIFE @I17939@
+2 _PREF Y
+1 MARR
+1 CHIL @I19000@
+2 _PREF Y
+1 CHIL @I19001@
+1 CHIL @I19002@
+1 CHIL @I19003@
+1 CHIL @I19004@
+1 CHIL @I19005@
+1 CHIL @I19006@
+1 CHIL @I19007@
+1 CHIL @I19009@
+1 CHIL @I19010@
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:49
+0 @F6261@ FAM
+1 HUSB @I19007@
+1 WIFE @I19008@
+0 @F6262@ FAM
+1 HUSB @I17941@
+2 _PREF Y
+1 WIFE @I19011@
+2 _PREF Y
+1 MARR
+1 CHIL @I19012@
+2 _PREF Y
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:55
+0 @F6263@ FAM
+1 HUSB @I18933@
+2 _PREF Y
+1 WIFE @I19013@
+2 _PREF Y
+1 MARR
+1 CHIL @I19015@
+2 _PREF Y
+1 CHIL @I19017@
+1 CHIL @I19018@
+1 CHIL @I19020@
+1 CHIL @I19024@
+1 CHIL @I19026@
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:58
+0 @F6264@ FAM
+1 HUSB @I18933@
+2 _PREF Y
+1 WIFE @I19014@
+1 MARR
+1 CHIL @I19028@
+2 _PREF Y
+1 CHIL @I19030@
+1 CHIL @I19032@
+1 CHIL @I19034@
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 10:58
+0 @F6265@ FAM
+1 HUSB @I19016@
+1 WIFE @I19015@
+0 @F6266@ FAM
+1 HUSB @I19019@
+1 WIFE @I19018@
+0 @F6267@ FAM
+1 HUSB @I19021@
+1 WIFE @I19020@
+0 @F6268@ FAM
+1 HUSB @I19022@
+1 WIFE @I19020@
+0 @F6269@ FAM
+1 HUSB @I19023@
+1 WIFE @I19020@
+0 @F6270@ FAM
+1 HUSB @I19025@
+1 WIFE @I19024@
+0 @F6271@ FAM
+1 HUSB @I19027@
+1 WIFE @I19026@
+0 @F6272@ FAM
+1 HUSB @I19029@
+1 WIFE @I19028@
+0 @F6273@ FAM
+1 HUSB @I19031@
+1 WIFE @I19030@
+0 @F6274@ FAM
+1 HUSB @I19032@
+1 WIFE @I19033@
+0 @F6275@ FAM
+1 HUSB @I19040@
+2 _PREF Y
+1 WIFE @I18947@
+2 _PREF Y
+1 MARR
+1 CHIL @I19041@
+2 _PREF Y
+1 CHIL @I19042@
+1 CHIL @I19043@
+1 CHIL @I19044@
+1 CHIL @I19045@
+1 CHIL @I19046@
+1 CHIL @I19047@
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:14
+0 @F6276@ FAM
+1 HUSB @I19048@
+2 _PREF Y
+1 WIFE @I18948@
+2 _PREF Y
+1 MARR
+1 CHIL @I19052@
+2 _PREF Y
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:17
+0 @F6277@ FAM
+1 MARR
+1 CHIL @I19048@
+2 _PREF Y
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:17
+0 @F6278@ FAM
+1 HUSB @I19051@
+1 WIFE @I18948@
+2 _PREF Y
+1 MARR
+2 DATE Jan 1896
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 CHIL @I19056@
+1 CHIL @I19057@
+1 CHIL @I19054@
+2 _PREF Y
+1 CHIL @I19059@
+1 CHIL @I19061@
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:18
+0 @F6279@ FAM
+1 HUSB @I19053@
+2 _PREF Y
+1 WIFE @I19052@
+2 _PREF Y
+1 MARR
+2 DATE 4 Jun 1908
+2 PLAC Williamsburg, Whitley, Kentucky
+2 SOUR @S550@
+3 PAGE Page 46
+3 QUAY 3
+3 DATE 11 Oct 2003
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:21
+0 @F6280@ FAM
+1 HUSB @I19055@
+2 _PREF Y
+1 WIFE @I19054@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:22
+0 @F6281@ FAM
+1 HUSB @I19057@
+2 _PREF Y
+1 WIFE @I19058@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:24
+0 @F6282@ FAM
+1 HUSB @I19060@
+2 _PREF Y
+1 WIFE @I19059@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:24
+0 @F6283@ FAM
+1 HUSB @I19062@
+2 _PREF Y
+1 WIFE @I19061@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 24 Mar 2004
+3 TIME 11:25
+0 @F6536@ FAM
+1 MARR
+1 CHIL @I18982@
+2 _PREF Y
+1 CHAN
+2 DATE 22 May 2005
+3 TIME 13:49
+0 @F6680@ FAM
+1 MARR
+2 DATE 1923
+2 PLAC Arkansas
+2 SOUR @S592@
+3 PAGE Page 33
+3 QUAY 3
+1 CHIL @I17385@
+2 _PREF Y
+1 CHAN
+2 DATE 2 May 2006
+3 TIME 21:20
+0 @F6799@ FAM
+1 WIFE @I56@
+0 @MI18008@ NOTE
+1 CONC (Medical):William Henderson was a severe athsmatic and ha
+1 CONC d to sleep sitting up at night because he could not lie dow
+1 CONC n, which made his breathing difficult.  A part, if not all
+1 CONC , of his treatment was smoking some kind of pipe with a med
+1 CONC ication in it.
+0 @MI18014@ NOTE
+1 CONC (Medical):See attached sources.
+0 @MI18016@ NOTE
+1 CONC (Medical):Yes, Emma, our Darling George had to go on. I onl
+1 CONC y got to go to see him once. He lived 4 weeks after he wa
+1 CONC s stricken. I wanted to send you the letter Lucy Parker wro
+1 CONC te to me about his sickness and his passing on, but I sen
+1 CONC t it on to Luster. It was so sweet and precious. She said h
+1 CONC e was the sweetest patient she ever nursed.  She said he wa
+1 CONC s so anxious to go on after the doctors told him he could n
+1 CONC ot be better. She said after he told them everthing (sic) i
+1 CONC n detail about how he wanted to be buried and everthing (si
+1 CONC c) about the funeral, she said he turned over and prayed th
+1 CONC e sweetest prayer and she said he said Dear God what are w
+1 CONC e waiting on I am ready and so anxious to come on. There i
+1 CONC s not a shaddow between. Take me home. Then she said he pas
+1 CONC sed on so easy and quiet, not a struggle or anything. She s
+1 CONC aid it was so sweet and so beautiful. She said Vie don't gr
+1 CONC ieve but let's pray that when we come to the end, that we t
+1 CONC o (sic) may be able to say not a shaddow (sic) between, I a
+1 CONC m ready and may our passing be like his.  He had told the
+1 CONC m that evening it would be his last night with them, he wa
+1 CONC s going and he thanked them for their kindness and good car
+1 CONC e of him. You see, he was in hospital 2 weeks in Ft. Smith
+1 CONC , poor darling. I had the great pleasure of nursing him bac
+1 CONC k to life last summer after the doctors at Heavner (sic) ha
+1 CONC d given him up to die both he & Vira.
+1 CONT
+1 CONT Excerpt from:  letter written to Emma B. Tabor Parker by Vi
+1 CONC anna Parker Wilson, 425 So. Sec. St., McAlester, Okla., o
+1 CONC n September 21, 1947.
+0 @NF5979@ NOTE
+1 CONC Marriage Certificate (copy sent by granddaughter, Mildred H
+1 CONC odgens, Savanna, Oklahoma:
+1 CONT This is to Certify That on the 3 day of September, 1867 th
+1 CONC e Rites of Marriage were legally solmenized by me between W
+1 CONC .H. Parker and Nancy White at the house of Nancy White in t
+1 CONC he County of Whitley in the presence of Mass Parker and Ann
+1 CONC y(?) White and Mary an(?) White.  Signed:  M.E. White, J.P.
+1 CONT Written on bottom:  A Copy attest - E.G. Massingale, Cler
+1 CONC k Whitley County Court. 
+1 CONT
+1 CONT Marriage License, 
+1 CONT The Commonwealth of Kentucky,
+1 CONT To any Minister of the Gospel, or other person legally auth
+1 CONC orized to soleminze Matrimony:
+1 CONT You are permitted to solemnize the RITES OF MATRIMONY
+1 CONT between W. H. Parker
+1 CONT and Nancy White
+1 CONT the requirements of the law having been complied with.
+1 CONT Witness my signature as Clerk of Whitley County Court,
+1 CONT this 2nd day of September 1867      John W. Siler,  Clerk
+0 @NF5984@ NOTE
+1 CONC Marriage Notes for LUCY PARKER and JAMES WRIGHT:
+1 CONT Wright, James H. 21 & Lucy Parker   19    Oct 20, 188
+1 CONC 9       D-264
+1 CONT Source:  Franklin County Arkansas Marriage Books C-D-E-F-G-
+1 CONC H-I   1882-1916.
+0 @NF5985@ NOTE
+1 CONC Marriage Notes for JESSE PARKER and EMMA TABOR:
+1 CONT Marriage License
+1 CONT State of Arkansas     Greenwood District    County of Sebas
+1 CONC tian
+1 CONT
+1 CONT between Mr. Jesse B. Parker of the County of Sebastian an
+1 CONC d State of Arkansas aged 21 years, and Miss Emma B. Tabor o
+1 CONC f the County of Sebastian and State of Arkansas aged 17 yea
+1 CONC rs, according to Law.
+1 CONT
+1 CONT I, John W. Miller, M.G. do hereby certify that on the 8 da
+1 CONC y of August A.D. 1889, I did duly and according to law, a
+1 CONC s commanded in the foregoing License solemnize the Rite an
+1 CONC d publish the Bans of Matrimony between the parties therei
+1 CONC n named.  My credentials are recorded in Sebastian County
+1 CONC , Arkansas.
+1 CONT (Source:  Marriage License copy).
+0 @NI16692@ NOTE
+1 CONC Obituary:  TROLINDER, JESSIE MAE
+1 CONT Memorial services for Jessie Mae Trolinder, 93, of Fresno w
+1 CONC ill be at 11 a.m. Tuesday at Memorial Gardens Mausoleum Cha
+1 CONC pel.  Mrs. Trolinder, a homemaker, died Friday.  Visitatio
+1 CONC n will be from 6 to 9 p.m. today at Salvation Army Chapel
+1 CONC .  Arrangements are under the direction of Wildrose Chape
+1 CONC l & Funeral Home.
+1 CONT "The Fresno Bee"  March 4, 2001.
+1 CONT
+1 CONT IN LOVING MEMORY OF
+1 CONT Jessie Mae Trolinder
+1 CONT
+1 CONT JESSIE
+1 CONT Heaven is much nearer now
+1 CONT That Jessie is over there.
+1 CONT It seems I hear the angels
+1 CONT As they sing her welcome air.
+1 CONT
+1 CONT I hear the dear, familiar voice,
+1 CONT I see the tender smile.
+1 CONT At last her gentle loving hands 
+1 CONT Will rest a little while.
+1 CONT
+1 CONT If she could speak to me
+1 CONT I know she'd tell me not to grieve
+1 CONT As I linger over odds and ends
+1 CONT I cannot bear to leave.
+1 CONT
+1 CONT How precious are the memories
+1 CONT That flood my aching heart.
+1 CONT How many are the little things
+1 CONT That set Jessie apart.
+1 CONT
+1 CONT How very much we loved her.
+1 CONT How much we love her still.
+1 CONT And lonely is the empty place
+1 CONT That no one else can fill.
+1 CONT
+1 CONT ORDER OF SERVICE
+1 CONT Welcome and Prayer			Lyndell Browder
+1 CONT Solo "How Great Thou Art"		by Bill Edmonson
+1 CONT Obituary				Lyndell Browder
+1 CONT Scripture Reading, John 4:1-4		by Tim Davisson
+1 CONT Congregational Hymn			"Just a Closer Walk"
+1 CONT Message				Ted Cole
+1 CONT Solo "Beulah Land"			by Alan Morrison
+1 CONT Closing Remarks			Don Trolinder
+1 CONT
+1 CONT IN LOVING MEMORY OF
+1 CONT Jessie Mae Trolinder
+1 CONT BORN
+1 CONT October 9, 1907
+1 CONT Hollis, Oklahoma
+1 CONT DIED
+1 CONT March 2, 2001
+1 CONT Fresno, California
+1 CONT FUNERAL SERVICE
+1 CONT Tuesday, March 6, 2001 at 11:00 a.m.
+1 CONT Fresno Memorial Gardens Mausoleum Chapel
+1 CONT 175 S. Cornelia, Fresno, California
+1 CONT ENTOMBMENT
+1 CONT Fresno Memorial Gardens
+1 CONT 175 S. Cornelia, Fresno, California
+1 CONT Wildrose Chapel & Funeral Home
+1 CONT Lic. No. FD 1499  916 Divisadero, Fresno, CA  486-7777
+1 CONT
+1 CONT SURVIVING RELATIVES
+1 CONT Husband:			Joel Trolinder
+1 CONT Son & Daughter-in-Law:		Donald & Vaneta Trolinder
+1 CONT Daughter & Son-in-Law:		Wynell & George Morrison
+1 CONT Daughter & Son-in-Law:		Twyla & John Davisson
+1 CONT Granddaughter:			Deborah Trolinder
+1 CONT Granddaughter & Her Husband:	Rita & Bill Scott
+1 CONT Granddaughter & Her Husband:	Cynthia & Alfred Lopez
+1 CONT Grandson & His Wife:		Alan & Hilda Morrison
+1 CONT Granddaughter & Her Husband:	Darlene & James Cole
+1 CONT Grandson & His Wife:		Tim & Vicki Davisson
+1 CONT Granddaughter & Her Husband:	LuEllen & Lyndell Browder
+1 CONT Granddaughter:			Erin Davisson
+1 CONT Great Grandchildren:		Fifteen
+1 CONT Great Great Grandchildren:	Three
+1 CONT
+1 CONT Above information from handout given at the funeral service
+1 CONC s.
+0 @NI17385@ NOTE
+1 CONC According to his birth certificate he was born on May 20, 1
+1 CONC 928, but his parents both said he was born on May 21, 1928
+1 CONC .  They said the doctor had been at their house all night a
+1 CONC nd he must have entered the wrong date on the certificate
+1 CONC .  His parents also said his correct name was G.W. After co
+1 CONC ming to California, he began going by the name of George Wi
+1 CONC lliam, which is what G. W. stood for, after his two grandfa
+1 CONC thers, James William Buck and George William Morrison.  H
+1 CONC e is also known as "Dub" by his brothers and sisters, a nic
+1 CONC kname given to him by his older brother, Leon, who could no
+1 CONC t say the "W".
+1 CONT
+1 CONT He called him "Dubby" and it was later shortened to Dub.  D
+1 CONC ub and Leon were very close and Dub was the last in the fam
+1 CONC ily to see Leon before he shipped out to Germany.  Dub wen
+1 CONC t to Fort Smith, AR with Leon to see him off on the bus.  T
+1 CONC hey had their picture taken together in a little photo boot
+1 CONC h at the bus station.  Dub says his last memory of Leon i
+1 CONC s his waving to him from the bus window. 
+1 CONT
+1 CONT George served in the United States Navy during the Korean C
+1 CONC onflict, 1950-1954.
+0 @NI17931@ NOTE
+1 CONC [Brøderbund Family Archive #110, Vol. 2, Ed. 4, Social Secu
+1 CONC rity Death Index: U.S., Social Security Death Index, Surnam
+1 CONC es from M through Z, Date of Import: Aug 12, 1997, Interna
+1 CONC l Ref. #1.112.4.88828.85]
+1 CONT
+1 CONT Individual: Swindle, Arah
+1 CONT Birth date: Aug 18, 1897
+1 CONT Death date: Sep 1987
+1 CONT Social Security #: 
+1 CONT Last residence: TX 78501
+1 CONT State of issue: TX
+0 @NI17933@ NOTE
+1 CONC [Brøderbund Family Archive #110, Vol. 2, Ed. 4, Social Secu
+1 CONC rity Death Index: U.S., Social Security Death Index, Surnam
+1 CONC es from M through Z, Date of Import: May 14, 1997, Interna
+1 CONC l Ref. #1.112.4.38124.127]
+1 CONT
+1 CONT Individual: Parker, James
+1 CONT Birth date: Mar 14, 1900
+1 CONT Death date: Jan 1973
+1 CONT Social Security #: 448-18-7750
+1 CONT Last residence: OK 73550
+1 CONT State of issue: OK
+1 CONT [Brøderbund Family Archive #110, Vol. 2, Ed. 4, Social Secu
+1 CONC rity Death Index: U.S., Social Security Death Index, Surnam
+1 CONC es from M through Z, Date of Import: Aug 12, 1997, Interna
+1 CONC l Ref. #1.112.4.38124.127]
+1 CONT
+1 CONT Surname:  Parker
+1 CONT Given:  J.H.     00048
+1 CONT Fairmont Cemetery, Harmon Co., OK, OKGenWeb Online.
+1 CONT
+1 CONT Hugh sell houses November 1944  $2,000 put in bank in Holli
+1 CONC s.
+1 CONT Source:  Little book of records belonging to mother of Hugh
+1 CONC , Emma Tabor Parker.
+0 @NI17935@ NOTE
+1 CONC On the day of Lois' burial, her father-in-law, Mr. Watkins
+1 CONC , told Joel Trolinder, "I am to blame for this.  If I had b
+1 CONC een home, it wouldn't have happened.  I would have got a do
+1 CONC ctor fast and an old doctor, not a young one.  An old docto
+1 CONC r knows how to doctor women."
+0 @NI17941@ NOTE
+1 CONC Believed to be James.
+1 CONT Source:  Ellen Sparklin, granddaughter of Ralph M. Wright a
+1 CONC nd ggranddaughter of James H. Wright.
+0 @NI17945@ NOTE
+1 CONC Golden L. was the illegitimate son of Lucy Parker. He was r
+1 CONC aised by his grandparents, William Henderson and Nancy Park
+1 CONC er.  On the 1900 census of Indian Territory (Wister Town)
+1 CONC , he was listed as 13 years old and living in the househol
+1 CONC d of Nancy Parker who was a widow at this point.  His birth
+1 CONC place was listed as Arkansas, his mother's as Kentucky an
+1 CONC d no birthplace for a father.
+1 CONT
+1 CONT Luster G. Parker:  
+1 CONT Born:  1886.  
+1 CONT Where:  Mulberry, Ark.  
+1 CONT Married:  1913 To Jennie Lewis.  
+1 CONT Died:  1967.
+1 CONT Luster G. Parker:  Nationality:  American.  Where Educated
+1 CONC :  Navy.  Occupation:  Gov. Employee.
+1 CONT Luster G. Parker:  Cause of Death:  Blank.  Where Buried
+1 CONC :  Blank.
+1 CONT Source:  Parker Family Bible.
+0 @NI18008@ NOTE
+1 CONC After Sarah died, "Henderson," as he was usually called, wa
+1 CONC ited for the traditional six months of mourning to end befo
+1 CONC re remarrying 3 September 1867 to Nancy White, daughter o
+1 CONC f Dempsey White and Nancy Perkins.
+0 @NI18013@ NOTE
+1 CONC She had a son, William Troy White who later changed his nam
+1 CONC e to 'Parker,'
+1 CONT born out of wedlock.  He was obviously named for one of th
+1 CONC e Meadors as 'William Troy' was a traditional Meadors name
+1 CONC , but have no hint as to his father.  Also no idea where h
+1 CONC e was born.  Her father had left Whitley in the late 1840'
+1 CONC s for Hardin County, TN, but [his] son, Jesse Perkins White
+1 CONC , returned to Whitley and Nancy may have been living with h
+1 CONC im.  He had a daughter, Nancy, who was only a year younge
+1 CONC r than this Nancy. (This information from Nancy White Jonck
+1 CONC heere of Lansing, Michigan.  She is great-granddaughter o
+1 CONC f Rutha Parker and Jasper Newton White.)
+0 @NI18014@ NOTE
+1 CONC According to the 1900 census of Indian Territory (Wister To
+1 CONC wn), now known as Oklahoma, Sampson was single and his occu
+1 CONC pation was a Trader.  Parker Bible lists his occupation a
+1 CONC s Farmer.  He is buried in Savanna, Oklahoma.
+1 CONT
+1 CONT Sampson A. Parker:  Born:  1878.  Where:  Williamsburg, KY
+1 CONC .  Married:  1905 To Nettie Carpenter.  Died:  1954.
+1 CONT S. A. Parker:  Nationality:  American.  Occupation:  Farmer.
+1 CONT Sam Parker:  Cause of Death:  Coronary.  Where Buried:  Sav
+1 CONC anna, OK.  Headstone.
+1 CONT Source:  Parker Family Bible.
+0 @NI18018@ NOTE
+1 CONC Henderson F. Parker:  Born:  1873.  Where:  Williamsburg, K
+1 CONC Y.  Married:  1900 To Lucy Irons.  Died:  1956.
+1 CONT H. F. Parker:  Nationality:  American.  Occupation:  Mercha
+1 CONC nt.
+1 CONT Henderson F. Parker:  Cause of Death:  Cancer.  Where Burie
+1 CONC d:  Heavener, OK. (Reinhart).
+1 CONT Source:  Parker Family Bible.
+0 @NI18020@ NOTE
+1 CONC McClellan Wilson was a physician in Wister and McAlester, O
+1 CONC klahoma.
+1 CONT
+1 CONT Report on Physician's Record Search
+1 CONT Citation to an Obituary:  Journal of the AMA, v. 117, p.1999
+1 CONT Handwritten Side:
+1 CONT Physician's name:  Wilson, McClellan
+1 CONT Place and date of birth:  Booneville, KY., June 26, 1864
+1 CONT Early education:  Common Sch. with an Academic course
+1 CONT Medical school:  Mo. 22, '94
+1 CONT Internship and residency:  McAlester, Okla.
+1 CONT Typed Side:
+1 CONT Wilson, McClellan          1999       117
+1 CONT McAlester, Okla.
+1 CONT October 15, 1941
+1 CONT McClellan Wilson, McAlester, Okla.; Ensworth Medical Colleg
+1 CONC e, St. Joseph, Mo., 1894; member of the Oklahoma State Medi
+1 CONC cal Association; aged 77; died, October 15 of cerebral hemo
+1 CONC rrhage.
+1 CONT Written on side of card:  Dr. Herbert A. Wilson, 305 1-2
+1 CONT                                        East Choctaw Ave, Mc
+1 CONC Alester, Okla.   10-27-41
+1 CONT Source:  National Genealogical Society
+1 CONT               4527 17th Street North
+1 CONT               Arlington, Virginia 22207
+1 CONT               1-800-473-0060  ext, 331
+1 CONT
+1 CONT City Directory, So McAlester 1905 C Dir 1 b
+1 CONT Wilson, McClellan phys 4-5 Munn bldg, r 524 S. 2nd.
+1 CONT Physicians And Surgeons
+1 CONT Wilson, McClellan (R), 4-5 Munn bldg.  R=Regular
+1 CONT
+1 CONT 225   225   Wilson, McClellan		Head
+1 CONT Color:  W		
+1 CONT Sex:  M
+1 CONT Birth:  June 1864     
+1 CONT Age:  35
+1 CONT Marital:  M     
+1 CONT How many Years:  8
+1 CONT Birthplace:  Kentucky     
+1 CONT Father's Birthplace:  Kentucky    
+1 CONT  Mother's Birthplace:  Kentucky
+1 CONT Occupation:  Physician     
+1 CONT Months not employed:  0
+1 CONT Can read:  Yes     
+1 CONT Can write:  Yes     
+1 CONT Can speak English:  Yes
+1 CONT Owned or Rented:  O     
+1 CONT Owned Free or Mortgaged:  F     
+1 CONT Farm or House:  H
+1 CONT
+1 CONT Vianna		Wife
+1 CONT Color:  W 	
+1 CONT Sex:  F
+1 CONT Birth:  Sept. 1871     
+1 CONT Age:  28
+1 CONT Marital:  M     
+1 CONT How many Years:  8     
+1 CONT Mother of how many children:  1     
+1 CONT Number still living:  1
+1 CONT Birthplace:  Kentucky     
+1 CONT Father's Birthplace:  Tennessee     
+1 CONT Mother's Birthplace:  Kentucky
+1 CONT Can read:  Yes    
+1 CONT Can write:  Yes     
+1 CONT Can speak English:  Yes
+1 CONT
+1 CONT Herbert A.	Son
+1 CONT Color:  W     	
+1 CONT Sex:  M
+1 CONT Birth:  Sept. 1895     
+1 CONT Age:  4
+1 CONT Marital:  S
+1 CONT Birthplace:  Indian Territory     
+1 CONT Father's Birthplace:  Kentucky     
+1 CONT Mother's Birthplace:  Kentucky
+1 CONT Source for above:  Microfilm T623-#1851     1900 Census, In
+1 CONC dian Territory, Wister Town,  page 191.
+0 @NI18021@ NOTE
+1 CONC She Remembered Miss Armstrong
+1 CONT by Evelyn Wingo Thompson
+1 CONT      We in McAlester, Oklahoma, have been blessed, until he
+1 CONC r recent death, with the presence of a wonderful woman, Mrs
+1 CONC . McClellan Wilson.  Everyone called her "Mother Wilson" an
+1 CONC d delighted to hear her tell about "the early days."
+1 CONT      Mrs. Wilson came as a bride to the state in pioneer da
+1 CONC ys when Oklahoma was Indian territory and McAlester the cap
+1 CONC ital of the Choctaw Nation.  She shared in the growth of Ba
+1 CONC ptist work in her town and state for more than half a centu
+1 CONC ry. 
+1 CONT      One of her choicest memories was of the time in 1903 w
+1 CONC hen Miss Annie Armstrong, first secretary of Woman's Missio
+1 CONC nary Union, was a week-end guest in her home.
+1 CONT      There were several mining towns in the McAlester vicin
+1 CONC ity, employing many Italians and other foreign-speaking gro
+1 CONC ups. Miss Kate Perry and Miss Kate Hansen were sent by th
+1 CONC e women of Georgia and Virginia to work among these people.
+1 CONT      Miss Armstrong came to McAlester to visit these group
+1 CONC s in nearby Hartshorne, Haileyville, and Alderson. Miss Han
+1 CONC sen and Miss Perry lived in a very small apartment, and Mrs
+1 CONC . Wilson's home was the "Baptist Hotel," so she entertaine
+1 CONC d Miss Armstrong. Though the Wilsons later had a spacious h
+1 CONC ome and entertained hosts of visitors, they were then livin
+1 CONC g in a bungalow, and she was a bit embarrassed at entertain
+1 CONC ing so prominent a person. But she recalled, "Miss Armstron
+1 CONC g was most gracious and kindly; she particularly liked my h
+1 CONC omemade biscuits and butter, and she immediately formed a f
+1 CONC riendship with our eight-year-old son."
+1 CONT      Miss Armstrong spoke in the mining area several time
+1 CONC s during the week end and at the First Baptist Church in Mc
+1 CONC Alester on Sunday afternoon. Vividly, Mrs. Wilson would tel
+1 CONC l, "She spoke of the great need of adequate buildings in th
+1 CONC e mining area, of the need for more societies. It seemed th
+1 CONC at a great burden of her heart at that time was for a hom
+1 CONC e for missionary sons and daughters.
+1 CONT      "Miss Armstrong led the family worship in our home whi
+1 CONC le here. The first night she spoke on John 3:16 and the sec
+1 CONC ond night on 'Go Ye,' referring to her own going."  
+1 CONT      Mrs. Wilson remembered that Miss Armstrong wore a blac
+1 CONC k crepe dress with basque waist pleated in the back.  She w
+1 CONC as rather tall and wore an open-crowned dress bonnet tied u
+1 CONC nder the chin with black streamers. Her only ornament wa
+1 CONC s a beautiful cameo.
+1 CONT      Miss Armstrong had many curios from the fields she vis
+1 CONC ited, but the item that most intrigued the Wilsons' son wa
+1 CONC s a collapsible pasteboard church. Miss Armstrong had a bun
+1 CONC dle of these in her luggage and gave the boy one. There wer
+1 CONC e one hundred bricks in the church and he "sold" each bric
+1 CONC k for ten cents. When he had the total of ten dollars, he s
+1 CONC ent this in to Miss Armstrong to be used for building a chu
+1 CONC rch in Cuba, whereupon she wrote him an interesting lette
+1 CONC r and sent him another collapsible church. In this manner h
+1 CONC e filled in three of these churches and for many years cher
+1 CONC ished her letters acknowledging the money he sent in.
+1 CONT      It has been a help to our home mission interest and t
+1 CONC o our Annie Armstrong Offering to have Mrs. Wilson Live amo
+1 CONC ng us so long and tell us about Miss Annie Armstrong.
+1 CONT Source: Article in "Royal Service," March 1956, a magazin
+1 CONC e publication of the Southern Baptist Convention.
+0 @NI18022@ NOTE
+1 CONC He was a farmer and was struck by lightning. In the 1880'
+1 CONC s there was a wagon train migration of several families fro
+1 CONC m Whitley Co., Kentucky to Crawford Co., Arkansas.
+1 CONT
+1 CONT He received his education at Ozark College. He was marrie
+1 CONC d to Lucy Idella Parker and they had 7 children.
+1 CONT
+1 CONT Source:  Ellen Sparklin, granddaughter to Ralph Wright, ggr
+1 CONC anddaughter of James Wright.
+1 CONT
+1 CONT 267  267  
+1 CONT Wright, James H. Head
+1 CONT Color:  W
+1 CONT Sex:  M
+1 CONT Birth:  Nov. 1867
+1 CONT Age:  32
+1 CONT Marital:  M    
+1 CONT How Many Years:  11
+1 CONT Birthplace:  Kentucky
+1 CONT Father's Birthplace:  Indiana
+1 CONT Mother's Birthplace:  Indiana
+1 CONT Occupation:  Barber    
+1 CONT Months unemployed:  0   
+1 CONT Can read:  Yes    
+1 CONT Can write:  Yes    
+1 CONT Can speak English:  Yes
+1 CONT Owned or Rented:  O     
+1 CONT Owned Free or Mortgaged:  F 
+1 CONT Farm or House:  H
+1 CONT
+1 CONT Lucy Wife
+1 CONT Color:  W
+1 CONT Sex:  F
+1 CONT Birth:  Dec. 1869
+1 CONT Age:  30
+1 CONT Marital:  M  How Many Years:  11 
+1 CONT Mother of how many children:  5 
+1 CONT How many living:  4
+1 CONT Birthplace:  Kentucky 
+1 CONT Father's Birthplace:  Tennessee 
+1 CONT Mother's Birthplace:  Kentucky
+1 CONT Can read:  Yes 
+1 CONT Can write:  Yes
+1 CONT Can speak English:  Yes
+1 CONT
+1 CONT Clarence Son
+1 CONT Color:  W
+1 CONT Sex:  M
+1 CONT Birth:  Aug. 1890
+1 CONT Age: 9
+1 CONT Marital:  S
+1 CONT Birthplace:  Arkansas
+1 CONT Father's Birthplace:  Kentucky
+1 CONT Mother's Birthplace:  Kentucky
+1 CONT Occupation:  At school
+1 CONT Attended School (in months): 4
+1 CONT Can read:  Yes     
+1 CONT Can write:  Yes 
+1 CONT Can speak English:  Yes
+1 CONT
+1 CONT Gracie	Daughter
+1 CONT Color:  W
+1 CONT Sex:  F
+1 CONT Birth:  Oct.  1892
+1 CONT Age:  7
+1 CONT Marital:  S
+1 CONT Birthplace:  Arkansas 
+1 CONT Father's Birthplace:  Kentucky 
+1 CONT Mother's Birthplace:  Kentucky
+1 CONT Occupation:  At school 
+1 CONT Attended School (in months):  4
+1 CONT Can read:  Yes 
+1 CONT Can write:  Yes  
+1 CONT Can speak English:  Yes
+1 CONT
+1 CONT J. Fredrick  Son
+1 CONT Color:  W
+1 CONT Sex:  M
+1 CONT Birth:  Oct. 1897
+1 CONT Age:  2
+1 CONT Marital:  S
+1 CONT Birthplace:  Indian Territory
+1 CONT Father's Birthplace:  Kentucky
+1 CONT Mother's Birthplace:  Kentucky
+1 CONT
+1 CONT Blank	Son
+1 CONT Color:  W
+1 CONT Sex:  M
+1 CONT Birth:  Apr. 1900
+1 CONT Age:  7/12 (? can't read well)
+1 CONT Marital:  S
+1 CONT Birthplace:  Indian Territory 
+1 CONT Father's Birthplace:  Kentucky
+1 CONT Mother's Birthplace:  Kentucky
+1 CONT Source for above:  Microfilm T623-#1851, 1900 Census, India
+1 CONC n Territory, Wister Town, page 189.
+0 @NI18023@ NOTE
+1 CONC Lucy I. Parker:  Born:  1869.  Where:  Williamsburg, KY.  
+1 CONT Married:  1889 To J. H. Wright.  Died:  1943
+1 CONT Lucy Parker:  Nationality:  American.  Occupation:  Houseke
+1 CONC eper.
+1 CONT Lucy Wright:  Cause of Death:  Cancer.  Where Buried:  McAl
+1 CONC ester, OK.  Headstone.
+1 CONT Source:  Parker Family Bible.
+0 @NI18025@ NOTE
+1 CONC Friday
+1 CONT Dear Mother & Daddy,
+1 CONT I meant to write a letter this morning but didn't get to it
+1 CONC . Came to town this eve. to wash so will write a card whil
+1 CONC e here. Odessa stayed and kept the kids.  We have been havi
+1 CONC ng a nice visit. I wish you would have come with her. Any t
+1 CONC ime you all decide to come let us know.  We won't need an
+1 CONC y one so bad just in the crop the chores of course are th
+1 CONC e trouble. Mr. Adams rented the 1/4 section out so we won'
+1 CONC t have as much as we thought.  If you don't get the house a
+1 CONC nd want to come on let us know.  Will write a letter in a d
+1 CONC ay or so. 
+1 CONT Jessie
+1 CONT
+1 CONT Written along the side of card:  Tell Hugh I sure think (si
+1 CONC c) him for the $10.
+1 CONT
+1 CONT Source:  Postcard written by Jessie Parker Trolinder to he
+1 CONC r mother and dad.
+1 CONT
+1 CONT Addressed to:  Mr. & Mrs. J. B. Parker, Hollis Okla, Box 57
+1 CONC 5.  Postmarked: Brownfield, Texas, Jan 29, 7 PM, 1943.  Car
+1 CONC d in possession of Wynell Morrison.
+0 @NI18026@ NOTE
+1 CONC Mary never married.  She is buried in the Wister City Cemet
+1 CONC ery, Oklahoma, located in the first circle east of the mai
+1 CONC n gate.  Her tombstone has her name as May Parker.  Jessi
+1 CONC e Parker Trolinder always called her Aunt Mamie, although s
+1 CONC he had died by the time Jessie was born.  Mamie could hav
+1 CONC e been a nickname.
+0 @NI18030@ NOTE
+1 CONC The 1870 Whitley County census shows him as 21, living at h
+1 CONC is parents' home, but with Susan, aged 17.  Susan was the 1
+1 CONC 4 year old Susan R. Parker he married (1) in Whitley Co. o
+1 CONC n 19 September 1867 as Jasper A. (aged 19). Id.  He marrie
+1 CONC d (2) Rutha Parker in Scott Co., TN on 29 January 1880 an
+1 CONC d (3) Mary Ann Freeman Rains.  He died in 1909.
+0 @NI18034@ NOTE
+1 CONC I presume this is the record for this child:
+1 CONT 1874 August 27 - __________ White, Male, Born Alive, Whitle
+1 CONC y Co.
+1 CONT    Father - J. N. White, Birthplace-Whitley Co.
+1 CONT    Mother - Susan Parker, Birthplace-Whitley Co.
+1 CONT Source:  V158-32 Kentucky, Vital Records and Statistics, 18
+1 CONC 52-1938 Birth, Marriage & Death Records, 1852-1910.  Whitle
+1 CONC y - Woodford Co.
+0 @NI18035@ NOTE
+1 CONC Susie White died soon after the birth of daughter, Ruth, an
+1 CONC d her sister, Rutha, came to stay to help out with the chil
+1 CONC dren. Although the marriage was recorded in Scott County, t
+1 CONC hey were married in Whitley. The circuit rider simply dropp
+1 CONC ed off his marriage records there (there are many marriag
+1 CONC e records in Scott).  And, there was a muffin in the oven
+1 CONC , a little hanky-panky going on since Alfred Franklin Whit
+1 CONC e was born three months later.
+0 @NI18038@ NOTE
+1 CONC [Brøderbund Family Archive #110, Vol. 2, Ed. 4, Social Secu
+1 CONC rity Death Index: U.S., Social Security Death Index, Surnam
+1 CONC es from M through Z, Date of Import: Aug 12, 1997, Interna
+1 CONC l Ref. #1.112.4.109483.74]
+1 CONT
+1 CONT Individual: White, Everett
+1 CONT Birth date: Mar 15, 1905
+1 CONT Death date: Dec 1967
+1 CONT Social Security #: 385-03-0976
+1 CONT State of issue: MI
+0 @NI18085@ NOTE
+1 CONC I am a grand daughter of Diza Ann White West – daughter o
+1 CONC f Milford White and Martha E. West White. Where did you fin
+1 CONC d the marriage information for Milford’s first marriage? Di
+1 CONC za Ann was born January 7, 1882. Jess, the first son of Mil
+1 CONC ford and Naomi Shepherd was born May 1882. (only 4 months a
+1 CONC part). Our family lore is that Martha’s father went to ge
+1 CONC t her and made her come home. He was very religious and Mil
+1 CONC ford was not. In fact, Milford later became one of the firs
+1 CONC t professors at Cumberland Institute, now Cumberland Colleg
+1 CONC e in Williamsburg, KY, when it opened in January 1889. I wo
+1 CONC uld be happy to share information I have about him (includi
+1 CONC ng a picture of him conducting the “Singing School” he star
+1 CONC ted at Cumberland) if you will let me know what informatio
+1 CONC n you have about them. I especially would like to have info
+1 CONC rmation about their marriage.
+1 CONT Peggy West Denton
+0 @NI18128@ NOTE
+1 CONC This photo was given to my father by our step-grandfather A
+1 CONC lfred White who was related to Milford as well. He told m
+1 CONC y father, “This is a picture of your grandfather.” I woul
+1 CONC d like to have any information you have about him. Do you t
+1 CONC hink there may have been two Milford Whites in South Easter
+1 CONC n Kentucky at that time? The census shows different ages an
+1 CONC d it is confusing. I know the census was not always accurat
+1 CONC e. I am just now having time to work on this again now tha
+1 CONC t school is out for my students.
+1 CONT I am a Supervising Teacher for Mt. St. Mary’s University i
+1 CONC n the Education Department. What do you do, Cuz?
+1 CONT Peggy
+1 CONT
+1 CONT on 1/19/05 8:31 PM, Victoria Davisson at vdavisson at uswes
+1 CONC t.net wrote:
+1 CONT
+1 CONT Sorry for the late reply! 
+1 CONT
+1 CONT Actually in my database there was no marriage date for Milf
+1 CONC ord and Martha West. If I link two people to a child, the d
+1 CONC efault is "husband-wife." Maybe Miss West bore Mr. White'
+1 CONC s child but apparently there was no marriage date. If so, o
+1 CONC ne of the two children was not legitimate or a quick divorc
+1 CONC e happened, etc. 
+1 CONT
+1 CONT I would love to have a scanned picture. This person is a co
+1 CONC usin of my husband so if you are his great or g-g granddaug
+1 CONC hter of his you'd be 5th or 6th cousins. 
+1 CONT
+1 CONT I don't have a lot of infomation about this person, unfortu
+1 CONC nately. He is a cousin of the Parkers, a direct ancestor o
+1 CONC f my husband's. I'd be happy to share what I have.... writ
+1 CONC e back when you get a chance. We can exchange information i
+1 CONC f you'd like.
+1 CONT
+1 CONT ---Vicki Davisson
+1 CONT
+1 CONT -----Original Message-----
+1 CONT From: Margaret Denton [mailto:peggio at att.net]
+1 CONT Sent: Saturday, November 06, 2004 7:55 PM
+1 CONT To: vdavisson at uswest.net
+1 CONT Subject: Milford White
+1 CONT
+1 CONT I am a grand daughter of Diza Ann White West – daughter o
+1 CONC f Milford White and Martha E. West White. Where did you fin
+1 CONC d the marriage information for Milford’s first marriage? Di
+1 CONC za Ann was born January 7, 1882. Jess, the first son of Mil
+1 CONC ford and Naomi Shepherd was born May 1882. (only 4 months a
+1 CONC part). Our family lore is that Martha’s father went to ge
+1 CONC t her and made her come home. He was very religious and Mil
+1 CONC ford was not. In fact, Milford later became one of the firs
+1 CONC t professors at Cumberland Institute, now Cumberland Colleg
+1 CONC e in Williamsburg, KY, when it opened in January 1889. I wo
+1 CONC uld be happy to share information I have about him (includi
+1 CONC ng a picture of him conducting the “Singing School” he star
+1 CONC ted at Cumberland) if you will let me know what informatio
+1 CONC n you have about them. I especially would like to have info
+1 CONC rmation about their marriage.
+1 CONT Peggy West Denton
+0 @NI18130@ NOTE
+1 CONC I am a grand daughter of Diza Ann White West – daughter o
+1 CONC f Milford White and Martha E. West White. Where did you fin
+1 CONC d the marriage information for Milford’s first marriage? Di
+1 CONC za Ann was born January 7, 1882. Jess, the first son of Mil
+1 CONC ford and Naomi Shepherd was born May 1882. (only 4 months a
+1 CONC part). Our family lore is that Martha’s father went to ge
+1 CONC t her and made her come home. He was very religious and Mil
+1 CONC ford was not. In fact, Milford later became one of the firs
+1 CONC t professors at Cumberland Institute, now Cumberland Colleg
+1 CONC e in Williamsburg, KY, when it opened in January 1889. I wo
+1 CONC uld be happy to share information I have about him (includi
+1 CONC ng a picture of him conducting the “Singing School” he star
+1 CONC ted at Cumberland) if you will let me know what informatio
+1 CONC n you have about them. I especially would like to have info
+1 CONC rmation about their marriage.
+1 CONT Peggy West Denton
+0 @NI18895@ NOTE
+1 CONC Was William Troy White, later changed his name to Parker
+1 CONC .  As far as can determine, he was born out of wedlock.  H
+1 CONC e was obviously named for one of the Meadors as William Tro
+1 CONC y was a traditional Meadors name, but have no hint as to hi
+1 CONC s father.  Also, no idea as to where he was born.  Has hi
+1 CONC s birthyear as 1861.
+1 CONT Source:  Nancy White Jonckheere
+0 @NI18982@ NOTE
+1 CONC [Brøderbund Family Archive #110, Vol. 1, Ed. 4, Social Secu
+1 CONC rity Death Index: U.S., Social Security Death Index, Surnam
+1 CONC es from A through L, Date of Import: May 15, 1997, Interna
+1 CONC l Ref. #1.111.4.67691.0]
+1 CONT
+1 CONT Individual: Edmonson, Oren
+1 CONT Birth date: Nov 4, 1908
+1 CONT Death date: May 1974
+1 CONT Social Security #: 447-05-9075
+1 CONT Last residence: TX 78516
+1 CONT State of issue: OK
+1 CONT
+1 CONT Database: tvdavis
+1 CONT Individual: I18982
+1 CONT Name: Zoe Tom
+1 CONT Email: zoetom@cox.net
+1 CONT URL: 
+1 CONT URL title: 
+1 CONT Note:
+1 CONT I couldn't find Oren on the 1920 or 1930 Census with Georg
+1 CONC e Mosley Edmonson and Mattie Mae Hardwick Edmonson.  The 19
+1 CONC 30 Census records show George and Hattie with children Jess
+1 CONC e Milton Edmonson, born in Oklahoma, age 16; Alvin C. Edmon
+1 CONC son, age 12, born in Texas; Anton Gene Edmonson, age 9, bor
+1 CONC n in Texas; and Barney Joe Edmonson, age 4 and 6/12, born i
+1 CONC n Texas. I was just told that Oren was the son of Samuel We
+1 CONC bster Edmonson, and not George Moseley Edmonson, his brothe
+1 CONC r.  Samuel was known as "Webster".  Barney died in World Wa
+1 CONC r II, and was missing in action..died at age 18 on Feb 1, 1
+1 CONC 945. He was a Marine.  Got the purple heart. There is a pla
+1 CONC que dedicated to him somewhere in Honolulu, possibly at Pun
+1 CONC ch Bowl Cemetery. Jesse Milton Edmonson died in 2000.
+0 @NI18984@ NOTE
+1 CONC OBITUARY
+1 CONT Rev. Milton Edmonson
+1 CONT Rev. Milton Edmonson, 86, of Scranton died Sunday, April 23
+1 CONC , 2000, at his home.
+1 CONT      He was a retired Baptist minister and son of the lat
+1 CONC e George Mose and Mattie Mae Hardwick Edmonson.
+1 CONT      Survivors include his widow, Mrs. Esta Lee Swindle Edm
+1 CONC onson; one daughter, Sandra Dix of Conroe, Texas; three son
+1 CONC s, Neil Edmonson of Scranton, Wray Edmonson of Grove, Okla.
+1 CONC , and Ronald Edmonson of Oxford, N. C.; two brothers, Alvi
+1 CONC n Edmonson of Edinburg, Texas, and Gene Edmonson of Hemphil
+1 CONC l, Texas; nine grandchildren; and 16 great-grandchildren.
+1 CONT      Funeral was at 2 p.m. Tuesday, April 25, at the Secon
+1 CONC d Baptist Church in Clarksville with Rev. Joe Craft officia
+1 CONC ting.
+1 CONT      Burial was in Lamar Cemetery under the direction of Ro
+1 CONC ller-Cox Funeral Home.
+1 CONT      Active pallbearers were Larry Hagensicker, Randy Vande
+1 CONC rpool, Raymond McClelland, Jonathan Ely, Jay Edmonson, an
+1 CONC d Rodney Brown.
+1 CONT      Honorary pallbearers were Charles Morris, Virgil Knigh
+1 CONC t, Herb Stalcup, Wayne Johnson, Tommy Bauer, and Dr. Alle
+1 CONC n Newcomb.
+0 @NI18995@ NOTE
+1 CONC Notes for LAWANDA SCOTT:
+1 CONT Surname:  Parker
+1 CONT Given:  Lawanda     00072
+1 CONT Source:  Fairmont Cemetery, Harmon Co., OK, OKGenWeb Online.
+0 @NI19037@ NOTE
+1 CONC [Broderbund Family Archive #110, Vol. 1 A-L, Ed. 6, Socia
+1 CONC l Security Death Index: U.S., Date of Import: Dec 30, 1998
+1 CONC , Internal Ref. #1.111.6.58892.121]
+1 CONT
+1 CONT Individual: Davenport, Russell
+1 CONT Social Security #: 564-10-6851
+1 CONT Issued in: California
+1 CONT
+1 CONT Birth date: Aug 4, 1900
+1 CONT Death date: Nov 1979
+1 CONT Residence code: California
+1 CONT
+1 CONT ZIP Code of last known residence: 95202
+1 CONT Primary location associated with this ZIP Code:
+1 CONT
+1 CONT Stockton, California
+0 @S106@ SOUR
+1 _MEDI Monograph
+1 ABBR Davisson Family Genealogy
+1 TITL The Genealogical Record of the John T. Davisson Family
+1 AUTH Barbara Shamlian, ThD
+1 PUBL created 1994 by Barbara Shamlian, ThD
+1 DATE 1994
+1 _QUOTED Y
+1 _PAREN Y
+0 @S2@ SOUR
+1 _MEDI Monograph
+1 ABBR Shuey Genealogy
+1 TITL The Legacy of the Shuey Family
+1 AUTH Barbara Shamlian, ThD
+1 PUBL Completed 1994
+1 _QUOTED Y
+1 _PAREN Y
+0 @S421@ SOUR
+1 _MEDI Web Page
+1 ABBR David's family
+1 TITL David's family Web Page
+1 AUTH David Myers
+1 PUBL http://worldconnect.rootsweb.com/cgi-bin/igm.cgi?op=GED&db=
+2 CONC davenbelle&id=I3387
+1 _ITALIC Y
+1 _PAREN Y
+0 @S430@ SOUR
+1 _MEDI Web Page
+1 ABBR Vanderhoofven Tree
+1 TITL Vanderhoofven Tree
+1 AUTH John Vanderhoofven  john_vandy@yahoo.com
+1 PUBL http://worldconnect.rootsweb.com/cgi-bin/igm.cgi?op=GED&db=
+2 CONC :1692958&id=I76822891
+1 _ITALIC Y
+1 _PAREN Y
+0 @S460@ SOUR
+1 ABBR 1880 United States Census
+1 TITL 1880 United States Census
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL Copyright (c) 2000, 2002 FamilySearch (TM) Internet Genealo
+2 CONC gy Service, March 17, 2004
+1 REPO @R951@
+1 _PAREN Y
+0 @S468@ SOUR
+1 _MEDI Monograph
+1 ABBR Descendants of Newton Trolinder
+1 TITL Descendants of Newton Trolinder
+1 AUTH Wynell Morrison
+1 PUBL A compilation of genealogy information gathered over the la
+2 CONC st 20 years
+1 _QUOTED Y
+1 _PAREN Y
+0 @S471@ SOUR
+1 _MEDI Web Page
+1 ABBR Parker-Wernet Database
+1 TITL Parker-Wernet Database
+1 AUTH Karen Parker
+1 PUBL kmparker@austin.rr.com
+1 _ITALIC Y
+1 _PAREN Y
+0 @S472@ SOUR
+1 _MEDI Vital
+1 ABBR Death certificate
+1 TITL Death certificate
+1 _PAREN Y
+0 @S483@ SOUR
+1 _MEDI Tombstone
+1 ABBR Tombstone inscription
+1 TITL Tombstone inscription
+1 _PAREN Y
+0 @S486@ SOUR
+1 _MEDI Book
+1 ABBR Whitley County Vital Statistics 1852-1910
+1 TITL Whitley County Vital Statistics 1852-1910
+1 AUTH Hopper, Carol F. and Daniel
+1 PUBL 1990
+1 _ITALIC Y
+1 _PAREN Y
+0 @S487@ SOUR
+1 _MEDI Book
+1 ABBR Tri County Knox-Laurel-Whitley Counties, Kentucky Early Mar
+2 CONC riages
+1 TITL Tri County Knox-Laurel-Whitley Counties, Kentucky Early Mar
+2 CONC riages
+1 AUTH Hopper, Carol F
+1 PUBL (1987)
+1 _ITALIC Y
+1 _PAREN Y
+0 @S495@ SOUR
+1 _MEDI Corporate Records
+1 ABBR Pension file
+1 TITL Pension file
+1 _PAREN Y
+0 @S496@ SOUR
+1 _MEDI Web Page
+1 ABBR Jackson/McNatt Families
+1 TITL Jackson/McNatt Families
+1 AUTH Don Campbell
+1 PUBL http://worldconnect.rootsweb.com/cgi-bin/igm.cgi?op=GED&db=
+2 CONC needom&id=I1579
+1 _ITALIC Y
+1 _PAREN Y
+0 @S510@ SOUR
+1 ABBR 1880 United States Census
+1 TITL 1880 United States Census
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL Copyright (c) 2000, 2002 FamilySearch (TM) Internet Genealo
+2 CONC gy Service, March 20, 2004
+1 REPO @R951@
+1 _PAREN Y
+0 @S550@ SOUR
+1 _MEDI Monograph
+1 ABBR Descendants of John Parker
+1 TITL Descendants of John Parker
+1 AUTH Wynell Morrison
+1 _QUOTED Y
+1 _PAREN Y
+0 @S553@ SOUR
+1 _MEDI Periodical
+1 ABBR Jessie Parker Trolinder
+1 TITL Jessie Parker Trolinder
+1 PUBL His daughter-in-law, Emma Tabor Parker, as told to her daug
+2 CONC hter, my mother, Jessie Parker Trolinder.
+1 _ITALIC Y
+1 _PAREN Y
+0 @S554@ SOUR
+1 _MEDI Letter
+1 ABBR Letter to Emma B. Tabor Parker
+1 TITL Letter to Emma B. Tabor Parker
+1 AUTH Vianna Parker Wilson
+1 PUBL September 21, 1947
+1 _ITALIC Y
+1 _PAREN Y
+0 @S556@ SOUR
+1 _MEDI Monograph
+1 ABBR Ancestry of Elizabeth Louise White
+1 TITL Ancestry of Elizabeth Louise White
+1 AUTH Steven C. Perkins
+1 _QUOTED Y
+1 _PAREN Y
+0 @S557@ SOUR
+1 _MEDI Bible
+1 ABBR Parker Family Bible
+1 TITL Parker Family Bible
+1 _ITALIC Y
+1 _PAREN Y
+0 @S568@ SOUR
+1 _MEDI Book
+1 ABBR Trolinder Tree 1995
+1 TITL The Trolinder Tree
+1 AUTH Raymond Young
+1 PUBL 1995. A directory of names gathered at the annual Trolinde
+2 CONC r Reunion in Childress, Texas.
+1 DATE 1995
+1 _QUOTED Y
+1 _PAREN Y
+0 @S592@ SOUR
+1 _MEDI Monograph
+1 ABBR Descendants of Newton Trolinder
+1 TITL Descendants of Newton Trolinder
+1 AUTH Judy Kay La Follette
+1 PUBL November 16, 2000
+1 _QUOTED Y
+1 _PAREN Y
+0 @S602@ SOUR
+1 _MEDI Email
+1 ABBR Milford White email
+1 TITL Milford White email
+1 AUTH Peggy West
+1 PUBL MilfordWhite.htm
+1 DATE 22 May 0005
+1 _ITALIC Y
+1 _PAREN Y
+0 @S604@ SOUR
+1 _MEDI Email
+1 ABBR George Mosely Edmonson email
+1 TITL George Mosely Edmonson
+1 AUTH Tom Zoe
+1 PUBL GeorgeMoselyEdmonson.txt
+1 DATE 22 May 0005
+1 _ITALIC Y
+1 _PAREN Y
+0 @S605@ SOUR
+1 _MEDI Web Page
+1 ABBR Descendants of John Swindle
+1 TITL Descendants of John Swindle
+1 AUTH Charles Swindle
+1 PUBL http://www.familyorigins.com/users/s/w/i/Charles-H-Swindle/
+2 CONC FAMO5-0001/index.htm
+1 DATE 22 May 0005
+1 _ITALIC Y
+1 _PAREN Y
+0 @S65@ SOUR
+1 _MEDI Census
+1 ABBR 1850 Federal Census
+1 TITL 1850 Federal Census
+1 _PAREN Y
+0 @S66@ SOUR
+1 _MEDI Census
+1 ABBR 1860 Federal Census
+1 TITL 1860 Federal Census
+1 _PAREN Y
+0 @S69@ SOUR
+1 _MEDI Census
+1 ABBR 1870 Federal Census
+1 TITL 1870 Federal Census
+1 _PAREN Y
+0 @S73@ SOUR
+1 _MEDI Census
+1 ABBR 1880 Federal Census
+1 TITL 1880 Federal Census
+1 _PAREN Y
+0 @XI16692@ NOTE
+1 CONC Obituary:  TROLINDER, JESSIE MAE
+1 CONT
+1 CONT Memorial services for Jessie Mae Trolinder, 93, of Fresno w
+1 CONC ill be at 11 a.m. Tuesday at Memorial Gardens Mausoleum Cha
+1 CONC pel.  Mrs. Trolinder, a homemaker, died Friday.  Visitatio
+1 CONC n will be from 6 to 9 p.m. today at Salvation Army Chapel
+1 CONC .  Arrangements are under the direction of Wildrose Chape
+1 CONC l & Funeral Home.
+1 CONT "The Fresno Bee"  March 4, 2001.
+1 CONT
+1 CONT
+1 CONT JESSIE
+1 CONT Heaven is much nearer now
+1 CONT That Jessie is over there.
+1 CONT It seems I hear the angels
+1 CONT As they sing her welcome air.
+1 CONT
+1 CONT I hear the dear, familiar voice,
+1 CONT I see the tender smile.
+1 CONT At last her gentle loving hands 
+1 CONT Will rest a little while.
+1 CONT
+1 CONT If she could speak to me
+1 CONT I know she'd tell me not to grieve
+1 CONT As I linger over odds and ends
+1 CONT I cannot bear to leave.
+1 CONT
+1 CONT How precious are the memories
+1 CONT That flood my aching heart.
+1 CONT How many are the little things
+1 CONT That set Jessie apart.
+1 CONT
+1 CONT How very much we loved her.
+1 CONT How much we love her still.
+1 CONT And lonely is the empty place
+1 CONT That no one else can fill.
+1 CONT
+1 CONT ORDER OF SERVICE
+1 CONT Welcome and Prayer		Lyndell Browder
+1 CONT Solo "How Great Thou Art"		by Bill Edmonson
+1 CONT Obituary				Lyndell Browder
+1 CONT Scripture Reading, John 4:1-4		by Tim Davisson
+1 CONT Congregational Hymn		"Just a Closer Walk"
+1 CONT Message				Ted Cole
+1 CONT Solo "Beulah Land"			by Alan Morrison
+1 CONT Closing Remarks			Don Trolinder
+1 CONT
+1 CONT IN LOVING MEMORY OF
+1 CONT Jessie Mae Trolinder
+1 CONT BORN
+1 CONT October 9, 1907
+1 CONT Hollis, Oklahoma
+1 CONT DIED
+1 CONT March 2, 2001
+1 CONT Fresno, California
+1 CONT FUNERAL SERVICE
+1 CONT Tuesday, March 6, 2001 at 11:00 a.m.
+1 CONT Fresno Memorial Gardens Mausoleum Chapel
+1 CONT 175 S. Cornelia, Fresno, California
+1 CONT ENTOMBMENT
+1 CONT Fresno Memorial Gardens
+1 CONT 175 S. Cornelia, Fresno, California
+1 CONT Wildrose Chapel & Funeral Home
+1 CONT Lic. No. FD 1499  916 Divisadero, Fresno, CA  486-7777
+1 CONT
+1 CONT SURVIVING RELATIVES
+1 CONT Husband:				Joel Trolinder
+1 CONT Son & Daughter-in-Law:		Donald & Vaneta Trolinder
+1 CONT Daughter & Son-in-Law:		Wynell & George Morrison
+1 CONT Daughter & Son-in-Law:		Twyla & John Davisson
+1 CONT Granddaughter:			Deborah Trolinder
+1 CONT Granddaughter & Her Husband:	Rita & Bill Scott
+1 CONT Granddaughter & Her Husband:	Cynthia & Alfred Lopez
+1 CONT Grandson & His Wife:		Alan & Hilda Morrison
+1 CONT Granddaughter & Her Husband:	Darlene & James Cole
+1 CONT Grandson & His Wife:		Tim & Vicki Davisson
+1 CONT Granddaughter & Her Husband:	LuEllen & Lyndell Browder
+1 CONT Granddaughter:			Erin Davisson
+1 CONT Great Grandchildren:		Fifteen
+1 CONT Great Great Grandchildren:		Three
+1 CONT
+1 CONT Above information from handout given at the funeral service
+1 CONC s.
+1 CONT
+1 CONT Her birth date, October 09, 1907, was on a Wednesday.
+0 @XI18031@ NOTE
+1 CONC She is probably buried in Concord Cemetery, Whitley, but n
+1 CONC o marker remains.
+0 @XI18191@ NOTE
+1 CONC , # 708, Sec. R.G.
+0 @R951@ REPO
+1 NAME Family History Library
+1 ADDR 35 N West Temple Street
+2 CONT Salt Lake City, Utah 84150  USA
+2 _NAME Family History Library
+2 ADR1 35 N West Temple Street
+2 ADR2 Salt Lake City, Utah 84150  USA
+0 TRLR

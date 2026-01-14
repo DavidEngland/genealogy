@@ -4,9 +4,9 @@
 
 === Early Life & Family ===
 
-David is a descendant of **[William M "Bill" England](https://www.wikitree.com/wiki/England-1361)** (1853–1905) and **[Palina Altimira "Kitty" McDonald](https://www.wikitree.com/wiki/McDonald-4057)** (1859–1936), early settlers and farmers in Lauderdale County, Alabama. Through his paternal line, he connects to the **England** and **[McDonald](https://www.wikitree.com/wiki/McDonald-4057)** families of Tennessee and Alabama, with deep roots in Scots-Celtic genealogy and the **Clan Donald** heritage.
+David is a descendant of **[[England-1361 | William M "Bill" England]]** (1853–1905) and **[[McDonald-4057 | Palina Altimira "Kitty" McDonald]]** (1859–1936), early settlers and farmers in Lauderdale County, Alabama. Through his paternal line, he connects to the **England** and **[[McDonald-4057 | McDonald]]** families of Tennessee and Alabama, with deep roots in Scots-Celtic genealogy and the **Clan Donald** heritage.
 
-His grandfather, **[William Edward "Ed" England](https://www.wikitree.com/wiki/England-1360)** (1879–1964), was a farmer and conservationist in Oakland, Lauderdale County. The family's tradition of careful stewardship of land and resources—from blacksmithing and gunsmithing to modern conservation—reflects values that have shaped David's scientific approach to understanding natural systems.
+His grandfather, **[[England-1360 | William Edward "Ed" England]]** (1879–1964), was a farmer and conservationist in Oakland, Lauderdale County. The family's tradition of careful stewardship of land and resources—from blacksmithing and gunsmithing to modern conservation—reflects values that have shaped David's scientific approach to understanding natural systems.
 
 === Education ===
 
@@ -74,4 +74,4 @@ David maintains active interests in family genealogy and historical research, pa
 
 ---
 
-*For detailed genealogical information on ancestors, see related profiles for [William M England](https://www.wikitree.com/wiki/England-1361), [Palina McDonald England](https://www.wikitree.com/wiki/McDonald-4057), and [William Edward England](https://www.wikitree.com/wiki/England-1360).*
+*For detailed genealogical information on ancestors, see related profiles for [[England-1361 | William M England]], [[McDonald-4057 | Palina McDonald England]], and [[England-1360 | William Edward England]].*

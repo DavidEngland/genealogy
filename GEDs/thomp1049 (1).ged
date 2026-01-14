@@ -1,0 +1,405 @@
+0 HEAD
+1 SOUR FTW
+2 VERS Family Tree Maker (16.0.350)
+2 NAME Family Tree Maker for Windows
+2 CORP MyFamily.com, Inc.
+3 ADDR 360 W 4800 N
+4 CONT Provo, UT 84604
+3 PHON (801) 705-7000
+1 DEST FTW
+1 DATE 22 JUL 2007
+1 CHAR ANSI
+1 SUBM @SUBM@
+1 FILE C:\Documents and Settings\Harry Thompson\My Documents\THOMPS~1.GED
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 _SCHEMA
+2 INDI
+3 _FA1
+4 LABL Fact 1
+3 _FA2
+4 LABL Fact 2
+3 _FA3
+4 LABL Fact 3
+3 _FA4
+4 LABL Fact 4
+3 _FA5
+4 LABL Fact 5
+3 _FA6
+4 LABL Fact 6
+3 _FA7
+4 LABL Fact 7
+3 _FA8
+4 LABL Fact 8
+3 _FA9
+4 LABL Fact 9
+3 _FA10
+4 LABL Fact 10
+3 _FA11
+4 LABL Fact 11
+3 _FA12
+4 LABL Fact 12
+3 _FA13
+4 LABL Fact 13
+3 _MREL
+4 LABL Relationship to Mother
+3 _FREL
+4 LABL Relationship to Father
+2 FAM
+3 _FA1
+4 LABL Marriage fact
+3 _FA2
+4 LABL Fact 2
+3 _MSTAT
+4 LABL Marriage Beginning Status
+3 _MEND
+4 LABL Marriage Ending Status
+0 @SUBM@ SUBM
+1 NAME Harry P Thompson
+0 @I0342@ INDI
+1 NAME Charles Wallace /Meredith/
+1 SEX M
+1 BIRT
+2 DATE 1782
+2 PLAC ,,Virginia, USA
+1 DEAT
+2 DATE 1840
+2 PLAC Edmonson, Kentucky, USA
+1 FAMS @F0266@
+1 FAMC @F0270@
+0 @I0351@ INDI
+1 NAME Nancy /Skaggs/
+2 SOUR @S02960@
+1 SEX F
+1 BIRT
+2 DATE 22 APR 1763
+2 PLAC Bear Creek, Virginia, USA
+2 SOUR @S02960@
+1 DEAT
+2 DATE 1840
+2 PLAC Grayson, Kentucky, USA
+2 SOUR @S02960@
+1 FAMS @F0270@
+1 FAMC @F0440@
+0 @I0352@ INDI
+1 NAME Joseph /Meredith/
+1 SEX M
+1 BIRT
+2 DATE 1762
+2 PLAC Bear Creek, Russell, Virginia, USA
+1 DEAT
+2 DATE 24 OCT 1840
+2 PLAC ,Grayson, Kentucky, USA
+1 FAMS @F0270@
+0 @I0730@ INDI
+1 NAME Lucinda /Thompson/
+1 SEX F
+1 BIRT
+2 DATE 21 FEB 1742
+2 PLAC Conasauga Creek, Georgia, USA
+1 DEAT
+2 DATE 1838
+2 PLAC ,Green, Kentucky, USA
+1 FAMS @F0440@
+1 FAMC @F0441@
+0 @I0731@ INDI
+1 NAME Charles /Skaggs/
+1 SEX M
+1 BIRT
+2 DATE 1737
+2 PLAC Fincastle, Virginia, USA
+1 DEAT
+2 DATE 2 SEP 1815
+2 PLAC Green, Kentucky, USA
+1 FAMS @F0440@
+1 FAMC @F0442@
+0 @I0732@ INDI
+1 NAME Mary Catherine /England/
+1 SEX F
+1 BIRT
+2 DATE 14 MAY 1863
+2 PLAC ,Randolph, Arkansas, USA
+1 DEAT
+2 DATE 25 APR 1942
+2 PLAC ,Randolph, Arkansas, USA
+1 FAMS @F0441@
+1 FAMC @F0443@
+0 @I0733@ INDI
+1 NAME David /Thompson/
+2 SOUR @S02960@
+1 SEX M
+1 FAMS @F0441@
+0 @I0736@ INDI
+1 NAME Martha Ann /Glidewell/
+2 SOUR @S02957@
+3 PAGE Year: 1860; Census Place: Davidson, Randolph, Arkansas; Roll: M653_49; Page: 271; Image: 272.
+3 DATA
+4 TEXT Name:  Martha A England
+5 CONT Birth Date:  abt 1821
+5 CONT Birth Place:  North Carolina
+5 CONT Residence Date:  1860
+5 CONT Residence Place:  Davidson, Randolph, Arkansas
+2 SOUR @S02962@
+3 PAGE Year: 1850; Census Place: Division 3, Tippah, Mississippi; Roll: M432_381; Page: 508; Image: 509.
+3 DATA
+4 TEXT Name:  Martha A England
+5 CONT Birth Date:  abt 1821
+5 CONT Birth Place:  North Carolina
+5 CONT Residence Date:  1850
+5 CONT Residence Place:  Division 3, Tippah, Mississippi
+1 SEX F
+1 BIRT
+2 DATE 30 MAR 1821
+2 PLAC ,Granville, North Carolina, USA
+2 SOUR @S02957@
+3 PAGE Year: 1860; Census Place: Davidson, Randolph, Arkansas; Roll: M653_49; Page: 271; Image: 272.
+3 DATA
+4 TEXT Name:  Martha A England
+5 CONT Birth Date:  abt 1821
+5 CONT Birth Place:  North Carolina
+5 CONT Residence Date:  1860
+5 CONT Residence Place:  Davidson, Randolph, Arkansas
+2 SOUR @S02962@
+3 PAGE Year: 1850; Census Place: Division 3, Tippah, Mississippi; Roll: M432_381; Page: 508; Image: 509.
+3 DATA
+4 TEXT Name:  Martha A England
+5 CONT Birth Date:  abt 1821
+5 CONT Birth Place:  North Carolina
+5 CONT Residence Date:  1850
+5 CONT Residence Place:  Division 3, Tippah, Mississippi
+1 DEAT
+2 DATE 11 MAR 1877
+2 PLAC Elm Store, Randolph, Arkansas, USA
+1 RESI
+2 DATE 1850
+2 PLAC Division 3, Tippah, Mississippi
+2 SOUR @S02962@
+3 PAGE Year: 1850; Census Place: Division 3, Tippah, Mississippi; Roll: M432_381; Page: 508; Image: 509.
+3 DATA
+4 TEXT Name:  Martha A England
+5 CONT Birth Date:  abt 1821
+5 CONT Birth Place:  North Carolina
+5 CONT Residence Date:  1850
+5 CONT Residence Place:  Division 3, Tippah, Mississippi
+1 RESI
+2 DATE 1860
+2 PLAC Davidson, Randolph, Arkansas
+2 SOUR @S02957@
+3 PAGE Year: 1860; Census Place: Davidson, Randolph, Arkansas; Roll: M653_49; Page: 271; Image: 272.
+3 DATA
+4 TEXT Name:  Martha A England
+5 CONT Birth Date:  abt 1821
+5 CONT Birth Place:  North Carolina
+5 CONT Residence Date:  1860
+5 CONT Residence Place:  Davidson, Randolph, Arkansas
+1 FAMS @F0443@
+1 FAMC @F0445@
+0 @I0737@ INDI
+1 NAME Newell J /England/
+1 SEX M
+1 BIRT
+2 DATE 4 FEB 1826
+2 PLAC ,Bedford, Tennessee, USA
+1 DEAT
+2 DATE 14 AUG 1909
+2 PLAC Elm Store, Randolph, Arkansas, USA
+1 FAMS @F0443@
+1 FAMC @F0446@
+0 @I0743@ INDI
+1 NAME Elizabeth /Roberts/
+2 SOUR @S02962@
+3 PAGE Year: 1850; Census Place: District 19, Bedford, Tennessee; Roll: M432_869; Page: 200; Image: 394.
+3 DATA
+4 TEXT Name:  Elizabeth England
+5 CONT Birth Date:  abt 1792
+5 CONT Birth Place:  South Carolina
+5 CONT Residence Date:  1850
+5 CONT Residence Place:  District 19, Bedford, Tennessee
+2 SOUR @S02960@
+1 SEX F
+1 BIRT
+2 DATE 26 JUL 1792
+2 PLAC ,,South Carolina, USA
+2 SOUR @S02962@
+3 PAGE Year: 1850; Census Place: District 19, Bedford, Tennessee; Roll: M432_869; Page: 200; Image: 394.
+3 DATA
+4 TEXT Name:  Elizabeth England
+5 CONT Birth Date:  abt 1792
+5 CONT Birth Place:  South Carolina
+5 CONT Residence Date:  1850
+5 CONT Residence Place:  District 19, Bedford, Tennessee
+2 SOUR @S02960@
+1 DEAT
+2 DATE 1850
+2 PLAC Bedford, Tennessee, USA
+2 SOUR @S02960@
+1 RESI
+2 DATE 1850
+2 PLAC District 19, Bedford, Tennessee
+2 SOUR @S02962@
+3 PAGE Year: 1850; Census Place: District 19, Bedford, Tennessee; Roll: M432_869; Page: 200; Image: 394.
+3 DATA
+4 TEXT Name:  Elizabeth England
+5 CONT Birth Date:  abt 1792
+5 CONT Birth Place:  South Carolina
+5 CONT Residence Date:  1850
+5 CONT Residence Place:  District 19, Bedford, Tennessee
+1 FAMS @F0446@
+1 FAMC @F0449@
+0 @I0744@ INDI
+1 NAME John /England/
+2 SOUR @S02962@
+3 PAGE Year: 1850; Census Place: District 19, Bedford, Tennessee; Roll: M432_869; Page: 200; Image: 394.
+3 DATA
+4 TEXT Name:  John England
+5 CONT Birth Date:  abt 1788
+5 CONT Birth Place:  South Carolina
+5 CONT Residence Date:  1850
+5 CONT Residence Place:  District 19, Bedford, Tennessee
+1 SEX M
+1 BIRT
+2 DATE 1788
+2 PLAC ,,South Carolina, USA
+2 SOUR @S02962@
+3 PAGE Year: 1850; Census Place: District 19, Bedford, Tennessee; Roll: M432_869; Page: 200; Image: 394.
+3 DATA
+4 TEXT Name:  John England
+5 CONT Birth Date:  abt 1788
+5 CONT Birth Place:  South Carolina
+5 CONT Residence Date:  1850
+5 CONT Residence Place:  District 19, Bedford, Tennessee
+1 DEAT
+2 DATE 1858
+2 PLAC Bedford, Tennessee, USA
+1 RESI
+2 DATE 1850
+2 PLAC District 19, Bedford, Tennessee
+2 SOUR @S02962@
+3 PAGE Year: 1850; Census Place: District 19, Bedford, Tennessee; Roll: M432_869; Page: 200; Image: 394.
+3 DATA
+4 TEXT Name:  John England
+5 CONT Birth Date:  abt 1788
+5 CONT Birth Place:  South Carolina
+5 CONT Residence Date:  1850
+5 CONT Residence Place:  District 19, Bedford, Tennessee
+1 FAMS @F0446@
+0 @I0749@ INDI
+1 NAME Sarah /Smith/
+1 SEX F
+1 BIRT
+2 DATE 16 NOV 1774
+2 PLAC ,,North Carolina, USA
+1 DEAT
+2 DATE 1860
+2 PLAC ,Bedford, Tennessee, USA
+1 FAMS @F0449@
+1 FAMC @F0451@
+0 @I0750@ INDI
+1 NAME John /Roberts/
+2 SOUR @S02960@
+1 SEX M
+1 BIRT
+2 DATE 1765
+2 PLAC ,,Virginia, USA
+2 SOUR @S02960@
+1 DEAT
+2 DATE 1861
+2 PLAC Bedford, Tennessee, USA
+2 SOUR @S02960@
+1 FAMS @F0449@
+0 @F0266@ FAM
+1 HUSB @I0342@
+1 MARR
+2 DATE 25 MAR 1801
+2 PLAC ,Green, Kentucky, USA
+0 @F0270@ FAM
+1 HUSB @I0352@
+1 WIFE @I0351@
+1 CHIL @I0342@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 24 DEC 1812
+2 PLAC ,Adair, Kentucky, USA
+0 @F0440@ FAM
+1 HUSB @I0731@
+1 WIFE @I0730@
+1 CHIL @I0351@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1758
+2 PLAC ,Botetourt, Virginia, USA
+0 @F0441@ FAM
+1 HUSB @I0733@
+1 WIFE @I0732@
+1 CHIL @I0730@
+2 _FREL Natural
+2 _MREL Natural
+0 @F0442@ FAM
+1 CHIL @I0731@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1720
+2 PLAC ,,Maryland, USA
+0 @F0443@ FAM
+1 HUSB @I0737@
+1 WIFE @I0736@
+1 CHIL @I0732@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 3 DEC 1843
+2 PLAC ,Lincoln, Tennessee, USA
+0 @F0445@ FAM
+1 CHIL @I0736@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 4 SEP 1819
+2 PLAC ,Granville, North Carolina, USA
+0 @F0446@ FAM
+1 HUSB @I0744@
+1 WIFE @I0743@
+1 CHIL @I0737@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1810
+2 PLAC ,,South Carolina, USA
+0 @F0449@ FAM
+1 HUSB @I0750@
+1 WIFE @I0749@
+1 CHIL @I0743@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1790
+2 PLAC Pendleton, South Carolina, USA
+0 @F0451@ FAM
+1 CHIL @I0749@
+2 _FREL Natural
+2 _MREL Natural
+0 @S02957@ SOUR
+1 TITL 1860 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Online publication - Provo, UT, USA: The Generations Network, Inc., 2004.Original data - United States of America, Bureau of the Census. Eighth Census of the United States, 1860. Washington, D.C.: Nat
+2 CONC ional Archives and Records Administration, 1860. M653, 1
+0 @S02960@ SOUR
+1 TITL OneWorldTree
+1 AUTH Ancestry.com
+1 PUBL Online publication - Provo, UT, USA: The Generations Network, Inc.
+0 @S02962@ SOUR
+1 TITL 1850 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Provo, UT, USA: The Generations Network, Inc., 2005
+1 NOTE @NS29621@
+1 REPO
+2 NOTE @NS29623@
+2 CALN
+3 MEDI Ancestry.com
+0 @NS29621@ NOTE United States of America, Bureau of the Census, Seventh Census of the United States, 1850, Washington, D.C.: National Archives and Records Administration, 1850
+0 @NS29623@ NOTE www.ancestry.com
+0 TRLR

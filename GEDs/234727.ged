@@ -1,0 +1,1350 @@
+0 HEAD
+1 SOUR FTW
+2 VERS 5.00
+2 NAME Family Tree Maker for Windows
+2 CORP Broderbund Software, Banner Blue Division
+3 ADDR 39500 Stevenson Pl.  #204
+4 CONT Fremont, CA 95439
+3 PHON (510) 794-6850
+1 DEST FTM
+1 DATE 6 FEB 2000
+1 CHAR ANSI
+1 SUBM @SUBM@
+1 FILE F:\The England's Family Tree.FBK.GED
+1 GEDC
+2 VERS 5.5
+0 @SUBM@ SUBM
+0 @I001@ INDI
+1 NAME Dailey Eugene /England/
+1 SEX M
+1 BIRT
+2 DATE 27 MAY 1935
+2 PLAC Oregon County at Alton, Missouri
+1 DEAT
+2 DATE 2000
+2 PLAC Living
+1 ADDR 3994 Pleasant Ridge Road
+2 CONT P.O. Box 12
+2 CONT State Road
+2 CONT North Carolina
+2 CONT 28676
+2 CONT United States of America
+1 PHON 336-874-7241
+1 FAMS @F002@
+1 FAMS @F003@
+1 FAMS @F001@
+1 FAMC @F007@
+0 @I015@ INDI
+1 NAME Hershel Tilman /England/
+1 SEX M
+1 BIRT
+2 DATE 13 MAY 1910
+2 PLAC Elm Store,  Randolp County,  Arkansas
+1 DEAT
+2 DATE 15 MAR 1984
+2 PLAC Fulton County at Mammoth Spring, Arkansas
+1 EDUC
+2 DATE 1916
+2 PLAC Finished second grade
+1 FAMS @F007@
+1 FAMS @F011@
+1 FAMC @F014@
+1 NOTE @NI015@
+0 @I016@ INDI
+1 NAME Opal Mary /Lewis/
+1 SEX F
+1 BIRT
+2 DATE 27 OCT 1913
+2 PLAC Greene  County,  Springfield,  Missouri
+1 DEAT
+2 DATE 2000
+2 PLAC Living
+1 FAMS @F007@
+1 FAMC @F046@
+0 @I017@ INDI
+1 NAME Thomas Henry /England/
+1 SEX M
+1 BIRT
+2 DATE 25 JUN 1929
+2 PLAC Delaplaine, Randolph County, Arkansas
+1 DEAT
+2 DATE 2000
+2 PLAC Living
+1 FAMS @F052@
+1 FAMC @F007@
+0 @I018@ INDI
+1 NAME Alice Evelyn /England/
+1 SEX F
+1 BIRT
+2 DATE 23 MAY 1932
+1 DEAT
+2 DATE 2000
+2 PLAC Living
+1 FAMS @F008@
+1 FAMS @F013@
+1 FAMC @F007@
+0 @I019@ INDI
+1 NAME Bedford Elias /England/
+1 SEX M
+1 BIRT
+2 DATE 27 MAY 1935
+2 PLAC Thayer, Oregon County, Missouri
+1 DEAT
+2 DATE 20 OCT 1943
+2 PLAC Thayer, Oregon County, Missouri
+1 FAMC @F007@
+0 @I020@ INDI
+1 NAME Bobby Earl /England/
+1 SEX M
+1 BIRT
+2 DATE 17 JAN 1941
+2 PLAC Thayer, Oregon County, Missouri
+1 DEAT
+2 DATE 2000
+2 PLAC Living
+1 FAMS @F071@
+1 FAMS @F072@
+1 FAMS @F073@
+1 FAMC @F007@
+0 @I021@ INDI
+1 NAME Shirley Jean /England/
+1 SEX F
+1 BIRT
+2 DATE 10 JAN 1949
+2 PLAC Thayer, Oregon County, Missouri
+1 DEAT
+2 DATE 2000
+2 PLAC Living
+1 FAMS @F075@
+1 FAMS @F076@
+1 FAMC @F007@
+0 @I022@ INDI
+1 NAME Kathryn Gayle /England/
+1 SEX F
+1 BIRT
+2 DATE 24 SEP 1949
+2 PLAC Thayer, Oregon County, Missouri
+1 DEAT
+2 DATE 2000
+2 PLAC Living
+1 FAMS @F079@
+1 FAMS @F010@
+1 FAMC @F007@
+1 NOTE @NI022@
+0 @I023@ INDI
+1 NAME Hershel Glenn /England/
+1 SEX M
+1 BIRT
+2 DATE 29 JUN 1952
+2 PLAC Thayer, Oregon County, Missouri
+1 DEAT
+2 DATE 2000
+2 PLAC Living
+1 FAMS @F077@
+1 FAMC @F007@
+0 @I024@ INDI
+1 NAME Viola La Rue /Peterson/
+1 SEX F
+1 BIRT
+2 DATE 16 APR 1921
+2 PLAC Lincoln, Nebraska
+1 DEAT
+2 DATE 20 JAN 1980
+2 PLAC Oregon County at Doniphan, Missouri
+2 CAUS Coronary artery disease
+1 _MDCL Viola died at home of probable coronary occlusion, coronary artery disease and a pacemaker implant...diabetesmillitus.   By Gene H. Leronx, M.D.
+1 FAMS @F012@
+1 FAMS @F011@
+1 FAMC @F006@
+1 NOTE @NI024@
+0 @I032@ INDI
+1 NAME Elias Monroe /England/
+1 SEX M
+1 BIRT
+2 DATE 29 APR 1878
+2 PLAC In Randolph County, Arkansas
+1 DEAT
+2 DATE 29 JUL 1946
+2 PLAC Oregon County at Thayer, Missouri
+2 CAUS Cancer
+1 ADDR Rural Route 1
+2 CONT Thayer
+2 CONT Missouri
+2 CONT 36775
+2 CONT United States of America
+1 PHON No phone or Electricity
+1 _MDCL Died of cancer of the liver.  His doctor was C.W. Cooper,MD
+1 FAMS @F014@
+1 FAMC @F015@
+1 NOTE @NI032@
+0 @I033@ INDI
+1 NAME Florence Louetta /Hand/
+1 SEX F
+1 BIRT
+2 DATE 27 JAN 1877
+2 PLAC Jennings County, Indiana
+1 DEAT
+2 DATE 5 MAR 1975
+2 PLAC Oregon County at Thayer, Missouri
+1 FAMS @F014@
+1 FAMC @F081@
+0 @I034@ INDI
+1 NAME Thomas R. /England/
+1 SEX M
+1 BIRT
+2 DATE 16 JAN 1847
+2 PLAC Tippah County, Mississippi
+1 DEAT
+2 DATE 10 APR 1924
+2 PLAC Randolph County, Arkansas
+1 FAMS @F015@
+1 FAMS @F016@
+1 FAMS @F018@
+1 FAMC @F026@
+1 NOTE @NI034@
+0 @I035@ INDI
+1 NAME Cinthia Rebecca /Dubois/
+1 SEX F
+1 ALIA /Becky/
+1 BIRT
+2 DATE 1 JAN 1852
+2 PLAC Alabama
+1 DEAT
+2 DATE 5 FEB 1901
+2 PLAC Randolph County, Arkansas
+1 FAMS @F015@
+1 FAMC @F017@
+1 NOTE @NI035@
+0 @I036@ INDI
+1 NAME Louisa /Pruitt/
+1 SEX F
+1 BIRT
+2 DATE 1846
+1 FAMS @F016@
+1 NOTE @NI036@
+0 @I037@ INDI
+1 NAME George Calvin /England/
+1 SEX M
+1 BIRT
+2 DATE 7 JUL 1874
+2 PLAC Oregon County,  Missouri
+1 DEAT
+2 DATE 20 AUG 1949
+2 PLAC Pocahontas, Arkansas
+1 FAMS @F020@
+1 FAMC @F015@
+1 NOTE @NI037@
+0 @I038@ INDI
+1 NAME Melvina /England/
+1 SEX F
+1 BIRT
+2 DATE 17 JUL 1876
+2 PLAC Elm Store, Arkansas
+1 DEAT
+2 DATE 10 MAR 1946
+2 PLAC Lawrence County at Alicia, Arkansas
+1 FAMS @F021@
+1 FAMC @F015@
+1 NOTE @NI038@
+0 @I039@ INDI
+1 NAME Elizabeth /England/
+1 SEX F
+1 BIRT
+2 DATE 9 AUG 1917
+2 PLAC Benton County Arkansas
+1 DEAT
+2 DATE 9 JUN 1992
+1 FAMC @F018@
+1 NOTE @NI039@
+0 @I040@ INDI
+1 NAME Ida Lucinda /England/
+1 SEX F
+1 BIRT
+2 DATE 10 FEB 1883
+1 FAMC @F015@
+0 @I041@ INDI
+1 NAME Mary Catherine /England/
+1 SEX F
+1 BIRT
+2 DATE 21 FEB 1887
+1 DEAT
+2 DATE 13 NOV 1898
+1 FAMC @F015@
+0 @I042@ INDI
+1 NAME William /England/
+1 SEX M
+1 ALIA /Billie/
+1 BIRT
+2 DATE 9 APR 1887
+1 FAMC @F015@
+0 @I043@ INDI
+1 NAME Frances M. /England/
+1 SEX F
+1 BIRT
+2 DATE 15 AUG 1892
+1 FAMS @F139@
+1 FAMC @F015@
+0 @I044@ INDI
+1 NAME Andrew C. /Dubois/
+1 SEX M
+1 BIRT
+2 DATE 1824
+2 PLAC Alabama
+1 DEAT
+2 DATE 8 AUG 1866
+1 FAMS @F017@
+1 FAMC @F087@
+0 @I045@ INDI
+1 NAME Mary E. /Furman/
+1 SEX F
+1 BIRT
+2 DATE 1824
+2 PLAC Tennessee
+1 DEAT
+2 DATE 4 APR 1866
+1 FAMS @F017@
+0 @I046@ INDI
+1 NAME M. Frances /Dubois/
+1 SEX F
+1 FAMS @F018@
+0 @I056@ INDI
+1 NAME Virginia Ethel /England/
+1 SEX F
+1 ALIA /Vergie/
+1 BIRT
+2 DATE 4 SEP 1907
+1 DEAT
+2 DATE 19 JAN 1984
+1 FAMS @F009@
+1 FAMC @F014@
+1 NOTE @NI056@
+0 @I058@ INDI
+1 NAME Newell J. /England/
+1 SEX M
+1 BIRT
+2 DATE 15 FEB 1826
+2 PLAC Bedford County, Tennessee
+1 DEAT
+2 DATE 14 AUG 1909
+2 PLAC Elm Store, Randolph County,  Arkansas
+1 FAMS @F026@
+1 FAMC @F027@
+0 @I059@ INDI
+1 NAME Martha Ann /Glidewell/
+1 SEX F
+1 BIRT
+2 DATE 30 MAR 1821
+2 PLAC Granville County,  North Carolina
+1 DEAT
+2 DATE 11 MAR 1877
+2 PLAC Elm Store,  Randolph County,  Arkansas
+1 FAMS @F026@
+1 FAMC @F028@
+0 @I060@ INDI
+1 NAME Henry Martin /England/
+1 SEX M
+1 BIRT
+2 DATE 28 DEC 1844
+2 PLAC Tennessee enroute to Arkansas
+1 DEAT
+2 DATE 11 DEC 1911
+1 FAMS @F033@
+1 FAMC @F026@
+0 @I061@ INDI
+1 NAME John B. /England/
+1 SEX M
+1 BIRT
+2 DATE 5 MAY 1849
+2 PLAC Tippah County, Mississippi
+1 FAMS @F039@
+1 FAMC @F026@
+0 @I062@ INDI
+1 NAME Daniel Henderson /England/
+1 SEX M
+1 BIRT
+2 DATE 1 JUL 1852
+2 PLAC Tippah County, Mississippi
+1 FAMS @F040@
+1 FAMC @F026@
+0 @I063@ INDI
+1 NAME Nancy Elizabeth Jane /England/
+1 SEX F
+1 BIRT
+2 DATE 12 AUG 1854
+2 PLAC Tennessee
+1 FAMS @F041@
+1 FAMC @F026@
+0 @I064@ INDI
+1 NAME William Newell /England/
+1 SEX M
+1 BIRT
+2 DATE 23 MAR 1857
+2 PLAC Randolph County , Arkansas
+1 DEAT
+2 DATE 10 NOV 1935
+1 FAMS @F029@
+1 FAMC @F026@
+0 @I065@ INDI
+1 NAME Martha Ann /England/
+1 SEX F
+1 BIRT
+2 DATE 8 AUG 1858
+2 PLAC Randolph County , Arkansas
+1 FAMS @F042@
+1 FAMC @F026@
+0 @I066@ INDI
+1 NAME Mary Catherine /England/
+1 SEX F
+1 BIRT
+2 DATE 14 MAY 1863
+2 PLAC Randolph County ,   Arkansas
+1 FAMS @F037@
+1 FAMS @F038@
+1 FAMC @F026@
+0 @I067@ INDI
+1 NAME James Isom /England/
+1 SEX M
+1 BIRT
+2 DATE 22 NOV 1867
+2 PLAC Randolph County, Arkansas
+1 DEAT
+2 DATE 29 MAY 1930
+2 PLAC Payne County at Perkins, Oklahoma
+1 FAMS @F031@
+1 FAMC @F026@
+0 @I068@ INDI
+1 NAME John /England/
+1 SEX M
+1 BIRT
+2 DATE ABT. 1788
+2 PLAC South Carolina
+1 DEAT
+2 DATE 1858
+2 PLAC Bedford County, Tennessee
+1 FAMS @F027@
+1 FAMC @F121@
+0 @I069@ INDI
+1 NAME Elizabeth /Roberts/
+1 SEX F
+1 BIRT
+2 DATE 26 JUL 1792
+2 PLAC South Carolina
+1 DEAT
+2 DATE ABT. 1850
+2 PLAC Bedford County, Tennessee
+1 FAMS @F027@
+1 FAMC @F120@
+0 @I070@ INDI
+1 NAME Banister /Glidewell/
+1 SEX M
+1 BIRT
+2 DATE 1 JAN 1801
+2 PLAC Halifax County, Virginia
+1 DEAT
+2 DATE 9 JAN 1861
+2 PLAC Randolph County,  Arkansas
+1 FAMS @F028@
+0 @I071@ INDI
+1 NAME Nancy Ann /Hawley/
+1 SEX F
+1 BIRT
+2 DATE 1802
+2 PLAC Virginia
+1 DEAT
+2 DATE 28 OCT 1860
+2 PLAC Randolph County,  Arkansas
+1 FAMS @F028@
+0 @I085@ INDI
+1 NAME Jonathan /England/
+1 SEX M
+1 BIRT
+2 DATE 15 FEB 1817
+1 FAMC @F027@
+0 @I086@ INDI
+1 NAME Tillman /England/
+1 SEX M
+1 BIRT
+2 DATE 20 MAY 1819
+2 PLAC Bedford County, Tennessee
+1 DEAT
+2 DATE 1900
+2 PLAC Florence, Lauderdale County, Alabama
+1 FAMC @F027@
+0 @I087@ INDI
+1 NAME Rezin /England/
+1 SEX M
+1 FAMC @F027@
+0 @I088@ INDI
+1 NAME Sarah /England/
+1 SEX F
+1 BIRT
+2 DATE 22 JUL 1813
+1 FAMC @F027@
+0 @I089@ INDI
+1 NAME Mary /England/
+1 SEX F
+1 FAMC @F027@
+0 @I090@ INDI
+1 NAME Eliza Jane /England/
+1 SEX F
+1 FAMC @F027@
+0 @I091@ INDI
+1 NAME John /England/
+1 SEX M
+1 FAMC @F027@
+0 @I298@ INDI
+1 NAME Enos Miles /Hand/
+1 SEX M
+1 BIRT
+2 DATE DEC 1847
+2 PLAC Indiana
+1 DEAT
+2 DATE JUN 1933
+2 PLAC Ripley County,  Missouri
+1 FAMS @F081@
+1 FAMC @F085@
+0 @I299@ INDI
+1 NAME Mary Catherine /Dilk/
+1 SEX F
+1 BIRT
+2 DATE 6 AUG 1851
+2 PLAC Ripley County,  Indiana
+1 DEAT
+2 DATE SEP 1935
+2 PLAC Oregon County, Or Ripley County,  Missouri
+1 FAMS @F081@
+1 FAMC @F082@
+0 @I300@ INDI
+1 NAME Frederick /Dilk/
+1 SEX M
+1 BIRT
+2 DATE 5 MAR 1805
+2 PLAC Prussia, Germany
+1 DEAT
+2 DATE 26 APR 1875
+2 PLAC Ripley County, Indiana
+1 FAMS @F082@
+0 @I301@ INDI
+1 NAME Sarah Margaret /Dickson/
+1 SEX F
+1 BIRT
+2 DATE 3 AUG 1818
+2 PLAC Pennsylvania
+1 DEAT
+2 DATE 16 JAN 1900
+2 PLAC Ripley County, Indiana
+1 FAMS @F082@
+0 @I305@ INDI
+1 NAME Obediah /Hand/
+1 SEX M
+1 BIRT
+2 DATE 7 APR 1818
+2 PLAC Ripley County,  Indiana
+1 DEAT
+2 DATE 20 JUL 1911
+2 PLAC Pulaski County,  Missouri
+1 FAMS @F085@
+1 FAMC @F086@
+0 @I309@ INDI
+1 NAME Mary /Jones/
+1 SEX F
+1 BIRT
+2 DATE 2 JUN 1818
+2 PLAC North Carolina
+1 DEAT
+2 DATE 20 JUN 1904
+2 PLAC Pulaski County,  Missouri
+1 FAMS @F085@
+0 @I310@ INDI
+1 NAME Ephraim /Hand/
+1 SEX M
+1 BIRT
+2 DATE 1784
+2 PLAC New Jersey
+1 DEAT
+2 DATE 8 APR 1859
+2 PLAC Ripley County,  Missouri
+1 FAMS @F086@
+0 @I311@ INDI
+1 NAME Comfort //
+1 SEX F
+1 ALIA /?/
+1 BIRT
+2 DATE 1794
+2 PLAC Pennsylvania
+1 FAMS @F086@
+0 @I312@ INDI
+1 NAME Elias H. /DuBois/
+1 SEX M
+1 BIRT
+2 DATE 1799
+2 PLAC North Carolina
+1 DEAT
+2 DATE 24 JUN 1864
+2 PLAC Randolph County,  Arkansas
+1 FAMS @F087@
+0 @I313@ INDI
+1 NAME Rebecca //
+1 SEX F
+1 ALIA /?/
+1 BIRT
+2 DATE 1800
+2 PLAC Tennessee
+1 FAMS @F087@
+0 @I403@ INDI
+1 NAME Malindy /England/
+1 SEX F
+1 BIRT
+2 DATE 7 MAR 1815
+1 FAMS @F119@
+1 FAMC @F027@
+0 @I410@ INDI
+1 NAME Martin /England/
+1 SEX M
+1 BIRT
+2 DATE 8 JUL 1821
+1 FAMC @F027@
+0 @I411@ INDI
+1 NAME John M. /Roberts/
+1 SEX M
+1 BIRT
+2 DATE 28 DEC 1779
+1 DEAT
+2 DATE 23 JUN 1842
+1 FAMS @F120@
+1 FAMS @F131@
+0 @I412@ INDI
+1 NAME Sarah /Phillips/
+1 SEX F
+1 BIRT
+2 DATE 16 JUN 1776
+1 DEAT
+2 DATE 11 NOV 1838
+1 FAMS @F120@
+0 @I413@ INDI
+1 NAME /Unknown/
+1 SEX M
+1 FAMS @F121@
+0 @I414@ INDI
+1 NAME /Unknown/
+1 SEX F
+1 FAMS @F121@
+0 @I415@ INDI
+1 NAME Mary /Roberts/
+1 SEX F
+1 BIRT
+2 DATE 11 OCT 1794
+1 FAMS @F122@
+1 FAMC @F120@
+0 @I417@ INDI
+1 NAME Catherine /Roberts/
+1 SEX F
+1 BIRT
+2 DATE 17 DEC 1805
+1 FAMC @F120@
+0 @I418@ INDI
+1 NAME John W. /Roberts/
+1 SEX M
+1 BIRT
+2 DATE 21 JUN 1804
+1 FAMC @F120@
+0 @I419@ INDI
+1 NAME Mary /Roberts/
+1 SEX F
+1 BIRT
+2 DATE 19 FEB 1801
+1 FAMC @F120@
+0 @I420@ INDI
+1 NAME John C. /Roberts/
+1 SEX M
+1 BIRT
+2 DATE 12 APR 1799
+1 FAMS @F150@
+1 FAMC @F120@
+0 @I424@ INDI
+1 NAME Jessee B. /Roberts/
+1 SEX M
+1 BIRT
+2 DATE 12 MAY 1796
+1 FAMC @F120@
+0 @I427@ INDI
+1 NAME Matthew /Roberts/
+1 SEX M
+1 BIRT
+2 DATE 20 AUG 1797
+1 DEAT
+2 DATE 8 JUL 1882
+1 FAMS @F149@
+1 FAMC @F120@
+0 @I452@ INDI
+1 NAME Sarah /Smith/
+1 SEX F
+1 DEAT
+2 DATE 11 NOV 1838
+1 FAMS @F131@
+1 FAMC @F025@
+0 @I455@ INDI
+1 NAME Susannah /Roberts/
+1 SEX F
+1 BIRT
+2 DATE 23 JUN 1807
+2 PLAC South Carolina
+1 BIRT
+2 DATE 23 JUN 1807
+1 DEAT
+2 DATE 30 SEP 1891
+2 PLAC Tennessee
+1 FAMS @F130@
+1 FAMC @F131@
+0 @I457@ INDI
+1 NAME Howard /Roberts/
+1 SEX M
+1 FAMC @F120@
+0 @I477@ INDI
+1 NAME Hiram /Roberts/
+1 SEX M
+1 BIRT
+2 DATE 13 MAR 1808
+1 FAMC @F120@
+0 @I481@ INDI
+1 NAME Rachel /Roberts/
+1 SEX F
+1 BIRT
+2 DATE 7 MAR 1812
+2 PLAC Georgia
+1 DEAT
+2 DATE 2 AUG 1898
+2 PLAC Bedford County, Tennessee
+1 FAMS @F088@
+1 FAMC @F131@
+0 @I505@ INDI
+1 NAME Artamacy /Roberts/
+1 SEX M
+1 BIRT
+2 DATE 18 APR 1814
+1 DEAT
+2 DATE 3 APR 1882
+1 FAMC @F131@
+0 @I514@ INDI
+1 NAME William C. /Roberts/
+1 SEX M
+1 BIRT
+2 DATE 20 APR 1816
+1 FAMC @F120@
+0 @I534@ INDI
+1 NAME Rezin /Roberts/
+1 SEX M
+1 FAMS @F152@
+1 FAMC @F131@
+0 @I540@ INDI
+1 NAME Lucretia /Roberts/
+1 SEX F
+1 FAMS @F154@
+1 FAMC @F131@
+0 @F001@ FAM
+1 HUSB @I001@
+1 MARR
+2 DATE 13 JUN 1994
+2 PLAC Greene County at Greeneville, Tennessee
+0 @F002@ FAM
+1 HUSB @I001@
+1 MARR
+2 DATE 11 FEB 1954
+2 PLAC in  Howell County at West Plains, Missouri (at her parents home)
+1 DIV
+2 DATE 1974
+2 PLAC at Monnet, Missouri
+1 DIV
+1 REFN #1
+1 NOTE @NF002@
+0 @F003@ FAM
+1 HUSB @I001@
+1 MARR
+2 DATE 8 JAN 1975
+2 PLAC Troy, Alabama at County Court House
+1 DIV
+2 DATE 1986
+1 DIV
+1 REFN #2
+0 @F006@ FAM
+1 CHIL @I024@
+0 @F007@ FAM
+1 HUSB @I015@
+1 WIFE @I016@
+1 CHIL @I001@
+1 CHIL @I017@
+1 CHIL @I018@
+1 CHIL @I019@
+1 CHIL @I020@
+1 CHIL @I021@
+1 CHIL @I022@
+1 CHIL @I023@
+1 MARR
+2 DATE 14 MAY 1928
+2 PLAC Randolph County in Arkansas
+1 NOTE @NF007@
+0 @F008@ FAM
+1 WIFE @I018@
+0 @F009@ FAM
+1 WIFE @I056@
+0 @F010@ FAM
+1 WIFE @I022@
+1 MARR
+2 DATE 31 DEC 1971
+2 PLAC Greene County at Greeneville, Tennessee
+0 @F011@ FAM
+1 HUSB @I015@
+1 WIFE @I024@
+1 MARR
+2 DATE 18 DEC 1972
+2 PLAC Thayer, Missouri
+1 NOTE @NF011@
+0 @F012@ FAM
+1 WIFE @I024@
+0 @F013@ FAM
+1 WIFE @I018@
+0 @F014@ FAM
+1 HUSB @I032@
+1 WIFE @I033@
+1 CHIL @I015@
+1 CHIL @I056@
+1 MARR
+2 DATE 18 JUL 1906
+0 @F015@ FAM
+1 HUSB @I034@
+1 WIFE @I035@
+1 CHIL @I032@
+1 CHIL @I037@
+1 CHIL @I038@
+1 CHIL @I040@
+1 CHIL @I041@
+1 CHIL @I042@
+1 CHIL @I043@
+1 MARR
+2 DATE 30 OCT 1869
+2 PLAC Randolph County in Arkansas
+0 @F016@ FAM
+1 HUSB @I034@
+1 WIFE @I036@
+1 MARR
+2 DATE 12 DEC 1905
+2 PLAC Randolph County  at Elm Store, Arkansas
+0 @F017@ FAM
+1 HUSB @I044@
+1 WIFE @I045@
+1 CHIL @I035@
+0 @F018@ FAM
+1 HUSB @I034@
+1 WIFE @I046@
+1 CHIL @I039@
+1 MARR
+2 DATE 1907
+2 PLAC Randolph County in Arkansas
+0 @F020@ FAM
+1 HUSB @I037@
+1 MARR
+2 DATE 9 APR 1906
+2 PLAC Randolph County in Arkansas
+0 @F021@ FAM
+1 WIFE @I038@
+1 MARR
+2 DATE 17 JUL 1896
+2 PLAC in Randolph County at Elm Store,  Arkansas
+0 @F025@ FAM
+1 CHIL @I452@
+0 @F026@ FAM
+1 HUSB @I058@
+1 WIFE @I059@
+1 CHIL @I034@
+1 CHIL @I060@
+1 CHIL @I061@
+1 CHIL @I062@
+1 CHIL @I063@
+1 CHIL @I064@
+1 CHIL @I065@
+1 CHIL @I066@
+1 CHIL @I067@
+1 MARR
+2 DATE 1844
+0 @F027@ FAM
+1 HUSB @I068@
+1 WIFE @I069@
+1 CHIL @I058@
+1 CHIL @I085@
+1 CHIL @I086@
+1 CHIL @I087@
+1 CHIL @I088@
+1 CHIL @I089@
+1 CHIL @I090@
+1 CHIL @I091@
+1 CHIL @I403@
+1 CHIL @I410@
+0 @F028@ FAM
+1 HUSB @I070@
+1 WIFE @I071@
+1 CHIL @I059@
+0 @F029@ FAM
+1 HUSB @I064@
+0 @F031@ FAM
+1 HUSB @I067@
+0 @F033@ FAM
+1 HUSB @I060@
+0 @F037@ FAM
+1 WIFE @I066@
+0 @F038@ FAM
+1 WIFE @I066@
+0 @F039@ FAM
+1 HUSB @I061@
+1 MARR
+2 DATE 29 JAN 1871
+0 @F040@ FAM
+1 HUSB @I062@
+0 @F041@ FAM
+1 WIFE @I063@
+0 @F042@ FAM
+1 WIFE @I065@
+0 @F046@ FAM
+1 CHIL @I016@
+0 @F052@ FAM
+1 HUSB @I017@
+1 MARR
+2 DATE 27 MAY 1950
+2 PLAC Salem, Arkansas
+0 @F071@ FAM
+1 HUSB @I020@
+0 @F072@ FAM
+1 HUSB @I020@
+0 @F073@ FAM
+1 HUSB @I020@
+0 @F075@ FAM
+1 WIFE @I021@
+1 MARR
+2 DATE 22 NOV 1963
+2 PLAC Greene County at Greeneville, Tennessee
+0 @F076@ FAM
+1 WIFE @I021@
+1 MARR
+2 DATE 23 AUG 1979
+2 PLAC Greene County at Greeneville, Tennessee
+0 @F077@ FAM
+1 HUSB @I023@
+0 @F079@ FAM
+1 WIFE @I022@
+1 MARR
+2 DATE 24 JUN 1965
+0 @F081@ FAM
+1 HUSB @I298@
+1 WIFE @I299@
+1 CHIL @I033@
+0 @F082@ FAM
+1 HUSB @I300@
+1 WIFE @I301@
+1 CHIL @I299@
+0 @F085@ FAM
+1 HUSB @I305@
+1 WIFE @I309@
+1 CHIL @I298@
+0 @F086@ FAM
+1 HUSB @I310@
+1 WIFE @I311@
+1 CHIL @I305@
+0 @F087@ FAM
+1 HUSB @I312@
+1 WIFE @I313@
+1 CHIL @I044@
+0 @F088@ FAM
+1 WIFE @I481@
+1 MARR
+2 DATE 20 JUN 1833
+2 PLAC Bedford County, Tennessee
+0 @F119@ FAM
+1 WIFE @I403@
+0 @F120@ FAM
+1 HUSB @I411@
+1 WIFE @I412@
+1 CHIL @I069@
+1 CHIL @I415@
+1 CHIL @I424@
+1 CHIL @I427@
+1 CHIL @I420@
+1 CHIL @I419@
+1 CHIL @I418@
+1 CHIL @I417@
+1 CHIL @I477@
+1 CHIL @I457@
+1 CHIL @I514@
+0 @F121@ FAM
+1 HUSB @I413@
+1 WIFE @I414@
+1 CHIL @I068@
+0 @F122@ FAM
+1 WIFE @I415@
+0 @F130@ FAM
+1 WIFE @I455@
+0 @F131@ FAM
+1 HUSB @I411@
+1 WIFE @I452@
+1 CHIL @I455@
+1 CHIL @I481@
+1 CHIL @I505@
+1 CHIL @I534@
+1 CHIL @I540@
+0 @F139@ FAM
+1 WIFE @I043@
+0 @F149@ FAM
+1 HUSB @I427@
+1 MARR
+2 DATE 14 APR 1819
+2 PLAC Lawrence County, Alabama
+0 @F150@ FAM
+1 HUSB @I420@
+1 MARR
+2 DATE 14 APR 1841
+0 @F152@ FAM
+1 HUSB @I534@
+1 MARR
+2 DATE 11 SEP 1826
+0 @F154@ FAM
+1 WIFE @I540@
+0 @NF002@ NOTE
+1 CONC Marriage was performed by Rev. Bob Hatfield at 2:00 PM at the bride's 
+1 CONC parents home.
+1 CONT Witnesses were Minnie Hicks and Iretta Young, the bride's Aunts.  The day 
+1 CONC of the week 
+1 CONT was Friday.
+0 @NF007@ NOTE
+1 CONC The marriage of Hershel England and Opal Lewis was performed by Justice 
+1 CONC of Peace S. P. Scott in Randolph County at Pocahontas, Arkansas. 
+1 CONC Certificate of record page 471 of Book 22 Marriage Records in Pocahontas, 
+1 CONC Arkansas.
+0 @NF011@ NOTE
+1 CONC Viola Peterson and Hershel England were married December 18, 1972 at 
+1 CONC Thayer, Missouri .  He was 62 and she was 51 at the time of marriage.   A 
+1 CONC  marriage license was issued December 11, 1972 and they were married 
+1 CONC December 18, 1972  in Oregon County at Thayer, Missouri.
+0 @NI015@ NOTE
+1 CONC Hershel Tilman England re-married December 18,  1972 At Thayer, Missouri  
+1 CONC to Viola La Rue
+1 CONT Peterson, he being 62 and she 51 years of age.
+1 CONT Hershel Tilman England and Viola La Rue Peterson England were living in 
+1 CONC Ripley  Arkansas 
+1 CONT at the time of her death on January  18, 1972.
+1 CONT Hershel Tilman England Died at West Plains Memorial Hospital at West 
+1 CONC Plains, Missouri.
+1 CONT He was taken from his home at Mammoth Spring, Arkansas to the hospital 
+1 CONC where he died.
+1 CONT His Social Security number was 488-18-0468.  He was buried at Bardley 
+1 CONC Cemetery in Ripley County Missouri.   Services were conducted by Rev. Ben 
+1 CONC Meeks in the Carter Funeral Home of Thayer, Missouri.       He was 73 at 
+1 CONC the time of Death.    He was proceeded in death by his second wife, Viola 
+1 CONC La Rue Peterson who died January 20, 1972.   His pall bearers:  Bynum 
+1 CONC Miller, Hanford England, Leon Wales, Frank Owens, Harold Brown and Ray 
+1 CONC Eder.11:04 PM 1/26/00
+1 CONT Descendants of Hershel Tilman England
+1 CONT
+1 CONT
+1 CONT Generation No. 1
+1 CONT
+1 CONT 1.  HERSHEL TILMAN5 ENGLAND  (ELIAS MONROE4, THOMAS R.3, NEWEL J.2, 
+1 CONC JOHN1) was born May 13, 1910 in Elm Store , Randolph Co.  Arkansas, and 
+1 CONC died March 15, 1984 in Mammoth Springs, Fulton Co. Arkansas.  He married 
+1 CONC (1) OPAL MARY LEWIS May 14, 1928 in Randolph Co. Arkansas, daughter of 
+1 CONC HENRY LEWIS and PANSY RAMSAY.  She was born October 27, 1913 in 
+1 CONC Springfield, Greene Co. Missouri.  He married (2) VIOLA LA RUE PETERSON 
+1 CONC December 18, 1972 in Thayer, Missouri, daughter of THORVAL PETERSEN and 
+1 CONC ANNA WACHTER.  She was born April 16, 1921 in Lincoln, Nebraska, and died 
+1 CONC January 20, 1980 in Doniphan , Oregon County, Missouri.
+1 CONT
+1 CONT Notes for HERSHEL TILMAN ENGLAND:
+1 CONT BIRTH CERTIFICATE ON FILE
+1 CONT DEATH CERTIFICATE ON FILE
+1 CONT MARRIAGE RECORD ON FILE  , HERSHEL ENGLAND- VIOLA LARUE CURTIS
+1 CONT MARRIAGE RECORD ON FILE, HERSHEL ENGLAND - OPAL MARY LEWIS
+1 CONT
+1 CONT
+1 CONT .................................................
+1 CONT
+1 CONT
+1 CONT
+1 CONT BURIAL NOTICE STATES; BORN IN BLUFF SPRINGS, ARKANSAS
+1 CONT DIED; WEST PLAINS MISSOURI AT WEST PLAINS HOSPITAL
+1 CONT BURIED; BARDLEY CEMETERY  RIPLEY COUNTY  MISSOURI
+1 CONT FUNERAL HOME IN CHARGE; CARTER FUNERAL HOME , THAYER, MISSOURI
+1 CONT
+1 CONT Buried in Bardley Cemetery of Ripley County, Missouri......Hershel and 
+1 CONC Viola were living in Ripley County at the time of Viola's death.  Later 
+1 CONC when Hershel died, he was laid next to Viola ..
+1 CONT
+1 CONT REMARRIED; DECEMBER 18,1972 IN THAYER, MISSOURI TO VIOLA PETERSEN 
+1 CONT WHO DIED ON JANUARY 20, 1980.    Hershel showing age 62 yrs. at marriage 
+1 CONC and Viola showing age of 51 years, Circuit Court Clerk of Howell County, 
+1 CONC Mo issued license Dec. 11, 1972 and married Thayer, Oregon Co., Mo. on 
+1 CONC Dec. 18, 1972 .
+1 CONT
+1 CONT More About HERSHEL TILMAN ENGLAND:
+1 CONT Fact 1: 1920, U.S. Census Randolph Co.  Ar  Bristow.
+1 CONT Fact 2: twp  age 7
+1 CONT
+1 CONT Notes for OPAL MARY LEWIS:
+1 CONT BIRTH CERTIFICATE ON FILE
+1 CONT MARRIAGE RECORD ON FILE...........HERSHEL ENGLAND- OPAL MARY LEWIS
+1 CONT
+1 CONT ..........................................
+1 CONT
+1 CONT Marriage Notes for HERSHEL ENGLAND and OPAL LEWIS:
+1 CONT WITNESS; ANDREW CRABTREE (STEP-FATHER OF OPAL)  
+1 CONT                   PANSEY LEWIS CRABTREE ( MOTHER OF OPAL)
+1 CONT CERTIFICATE OF RECORD PAGE  471 OF BOOK 22 MARRIAGE RECORDS IN 
+1 CONC POCAHONTAS, ARKANSAS       MARRIED BY JUSTICE OF PEACE S.P. SCOTT 
+1 CONT RANDOLPH COUNTY ARKANSAS
+1 CONT
+1 CONT Notes for VIOLA LA RUE PETERSON:
+1 CONT DEATH CERTIFICATE ON FILE
+1 CONT
+1 CONT
+1 CONT ............................................
+1 CONT
+1 CONT
+1 CONT Per Death Certificate :
+1 CONT Viola La Rue England, female  died January 20, 1980 in Doniphan, Mo. She 
+1 CONC was pronounced DOA at Doniphan Hospital.
+1 CONT Showing Birth : Nebraska        Married: Hershel T. England
+1 CONT Father:  Thorval M. Petersen     Mother: Anna Watcher
+1 CONT Burial : Jan. 23, 1980 at Bardley Cemetery, Ripley county, Mo. by Carter 
+1 CONC Funeral Home of Thayer , Missouri.
+1 CONT Showing Viola died at home of probable coronary occlusion, coronary 
+1 CONC artery disease and a pacemaker implant.  .... diabetes millitus
+1 CONT      by Gene H. Leroux..M.D.       Doniphan, Missouri
+1 CONT Showing her occupation : Nursing Home Supervisor
+1 CONT Social security   505-26-0182
+1 CONT
+1 CONT
+1 CONT Note: Viola had two grown children at time of death. ( previous to 
+1 CONC marriage of Hershel..     marriage certificate to Hershel showing name of 
+1 CONC Viola La Rue Curtis
+1 CONT
+1 CONT **** Info Below Is Written As In Book ********
+1 CONT
+1 CONT Funeral Records : Book at Services
+1 CONT Showing member of First Baptist Church of Thayer, Mo.
+1 CONT Order of Eastern Star  Mt. Zion Chapter #229
+1 CONT
+1 CONT Brother: Rev. Roland Petersen
+1 CONT Sisters:  Arthelia M. Harris
+1 CONT               Norma Babulski
+1 CONT Father:  Thorval M. Petersen     deceased
+1 CONT Mother  Anna Wachter               deceased
+1 CONT Deceased   Viola La Rue England
+1 CONT Married To  Hershel England
+1 CONT
+1 CONT Children:  Vernon Kessler
+1 CONT Step- children    Vernon Kessler
+1 CONT                           Tommie England
+1 CONT                           Daley England
+1 CONT                           Bobby England
+1 CONT                           Glen England
+1 CONT                           Alice Mouser
+1 CONT                           Shirley
+1 CONT                           Cathy Davis
+1 CONT Several step-grandchildren
+1 CONT Several step- great grandchildren
+1 CONT 11 grandchildren
+1 CONT 8   great grandchildren
+1 CONT
+1 CONT
+1 CONT Pall bearer:  Bynum Miller, Hanford England, Leon Wales, Frank Owens, 
+1 CONC Harold Brown and Ray Eder
+1 CONT      
+1 CONT Children of HERSHEL ENGLAND and OPAL LEWIS are:
+1 CONT      i.   THOMAS HENRY6 ENGLAND, b. June 25, 1929, Delaplaine, Randolph 
+1 CONC Co., Arkansas; m. EULA JEAN ELLIOTT, May 27, 1950, Salem , Arkansas; b. 
+1 CONC May 20, 1932, Cabool,Texas County, Missouri.
+1 CONT
+1 CONT Notes for THOMAS HENRY ENGLAND:
+1 CONT BIRTH CERTIFICATE ON FILE
+1 CONT
+1 CONT
+1 CONT .............................................
+1 CONT
+1 CONT Notes for EULA JEAN ELLIOTT:
+1 CONT Cabool, Texas County, Missouri    Cass Township birth
+1 CONT
+1 CONT
+1 CONT Marriage Notes for THOMAS ENGLAND and EULA ELLIOTT:
+1 CONT Married Salem Methodist Church, Salem , Arkansas
+1 CONT
+1 CONT
+1 CONT      ii.  ALICE EVELYN ENGLAND, b. May 23, 1932; m. (1) WILLIAM R. 
+1 CONC ANDERSON; d. January 12, 1960, Greeneville, Greene County, Tennessee; m. 
+1 CONC (2) KENNETH MOSSER.
+1 CONT
+1 CONT Notes for WILLIAM R. ANDERSON:
+1 CONT Greeneville Sun  1-12-1960
+1 CONT
+1 CONT Former ATU Agent Found Dead
+1 CONT William R. Anderson died from carbon monoxide fumes
+1 CONT William R. Anderson age 27, a former state ATU agent was found dead in 
+1 CONC his car this morning by  two US Forest  Service men on their way to work 
+1 CONC in the Lower Paint Creek Section.
+1 CONT
+1 CONT Anderson died of carbon monoxide fumes which were passed to the car from 
+1 CONC the exhaust pipe by a vacuum cleaner hose.
+1 CONT
+1 CONT Anderson was found by Roy Tweed, Jr. and Luke Colbaugh as they were on 
+1 CONC their way to check a swimming hole early this morning in the Andrew 
+1 CONC Johnson Reserve. 
+1 CONT
+1 CONT Tweed and Colbaugh stated they saw the car parked and after noticing the 
+1 CONC hose stretched from the exhaust pipe to the  back window they stopped to 
+1 CONC investigate.
+1 CONT
+1 CONT The two men said that when they opened the door they noticed Anderson 
+1 CONC sitting up in the front seat with his head slumped back over the seat.
+1 CONT
+1 CONT They told Sheriff Solomon on the scene that they had been given a course 
+1 CONC in first aid and tried in vain to revive Anderson who was already dead 
+1 CONC from the deadly fumes.
+1 CONT
+1 CONT After seeing that Anderson was dead they went to a store and called the 
+1 CONC Greene County Sheriff's Office.
+1 CONT
+1 CONT County Coroner Clyde Bible on the scene with Sheriff John D. Solomon 
+1 CONC listed the death as suicide and stated that the suicide occurred sometime 
+1 CONC early this morning.
+1 CONT
+1 CONT The car was still running when found by Tweed and Colbaugh and had 
+1 CONC approximately three - quarters a tank of gas left.
+1 CONT
+1 CONT The car was parked in a picnic area located just behind the Andrew 
+1 CONC Johnson Reserve check out station.
+1 CONT
+1 CONT Anderson later resigning from the State ATF worked for a short time for 
+1 CONC the Magnavox Company of Tennessee and was presently employed as a 
+1 CONC salesman by the Triangle Interstate Company of Greeneville.
+1 CONT
+1 CONT
+1 CONT
+1 CONT
+1 CONT Obit:  Greeneville Sun
+1 CONT
+1 CONT Rites Thursday for Wm. R. Anderson
+1 CONT The funeral of William R. Anderson , who was found dead in his car, 
+1 CONC Tuesday will be held Thursday at two P.M. at the Church of Christ in 
+1 CONC Dixon, Tenn. The body has been moved to Dixon Funeral Home in Dixon, 
+1 CONC Where it will remain until time for the services.
+1 CONT
+1 CONT He is survived by his wife, Mrs. Alice Evelyn England Anderson, who was 
+1 CONC employed in the office of L.G. Smith and sons:  two Sons, David and 
+1 CONC Charles and two sisters, Mrs. W.D. Baker and Mrs. A.W. Harvery of 
+1 CONC Charlotte, Tennessee.
+1 CONT
+1 CONT
+1 CONT      iii. DAILEY EUGENE ENGLAND, b. May 27, 1935, Alton,  Oregon County, 
+1 CONC Missouri; m. (1) ELSIE MAE BILLIPS, February 11, 1954, West Plains, 
+1 CONC Howell County, Missouri; b. December 27, 1937, West Plains,Howell County, 
+1 CONC , Missouri; m. (2) MARTHA NELL HALL, 1974, Troy , Alabama; b. 1955, 
+1 CONC Laverne, Alabama; m. (3) DIXIE GAY DRAUGHN, June 13, 1994, Greene County, 
+1 CONC Tennessee; b. September 08, 1938, Wilkes County, NC.
+1 CONT
+1 CONT Notes for ELSIE MAE BILLIPS:
+1 CONT MOTHER    PAULINE 
+1 CONT FATHER      FRED BILLIPS       
+1 CONT
+1 CONT      iv.  BEDFORD ELIAS ENGLAND, b. May 27, 1938, Missouri; d. October 
+1 CONC 20, 1943, Thayer , Oregon Co. Missouri.
+1 CONT
+1 CONT Notes for BEDFORD ELIAS ENGLAND:
+1 CONT DEATH CERTIFICATE ON FILE
+1 CONT
+1 CONT
+1 CONT ...............................................
+1 CONT
+1 CONT
+1 CONT DIED 1943  BURIED ROSE HILL CEMETERY , THAYER, MISSOURI  DIED AS
+1 CONT RESULT OF ACCIDENTAL GUNSHOT WOUND
+1 CONT
+1 CONT More About BEDFORD ELIAS ENGLAND:
+1 CONT Fact 1: died Jonesboro, Craighead Co., Arkansas
+1 CONT Fact 2: hospital  October 20, 1943 at 11:25 A.M.
+1 CONT Fact 3: gunshot wound to abdomen
+1 CONT
+1 CONT      v.   BOBBY EARL ENGLAND, b. January 17, 1941; m. (1) DORINDA LOWERY; 
+1 CONC m. (2) LINDA, Florida; m. (3) BECKY _________; m. (4) DIXIE DWAIN 
+1 CONC FLEMING, June 13, 1959, Ft. Eustis, Va..
+1 CONT
+1 CONT Notes for BOBBY EARL ENGLAND:
+1 CONT BIRTH CERTIFICATE ON FILE
+1 CONT
+1 CONT
+1 CONT ..........................................
+1 CONT
+1 CONT
+1 CONT Divorced Greene Co. TN. June 22, 1977 From Dixie Fleming
+1 CONT
+1 CONT      vi.  SHIRLEY JEAN ENGLAND, b. January 10, 1945, Thayer , Oregon Co. 
+1 CONC , Missouri; m. (1) GEORGE TARBUTTON, November 22, 1963, Greeneville, 
+1 CONC Greene Co. Tennessee; b. December 01, 1940, Orange County, New Jersey; m. 
+1 CONC (2) THOMAS LEE BROWN, August 23, 1979, Greeneville, Greene Co. Tennessee; 
+1 CONC b. June 28, 1953, Columbus, Missouri.
+1 CONT      vii. KATHRYN GAYLE ENGLAND, b. September 24, 1949, Thayer , Oregon 
+1 CONC Co. Missouri; m. (1) TERRY DEAN WADDELL, June 24, 1965, Greeneville, 
+1 CONC Greene Co. Tennessee; b. January 27, 1948, Greeneville, Greene Co. 
+1 CONC Tennessee; m. (2) LARRY LEE DAVIS, December 31, 1971, Greeneville, Greene 
+1 CONC Co. Tennessee; b. May 03, 1947, Greeneville, Greene Co. Tennessee.
+1 CONT
+1 CONT Notes for KATHRYN GAYLE ENGLAND:
+1 CONT Divorced  October 13,1970 Greeneville, Greene County, TN.
+1 CONT from Terry Dean Waddell
+1 CONT ....................................
+1 CONT
+1 CONT      viii.     HERSHEL GLENN ENGLAND, b. June 29, 1952, Thayer , Oregon 
+1 CONC Co. , Missouri; m. PEGGY ROWLISON, Greeneville, Greene Co. Tennessee.
+1 CONT
+1 CONT Notes for PEGGY ROWLISON:
+1 CONT PARENTS OF PEGGY ; WORLEY AND CAROL  ROWLISON  GREENEVILLE, TN.
+0 @NI022@ NOTE
+1 CONC Divorced  from Terary Dean Waddell on Octobver 13, 1970 at Greeneville, 
+1 CONC Greene County, Tennessee.
+0 @NI024@ NOTE
+1 CONC Viola La Rue Peterson's occupation:  Nursing Home Supervisor.
+1 CONT Her social security number:  505-26-0182
+0 @NI032@ NOTE
+1 CONC Elias Monroe England died of cancer at home with his family.  This was 
+1 CONC before pain killers and drugs were given to ease pain and suffering.  He 
+1 CONC was buried at Rose Hill Cemetery beside his grandson, Bedford Elias 
+1 CONC England.  Later when Florence England died, she was buried by his side.
+0 @NI034@ NOTE
+1 CONC Thomas R. England moved from Alabama in 1858
+1 CONT Thomas R. England was buried in the Duty Cemetery, Randolph County, 
+1 CONC Arkansas without his first wife Cinthia Rebecca DuBois 10/30/1869 book 2 
+1 CONC page 392.  He lived and married at Elm Store, Arkansas.
+1 CONT      Death certificate shows dying of old age and general dibility on 
+1 CONC 4/11/1923 at age 76.
+1 CONT                 Census shows George Starling, brothe-in-law and Nancy 
+1 CONC England Starling (sisster) living in Thomas' household.  George having 
+1 CONC consumption.  Household #37 Union Twp.
+1 CONT
+1 CONT      Children listed: Calvin 6 Ar.,  Vina 4 Ar.,  Elias 2  Ar.  1860 
+1 CONC Randolph County Census listed with father Newell, he is aage 13.
+1 CONT
+1 CONT      FHC library census records show 1910 Randolph County, Arkansas, Elm 
+1 CONC Store Township 29th and 30th dist.  118  line  86  151/152.   Thomas 
+1 CONC England age 63 yrs. widowed  tn tn tn farmer/ gen farm work
+0 @NI035@ NOTE
+1 CONC She was buried in Randolph County, Arkansas at King Cemetery.
+0 @NI036@ NOTE
+1 CONC 2nd wife of Thomas R England Married him at age 59  in Randolph County, 
+1 CONC Arkansas
+0 @NI037@ NOTE
+1 CONC George Calvin  England died at Dr. Grady's Hospital and  was buried at 
+1 CONC King Cemetery in Randolph County, Arkansas by McNabb Funeral Home.   Dr. 
+1 CONC Gray's Hospital in Newport, Arkansas was bought by Harris Hospital twenty 
+1 CONC to thirty years ago.  Thier address is: 1205 Mc Lain,  Newport, Arkansas 
+1 CONC 72112.
+0 @NI038@ NOTE
+1 CONC Melvina (or Vina) England was buried at Stranger Home Cemetery.
+0 @NI039@ NOTE
+1 CONC Social Security Number :  431-32-2662.
+0 @NI056@ NOTE
+1 CONC Social Security number: 430-25-5034 issued in 1974 at her age of 67.
+0 TRLR

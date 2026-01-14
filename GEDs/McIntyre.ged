@@ -1,0 +1,5178 @@
+0 HEAD
+1 SOUR ANCESTRY
+2 NAME Online Family Tree
+2 VERS 1.0
+2 CORP MyFamily.com, Inc.
+3 ADDR 360 W 4800 N
+4 CONT Provo, UT  84604
+4 PHON (801) 705-7000
+1 GEDC
+2 VERS 4.0
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 FILE Suddath and Freeman Families
+1 DATE 30 Aug 2005
+0 @I573239885@ INDI
+1 NAME Ellen /Rhodes/
+2 GIVN Ellen
+2 SURN Rhodes
+1 SEX F
+1 BIRT
+2 DATE 17 Apr 1840
+2 PLAC , Lauderdale, Alabama
+1 DEAT
+2 DATE 3 Sep 1895
+2 PLAC , Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576661@
+1 FAMC @F527576485@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239892@ INDI
+1 NAME Julia Anne /Rhodes/
+2 GIVN Julia Anne
+2 SURN Rhodes
+1 SEX F
+1 BIRT
+2 DATE 1847
+2 PLAC , Lauderdale, Alabama
+1 DEAT
+2 DATE 3 Sep 1910
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576654@
+1 FAMS @F527576667@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239901@ INDI
+1 NAME John Wesley /McIntyre/
+2 GIVN John Wesley
+2 SURN McIntyre
+1 SEX M
+1 BIRT
+2 DATE 3 Jan 1840
+2 PLAC , Giles, Tennessee
+1 DEAT
+2 DATE 28 Nov 1906
+2 PLAC , Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576661@
+1 FAMC @F527576671@
+1 FAMS @F527576667@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+1 NOTE John Wesley first married Ellen Rhodes.
+2 CONT Julia'a aunt.
+0 @I573239902@ INDI
+1 NAME Duncan /McIntyre/
+2 GIVN Duncan
+2 SURN McIntyre
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576671@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239903@ INDI
+1 NAME Mary /Dowdy/
+2 GIVN Mary
+2 SURN Dowdy
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576671@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239912@ INDI
+1 NAME Spencer Fountain /Rhodes/
+2 GIVN Spencer Fountain
+2 SURN Rhodes
+1 SEX M
+1 BIRT
+2 DATE 11 Jul 1847
+2 PLAC , Lauderdale, Alabama
+1 DEAT
+2 DATE 9 Oct 1913
+1 BURI
+2 PLAC Lakeveiw Cemetery, Marietta, Love, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576675@
+1 FAMC @F527576657@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+1 NOTE Spencer & Josie lived near McIntyre plantation until about 1879 when they
+2 CONT move
+2 CONC d to Franklin County, Arkanasa.
+2 CONT About 1884 they moved to Logan County, Arkansa
+2 CONT Baylus Askew encouraged them to move to Indian Territory of Okla.
+2 CONT Spencer & 
+2 CONC Josie rented a small farm from a exslave OLE JOE
+2 CONT 1910 they moved to Washinston
+2 CONC  Township in Love County, Oklahoma
+0 @I573239921@ INDI
+1 NAME Josephine D /McIntyre/
+2 GIVN Josephine D
+2 SURN McIntyre
+1 SEX F
+1 BIRT
+2 DATE 17 Jun 1852
+2 PLAC , Lauderdale, Alabama
+1 DEAT
+2 DATE Aug 1919
+2 PLAC , Logan, Arkansas
+1 CHAN
+2 DATE 28 Apr 2004
+1 FAMS @F527576675@
+1 FAMC @F527576671@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239922@ INDI
+1 NAME Mary M /Rhodes/
+2 GIVN Mary M
+2 SURN Rhodes
+1 SEX F
+1 BIRT
+2 DATE 10 Dec 1871
+2 PLAC , Lauderdale, Alabama
+1 DEAT
+2 DATE 20 Apr 1919
+2 PLAC , Love, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576675@
+1 FAMS @F527576680@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239923@ INDI
+1 NAME Anne Rita /Rhodes/
+2 GIVN Anne Rita
+2 SURN Rhodes
+1 SEX F
+1 BIRT
+2 DATE 3 Nov 1872
+2 PLAC , Lauderdale, Alabama
+1 DEAT
+2 DATE 20 Apr 1916
+2 PLAC , Love, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576675@
+1 FAMS @F527576681@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239924@ INDI
+1 NAME Spencer Walter /Rhodes/
+2 GIVN Spencer Walter
+2 SURN Rhodes
+1 SEX M
+1 BIRT
+2 DATE 18 Jan 1875
+2 PLAC , Lauderdale, Alabama
+1 DEAT
+2 DATE 23 Dec 1958
+2 PLAC , Logan, Arkansas
+1 CHAN
+2 DATE 28 Apr 2004
+1 FAMC @F527576675@
+1 FAMS @F527576682@
+1 FAMS @F527576683@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239925@ INDI
+1 NAME Lucy W /Rhodes/
+2 GIVN Lucy W
+2 SURN Rhodes
+1 SEX F
+1 BIRT
+2 DATE 18 Jan 1877
+2 PLAC , Lauderdale, Alabama
+1 DEAT
+2 PLAC , Logan, Arkansas
+1 CHAN
+2 DATE 28 Apr 2004
+1 FAMC @F527576675@
+1 FAMS @F527576684@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239926@ INDI
+1 NAME Edna /Rhodes/
+2 GIVN Edna
+2 SURN Rhodes
+1 SEX F
+1 BIRT
+2 DATE 17 Mar 1879
+2 PLAC , Lauderdale, Alabama
+1 DEAT
+2 PLAC , Logan, Arkansas
+1 CHAN
+2 DATE 28 Apr 2004
+1 FAMC @F527576675@
+1 FAMS @F527576685@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239927@ INDI
+1 NAME Eugenia Jean /Rhodes/
+2 GIVN Eugenia Jean
+2 SURN Rhodes
+1 SEX F
+1 BIRT
+2 DATE 30 Apr 1881
+2 PLAC , Lauderdale, Alabama
+1 DEAT
+2 DATE 29 Jul 1941
+2 PLAC , Logan, Arkansas
+1 CHAN
+2 DATE 28 Apr 2004
+1 FAMC @F527576675@
+1 FAMS @F527576686@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239928@ INDI
+1 NAME Ernest L /Rhodes/
+2 GIVN Ernest L
+2 SURN Rhodes
+1 SEX M
+1 BIRT
+2 DATE 21 Oct 1883
+2 PLAC , Franklin, Arkansa
+1 DEAT
+2 DATE 24 Dec 1941
+2 PLAC Mannsville, Johnston, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576675@
+1 FAMS @F527576687@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+1 NOTE Name Suffix:<NSFX> Sr
+2 CONT Earnest was a member of the Woodmen
+0 @I573239929@ INDI
+1 NAME Hughlord Clay /Rhodes/
+2 GIVN Hughlord Clay
+2 SURN Rhodes
+1 SEX M
+1 BIRT
+2 DATE 24 Dec 1885
+2 PLAC , Logan, Arkansas
+1 DEAT
+2 DATE 1949
+2 PLAC Maud, Seminole, Oklahoma
+1 CHAN
+2 DATE 28 Apr 2004
+1 FAMC @F527576675@
+1 FAMS @F527576688@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239930@ INDI
+1 NAME John Estes /Rhodes/
+2 GIVN John Estes
+2 SURN Rhodes
+1 SEX M
+1 BIRT
+2 DATE 31 Aug 1887
+2 PLAC , Logan, Arkansas
+1 DEAT
+2 DATE 28 Sep 1954
+2 PLAC , Marshall, Oklahoma
+1 BURI
+2 PLAC Lakeveiw Cemetery, Marietta, Love, Oklahoma
+1 CHAN
+2 DATE 28 Apr 2004
+1 FAMC @F527576675@
+1 FAMS @F527576689@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239931@ INDI
+1 NAME Willie Almer /Rhodes/
+2 GIVN Willie Almer
+2 SURN Rhodes
+1 SEX M
+1 BIRT
+2 DATE 19 Mar 1880
+2 PLAC , Logan, Arkansas
+1 DEAT
+2 DATE 10 Feb 1949
+2 PLAC Tecumseh, Pottawatomie, Oklahoma
+1 CHAN
+2 DATE 28 Apr 2004
+1 FAMC @F527576675@
+1 FAMS @F527576690@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239932@ INDI
+1 NAME Floyd /Rhodes/
+2 GIVN Floyd
+2 SURN Rhodes
+1 SEX M
+1 DEAT
+2 DATE 1910
+1 BURI
+2 PLAC Rogers Chapel, , Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576675@
+1 FAMS @F527576691@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239933@ INDI
+1 NAME Omer Millard /Rhodes/
+2 GIVN Omer Millard
+2 SURN Rhodes
+1 SEX M
+1 BIRT
+2 DATE 5 Apr 1894
+2 PLAC , Logan, Arkansas
+1 DEAT
+2 PLAC Bonham, Fannin, Texas
+1 CHAN
+2 DATE 28 Apr 2004
+1 FAMC @F527576675@
+1 FAMS @F527576692@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239934@ INDI
+1 NAME Troy Elbert /Rhodes/
+2 GIVN Troy Elbert
+2 SURN Rhodes
+1 SEX M
+1 BIRT
+2 DATE 7 Jun 1897
+2 PLAC , Logan, Arkansas
+1 DEAT
+2 DATE 7 Oct 1980
+2 PLAC , Grayson, Texas
+1 CHAN
+2 DATE 28 Apr 2004
+1 FAMC @F527576675@
+1 FAMS @F527576693@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239935@ INDI
+1 NAME Millard Fillmore /Pike/
+2 GIVN Millard Fillmore
+2 SURN Pike
+1 SEX M
+1 BIRT
+2 DATE 1854
+2 PLAC , , Alabama
+1 DEAT
+2 DATE Oct 1918
+2 PLAC Marietta, Love, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576680@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+1 NOTE Name Suffix:<NSFX> Sr
+0 @I573239936@ INDI
+1 NAME Velma /Pike/
+2 GIVN Velma
+2 SURN Pike
+1 SEX F
+1 BIRT
+2 DATE Sep 1890
+2 PLAC , , Arkanasas
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576680@
+1 FAMS @F527576694@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239937@ INDI
+1 NAME Arvy Leona /Pike/
+2 GIVN Arvy Leona
+2 SURN Pike
+1 SEX F
+1 BIRT
+2 DATE 1894
+2 PLAC , Logan, Arkansas
+1 DEAT
+2 DATE 7 Jan 1969
+2 PLAC Edinburg, Hidalgo, Texas
+1 BURI
+2 PLAC Lebanon, Mashall, Oklahoma
+1 CHAN
+2 DATE 28 Apr 2004
+1 FAMS @F527576695@
+1 FAMC @F527576680@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239938@ INDI
+1 NAME Sallie /Pike/
+2 GIVN Sallie
+2 SURN Pike
+1 SEX F
+1 BIRT
+2 DATE 19 May 1895
+2 PLAC Magazine, Logan, Arkanasa
+1 DEAT
+2 DATE 8 Dec 1981
+2 PLAC Visalia, Tulare, California
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576680@
+1 FAMS @F527576696@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239939@ INDI
+1 NAME Josephine /Pike/
+2 GIVN Josephine
+2 SURN Pike
+1 SEX F
+1 BIRT
+2 DATE 17 Aug 1898
+2 PLAC Magazine, Logan, Arkanasa
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576680@
+1 FAMS @F527576697@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239940@ INDI
+1 NAME Millard Fillmore /Pike/
+2 GIVN Millard Fillmore
+2 SURN Pike
+1 SEX M
+1 BIRT
+2 DATE 22 Jul 1905
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576698@
+1 FAMC @F527576680@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+1 NOTE Name Suffix:<NSFX> Jr
+0 @I573239941@ INDI
+1 NAME Alonzo Eugene /Pike/
+2 GIVN Alonzo Eugene
+2 SURN Pike
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576699@
+1 FAMC @F527576680@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239942@ INDI
+1 NAME Jasper Edmond /Parsh/
+2 GIVN Jasper Edmond
+2 SURN Parsh
+1 SEX M
+1 BIRT
+2 DATE 25 Dec 1869
+2 PLAC , Wayne, Tennessee
+1 DEAT
+2 DATE 4 Nov 1959
+2 PLAC , Cleveland, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576681@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239943@ INDI
+1 NAME Virgil Timothy /Parsh/
+2 GIVN Virgil Timothy
+2 SURN Parsh
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576681@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+1 NOTE NOT-A-MATCH: This individual is not the same as /Parsh/ ?-?, PAF ID {9CF971B5-5
+2 CONC 86A-47BA-ABF8-F68489120F6C}
+0 @I573239944@ INDI
+1 NAME Lillian Francis /Parsh/
+2 GIVN Lillian Francis
+2 SURN Parsh
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576681@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+1 NOTE NOT-A-MATCH: This individual is not the same as /Parsh/ ?-?, PAF ID {1D5D8441-2
+2 CONC 295-466B-B2D2-4A213E98B6A4}
+0 @I573239945@ INDI
+1 NAME Ellis Leonard /Parsh/
+2 GIVN Ellis Leonard
+2 SURN Parsh
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576681@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+1 NOTE NOT-A-MATCH: This individual is not the same as /Parsh/ ?-?, PAF ID {9CF971B5-5
+2 CONC 86A-47BA-ABF8-F68489120F6C}
+0 @I573239946@ INDI
+1 NAME UNKNOWN /Parsh/
+2 GIVN UNKNOWN
+2 SURN Parsh
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576681@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+1 NOTE NOT-A-MATCH: This individual is not the same as Rachel Cyneth /Parsh/ ?-?, PAF 
+2 CONC ID {71CEA49E-E70A-4132-B10C-DA189848F164}
+2 CONT
+2 CONT NOT-A-MATCH: This individual is no
+2 CONC t the same as Lillian Francis /Parsh/ ?-?, PAF ID {F8E262B9-A34A-4729-8B51-B6EA
+2 CONC 7FC4DD72}
+0 @I573239947@ INDI
+1 NAME Rachel Cyneth /Parsh/
+2 GIVN Rachel Cyneth
+2 SURN Parsh
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576681@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+1 NOTE NOT-A-MATCH: This individual is not the same as /Parsh/ ?-?, PAF ID {1D5D8441-2
+2 CONC 295-466B-B2D2-4A213E98B6A4}
+0 @I573239948@ INDI
+1 NAME UNKNOWN /Parsh/
+2 GIVN UNKNOWN
+2 SURN Parsh
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576681@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+1 NOTE NOT-A-MATCH: This individual is not the same as Raymond Autry /Parsh/ ?-?, PAF 
+2 CONC ID {2DDE067D-3DEC-4AB6-ACE5-496C8BFD893B}
+2 CONT
+2 CONT NOT-A-MATCH: This individual is no
+2 CONC t the same as Ellis Leonard /Parsh/ ?-?, PAF ID {A4C43E2A-F665-4872-884A-549F76
+2 CONC F3B9D6}
+2 CONT
+2 CONT NOT-A-MATCH: This individual is not the same as Virgil Timothy /Pars
+2 CONC h/ ?-?, PAF ID {0651BB77-6A8F-4BED-8912-95387F831275}
+0 @I573239949@ INDI
+1 NAME Raymond Autry /Parsh/
+2 GIVN Raymond Autry
+2 SURN Parsh
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576681@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+1 NOTE NOT-A-MATCH: This individual is not the same as /Parsh/ ?-?, PAF ID {9CF971B5-5
+2 CONC 86A-47BA-ABF8-F68489120F6C}
+0 @I573239950@ INDI
+1 NAME Etta /Ladd/
+2 GIVN Etta
+2 SURN Ladd
+1 SEX F
+1 BIRT
+2 DATE 1877
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576682@
+1 FAMC @F527576700@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239953@ INDI
+1 NAME Bessie Pearl /Rhodes/
+2 GIVN Bessie Pearl
+2 SURN Rhodes
+1 SEX F
+1 BIRT
+2 DATE 1900
+2 PLAC , Logan, Arkansas
+1 DEAT
+2 DATE 1956
+1 CHAN
+2 DATE 28 Apr 2004
+1 FAMC @F527576682@
+1 FAMS @F527576701@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239954@ INDI
+1 NAME Virgil /Beason/
+2 GIVN Virgil
+2 SURN Beason
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576701@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239955@ INDI
+1 NAME Eldora /Ladd/
+2 GIVN Eldora
+2 SURN Ladd
+1 SEX F
+1 DEAT
+2 DATE 27 Feb 1964
+2 PLAC , Logan, Arkansas
+1 CHAN
+2 DATE 28 Apr 2004
+1 FAMS @F527576683@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239956@ INDI
+1 NAME Effie Mae /Rhodes/
+2 GIVN Effie Mae
+2 SURN Rhodes
+1 SEX F
+1 BIRT
+2 DATE 28 Apr 1907
+2 PLAC , Logan, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576702@
+1 FAMC @F527576683@
+1 FAMS @F527576703@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239957@ INDI
+1 NAME Melbalene /Rhodes/
+2 GIVN Melbalene
+2 SURN Rhodes
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576704@
+1 FAMC @F527576683@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239958@ INDI
+1 NAME Sallie Opal /Rhodes/
+2 GIVN Sallie Opal
+2 SURN Rhodes
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576683@
+1 FAMS @F527576705@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239959@ INDI
+1 NAME Ruby Pebble /Rhodes/
+2 GIVN Ruby Pebble
+2 SURN Rhodes
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576706@
+1 FAMC @F527576683@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239960@ INDI
+1 NAME UNKNOWN /Rhodes/
+2 GIVN UNKNOWN
+2 SURN Rhodes
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576683@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239961@ INDI
+1 NAME Thomas Jefferson /Gilbert/
+2 GIVN Thomas Jefferson
+2 SURN Gilbert
+1 SEX M
+1 BIRT
+2 DATE 1873
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576684@
+1 FAMC @F527576707@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239964@ INDI
+1 NAME Nannie /Gilbert/
+2 GIVN Nannie
+2 SURN Gilbert
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576684@
+1 FAMS @F527576708@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239965@ INDI
+1 NAME Alvin /Gilbert/
+2 GIVN Alvin
+2 SURN Gilbert
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576684@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239966@ INDI
+1 NAME Emma /Gilbert/
+2 GIVN Emma
+2 SURN Gilbert
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576684@
+1 FAMS @F527576709@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239967@ INDI
+1 NAME Edith /Gilbert/
+2 GIVN Edith
+2 SURN Gilbert
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576684@
+1 FAMS @F527576710@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239968@ INDI
+1 NAME Thomas P T /Bailey/
+2 GIVN Thomas P T
+2 SURN Bailey
+1 SEX M
+1 BIRT
+2 DATE 1876
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576685@
+1 FAMC @F527576711@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239971@ INDI
+1 NAME Alonozo Alexander /Godfrey/
+2 GIVN Alonozo Alexander
+2 SURN Godfrey
+1 SEX M
+1 BIRT
+2 DATE Oct 1874
+2 PLAC , , Alabama
+1 DEAT
+2 DATE 14 Jan 1955
+2 PLAC , Logan, Arkansas
+1 CHAN
+2 DATE 28 Apr 2004
+1 FAMS @F527576686@
+1 FAMC @F527576712@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239974@ INDI
+1 NAME Brian /Godfrey/
+2 GIVN Brian
+2 SURN Godfrey
+1 SEX M
+1 BIRT
+2 PLAC , Logan, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576686@
+1 FAMS @F527576713@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239975@ INDI
+1 NAME Tatum /Godfrey/
+2 GIVN Tatum
+2 SURN Godfrey
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576686@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239976@ INDI
+1 NAME Charlie /Godfrey/
+2 GIVN Charlie
+2 SURN Godfrey
+1 SEX M
+1 BIRT
+2 DATE 26 Mar 1905
+2 PLAC , Logan, Oklahoma
+1 BIRT
+2 DATE 26 Mar 1905
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576686@
+1 FAMS @F527576714@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239977@ INDI
+1 NAME Roe /Godfrey/
+2 GIVN Roe
+2 SURN Godfrey
+1 SEX M
+1 BIRT
+2 PLAC , Logan, Arkansas
+1 CHAN
+2 DATE 28 Apr 2004
+1 FAMC @F527576686@
+1 FAMS @F527576715@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239978@ INDI
+1 NAME Jack /Godfrey/
+2 GIVN Jack
+2 SURN Godfrey
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576686@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239979@ INDI
+1 NAME Howard /Godfrey/
+2 GIVN Howard
+2 SURN Godfrey
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576686@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239980@ INDI
+1 NAME Velma /Godfrey/
+2 GIVN Velma
+2 SURN Godfrey
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576686@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239981@ INDI
+1 NAME Glen /Godfrey/
+2 GIVN Glen
+2 SURN Godfrey
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576686@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239982@ INDI
+1 NAME Alden /Godfrey/
+2 GIVN Alden
+2 SURN Godfrey
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576686@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239983@ INDI
+1 NAME Effie /Colson/
+2 GIVN Effie
+2 SURN Colson
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576716@
+1 FAMS @F527576687@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239985@ INDI
+1 NAME Alvin /Rhodes/
+2 GIVN Alvin
+2 SURN Rhodes
+1 SEX M
+1 BIRT
+2 DATE 16 Oct 1916
+2 PLAC , Blaine, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576687@
+1 FAMS @F527576717@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239986@ INDI
+1 NAME Dixie /Rhodes/
+2 GIVN Dixie
+2 SURN Rhodes
+1 SEX F
+1 BIRT
+2 DATE 2 Feb 1919
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576687@
+1 FAMS @F527576718@
+1 FAMS @F527576719@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239987@ INDI
+1 NAME Stella /Rhodes/
+2 GIVN Stella
+2 SURN Rhodes
+1 SEX F
+1 BIRT
+2 DATE 21 Sep 1920
+1 DEAT
+2 DATE 1967
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576720@
+1 FAMC @F527576687@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239988@ INDI
+1 NAME William Linwood /Rhodes/
+2 GIVN William Linwood
+2 SURN Rhodes
+1 SEX M
+1 BIRT
+2 DATE 27 May 1922
+1 DEAT
+2 DATE Sep 1976
+2 PLAC , Carter, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576722@
+1 FAMC @F527576687@
+1 FAMS @F527576721@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239989@ INDI
+1 NAME Billie Lee /Rhodes/
+2 GIVN Billie Lee
+2 SURN Rhodes
+1 SEX M
+1 BIRT
+2 DATE 20 Nov 1925
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576723@
+1 FAMC @F527576687@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239990@ INDI
+1 NAME Hugh /Rhodes/
+2 GIVN Hugh
+2 SURN Rhodes
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576688@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239991@ INDI
+1 NAME Glenna Faye /Rhodes/
+2 GIVN Glenna Faye
+2 SURN Rhodes
+1 SEX F
+1 BIRT
+2 DATE 21 Jun 1928
+2 PLAC , Blaine, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576687@
+1 FAMS @F527576724@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239992@ INDI
+1 NAME Josie /Woodridge/
+2 GIVN Josie
+2 SURN Woodridge
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576688@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239993@ INDI
+1 NAME Talmage /Rhodes/
+2 GIVN Talmage
+2 SURN Rhodes
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576688@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239994@ INDI
+1 NAME Charles /Rhodes/
+2 GIVN Charles
+2 SURN Rhodes
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576688@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239995@ INDI
+1 NAME Joyce /Rhodes/
+2 GIVN Joyce
+2 SURN Rhodes
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576688@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239996@ INDI
+1 NAME Willie Anna /Ingram/
+2 GIVN Willie Anna
+2 SURN Ingram
+1 SEX F
+1 BIRT
+2 DATE 28 Jul 1890
+2 PLAC , Logan, Arkansas
+1 DEAT
+2 DATE 9 Nov 1966
+2 PLAC Lebanon, Mashall, Oklahoma
+1 BURI
+2 PLAC Lakeveiw Cemetery, Marietta, Love, Oklahoma
+1 CHAN
+2 DATE 28 Apr 2004
+1 FAMC @F527576725@
+1 FAMS @F527576689@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573239999@ INDI
+1 NAME Rita Gladys /Rhodes/
+2 GIVN Rita Gladys
+2 SURN Rhodes
+1 SEX F
+1 BIRT
+2 DATE 28 Apr 1907
+2 PLAC , Love, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576726@
+1 FAMC @F527576689@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240000@ INDI
+1 NAME Ellis /Keel/
+2 GIVN Ellis
+2 SURN Keel
+1 SEX M
+1 BIRT
+2 DATE 20 Feb 1906
+2 PLAC , Marshall, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576727@
+1 FAMS @F527576726@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240003@ INDI
+1 NAME Rudy Jewel /Rhodes/
+2 GIVN Rudy Jewel
+2 SURN Rhodes
+1 SEX F
+1 BIRT
+2 DATE 23 May 1908
+2 PLAC , Love, Oklahoma
+1 DEAT
+2 DATE 8 May 1970
+2 PLAC , Marshall, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576729@
+1 FAMS @F527576728@
+1 FAMS @F527576714@
+1 FAMC @F527576689@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240004@ INDI
+1 NAME Clyde /Taylor/
+2 GIVN Clyde
+2 SURN Taylor
+1 SEX M
+1 BIRT
+2 PLAC , , Oklahoma
+1 DEAT
+2 DATE 16 Jan 1978
+2 PLAC Altus, Jackson, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576728@
+1 FAMC @F527576730@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240007@ INDI
+1 NAME James Earl /Rhodes/
+2 GIVN James Earl
+2 SURN Rhodes
+1 SEX M
+1 BIRT
+2 DATE 5 Nov 1909
+2 PLAC , Love, Oklahoma
+1 DEAT
+2 DATE 11 Sep 1978
+2 PLAC , Marshall, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576689@
+1 FAMS @F527576731@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240008@ INDI
+1 NAME Odelie /Perkins/
+2 GIVN Odelie
+2 SURN Perkins
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576731@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240009@ INDI
+1 NAME Crystal Bernice /Rhodes/
+2 GIVN Crystal Bernice
+2 SURN Rhodes
+1 SEX F
+1 BIRT
+2 DATE 14 Dec 1913
+2 PLAC , Love, Oklahoma
+1 DEAT
+2 DATE 2 Oct 1956
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576732@
+1 FAMC @F527576689@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240010@ INDI
+1 NAME Nolan Dean /Rhodes/
+2 GIVN Nolan Dean
+2 SURN Rhodes
+1 SEX M
+1 BIRT
+2 DATE 11 Oct 1920
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576733@
+1 FAMC @F527576689@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240011@ INDI
+1 NAME Douglas /Brawley/
+2 GIVN Douglas
+2 SURN Brawley
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576732@
+1 FAMC @F527576734@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240014@ INDI
+1 NAME Ruth /Hopkins/
+2 GIVN Ruth
+2 SURN Hopkins
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576733@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240015@ INDI
+1 NAME Billy John /Rhodes/
+2 GIVN Billy John
+2 SURN Rhodes
+1 SEX M
+1 BIRT
+2 DATE 14 Nov 1925
+2 PLAC , Marshall, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576689@
+1 FAMS @F527576735@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240016@ INDI
+1 NAME Milderd Anna Elmore /Smith/
+2 GIVN Milderd Anna Elmore
+2 SURN Smith
+1 SEX F
+1 BIRT
+2 DATE 6 Feb 1923
+2 PLAC , Marshall, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576736@
+1 FAMS @F527576735@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240019@ INDI
+1 NAME Hollis Harold /Rhodes/
+2 GIVN Hollis Harold
+2 SURN Rhodes
+1 SEX M
+1 BIRT
+2 DATE 23 Apr 1929
+2 PLAC , Marshall, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576689@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240030@ INDI
+1 NAME Robert Lee /McIntyre/
+2 GIVN Robert Lee
+2 SURN McIntyre
+1 SEX M
+1 BIRT
+2 DATE 12 Aug 1866
+2 PLAC , Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576661@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240815@ INDI
+1 NAME Guy /Beason/
+2 GIVN Guy
+2 SURN Beason
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576701@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240816@ INDI
+1 NAME William Ray /Beason/
+2 GIVN William Ray
+2 SURN Beason
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576701@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240817@ INDI
+1 NAME Estelle Marie /Beason/
+2 GIVN Estelle Marie
+2 SURN Beason
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576701@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240818@ INDI
+1 NAME Wilma Ophia /Beason/
+2 GIVN Wilma Ophia
+2 SURN Beason
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576701@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240819@ INDI
+1 NAME Living /Beason/
+1 SEX F
+1 FAMC @F527576701@
+0 @I573240820@ INDI
+1 NAME Luther /Starr/
+2 GIVN Luther
+2 SURN Starr
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576702@
+1 FAMC @F527577032@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240823@ INDI
+1 NAME Sibyl /Starr/
+2 GIVN Sibyl
+2 SURN Starr
+1 SEX F
+1 BIRT
+2 DATE 12 Dec 1924
+2 PLAC , Logan, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576702@
+1 FAMS @F527577033@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240824@ INDI
+1 NAME Layton Cullen /Lewis/
+2 GIVN Layton Cullen
+2 SURN Lewis
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527577034@
+1 FAMS @F527576703@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240827@ INDI
+1 NAME Living /Lewis/
+1 SEX F
+1 FAMC @F527576703@
+1 FAMS @F527577035@
+0 @I573240828@ INDI
+1 NAME Sam Edward /Khilling/
+2 GIVN Sam Edward
+2 SURN Khilling
+1 SEX M
+1 BIRT
+2 DATE 7 Sep 1921
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577033@
+1 FAMC @F527577036@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240831@ INDI
+1 NAME Living /Khilling/
+1 SEX M
+1 FAMC @F527577033@
+1 FAMS @F527577037@
+0 @I573240832@ INDI
+1 NAME Living /Holt/
+1 SEX F
+1 FAMS @F527577037@
+0 @I573240833@ INDI
+1 NAME Living /Starling/
+1 SEX M
+1 FAMS @F527577035@
+0 @I573240834@ INDI
+1 NAME L E /Sowell/
+2 GIVN L E
+2 SURN Sowell
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576704@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240835@ INDI
+1 NAME Living /Sowell/
+1 SEX M
+1 FAMC @F527576704@
+0 @I573240836@ INDI
+1 NAME Living /Sowell/
+1 SEX M
+1 FAMC @F527576704@
+0 @I573240837@ INDI
+1 NAME Lee /Hammer/
+2 GIVN Lee
+2 SURN Hammer
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576705@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240838@ INDI
+1 NAME Marvin /Hampton/
+2 GIVN Marvin
+2 SURN Hampton
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576706@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240839@ INDI
+1 NAME Living /Hampton/
+1 SEX M
+1 FAMC @F527576706@
+0 @I573240840@ INDI
+1 NAME Living /Hampton/
+1 SEX F
+1 FAMC @F527576706@
+0 @I573240841@ INDI
+1 NAME Willie /Hall/
+2 GIVN Willie
+2 SURN Hall
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576708@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240842@ INDI
+1 NAME Bennie /Sheril/
+2 GIVN Bennie
+2 SURN Sheril
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576709@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240843@ INDI
+1 NAME Bud /Foster/
+2 GIVN Bud
+2 SURN Foster
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576710@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240844@ INDI
+1 NAME Stella /Gantz/
+2 GIVN Stella
+2 SURN Gantz
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576713@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240845@ INDI
+1 NAME Living /Godfrey/
+1 SEX F
+1 FAMS @F527577038@
+1 FAMC @F527576714@
+0 @I573240846@ INDI
+1 NAME Living /Rauschenberg/
+1 SEX M
+1 FAMS @F527577038@
+0 @I573240847@ INDI
+1 NAME Living /Rauschenberg/
+1 SEX F
+1 FAMS @F527577039@
+1 FAMC @F527577038@
+0 @I573240848@ INDI
+1 NAME Living /Higgins/
+1 SEX M
+1 FAMS @F527577039@
+0 @I573240849@ INDI
+1 NAME Living /Rauschenberg/
+1 SEX F
+1 FAMC @F527577038@
+0 @I573240850@ INDI
+1 NAME Living /Rauschenberg/
+1 SEX M
+1 FAMC @F527577038@
+0 @I573240851@ INDI
+1 NAME Living /Godfrey/
+1 SEX F
+1 FAMC @F527576714@
+0 @I573240852@ INDI
+1 NAME Living /Godfrey/
+1 SEX M
+1 FAMC @F527576714@
+0 @I573240853@ INDI
+1 NAME Charlene /Garner/
+2 GIVN Charlene
+2 SURN Garner
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576715@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240854@ INDI
+1 NAME Living /Godfrey/
+1 SEX M
+1 FAMC @F527576715@
+0 @I573240855@ INDI
+1 NAME Lillie /Smithers/
+2 GIVN Lillie
+2 SURN Smithers
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576717@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240856@ INDI
+1 NAME Living /Rhodes/
+1 SEX F
+1 FAMC @F527576717@
+0 @I573240857@ INDI
+1 NAME Living /Rhodes/
+1 SEX F
+1 FAMC @F527576717@
+0 @I573240858@ INDI
+1 NAME Hallie /Nix/
+2 GIVN Hallie
+2 SURN Nix
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576718@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240859@ INDI
+1 NAME Elmer /Bacon/
+2 GIVN Elmer
+2 SURN Bacon
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576719@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240860@ INDI
+1 NAME Living /Bacon/
+1 SEX F
+1 FAMC @F527576719@
+0 @I573240861@ INDI
+1 NAME Living /Nix/
+1 SEX M
+1 FAMC @F527576718@
+0 @I573240862@ INDI
+1 NAME Living /Nix/
+1 SEX F
+1 FAMC @F527576718@
+0 @I573240863@ INDI
+1 NAME Wallace /Creagle/
+2 GIVN Wallace
+2 SURN Creagle
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576720@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240864@ INDI
+1 NAME Living /Creagle/
+1 SEX M
+1 FAMC @F527576720@
+0 @I573240865@ INDI
+1 NAME Living /Creagle/
+1 SEX M
+1 FAMC @F527576720@
+0 @I573240866@ INDI
+1 NAME Living /Creagle/
+1 SEX M
+1 FAMC @F527576720@
+0 @I573240867@ INDI
+1 NAME Winona /Cheves/
+2 GIVN Winona
+2 SURN Cheves
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576721@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240868@ INDI
+1 NAME Shirley /Smith/
+2 GIVN Shirley
+2 SURN Smith
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576722@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240869@ INDI
+1 NAME Living /Rhodes/
+1 SEX F
+1 FAMC @F527576722@
+0 @I573240870@ INDI
+1 NAME Living /Rhodes/
+1 SEX M
+1 FAMC @F527576722@
+0 @I573240871@ INDI
+1 NAME Wanda /Fleming/
+2 GIVN Wanda
+2 SURN Fleming
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576723@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240872@ INDI
+1 NAME Arlyn /Dewbre/
+2 GIVN Arlyn
+2 SURN Dewbre
+1 SEX M
+1 BIRT
+2 DATE 17 Dec 1917
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527577040@
+1 FAMS @F527576724@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240875@ INDI
+1 NAME Living /Dewbre/
+1 SEX F
+1 FAMC @F527576724@
+0 @I573240876@ INDI
+1 NAME Living /Dewbre/
+1 SEX F
+1 FAMC @F527576724@
+0 @I573240877@ INDI
+1 NAME Living /Rhodes/
+1 SEX M
+1 FAMS @F527577041@
+1 FAMC @F527576687@
+0 @I573240878@ INDI
+1 NAME Living /Chaney/
+1 SEX F
+1 FAMS @F527577041@
+0 @I573240879@ INDI
+1 NAME Living /Rhodes/
+1 SEX F
+1 FAMC @F527577041@
+0 @I573240880@ INDI
+1 NAME Living /Rhodes/
+1 SEX M
+1 FAMC @F527577041@
+0 @I573240881@ INDI
+1 NAME Living /Rhodes/
+1 SEX F
+1 FAMC @F527577041@
+0 @I573240882@ INDI
+1 NAME Living /Rhodes/
+1 SEX F
+1 FAMC @F527577041@
+0 @I573240883@ INDI
+1 NAME Living /Rhodes/
+1 SEX M
+1 FAMC @F527577041@
+0 @I573240884@ INDI
+1 NAME Living /Rhodes/
+1 SEX F
+1 FAMC @F527577041@
+0 @I573240885@ INDI
+1 NAME Living /Keel/
+1 SEX F
+1 FAMC @F527576726@
+0 @I573240886@ INDI
+1 NAME Living /Keel/
+1 SEX F
+1 FAMS @F527577042@
+1 FAMC @F527576726@
+0 @I573240887@ INDI
+1 NAME Living /Hawkins/
+1 SEX M
+1 FAMS @F527577042@
+0 @I573240888@ INDI
+1 NAME Living /Hawkins/
+1 SEX F
+1 FAMS @F527577043@
+1 FAMC @F527577042@
+0 @I573240889@ INDI
+1 NAME Living /Payne/
+1 SEX M
+1 FAMS @F527577043@
+0 @I573240890@ INDI
+1 NAME Living /Hawkins/
+1 SEX F
+1 FAMC @F527577042@
+0 @I573240891@ INDI
+1 NAME Living /Keel/
+1 SEX F
+1 FAMS @F527577044@
+1 FAMC @F527576726@
+0 @I573240892@ INDI
+1 NAME Living /Ricks/
+1 SEX M
+1 FAMS @F527577044@
+0 @I573240893@ INDI
+1 NAME Living /Ricks/
+1 SEX M
+1 FAMC @F527577044@
+0 @I573240894@ INDI
+1 NAME Living /Ricks/
+1 SEX M
+1 FAMC @F527577044@
+0 @I573240895@ INDI
+1 NAME Living /Ricks/
+1 SEX M
+1 FAMC @F527577044@
+0 @I573240896@ INDI
+1 NAME Ky /Johnson/
+2 GIVN Ky
+2 SURN Johnson
+1 SEX M
+1 BIRT
+2 DATE Apr 1905
+1 DEAT
+2 DATE 22 Oct 1973
+2 PLAC , Marshall, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527577045@
+1 FAMS @F527576729@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240899@ INDI
+1 NAME Loyd Cleo /Taylor/
+2 GIVN Loyd Cleo
+2 SURN Taylor
+1 SEX M
+1 BIRT
+2 DATE 18 Sep 1927
+2 PLAC , Marshall, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576728@
+1 FAMS @F527577046@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240900@ INDI
+1 NAME Betty Lou /Roberson/
+2 GIVN Betty Lou
+2 SURN Roberson
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527577047@
+1 FAMS @F527577046@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240903@ INDI
+1 NAME Living /Taylor/
+1 SEX M
+1 FAMS @F527577048@
+1 FAMC @F527577046@
+0 @I573240904@ INDI
+1 NAME Living /McCollough/
+1 SEX F
+1 FAMS @F527577048@
+0 @I573240905@ INDI
+1 NAME Living /Taylor/
+1 SEX M
+1 FAMC @F527577048@
+0 @I573240906@ INDI
+1 NAME Living /Taylor/
+1 SEX M
+1 FAMC @F527577046@
+0 @I573240907@ INDI
+1 NAME Living /Taylor/
+1 SEX M
+1 FAMS @F527577049@
+1 FAMC @F527577046@
+0 @I573240908@ INDI
+1 NAME Living /Carson/
+1 SEX F
+1 FAMS @F527577049@
+0 @I573240909@ INDI
+1 NAME Living /Taylor/
+1 SEX M
+1 FAMC @F527577049@
+0 @I573240910@ INDI
+1 NAME Living /Taylor/
+1 SEX F
+1 FAMS @F527577051@
+1 FAMS @F527577050@
+1 FAMC @F527577046@
+0 @I573240911@ INDI
+1 NAME Living /Langley/
+1 SEX M
+1 FAMS @F527577050@
+1 FAMS @F527577052@
+0 @I573240912@ INDI
+1 NAME Living /Oldham/
+1 SEX M
+1 FAMS @F527577051@
+0 @I573240913@ INDI
+1 NAME Living /Langley/
+1 SEX F
+1 FAMC @F527577050@
+0 @I573240914@ INDI
+1 NAME Living /Oldham/
+1 SEX F
+1 FAMC @F527577051@
+0 @I573240915@ INDI
+1 NAME Living /Oldham/
+1 SEX M
+1 FAMC @F527577051@
+0 @I573240916@ INDI
+1 NAME Living /Taylor/
+1 SEX F
+1 FAMS @F527577052@
+1 FAMC @F527577046@
+0 @I573240917@ INDI
+1 NAME Living /Langley/
+1 SEX M
+1 FAMC @F527577052@
+0 @I573240918@ INDI
+1 NAME Jenny Lorena /Rhodes/
+2 GIVN Jenny Lorena
+2 SURN Rhodes
+1 SEX F
+1 BIRT
+2 DATE 20 Nov 1911
+2 PLAC , Love, Oklahoma
+1 DEAT
+2 DATE 29 Aug 1969
+2 PLAC Dallas, Dallas, Texas
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577053@
+1 FAMC @F527576689@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240919@ INDI
+1 NAME Lawson /Aderholt/
+2 GIVN Lawson
+2 SURN Aderholt
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577053@
+1 FAMC @F527577054@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240922@ INDI
+1 NAME Living /Aderholt/
+1 SEX F
+1 FAMC @F527577053@
+1 FAMS @F527577055@
+0 @I573240923@ INDI
+1 NAME Waston /Porter/
+2 GIVN Waston
+2 SURN Porter
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577055@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240924@ INDI
+1 NAME Living /Porter/
+1 SEX F
+1 FAMS @F527577056@
+1 FAMC @F527577055@
+0 @I573240925@ INDI
+1 NAME Living /Jolly/
+1 SEX M
+1 FAMS @F527577056@
+0 @I573240926@ INDI
+1 NAME Living /Jolly/
+1 SEX M
+1 FAMC @F527577056@
+0 @I573240927@ INDI
+1 NAME Living /Jolly/
+1 SEX M
+1 FAMC @F527577056@
+0 @I573240928@ INDI
+1 NAME Living /Jolly/
+1 SEX F
+1 FAMC @F527577056@
+0 @I573240929@ INDI
+1 NAME Living /Aderholt/
+1 SEX F
+1 FAMS @F527577058@
+1 FAMC @F527577053@
+1 FAMS @F527577057@
+0 @I573240930@ INDI
+1 NAME Elize J G /Tutt/
+2 GIVN Elize J G
+2 SURN Tutt
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577057@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240931@ INDI
+1 NAME Living /Gibson/
+1 SEX M
+1 FAMS @F527577058@
+0 @I573240932@ INDI
+1 NAME Living /Tutt/
+1 SEX M
+1 FAMC @F527577057@
+0 @I573240933@ INDI
+1 NAME Living /Tutt/
+1 SEX F
+1 FAMC @F527577057@
+0 @I573240934@ INDI
+1 NAME Living /Tutt/
+1 SEX M
+1 FAMC @F527577057@
+0 @I573240935@ INDI
+1 NAME Living /Tutt/
+1 SEX M
+1 FAMC @F527577057@
+0 @I573240936@ INDI
+1 NAME Living /Brawley/
+1 SEX M
+1 FAMC @F527576732@
+0 @I573240937@ INDI
+1 NAME Living /Brawley/
+1 SEX M
+1 FAMC @F527576732@
+0 @I573240938@ INDI
+1 NAME Hershall Fountain /Rhodes/
+2 GIVN Hershall Fountain
+2 SURN Rhodes
+1 SEX M
+1 BIRT
+2 DATE 31 Oct 1916
+2 PLAC , Love, Oklahoma
+1 DEAT
+2 DATE 9 Oct 1974
+2 PLAC , Oklahoma, Oklahoma
+1 BURI
+2 PLAC Lakeveiw Cemetery, Marietta, Love, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576689@
+1 FAMS @F527577059@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240939@ INDI
+1 NAME Dorothy Mae /Noah/
+2 GIVN Dorothy Mae
+2 SURN Noah
+1 SEX F
+1 BIRT
+2 DATE 7 Sep 1917
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577059@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240940@ INDI
+1 NAME Nellie Mae /Willard/
+2 GIVN Nellie Mae
+2 SURN Willard
+1 SEX F
+1 BIRT
+2 DATE 1892
+2 PLAC Eastland, Eastland, Texas
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576690@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240941@ INDI
+1 NAME Edward Philmore /Rhodes/
+2 GIVN Edward Philmore
+2 SURN Rhodes
+1 SEX M
+1 BIRT
+2 DATE 14 Mar 1912
+2 PLAC , Love, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577060@
+1 FAMC @F527576690@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240942@ INDI
+1 NAME Fleeta Oletha /Rhodes/
+2 GIVN Fleeta Oletha
+2 SURN Rhodes
+1 SEX F
+1 BIRT
+2 DATE 1915
+2 PLAC , Love, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577061@
+1 FAMC @F527576690@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240943@ INDI
+1 NAME Blanche /Roberts/
+2 GIVN Blanche
+2 SURN Roberts
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577060@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240944@ INDI
+1 NAME Living /Rhodes/
+1 SEX F
+1 FAMS @F527577062@
+1 FAMC @F527577060@
+0 @I573240945@ INDI
+1 NAME Living /Richey/
+1 SEX M
+1 FAMS @F527577062@
+0 @I573240946@ INDI
+1 NAME Living /Richey/
+1 SEX M
+1 FAMC @F527577062@
+0 @I573240947@ INDI
+1 NAME Living /Richey/
+1 SEX F
+1 FAMC @F527577062@
+0 @I573240948@ INDI
+1 NAME Hilliard /Greenwood/
+2 GIVN Hilliard
+2 SURN Greenwood
+1 SEX M
+1 BIRT
+2 DATE 1904
+2 PLAC Antlers, Pushmataha, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577061@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240949@ INDI
+1 NAME Living /Greenwood/
+1 SEX M
+1 FAMC @F527577061@
+1 FAMS @F527577063@
+0 @I573240950@ INDI
+1 NAME Living /Hill/
+1 SEX F
+1 FAMS @F527577063@
+0 @I573240951@ INDI
+1 NAME Living /Greenwood/
+1 SEX M
+1 FAMS @F527577064@
+1 FAMC @F527577063@
+0 @I573240952@ INDI
+1 NAME Living /Crane/
+1 SEX F
+1 FAMS @F527577064@
+0 @I573240953@ INDI
+1 NAME Living /Greenwood/
+1 SEX F
+1 FAMC @F527577064@
+0 @I573240954@ INDI
+1 NAME Living /Greenwood/
+1 SEX M
+1 FAMC @F527577063@
+0 @I573240955@ INDI
+1 NAME Haskell Glen /Rhodes/
+2 GIVN Haskell Glen
+2 SURN Rhodes
+1 SEX M
+1 BIRT
+2 DATE 1918
+2 PLAC , Love, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577065@
+1 FAMC @F527576690@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240956@ INDI
+1 NAME Lorraine /UNKNOWN/
+2 GIVN Lorraine
+2 SURN UNKNOWN
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577065@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240957@ INDI
+1 NAME Bill Addie /Rhodes/
+2 GIVN Bill Addie
+2 SURN Rhodes
+1 SEX M
+1 BIRT
+2 DATE 1925
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577066@
+1 FAMC @F527576690@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240958@ INDI
+1 NAME Madge /Shears/
+2 GIVN Madge
+2 SURN Shears
+1 SEX F
+1 BIRT
+2 DATE 1926
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577066@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240959@ INDI
+1 NAME Living /Rhodes/
+1 SEX M
+1 FAMC @F527577066@
+0 @I573240960@ INDI
+1 NAME Living /Rhodes/
+1 SEX M
+1 FAMC @F527577066@
+0 @I573240961@ INDI
+1 NAME Living /Rhodes/
+1 SEX F
+1 FAMC @F527577066@
+0 @I573240962@ INDI
+1 NAME Maude /Hare/
+2 GIVN Maude
+2 SURN Hare
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576692@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240963@ INDI
+1 NAME Edith Mae /Rhodes/
+2 GIVN Edith Mae
+2 SURN Rhodes
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576692@
+1 FAMS @F527577067@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240964@ INDI
+1 NAME Anthony /Tagliavia/
+2 GIVN Anthony
+2 SURN Tagliavia
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577067@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240965@ INDI
+1 NAME Living /Tagliavia/
+1 SEX M
+1 FAMC @F527577067@
+0 @I573240966@ INDI
+1 NAME Kattie Belle /Willis/
+2 GIVN Kattie Belle
+2 SURN Willis
+1 SEX F
+1 BIRT
+2 DATE 10 Jan 1902
+2 PLAC , Love, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576693@
+1 FAMC @F527577068@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240969@ INDI
+1 NAME Edmond Andrew /Rhodes/
+2 GIVN Edmond Andrew
+2 SURN Rhodes
+1 SEX M
+1 BIRT
+2 DATE 21 Apr 1919
+2 PLAC , Love, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577069@
+1 FAMC @F527576693@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240970@ INDI
+1 NAME Jessie D /Mayo/
+2 GIVN Jessie D
+2 SURN Mayo
+1 SEX F
+1 BIRT
+2 PLAC , , Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577069@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240971@ INDI
+1 NAME Living /Rhodes/
+1 SEX M
+1 FAMC @F527577069@
+1 FAMS @F527577070@
+0 @I573240972@ INDI
+1 NAME Living /UNKNOWN/
+1 SEX F
+1 FAMS @F527577070@
+0 @I573240973@ INDI
+1 NAME Living /Rhodes/
+1 SEX F
+1 FAMC @F527577069@
+1 FAMS @F527577071@
+0 @I573240974@ INDI
+1 NAME Living /Andrews/
+1 SEX M
+1 FAMS @F527577071@
+0 @I573240976@ INDI
+1 NAME Living /Andrews/
+1 SEX F
+1 FAMC @F527577071@
+0 @I573240977@ INDI
+1 NAME Living /Andrews/
+1 SEX F
+1 FAMC @F527577071@
+0 @I573240978@ INDI
+1 NAME Living /Andrews/
+1 SEX F
+1 FAMC @F527577071@
+0 @I573240979@ INDI
+1 NAME Alvin Richard /Rhodes/
+2 GIVN Alvin Richard
+2 SURN Rhodes
+1 SEX M
+1 BIRT
+2 DATE 21 Aug 1920
+2 PLAC , Love, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577072@
+1 FAMC @F527576693@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240980@ INDI
+1 NAME Betty Dean /Autry/
+2 GIVN Betty Dean
+2 SURN Autry
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577072@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240981@ INDI
+1 NAME Living /Rhodes/
+1 SEX M
+1 FAMC @F527577072@
+1 FAMS @F527577073@
+0 @I573240982@ INDI
+1 NAME Living /UNKNOWN/
+1 SEX F
+1 FAMS @F527577073@
+0 @I573240983@ INDI
+1 NAME Living /Rhodes/
+1 SEX M
+1 FAMC @F527577073@
+0 @I573240984@ INDI
+1 NAME Living /Rhodes/
+1 SEX M
+1 FAMC @F527577073@
+0 @I573240985@ INDI
+1 NAME Jack Walton /Rhodes/
+2 GIVN Jack Walton
+2 SURN Rhodes
+1 SEX M
+1 BIRT
+2 DATE 8 Mar 1923
+2 PLAC , Love, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576693@
+1 FAMS @F527577074@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240986@ INDI
+1 NAME Sylva Leah /Carter/
+2 GIVN Sylva Leah
+2 SURN Carter
+1 SEX F
+1 BIRT
+2 DATE 13 Jul 1926
+2 PLAC , Alfalfa, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577075@
+1 FAMS @F527577074@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240988@ INDI
+1 NAME Vera Margaret /Rhodes/
+2 GIVN Vera Margaret
+2 SURN Rhodes
+1 SEX F
+1 BIRT
+2 DATE 10 Jun 1926
+2 PLAC Wilson, Carter, Oklahoma
+1 DEAT
+2 DATE 12 Oct 1980
+2 PLAC Dallas, Dallas, Texas
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576693@
+1 FAMS @F527577076@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240989@ INDI
+1 NAME Johnny Lee /Morale/
+2 GIVN Johnny Lee
+2 SURN Morale
+1 SEX M
+1 BIRT
+2 DATE 26 Sep 1922
+2 PLAC Dallas, Dallas, Texas
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577076@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240990@ INDI
+1 NAME S F /Rhodes/
+2 GIVN S F
+2 SURN Rhodes
+1 SEX M
+1 BIRT
+2 DATE 3 Oct 1928
+2 PLAC Wilson, Carter, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577077@
+1 FAMC @F527576693@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573240991@ INDI
+1 NAME Living /Brewer/
+1 SEX F
+1 FAMS @F527577077@
+1 FAMC @F527577078@
+0 @I573240994@ INDI
+1 NAME Living /Rhodes/
+1 SEX F
+1 FAMC @F527577077@
+1 FAMS @F527577080@
+1 FAMS @F527577079@
+0 @I573240995@ INDI
+1 NAME Living /Collins/
+1 SEX M
+1 FAMS @F527577079@
+0 @I573240996@ INDI
+1 NAME Living /Moeller/
+1 SEX M
+1 FAMS @F527577080@
+0 @I573240997@ INDI
+1 NAME Living /Moeller/
+1 SEX M
+1 FAMC @F527577080@
+0 @I573240998@ INDI
+1 NAME Living /Rhodes/
+1 SEX M
+1 FAMC @F527577077@
+1 FAMS @F527577081@
+0 @I573240999@ INDI
+1 NAME Living /Stewart/
+1 SEX F
+1 FAMS @F527577081@
+0 @I573241000@ INDI
+1 NAME Living /Rhodes/
+1 SEX M
+1 FAMC @F527577081@
+0 @I573241001@ INDI
+1 NAME Living /Rhodes/
+1 SEX M
+1 FAMC @F527576693@
+1 FAMS @F527577082@
+0 @I573241002@ INDI
+1 NAME Living /Anderson/
+1 SEX F
+1 FAMS @F527577082@
+0 @I573241003@ INDI
+1 NAME Living /Rhodes/
+1 SEX M
+1 FAMC @F527577082@
+0 @I573241004@ INDI
+1 NAME Living /Rhodes/
+1 SEX F
+1 FAMC @F527577082@
+0 @I573241005@ INDI
+1 NAME Living /Rhodes/
+1 SEX F
+1 FAMS @F527577084@
+1 FAMS @F527577083@
+1 FAMC @F527576693@
+0 @I573241006@ INDI
+1 NAME Living /Canfield/
+1 SEX M
+1 FAMS @F527577083@
+0 @I573241007@ INDI
+1 NAME Living /Canfield/
+1 SEX M
+1 FAMC @F527577083@
+0 @I573241008@ INDI
+1 NAME Living /Cupp/
+1 SEX M
+1 FAMS @F527577084@
+0 @I573241009@ INDI
+1 NAME Albert Floyd /Burchett/
+2 GIVN Albert Floyd
+2 SURN Burchett
+1 SEX M
+1 BIRT
+2 DATE 1885
+2 PLAC Holly Springs, Marshall, Mississippi
+1 DEAT
+2 DATE 10 Jan 1944
+2 PLAC Madill, Marshall, Oklahoma
+1 BURI
+2 PLAC Marietta, Love, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576695@
+1 FAMS @F527576694@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241010@ INDI
+1 NAME Mary Opal /Burchett/
+2 GIVN Mary Opal
+2 SURN Burchett
+1 SEX F
+1 BIRT
+2 DATE 1910
+2 PLAC Enville, Love, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576695@
+1 FAMS @F527577085@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241011@ INDI
+1 NAME Otho /Kelley/
+2 GIVN Otho
+2 SURN Kelley
+1 SEX M
+1 BIRT
+2 DATE 1908
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577085@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241012@ INDI
+1 NAME Dorothy Lee /Kelley/
+2 GIVN Dorothy Lee
+2 SURN Kelley
+1 SEX F
+1 BIRT
+2 DATE 1929
+2 PLAC Headrick, Jackson, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527577085@
+1 FAMS @F527577088@
+1 FAMS @F527577086@
+1 FAMS @F527577087@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241013@ INDI
+1 NAME Leon /Smithers/
+2 GIVN Leon
+2 SURN Smithers
+1 SEX M
+1 BIRT
+2 DATE 1928
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577086@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+1 NOTE NOT-A-MATCH: This individual is not the same as Robert Lee /Sarkis/ ?-?, PAF ID
+2 CONC  {933D0599-1CBD-410D-B9D0-11D7728319B9}
+0 @I573241014@ INDI
+1 NAME Living /Combs/
+1 SEX M
+1 FAMS @F527577087@
+0 @I573241015@ INDI
+1 NAME Robert Lee /Sarkis/
+2 GIVN Robert Lee
+2 SURN Sarkis
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577088@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+1 NOTE NOT-A-MATCH: This individual is not the same as Leon /Smithers/ 1928-?, PAF ID 
+2 CONC {E0925FA3-A2F7-47C5-8835-38A1F7842F6A}
+0 @I573241016@ INDI
+1 NAME Living /Smithers/
+1 SEX M
+1 FAMC @F527577086@
+1 FAMS @F527577089@
+0 @I573241017@ INDI
+1 NAME Living /Martin/
+1 SEX F
+1 FAMS @F527577089@
+0 @I573241018@ INDI
+1 NAME Living /Smithers/
+1 SEX M
+1 FAMC @F527577089@
+0 @I573241019@ INDI
+1 NAME Jeannie /Pike/
+2 GIVN Jeannie
+2 SURN Pike
+1 SEX F
+1 BURI
+2 PLAC Stockton, San Joaquin, California
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577091@
+1 FAMS @F527577090@
+1 FAMC @F527576680@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241020@ INDI
+1 NAME Tom /Green/
+2 GIVN Tom
+2 SURN Green
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577090@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241021@ INDI
+1 NAME Millard /Green/
+2 GIVN Millard
+2 SURN Green
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527577090@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241022@ INDI
+1 NAME Living /Green/
+1 SEX M
+1 FAMC @F527577090@
+0 @I573241023@ INDI
+1 NAME Living /Green/
+1 SEX M
+1 FAMC @F527577090@
+0 @I573241024@ INDI
+1 NAME Living /Green/
+1 SEX F
+1 FAMC @F527577090@
+0 @I573241025@ INDI
+1 NAME Olin /Swint/
+2 GIVN Olin
+2 SURN Swint
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577091@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241026@ INDI
+1 NAME Thomas Monroe /Brintle/
+2 GIVN Thomas Monroe
+2 SURN Brintle
+1 SEX M
+1 BIRT
+2 DATE 8 Feb 1892
+2 PLAC , , Tennessee
+1 DEAT
+2 DATE 11 May 1951
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527577092@
+1 FAMS @F527576696@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+1 NOTE Also Known As:<_AKA> Tom//
+2 CONT 1920 Census Love County, Okla
+2 CONT Hickory TShip  Ed 12
+2 CONC   Pg 8 B
+2 CONT Tod Brintle 28
+2 CONT Salie 24
+2 CONT Clara Belle
+2 CONT Arva Dell 3
+2 CONT Gynell 2
+2 CONT Alonzo 
+2 CONC Pike 11 brother in=law
+2 CONT Millard Pike 13 brother -inlaw
+0 @I573241027@ INDI
+1 NAME Clara Belle /Brintle/
+2 GIVN Clara Belle
+2 SURN Brintle
+1 SEX F
+1 BIRT
+2 DATE 22 May 1914
+2 PLAC , Love, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577094@
+1 FAMS @F527577093@
+1 FAMC @F527576696@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241028@ INDI
+1 NAME Raymond /Buchannon/
+2 GIVN Raymond
+2 SURN Buchannon
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577093@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241029@ INDI
+1 NAME Pete /Doggett/
+2 GIVN Pete
+2 SURN Doggett
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577094@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241030@ INDI
+1 NAME Living /Buchannon/
+1 SEX M
+1 FAMC @F527577093@
+0 @I573241031@ INDI
+1 NAME Living /Buchannon/
+1 SEX F
+1 FAMC @F527577093@
+0 @I573241032@ INDI
+1 NAME Living /Doggett/
+1 SEX F
+1 FAMC @F527577094@
+0 @I573241033@ INDI
+1 NAME Living /Doggett/
+1 SEX M
+1 FAMC @F527577094@
+0 @I573241034@ INDI
+1 NAME Arva Dell /Brintle/
+2 GIVN Arva Dell
+2 SURN Brintle
+1 SEX F
+1 BIRT
+2 DATE 13 Dec 1916
+2 PLAC , Love, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577095@
+1 FAMC @F527576696@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241035@ INDI
+1 NAME T /Buchannon/
+2 GIVN T
+2 SURN Buchannon
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577095@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241036@ INDI
+1 NAME Gynelle /Brintle/
+2 GIVN Gynelle
+2 SURN Brintle
+1 SEX F
+1 BIRT
+2 DATE 16 Apr 1918
+2 PLAC , Logan, Arkansas
+1 CHAN
+2 DATE 28 Apr 2004
+1 FAMS @F527577096@
+1 FAMC @F527576696@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241037@ INDI
+1 NAME Albert /Willaford/
+2 GIVN Albert
+2 SURN Willaford
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577096@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241038@ INDI
+1 NAME D L /Brintle/
+2 GIVN D L
+2 SURN Brintle
+1 SEX M
+1 BIRT
+2 DATE 7 Aug 1920
+2 PLAC , Love, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576696@
+1 FAMS @F527577097@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+1 NOTE D.L. Brintle
+2 CONT 6390 McCoy Ave
+2 CONT Bay City, Oregon
+2 CONT 97107
+2 CONT 603-377-4283
+0 @I573241039@ INDI
+1 NAME Violet Pearl /Brintle/
+2 GIVN Violet Pearl
+2 SURN Brintle
+1 SEX F
+1 BIRT
+2 DATE 7 Jan 1923
+2 PLAC , Love, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576696@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241040@ INDI
+1 NAME Azalie /Brintle/
+2 GIVN Azalie
+2 SURN Brintle
+1 SEX F
+1 BIRT
+2 DATE 30 Jun 1925
+2 PLAC , Love, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577098@
+1 FAMC @F527576696@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241041@ INDI
+1 NAME Holms /Bean/
+2 GIVN Holms
+2 SURN Bean
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577098@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241042@ INDI
+1 NAME Living /Bean/
+1 SEX M
+1 FAMC @F527577098@
+0 @I573241043@ INDI
+1 NAME Billy Burl /Brintle/
+2 GIVN Billy Burl
+2 SURN Brintle
+1 SEX M
+1 BIRT
+2 PLAC Hollis, Harmon, Oklahoma
+1 DEAT
+2 PLAC Fort Worth, Tarrant, Texas
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576696@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241044@ INDI
+1 NAME Fred /Pershica/
+2 GIVN Fred
+2 SURN Pershica
+1 SEX M
+1 BIRT
+2 DATE 1897
+2 PLAC , Love, Oklahoma
+1 DEAT
+2 DATE 19 Jan 1960
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576697@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241045@ INDI
+1 NAME Lucille /Pershica/
+2 GIVN Lucille
+2 SURN Pershica
+1 SEX F
+1 BIRT
+2 DATE 8 Aug 1916
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577099@
+1 FAMC @F527576697@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241046@ INDI
+1 NAME Thomas /Ned/
+2 GIVN Thomas
+2 SURN Ned
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577099@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241047@ INDI
+1 NAME Living /Ned/
+1 SEX M
+1 FAMC @F527577099@
+0 @I573241048@ INDI
+1 NAME Living /Ned/
+1 SEX M
+1 FAMC @F527577099@
+0 @I573241049@ INDI
+1 NAME Living /Ned/
+1 SEX M
+1 FAMC @F527577099@
+0 @I573241050@ INDI
+1 NAME Living /Ned/
+1 SEX M
+1 FAMC @F527577099@
+0 @I573241051@ INDI
+1 NAME Living /Ned/
+1 SEX F
+1 FAMC @F527577099@
+0 @I573241052@ INDI
+1 NAME Living /Ned/
+1 SEX F
+1 FAMC @F527577099@
+0 @I573241053@ INDI
+1 NAME Living /Ned/
+1 SEX M
+1 FAMC @F527577099@
+0 @I573241054@ INDI
+1 NAME Living /Ned/
+1 SEX M
+1 FAMC @F527577099@
+0 @I573241055@ INDI
+1 NAME Living /Ned/
+1 SEX F
+1 FAMC @F527577099@
+0 @I573241056@ INDI
+1 NAME Living /Ned/
+1 SEX F
+1 FAMC @F527577099@
+0 @I573241057@ INDI
+1 NAME Living /Ned/
+1 SEX F
+1 FAMC @F527577099@
+0 @I573241058@ INDI
+1 NAME Kathleen /Pershica/
+2 GIVN Kathleen
+2 SURN Pershica
+1 SEX F
+1 BIRT
+2 DATE 13 May 1919
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577100@
+1 FAMC @F527576697@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241059@ INDI
+1 NAME Ira /Gibbs/
+2 GIVN Ira
+2 SURN Gibbs
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577100@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241060@ INDI
+1 NAME Living /Gibbs/
+1 SEX F
+1 FAMC @F527577100@
+0 @I573241061@ INDI
+1 NAME Living /Gibbs/
+1 SEX F
+1 FAMC @F527577100@
+0 @I573241062@ INDI
+1 NAME Living /Gibbs/
+1 SEX F
+1 FAMC @F527577100@
+0 @I573241063@ INDI
+1 NAME Living /Gibbs/
+1 SEX M
+1 FAMC @F527577100@
+0 @I573241064@ INDI
+1 NAME Living /Gibbs/
+1 SEX M
+1 FAMC @F527577100@
+0 @I573241065@ INDI
+1 NAME Living /Gibbs/
+1 SEX F
+1 FAMC @F527577100@
+0 @I573241066@ INDI
+1 NAME M F /Pershica/
+2 GIVN M F
+2 SURN Pershica
+1 SEX M
+1 BIRT
+2 DATE 2 Sep 1921
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577101@
+1 FAMC @F527576697@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241067@ INDI
+1 NAME Alene /Nesbitt/
+2 GIVN Alene
+2 SURN Nesbitt
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577101@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241068@ INDI
+1 NAME Living /Pershica/
+1 SEX M
+1 FAMC @F527577101@
+0 @I573241069@ INDI
+1 NAME Living /Pershica/
+1 SEX M
+1 FAMC @F527577101@
+0 @I573241070@ INDI
+1 NAME Living /Pershica/
+1 SEX F
+1 FAMC @F527577101@
+0 @I573241071@ INDI
+1 NAME Living /Pershica/
+1 SEX F
+1 FAMC @F527577101@
+0 @I573241072@ INDI
+1 NAME Living /Pershica/
+1 SEX M
+1 FAMC @F527577101@
+0 @I573241073@ INDI
+1 NAME Living /Pershica/
+1 SEX M
+1 FAMC @F527577101@
+0 @I573241074@ INDI
+1 NAME Living /Pershica/
+1 SEX F
+1 FAMC @F527577101@
+0 @I573241075@ INDI
+1 NAME Haskell /Pershica/
+2 GIVN Haskell
+2 SURN Pershica
+1 SEX M
+1 BIRT
+2 DATE 4 Jun 1924
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576697@
+1 FAMS @F527577102@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241076@ INDI
+1 NAME Audra /Hensley/
+2 GIVN Audra
+2 SURN Hensley
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577102@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241077@ INDI
+1 NAME Living /Pershica/
+1 SEX F
+1 FAMC @F527577102@
+0 @I573241078@ INDI
+1 NAME Living /Pershica/
+1 SEX F
+1 FAMC @F527577102@
+0 @I573241079@ INDI
+1 NAME Don Joe /Pershica/
+2 GIVN Don Joe
+2 SURN Pershica
+1 SEX M
+1 BIRT
+2 DATE 14 Jan 1927
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577103@
+1 FAMC @F527576697@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+1 NOTE Name Suffix:<NSFX> Sr
+0 @I573241080@ INDI
+1 NAME Living /Jane/
+1 SEX F
+1 FAMS @F527577103@
+0 @I573241081@ INDI
+1 NAME Living /Pershica/
+1 SEX M
+1 FAMC @F527577103@
+0 @I573241082@ INDI
+1 NAME Living /Pershica/
+1 SEX F
+1 FAMC @F527577103@
+0 @I573241083@ INDI
+1 NAME Living /Pershica/
+1 SEX M
+1 FAMS @F527577104@
+1 FAMC @F527576697@
+0 @I573241084@ INDI
+1 NAME Living /UNKNOWN/
+1 SEX F
+1 FAMS @F527577104@
+0 @I573241085@ INDI
+1 NAME Living /Pershica/
+1 SEX M
+1 FAMC @F527577104@
+0 @I573241086@ INDI
+1 NAME Living /Pershica/
+1 SEX F
+1 FAMC @F527577104@
+0 @I573241087@ INDI
+1 NAME Living /Pershica/
+1 SEX F
+1 FAMS @F527577105@
+1 FAMC @F527576697@
+0 @I573241088@ INDI
+1 NAME John /Swader/
+2 GIVN John
+2 SURN Swader
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577105@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+1 NOTE Name Suffix:<NSFX> Sr
+0 @I573241089@ INDI
+1 NAME Living /Swader/
+1 SEX F
+1 FAMC @F527577105@
+0 @I573241090@ INDI
+1 NAME Living /Swader/
+1 SEX M
+1 FAMC @F527577105@
+0 @I573241091@ INDI
+1 NAME Living /Swader/
+1 SEX M
+1 FAMC @F527577105@
+0 @I573241092@ INDI
+1 NAME Living /Swader/
+1 SEX F
+1 FAMC @F527577105@
+0 @I573241093@ INDI
+1 NAME Lona Mae /Pershica/
+2 GIVN Lona Mae
+2 SURN Pershica
+1 SEX F
+1 BIRT
+2 DATE 23 Apr 1935
+1 DEAT
+2 DATE 1938
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576697@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241094@ INDI
+1 NAME Living /Pershica/
+1 SEX F
+1 FAMS @F527577106@
+1 FAMC @F527576697@
+0 @I573241095@ INDI
+1 NAME Living /Johnson/
+1 SEX M
+1 FAMS @F527577106@
+0 @I573241096@ INDI
+1 NAME Living /Johnson/
+1 SEX F
+1 FAMC @F527577106@
+0 @I573241097@ INDI
+1 NAME Living /Johnson/
+1 SEX F
+1 FAMC @F527577106@
+0 @I573241098@ INDI
+1 NAME Living /Pershica/
+1 SEX F
+1 FAMS @F527577107@
+1 FAMC @F527576697@
+0 @I573241099@ INDI
+1 NAME Living /Pershica/
+1 SEX M
+1 FAMC @F527577107@
+0 @I573241100@ INDI
+1 NAME Living /Pershica/
+1 SEX M
+1 FAMC @F527577107@
+0 @I573241101@ INDI
+1 NAME Lavern /Pershica/
+2 GIVN Lavern
+2 SURN Pershica
+1 SEX F
+1 BIRT
+2 DATE 19 Mar 1940
+1 DEAT
+2 DATE 24 Mar 1940
+1 EVEN Twin
+2 TYPE Description
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576697@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241102@ INDI
+1 NAME Maude /Calhoun/
+2 GIVN Maude
+2 SURN Calhoun
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576698@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241103@ INDI
+1 NAME Living /Pike/
+1 SEX M
+1 FAMC @F527576698@
+0 @I573241104@ INDI
+1 NAME Living /Pike/
+1 SEX M
+1 FAMC @F527576698@
+0 @I573241105@ INDI
+1 NAME Living /Pike/
+1 SEX F
+1 FAMC @F527576698@
+0 @I573241106@ INDI
+1 NAME Living /Pike/
+1 SEX M
+1 FAMC @F527576698@
+0 @I573241107@ INDI
+1 NAME Living /Pike/
+1 SEX F
+1 FAMC @F527576698@
+0 @I573241108@ INDI
+1 NAME Living /Pike/
+1 SEX F
+1 FAMC @F527576698@
+0 @I573241109@ INDI
+1 NAME Living /Pike/
+1 SEX M
+1 FAMC @F527576698@
+0 @I573241110@ INDI
+1 NAME Lou /Willaford/
+2 GIVN Lou
+2 SURN Willaford
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576699@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241111@ INDI
+1 NAME David /Pike/
+2 GIVN David
+2 SURN Pike
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576699@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241135@ INDI
+1 NAME William Ragsdale /McIntyre/
+2 GIVN William Ragsdale
+2 SURN McIntyre
+1 SEX M
+1 BIRT
+2 DATE 15 Mar 1867
+2 PLAC , Lauderdale, Alabama
+1 DEAT
+2 DATE 30 May 1945
+2 PLAC , Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576661@
+1 FAMS @F527577115@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241136@ INDI
+1 NAME John Rowland /McIntyre/
+2 GIVN John Rowland
+2 SURN McIntyre
+1 SEX M
+1 BIRT
+2 DATE 5 Feb 1873
+2 PLAC , Lauderdale, Alabama
+1 DEAT
+2 DATE 30 Dec 1950
+2 PLAC , Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576661@
+1 FAMS @F527577116@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+1 NOTE Name Suffix:<NSFX> Sr
+0 @I573241137@ INDI
+1 NAME Edd Walton /McIntyre/
+2 GIVN Edd Walton
+2 SURN McIntyre
+1 SEX M
+1 BIRT
+2 DATE 28 Mar 1875
+2 PLAC , Lauderdale, Alabama
+1 DEAT
+2 DATE 21 Dec 1935
+2 PLAC , Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576661@
+1 FAMS @F527577117@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241138@ INDI
+1 NAME Zilpha /Jones/
+2 GIVN Zilpha
+2 SURN Jones
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577117@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241139@ INDI
+1 NAME Ida /McIntyre/
+2 GIVN Ida
+2 SURN McIntyre
+1 SEX F
+1 BIRT
+2 DATE 12 Jun 1881
+2 PLAC , Lauderdale, Alabama
+1 DEAT
+2 DATE 24 Apr 1933
+2 PLAC , Oklahoma, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576661@
+1 FAMS @F527577118@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241140@ INDI
+1 NAME Percy Young /McIntyre/
+2 GIVN Percy Young
+2 SURN McIntyre
+1 SEX M
+1 BIRT
+2 DATE 21 Jul 1884
+2 PLAC , Lauderdale, Alabama
+1 DEAT
+2 DATE 2 Oct 1944
+2 PLAC , Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527576661@
+1 FAMS @F527577119@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241172@ INDI
+1 NAME Minnie Frances /McDaniel/
+2 GIVN Minnie Frances
+2 SURN McDaniel
+1 SEX F
+1 BIRT
+2 DATE 16 Sep 1877
+1 DEAT
+2 DATE 22 May 1963
+2 PLAC , Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577115@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241173@ INDI
+1 NAME Lawrance Carl /McIntyre/
+2 GIVN Lawrance Carl
+2 SURN McIntyre
+1 SEX M
+1 BIRT
+2 DATE 29 Jul 1897
+2 PLAC , Lauderdale, Alabama
+1 DEAT
+2 DATE 9 Aug 1898
+2 PLAC , Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527577115@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241174@ INDI
+1 NAME Fred Olen /McIntyre/
+2 GIVN Fred Olen
+2 SURN McIntyre
+1 SEX M
+1 BIRT
+2 DATE 4 Apr 1899
+2 PLAC , Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577132@
+1 FAMC @F527577115@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241175@ INDI
+1 NAME Delia Mae /Dewberry/
+2 GIVN Delia Mae
+2 SURN Dewberry
+1 SEX F
+1 BIRT
+2 DATE 2 Apr 1900
+1 DEAT
+2 DATE 5 Apr 1991
+2 PLAC Florence, Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577132@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241176@ INDI
+1 NAME William Clyde /McIntyre/
+2 GIVN William Clyde
+2 SURN McIntyre
+1 SEX M
+1 BIRT
+2 DATE 22 Dec 1900
+2 PLAC , Lauderdale, Alabama
+1 DEAT
+2 DATE 9 Jan 1981
+2 PLAC , Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577133@
+1 FAMC @F527577115@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241177@ INDI
+1 NAME Alma /Haddock/
+2 GIVN Alma
+2 SURN Haddock
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577133@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241178@ INDI
+1 NAME Ruby Eylodine /McIntyre/
+2 GIVN Ruby Eylodine
+2 SURN McIntyre
+1 SEX F
+1 BIRT
+2 DATE 31 Aug 1903
+2 PLAC , Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527577115@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241179@ INDI
+1 NAME Hershall Franklin /McIntyre/
+2 GIVN Hershall Franklin
+2 SURN McIntyre
+1 SEX M
+1 BIRT
+2 DATE 12 Aug 1906
+2 PLAC , Lauderdale, Alabama
+1 DEAT
+2 DATE Oct 1986
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577134@
+1 FAMC @F527577115@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241180@ INDI
+1 NAME Glayds Irene /Haddock/
+2 GIVN Glayds Irene
+2 SURN Haddock
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577134@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241181@ INDI
+1 NAME Nola Frances /McIntyre/
+2 GIVN Nola Frances
+2 SURN McIntyre
+1 SEX F
+1 BIRT
+2 DATE 6 Aug 1910
+2 PLAC , Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527577115@
+1 FAMS @F527577135@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241182@ INDI
+1 NAME Robert Brown /Smith/
+2 GIVN Robert Brown
+2 SURN Smith
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577135@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241183@ INDI
+1 NAME Ruby Evelyn /McIntyre/
+2 GIVN Ruby Evelyn
+2 SURN McIntyre
+1 SEX F
+1 BIRT
+2 DATE 26 Mar 1914
+2 PLAC , Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527577115@
+1 FAMS @F527577136@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241184@ INDI
+1 NAME James Woodrow /Lawrence/
+2 GIVN James Woodrow
+2 SURN Lawrence
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577136@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241185@ INDI
+1 NAME Rosa Lee /Brown/
+2 GIVN Rosa Lee
+2 SURN Brown
+1 SEX F
+1 BIRT
+2 DATE 31 May 1873
+1 DEAT
+2 DATE 5 Jun 1959
+2 PLAC , Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577116@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241186@ INDI
+1 NAME Brown /McIntyre/
+2 GIVN Brown
+2 SURN McIntyre
+1 SEX M
+1 BIRT
+2 DATE 21 Jan 1898
+2 PLAC , Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577137@
+1 FAMC @F527577116@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241187@ INDI
+1 NAME Lena Belle /Darby/
+2 GIVN Lena Belle
+2 SURN Darby
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577137@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241188@ INDI
+1 NAME Gerdes /McIntyre/
+2 GIVN Gerdes
+2 SURN McIntyre
+1 SEX F
+1 BIRT
+2 DATE 22 Oct 1899
+2 PLAC , Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577138@
+1 FAMC @F527577116@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241189@ INDI
+1 NAME George D /Ingram/
+2 GIVN George D
+2 SURN Ingram
+1 SEX M
+1 BIRT
+2 DATE 15 Jan 1895
+2 PLAC Marvyn, Lee, Alabama
+1 DEAT
+2 DATE Jun 1984
+2 PLAC , Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577138@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241190@ INDI
+1 NAME John Rowland /McIntyre/
+2 GIVN John Rowland
+2 SURN McIntyre
+1 SEX M
+1 BIRT
+2 DATE 5 Sep 1908
+2 PLAC , Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527577116@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+1 NOTE Name Suffix:<NSFX> Jr
+0 @I573241191@ INDI
+1 NAME Thomas /McIntyre/
+2 GIVN Thomas
+2 SURN McIntyre
+1 SEX M
+1 BIRT
+2 DATE 9 Jan 1916
+2 PLAC , Lauderdale, Alabama
+1 DEAT
+2 DATE 18 Dec 1997
+2 PLAC , Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577139@
+1 FAMC @F527577116@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241192@ INDI
+1 NAME Corene /Isley/
+2 GIVN Corene
+2 SURN Isley
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577139@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241193@ INDI
+1 NAME Luther J /McQueen/
+2 GIVN Luther J
+2 SURN McQueen
+1 SEX M
+1 BIRT
+2 DATE 25 Dec 1883
+2 PLAC , , Texas
+1 DEAT
+2 DATE 12 Jan 1943
+2 PLAC , Oklahoma, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577118@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241194@ INDI
+1 NAME William /McQueen/
+2 GIVN William
+2 SURN McQueen
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527577118@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241195@ INDI
+1 NAME Flossie /McQueen/
+2 GIVN Flossie
+2 SURN McQueen
+1 SEX F
+1 BIRT
+2 DATE 10 Aug 1903
+2 PLAC , , Alabama
+1 DEAT
+2 DATE Nov 1993
+2 PLAC , Maricopa, Arizona
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577140@
+1 FAMC @F527577118@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241196@ INDI
+1 NAME John /Taucher/
+2 GIVN John
+2 SURN Taucher
+1 SEX M
+1 BIRT
+2 DATE 11 Nov 1905
+1 DEAT
+2 DATE 26 Mar 1990
+2 PLAC , Maricopa, Arizona
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577140@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241197@ INDI
+1 NAME Alma S /McQueen/
+2 GIVN Alma S
+2 SURN McQueen
+1 SEX F
+1 BIRT
+2 DATE 15 Apr 1906
+2 PLAC , , Oklahoma
+1 DEAT
+2 DATE 1930
+2 PLAC , , Cailfornia
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527577118@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241198@ INDI
+1 NAME Ruth Ann /McQueen/
+2 GIVN Ruth Ann
+2 SURN McQueen
+1 SEX F
+1 BIRT
+2 DATE 6 Jun 1910
+2 PLAC , , Alabama
+1 DEAT
+2 DATE 11 Aug 1972
+2 PLAC Oklahoma City, Oklahoma, Oklahoma
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577141@
+1 FAMC @F527577118@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241199@ INDI
+1 NAME Noel /Nix/
+2 GIVN Noel
+2 SURN Nix
+1 SEX M
+1 BIRT
+2 DATE 8 Mar 1910
+1 DEAT
+2 DATE Feb 1975
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577141@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241200@ INDI
+1 NAME Clara Fern /McQueen/
+2 GIVN Clara Fern
+2 SURN McQueen
+1 SEX F
+1 BIRT
+2 DATE 28 Jan 1913
+2 PLAC , , Missouri
+1 DEAT
+2 DATE 22 Sep 1988
+2 PLAC Whitter, Los Angeles, California
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577142@
+1 FAMC @F527577118@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241201@ INDI
+1 NAME Pete /Treguboff/
+2 GIVN Pete
+2 SURN Treguboff
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577142@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241202@ INDI
+1 NAME Kathryn /McQueen/
+2 GIVN Kathryn
+2 SURN McQueen
+1 SEX F
+1 BIRT
+2 DATE 18 Mar 1915
+2 PLAC , , Missouri
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577143@
+1 FAMC @F527577118@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241203@ INDI
+1 NAME William S /Damron/
+2 GIVN William S
+2 SURN Damron
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577143@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241204@ INDI
+1 NAME Fannie /Jones/
+2 GIVN Fannie
+2 SURN Jones
+1 SEX F
+1 BIRT
+2 DATE 25 Dec 1885
+2 PLAC , Lauderdale, Alabama
+1 DEAT
+2 DATE Nov 1981
+2 PLAC , Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577119@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241205@ INDI
+1 NAME Homer /McIntyre/
+2 GIVN Homer
+2 SURN McIntyre
+1 SEX M
+1 BIRT
+2 DATE 25 Mar 1906
+2 PLAC , Lauderdale, Alabama
+1 DEAT
+2 DATE 5 Jan 1966
+2 PLAC , Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577144@
+1 FAMC @F527577119@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241206@ INDI
+1 NAME Eula /Pigg/
+2 GIVN Eula
+2 SURN Pigg
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577144@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241207@ INDI
+1 NAME Rufus Smith /McIntyre/
+2 GIVN Rufus Smith
+2 SURN McIntyre
+1 SEX M
+1 BIRT
+2 DATE 25 Aug 1908
+2 PLAC , Lauderdale, Alabama
+1 DEAT
+2 DATE 6 May 1959
+2 PLAC , Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577145@
+1 FAMC @F527577119@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241208@ INDI
+1 NAME Bessie /Olive/
+2 GIVN Bessie
+2 SURN Olive
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577145@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241209@ INDI
+1 NAME Tenny Louis /McIntyre/
+2 GIVN Tenny Louis
+2 SURN McIntyre
+1 SEX M
+1 BIRT
+2 DATE 23 Sep 1910
+2 PLAC , Lauderdale, Alabama
+1 DEAT
+2 DATE 22 Aug 1969
+2 PLAC Memphis, Shelby, Tennessee
+1 CHAN
+2 DATE 29 Apr 2004
+1 FAMC @F527577119@
+1 FAMS @F527577146@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241210@ INDI
+1 NAME Ruby /Smallwood/
+2 GIVN Ruby
+2 SURN Smallwood
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577146@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241211@ INDI
+1 NAME Ethel Ellen /McIntyre/
+2 GIVN Ethel Ellen
+2 SURN McIntyre
+1 SEX F
+1 BIRT
+2 DATE 3 Oct 1914
+2 PLAC , Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMC @F527577119@
+1 FAMS @F527577147@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241212@ INDI
+1 NAME Clarence /James/
+2 GIVN Clarence
+2 SURN James
+1 SEX M
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577147@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241213@ INDI
+1 NAME Donald Dale /McIntyre/
+2 GIVN Donald Dale
+2 SURN McIntyre
+1 SEX M
+1 BIRT
+2 DATE 18 Jun 1917
+2 PLAC , Lauderdale, Alabama
+1 DEAT
+2 DATE 13 May 1981
+2 PLAC , Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577148@
+1 FAMC @F527577119@
+1 FAMS @F527577149@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241214@ INDI
+1 NAME Alice /Risner/
+2 GIVN Alice
+2 SURN Risner
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577148@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241215@ INDI
+1 NAME Virginia /Miles/
+2 GIVN Virginia
+2 SURN Miles
+1 SEX F
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527577149@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573241647@ INDI
+1 NAME Bertha /UNKNOWN/
+2 GIVN Bertha
+2 SURN UNKNOWN
+1 SEX F
+1 BIRT
+2 DATE 5 Sep 1900
+1 DEAT
+2 DATE 17 Nov 1981
+1 BURI
+2 PLAC Rogers Chapel, , Lauderdale, Alabama
+1 CHAN
+2 DATE 26 Apr 2004
+1 FAMS @F527576691@
+1 SOUR @S546163369@
+2 DATA
+2 NOTE 10405 Red Mtn W, Littleton CO 80127, USA, rasuddath@@msn.com
+0 @I573242506@ INDI
+1 NAME Living /Brintle/
+1 SEX F
+1 FAMS @F527577670@
+1 FAMC @F527577097@
+0 @I573242507@ INDI
+1 NAME Living /Brintle/
+1 SEX F
+1 FAMC @F527577097@
+1 FAMS @F527577671@
+0 @I573242508@ INDI
+1 NAME Living /Brintle/
+1 SEX M
+1 FAMC @F527577097@
+1 FAMS @F527577672@
+0 @I573243356@ INDI
+1 NAME Living /Smith/
+1 SEX M
+1 FAMS @F527577670@
+0 @I573243357@ INDI
+1 NAME Living /Smith/
+1 SEX F
+1 FAMC @F527577670@
+0 @I573243358@ INDI
+1 NAME Living /Smith/
+1 SEX F
+1 FAMC @F527577670@
+0 @I573243359@ INDI
+1 NAME Living /Anderson/
+1 SEX M
+1 FAMS @F527577671@
+0 @I573243360@ INDI
+1 NAME Living /Anderson/
+1 SEX F
+1 FAMS @F527577881@
+1 FAMC @F527577671@
+0 @I573243361@ INDI
+1 NAME Living /Anderson/
+1 SEX M
+1 FAMC @F527577671@
+0 @I573243362@ INDI
+1 NAME Living /Buuoughs/
+1 SEX F
+1 FAMS @F527577672@
+0 @I573243363@ INDI
+1 NAME Living /Brintle/
+1 SEX F
+1 FAMS @F527577883@
+1 FAMC @F527577672@
+1 FAMS @F527577882@
+0 @I573243364@ INDI
+1 NAME Living /Brintle/
+1 SEX F
+1 FAMC @F527577672@
+0 @I573243365@ INDI
+1 NAME Living /Brintle/
+1 SEX F
+1 FAMC @F527577672@
+0 @I573243366@ INDI
+1 NAME Living /Brintle/
+1 SEX F
+1 FAMC @F527577672@
+0 @I573243367@ INDI
+1 NAME Living /Manns/
+1 SEX M
+1 FAMC @F527577884@
+1 FAMS @F527577882@
+0 @I573243370@ INDI
+1 NAME Living /Weaver/
+1 SEX M
+1 FAMC @F527577885@
+1 FAMS @F527577883@
+0 @I573243373@ INDI
+1 NAME Living /Manns/
+1 SEX M
+1 FAMC @F527577882@
+0 @I573243374@ INDI
+1 NAME Living /Manns/
+1 SEX M
+1 FAMC @F527577882@
+0 @I573243376@ INDI
+1 NAME Living /UNKNOWN/
+1 SEX M
+1 FAMS @F527577881@
+0 @I573243377@ INDI
+1 NAME Living /Anderson/
+1 SEX M
+1 FAMC @F527577881@
+0 @F527576485@ FAM
+1 CHIL @I573239885@
+1 NOTE _UID78DA4C896180ED43B1FE5180B4251E6514CC
+0 @F527576654@ FAM
+1 MARR
+2 DATE 30 Mar 1842
+2 PLAC , Lauderdale, Alabama
+1 CHIL @I573239892@
+1 NOTE _UIDE07AD16EB80AA448BC9B9A2E81710632905C
+0 @F527576657@ FAM
+1 MARR
+2 DATE 11 Jan 1844
+2 PLAC , Lauderdale, Alabama
+1 CHIL @I573239912@
+1 NOTE _UIDD61584D184EA5A4CAA82BE0D1A545A4053C9
+0 @F527576661@ FAM
+1 HUSB @I573239901@
+1 WIFE @I573239885@
+1 CHIL @I573240030@
+1 CHIL @I573241135@
+1 CHIL @I573241136@
+1 CHIL @I573241137@
+1 CHIL @I573241139@
+1 CHIL @I573241140@
+1 NOTE _UID544E6832B1EC0442ABD2002F0DEE75498428
+0 @F527576667@ FAM
+1 MARR
+2 DATE 1 Nov 1896
+1 HUSB @I573239901@
+1 WIFE @I573239892@
+1 NOTE _UID259854DB8D6B5F44950575D2E90AAE90998F
+0 @F527576671@ FAM
+1 HUSB @I573239902@
+1 WIFE @I573239903@
+1 CHIL @I573239901@
+1 CHIL @I573239921@
+1 NOTE _UIDD4E50691B1051A4EA76EA23B335107B5A050
+0 @F527576675@ FAM
+1 MARR
+2 DATE Oct 1869
+2 PLAC , Wayne, Tennessee
+1 HUSB @I573239912@
+1 WIFE @I573239921@
+1 CHIL @I573239922@
+1 CHIL @I573239923@
+1 CHIL @I573239924@
+1 CHIL @I573239925@
+1 CHIL @I573239926@
+1 CHIL @I573239927@
+1 CHIL @I573239928@
+1 CHIL @I573239929@
+1 CHIL @I573239930@
+1 CHIL @I573239931@
+1 CHIL @I573239932@
+1 CHIL @I573239933@
+1 CHIL @I573239934@
+1 NOTE _UID19DBB46C549E084F8BF48FE75E3AF6C0A03D
+0 @F527576680@ FAM
+1 HUSB @I573239935@
+1 WIFE @I573239922@
+1 CHIL @I573239936@
+1 CHIL @I573239937@
+1 CHIL @I573239938@
+1 CHIL @I573239939@
+1 CHIL @I573239940@
+1 CHIL @I573239941@
+1 CHIL @I573241019@
+1 NOTE _UIDD94304DB3CD1B742B9D86B123DF5A80BF4D1
+0 @F527576681@ FAM
+1 MARR
+2 DATE 26 Jun 1892
+1 HUSB @I573239942@
+1 WIFE @I573239923@
+1 CHIL @I573239943@
+1 CHIL @I573239944@
+1 CHIL @I573239945@
+1 CHIL @I573239946@
+1 CHIL @I573239947@
+1 CHIL @I573239948@
+1 CHIL @I573239949@
+1 NOTE _UID5EDCE61957D18041A02F858C31BDDFE2B1B3
+0 @F527576682@ FAM
+1 HUSB @I573239924@
+1 WIFE @I573239950@
+1 CHIL @I573239953@
+1 NOTE _UIDC7139D71CFEB8E41A6BCC83A398602D369F5
+0 @F527576683@ FAM
+1 HUSB @I573239924@
+1 WIFE @I573239955@
+1 CHIL @I573239956@
+1 CHIL @I573239957@
+1 CHIL @I573239958@
+1 CHIL @I573239959@
+1 CHIL @I573239960@
+1 NOTE _UIDC68D4AAB5AC6F046BB6A316B266D990D9807
+0 @F527576684@ FAM
+1 HUSB @I573239961@
+1 WIFE @I573239925@
+1 CHIL @I573239964@
+1 CHIL @I573239965@
+1 CHIL @I573239966@
+1 CHIL @I573239967@
+1 NOTE _UID788E23A7E1D92446B0EFAEC6704794CA1C76
+0 @F527576685@ FAM
+1 HUSB @I573239968@
+1 WIFE @I573239926@
+1 NOTE _UIDFA7EDC2F575ECE4D99C2C39C38B42627466F
+0 @F527576686@ FAM
+1 HUSB @I573239971@
+1 WIFE @I573239927@
+1 CHIL @I573239974@
+1 CHIL @I573239975@
+1 CHIL @I573239976@
+1 CHIL @I573239977@
+1 CHIL @I573239978@
+1 CHIL @I573239979@
+1 CHIL @I573239980@
+1 CHIL @I573239981@
+1 CHIL @I573239982@
+1 NOTE _UID1B080E79BEAF9B4E819885AF089FF51C0506
+0 @F527576687@ FAM
+1 MARR
+2 DATE 8 Sep 1895
+2 PLAC , , Mississippi
+1 HUSB @I573239928@
+1 WIFE @I573239983@
+1 CHIL @I573239985@
+1 CHIL @I573239986@
+1 CHIL @I573239987@
+1 CHIL @I573239988@
+1 CHIL @I573239989@
+1 CHIL @I573239991@
+1 CHIL @I573240877@
+1 NOTE _UID27ED6F25AEB4E440BCF43F7975F56484E8B4
+0 @F527576688@ FAM
+1 HUSB @I573239929@
+1 WIFE @I573239992@
+1 CHIL @I573239993@
+1 CHIL @I573239994@
+1 CHIL @I573239995@
+1 CHIL @I573239990@
+1 NOTE _UID8E35BF92763A384AA7F11E3EF5B25F2A6A32
+0 @F527576689@ FAM
+1 MARR
+2 DATE 8 Jul 1906
+1 HUSB @I573239930@
+1 WIFE @I573239996@
+1 CHIL @I573239999@
+1 CHIL @I573240003@
+1 CHIL @I573240007@
+1 CHIL @I573240918@
+1 CHIL @I573240009@
+1 CHIL @I573240938@
+1 CHIL @I573240010@
+1 CHIL @I573240015@
+1 CHIL @I573240019@
+1 NOTE _UIDD1A9ECBC4AA0C0418F0904A71FB2E1FF01F1
+0 @F527576690@ FAM
+1 HUSB @I573239931@
+1 WIFE @I573240940@
+1 CHIL @I573240941@
+1 CHIL @I573240942@
+1 CHIL @I573240955@
+1 CHIL @I573240957@
+1 NOTE _UID1066DAD101A04E4FAC5CCCD9B346C09A5FE3
+0 @F527576691@ FAM
+1 HUSB @I573239932@
+1 WIFE @I573241647@
+1 NOTE _UID3C73269E43168C4D95EB4B939AAEB64B4CB9
+0 @F527576692@ FAM
+1 HUSB @I573239933@
+1 WIFE @I573240962@
+1 CHIL @I573240963@
+1 NOTE _UID01A7BFDA0BF9224391A1FEA13B161F0EF9C5
+0 @F527576693@ FAM
+1 MARR
+2 DATE 8 Jun 1918
+1 HUSB @I573239934@
+1 WIFE @I573240966@
+1 CHIL @I573240969@
+1 CHIL @I573240979@
+1 CHIL @I573240985@
+1 CHIL @I573240988@
+1 CHIL @I573240990@
+1 CHIL @I573241001@
+1 CHIL @I573241005@
+1 NOTE _UID45348DEA115B9C47B9E22CCFD45386CF516D
+0 @F527576694@ FAM
+1 HUSB @I573241009@
+1 WIFE @I573239936@
+1 NOTE _UID3EA6554D6856104B9C46E5698C8B756EC95C
+0 @F527576695@ FAM
+1 MARR
+2 DATE 17 Oct 1908
+2 PLAC Loves Valley, Love, Oklahoma
+1 HUSB @I573241009@
+1 WIFE @I573239937@
+1 CHIL @I573241010@
+1 NOTE _UID3CFCF40820358C41A8594DA37A9FB02535C2
+0 @F527576696@ FAM
+1 HUSB @I573241026@
+1 WIFE @I573239938@
+1 CHIL @I573241027@
+1 CHIL @I573241034@
+1 CHIL @I573241036@
+1 CHIL @I573241038@
+1 CHIL @I573241039@
+1 CHIL @I573241040@
+1 CHIL @I573241043@
+1 NOTE _UID3228EA953C5DFD44B7293EAF27AAFEEA3920
+0 @F527576697@ FAM
+1 MARR
+2 DATE 24 Oct 1914
+2 PLAC Lebanon, Mashall, Oklahoma
+1 HUSB @I573241044@
+1 WIFE @I573239939@
+1 CHIL @I573241045@
+1 CHIL @I573241058@
+1 CHIL @I573241066@
+1 CHIL @I573241075@
+1 CHIL @I573241079@
+1 CHIL @I573241083@
+1 CHIL @I573241087@
+1 CHIL @I573241093@
+1 CHIL @I573241098@
+1 CHIL @I573241094@
+1 CHIL @I573241101@
+1 NOTE _UIDD2685AAEFA6E5D49BCBC2B06D12DEACDAE2F
+0 @F527576698@ FAM
+1 HUSB @I573239940@
+1 WIFE @I573241102@
+1 CHIL @I573241103@
+1 CHIL @I573241104@
+1 CHIL @I573241105@
+1 CHIL @I573241106@
+1 CHIL @I573241107@
+1 CHIL @I573241108@
+1 CHIL @I573241109@
+1 NOTE _UID20485CBCEB677F4D89B345FC8FA18E02DBDC
+0 @F527576699@ FAM
+1 HUSB @I573239941@
+1 WIFE @I573241110@
+1 CHIL @I573241111@
+1 NOTE _UID5CF6EAC18E14B6429CED2F3224DB5F11F014
+0 @F527576700@ FAM
+1 CHIL @I573239950@
+1 NOTE _UID2817781009EC4E43931D865C929B8550E1F6
+0 @F527576701@ FAM
+1 HUSB @I573239954@
+1 WIFE @I573239953@
+1 CHIL @I573240815@
+1 CHIL @I573240816@
+1 CHIL @I573240817@
+1 CHIL @I573240818@
+1 CHIL @I573240819@
+1 NOTE _UID6168DA7B4468854692F1071462845ED249FA
+0 @F527576702@ FAM
+1 HUSB @I573240820@
+1 WIFE @I573239956@
+1 CHIL @I573240823@
+1 NOTE _UID0FF1151BA1214B45A5514FEA654F8105EB39
+0 @F527576703@ FAM
+1 HUSB @I573240824@
+1 WIFE @I573239956@
+1 CHIL @I573240827@
+1 NOTE _UID9250FF3528CC0143BA342B2A5F0BDC764D57
+0 @F527576704@ FAM
+1 HUSB @I573240834@
+1 WIFE @I573239957@
+1 CHIL @I573240835@
+1 CHIL @I573240836@
+1 NOTE _UID4F9B74647ACB1047A07302DC4349D540F04F
+0 @F527576705@ FAM
+1 HUSB @I573240837@
+1 WIFE @I573239958@
+1 NOTE _UIDB86E238ED7AF0B4EA340B557CD6D6B56A047
+0 @F527576706@ FAM
+1 HUSB @I573240838@
+1 WIFE @I573239959@
+1 CHIL @I573240839@
+1 CHIL @I573240840@
+1 NOTE _UIDF4DB315E830C2F47BAC492C68C19A69A1E5D
+0 @F527576707@ FAM
+1 CHIL @I573239961@
+1 NOTE _UID720DF41F1FE352418D798A03FD91FCB0F4D1
+0 @F527576708@ FAM
+1 HUSB @I573240841@
+1 WIFE @I573239964@
+1 NOTE _UID982418D8A3E64D47B93F6AC77B9AAEEBA0CC
+0 @F527576709@ FAM
+1 HUSB @I573240842@
+1 WIFE @I573239966@
+1 NOTE _UID9F49635084E6F54DACE9BE916A2B52293B08
+0 @F527576710@ FAM
+1 HUSB @I573240843@
+1 WIFE @I573239967@
+1 NOTE _UIDBAEC0A18F0FB14498C721E603C468FDB7867
+0 @F527576711@ FAM
+1 CHIL @I573239968@
+1 NOTE _UIDDC5AC690AE060E4DBAF2EF7033044A0A3183
+0 @F527576712@ FAM
+1 CHIL @I573239971@
+1 NOTE _UIDB06AC55BA83CB247BE5A0D1B1BCE08559DF8
+0 @F527576713@ FAM
+1 HUSB @I573239974@
+1 WIFE @I573240844@
+1 NOTE _UID97FE3DFBD6F7CA42B9EADEAA8F5AF6DA8A06
+0 @F527576714@ FAM
+1 MARR
+2 DATE 12 Nov 1932
+1 HUSB @I573239976@
+1 WIFE @I573240003@
+1 CHIL @I573240845@
+1 CHIL @I573240851@
+1 CHIL @I573240852@
+1 NOTE _UID44F2DE2F7D76B2469E417BF4EE31475537D8
+0 @F527576715@ FAM
+1 HUSB @I573239977@
+1 WIFE @I573240853@
+1 CHIL @I573240854@
+1 NOTE _UID6BEE071B1866814295F7EA87733E02BB270E
+0 @F527576716@ FAM
+1 CHIL @I573239983@
+1 NOTE _UID1BB7A1E353AB2A4A90EB01F4A68AFFB71EDB
+0 @F527576717@ FAM
+1 HUSB @I573239985@
+1 WIFE @I573240855@
+1 CHIL @I573240856@
+1 CHIL @I573240857@
+1 NOTE _UID055CC984E8AE5C4B998ECEBE2854F8D0E28B
+0 @F527576718@ FAM
+1 HUSB @I573240858@
+1 WIFE @I573239986@
+1 CHIL @I573240861@
+1 CHIL @I573240862@
+1 NOTE _UID63BDA6CE15CBB048AB2808BEF2C0C7F270C8
+0 @F527576719@ FAM
+1 HUSB @I573240859@
+1 WIFE @I573239986@
+1 CHIL @I573240860@
+1 NOTE _UID1BD647071488954EA5F51EC8D38B4C3A2205
+0 @F527576720@ FAM
+1 HUSB @I573240863@
+1 WIFE @I573239987@
+1 CHIL @I573240864@
+1 CHIL @I573240865@
+1 CHIL @I573240866@
+1 NOTE _UID1A702AD1D89FB14AA732BACB1BE724219C05
+0 @F527576721@ FAM
+1 HUSB @I573239988@
+1 WIFE @I573240867@
+1 NOTE _UIDF65C53B92FAA254FBC5F6132FDDE14C60EA3
+0 @F527576722@ FAM
+1 HUSB @I573239988@
+1 WIFE @I573240868@
+1 CHIL @I573240869@
+1 CHIL @I573240870@
+1 NOTE _UID8B126F3A10B42543BA9E27D353BF7A0353B6
+0 @F527576723@ FAM
+1 HUSB @I573239989@
+1 WIFE @I573240871@
+1 NOTE _UID1139167F4348B24196382328E9EA423FCA7E
+0 @F527576724@ FAM
+1 MARR
+2 DATE 24 Jun 1945
+1 HUSB @I573240872@
+1 WIFE @I573239991@
+1 CHIL @I573240875@
+1 CHIL @I573240876@
+1 NOTE _UIDDD61EB499A8F9E47A1206236BA3871427E0C
+0 @F527576725@ FAM
+1 CHIL @I573239996@
+1 NOTE _UIDFCBAA9691ED8B64091A2952EEA0474A4B0DF
+0 @F527576726@ FAM
+1 MARR
+2 DATE 16 Oct 1928
+1 HUSB @I573240000@
+1 WIFE @I573239999@
+1 CHIL @I573240885@
+1 CHIL @I573240886@
+1 CHIL @I573240891@
+1 NOTE _UID5C3278D9B11BF14EA4B1FCD358446871834B
+0 @F527576727@ FAM
+1 CHIL @I573240000@
+1 NOTE _UIDBD7AAA43C988A14288C74CF808F74FBBF438
+0 @F527576728@ FAM
+1 MARR
+2 DATE 3 Mar 1925
+1 HUSB @I573240004@
+1 WIFE @I573240003@
+1 CHIL @I573240899@
+1 NOTE _UID873E2496A441844FA204A3F353F8072FF440
+0 @F527576729@ FAM
+1 HUSB @I573240896@
+1 WIFE @I573240003@
+1 NOTE _UIDD01DA5B221C5E947944788A27FC670ACC024
+0 @F527576730@ FAM
+1 CHIL @I573240004@
+1 NOTE _UID1C165677DCF50C48914746200867F61EE5BC
+0 @F527576731@ FAM
+1 HUSB @I573240007@
+1 WIFE @I573240008@
+1 NOTE _UIDD0ADDB8C44339D459907F6FC62EE750DA11B
+0 @F527576732@ FAM
+1 MARR
+2 DATE 24 Oct 1932
+1 HUSB @I573240011@
+1 WIFE @I573240009@
+1 CHIL @I573240936@
+1 CHIL @I573240937@
+1 NOTE _UID4BF050713AA2E54CA6AF7F7F144DFFB47080
+0 @F527576733@ FAM
+1 HUSB @I573240010@
+1 WIFE @I573240014@
+1 NOTE _UID781F4BD6CD1FA747A17B40B532BAE2E5564C
+0 @F527576734@ FAM
+1 CHIL @I573240011@
+1 NOTE _UIDE58FF288EDDD7B409F675912E1CD40AD7FCF
+0 @F527576735@ FAM
+1 MARR
+2 DATE 3 Sep 1949
+1 HUSB @I573240015@
+1 WIFE @I573240016@
+1 NOTE _UID3DEE127EE6091B41B166AA1388CEBE00EE59
+0 @F527576736@ FAM
+1 CHIL @I573240016@
+1 NOTE _UID9737FA7E9614DF4EAE7F0936BB57EB9F25A6
+0 @F527577032@ FAM
+1 CHIL @I573240820@
+1 NOTE _UID8FB8ED7F68F67947A0EF03D104706B879A39
+0 @F527577033@ FAM
+1 HUSB @I573240828@
+1 WIFE @I573240823@
+1 CHIL @I573240831@
+1 NOTE _UID11EA13870E8E944082C48845CFA4845C6BF6
+0 @F527577034@ FAM
+1 CHIL @I573240824@
+1 NOTE _UID3AEC5F454BE2AF46A3D2E6B78F88E200F712
+0 @F527577035@ FAM
+1 HUSB @I573240833@
+1 WIFE @I573240827@
+0 @F527577036@ FAM
+1 CHIL @I573240828@
+1 NOTE _UID19C9AC3FC9511148915A45C2B52734155737
+0 @F527577037@ FAM
+1 HUSB @I573240831@
+1 WIFE @I573240832@
+0 @F527577038@ FAM
+1 HUSB @I573240846@
+1 WIFE @I573240845@
+1 CHIL @I573240847@
+1 CHIL @I573240849@
+1 CHIL @I573240850@
+0 @F527577039@ FAM
+1 HUSB @I573240848@
+1 WIFE @I573240847@
+0 @F527577040@ FAM
+1 CHIL @I573240872@
+1 NOTE _UIDC6BA894186EC90448C188E1C8D55B143B441
+0 @F527577041@ FAM
+1 HUSB @I573240877@
+1 WIFE @I573240878@
+1 CHIL @I573240879@
+1 CHIL @I573240880@
+1 CHIL @I573240881@
+1 CHIL @I573240882@
+1 CHIL @I573240883@
+1 CHIL @I573240884@
+0 @F527577042@ FAM
+1 HUSB @I573240887@
+1 WIFE @I573240886@
+1 CHIL @I573240888@
+1 CHIL @I573240890@
+0 @F527577043@ FAM
+1 HUSB @I573240889@
+1 WIFE @I573240888@
+0 @F527577044@ FAM
+1 HUSB @I573240892@
+1 WIFE @I573240891@
+1 CHIL @I573240893@
+1 CHIL @I573240894@
+1 CHIL @I573240895@
+0 @F527577045@ FAM
+1 CHIL @I573240896@
+1 NOTE _UIDACD37E83E39C2542836D02B953FD9F0E0E0F
+0 @F527577046@ FAM
+1 MARR
+2 DATE 5 Jun 1945
+1 HUSB @I573240899@
+1 WIFE @I573240900@
+1 CHIL @I573240903@
+1 CHIL @I573240906@
+1 CHIL @I573240907@
+1 CHIL @I573240910@
+1 CHIL @I573240916@
+1 NOTE _UID18CC6FA4A3A50449945137837118D88B1745
+0 @F527577047@ FAM
+1 CHIL @I573240900@
+1 NOTE _UID16D1CD67C9BF3643BDC7E3B3F1D43CC3FACD
+0 @F527577048@ FAM
+1 HUSB @I573240903@
+1 WIFE @I573240904@
+1 CHIL @I573240905@
+0 @F527577049@ FAM
+1 HUSB @I573240907@
+1 WIFE @I573240908@
+1 CHIL @I573240909@
+0 @F527577050@ FAM
+1 HUSB @I573240911@
+1 WIFE @I573240910@
+1 CHIL @I573240913@
+0 @F527577051@ FAM
+1 HUSB @I573240912@
+1 WIFE @I573240910@
+1 CHIL @I573240914@
+1 CHIL @I573240915@
+0 @F527577052@ FAM
+1 HUSB @I573240911@
+1 WIFE @I573240916@
+1 CHIL @I573240917@
+0 @F527577053@ FAM
+1 MARR
+2 DATE 4 May 1929
+1 HUSB @I573240919@
+1 WIFE @I573240918@
+1 CHIL @I573240922@
+1 CHIL @I573240929@
+1 NOTE _UID4E5FE155931F2E46A6FEC1913923F35AA895
+0 @F527577054@ FAM
+1 CHIL @I573240919@
+1 NOTE _UIDD6FC9970FF39964A88581BA57A1F53EC6B69
+0 @F527577055@ FAM
+1 HUSB @I573240923@
+1 WIFE @I573240922@
+1 CHIL @I573240924@
+0 @F527577056@ FAM
+1 HUSB @I573240925@
+1 WIFE @I573240924@
+1 CHIL @I573240926@
+1 CHIL @I573240927@
+1 CHIL @I573240928@
+0 @F527577057@ FAM
+1 HUSB @I573240930@
+1 WIFE @I573240929@
+1 CHIL @I573240932@
+1 CHIL @I573240933@
+1 CHIL @I573240934@
+1 CHIL @I573240935@
+0 @F527577058@ FAM
+1 HUSB @I573240931@
+1 WIFE @I573240929@
+0 @F527577059@ FAM
+1 MARR
+2 DATE 27 Mar 1937
+1 HUSB @I573240938@
+1 WIFE @I573240939@
+1 NOTE _UID5B224EE87178AF4E859511BD89676850298D
+0 @F527577060@ FAM
+1 HUSB @I573240941@
+1 WIFE @I573240943@
+1 CHIL @I573240944@
+1 NOTE _UIDE9835324637A674FA4F26DE051BC00B61C24
+0 @F527577061@ FAM
+1 HUSB @I573240948@
+1 WIFE @I573240942@
+1 CHIL @I573240949@
+1 NOTE _UIDD91DD426467EE9469FFCF0B81B5BE459D9BD
+0 @F527577062@ FAM
+1 HUSB @I573240945@
+1 WIFE @I573240944@
+1 CHIL @I573240946@
+1 CHIL @I573240947@
+0 @F527577063@ FAM
+1 HUSB @I573240949@
+1 WIFE @I573240950@
+1 CHIL @I573240951@
+1 CHIL @I573240954@
+0 @F527577064@ FAM
+1 HUSB @I573240951@
+1 WIFE @I573240952@
+1 CHIL @I573240953@
+0 @F527577065@ FAM
+1 HUSB @I573240955@
+1 WIFE @I573240956@
+1 NOTE _UIDC9223175E1A8744AA6C3CC7AFE0E0CD978D5
+0 @F527577066@ FAM
+1 HUSB @I573240957@
+1 WIFE @I573240958@
+1 CHIL @I573240959@
+1 CHIL @I573240960@
+1 CHIL @I573240961@
+1 NOTE _UID2431A1DAD639AC48807ABB454BC6B2F787A4
+0 @F527577067@ FAM
+1 HUSB @I573240964@
+1 WIFE @I573240963@
+1 CHIL @I573240965@
+1 NOTE _UID77854465D83229478E48BE71122BBDF513BC
+0 @F527577068@ FAM
+1 CHIL @I573240966@
+1 NOTE _UID6E8CE93AC5A77A4582595597978084BC666E
+0 @F527577069@ FAM
+1 MARR
+2 DATE 28 Jul 1943
+1 HUSB @I573240969@
+1 WIFE @I573240970@
+1 CHIL @I573240971@
+1 CHIL @I573240973@
+1 NOTE _UIDB9BDA587F0921D498072298503E93C9CEE45
+0 @F527577070@ FAM
+1 HUSB @I573240971@
+1 WIFE @I573240972@
+0 @F527577071@ FAM
+1 HUSB @I573240974@
+1 WIFE @I573240973@
+1 CHIL @I573240976@
+1 CHIL @I573240977@
+1 CHIL @I573240978@
+0 @F527577072@ FAM
+1 HUSB @I573240979@
+1 WIFE @I573240980@
+1 CHIL @I573240981@
+1 NOTE _UIDA9DF1A16078FD944B966C15200FD04E8861B
+0 @F527577073@ FAM
+1 HUSB @I573240981@
+1 WIFE @I573240982@
+1 CHIL @I573240983@
+1 CHIL @I573240984@
+0 @F527577074@ FAM
+1 MARR
+2 DATE 19 Jan 1957
+1 HUSB @I573240985@
+1 WIFE @I573240986@
+1 NOTE _UID0099CF6AC208754A8EBAE39BA4C1A657839C
+0 @F527577075@ FAM
+1 WIFE @I573240986@
+1 NOTE _UIDF17F931F15F54941A8B374AF58F5DA90EB8F
+0 @F527577076@ FAM
+1 MARR
+2 DATE 31 Jan 1948
+1 HUSB @I573240989@
+1 WIFE @I573240988@
+1 NOTE _UIDD0D20AEB04C413438660A3C320802CE5B22C
+0 @F527577077@ FAM
+1 HUSB @I573240990@
+1 WIFE @I573240991@
+1 CHIL @I573240994@
+1 CHIL @I573240998@
+0 @F527577078@ FAM
+1 CHIL @I573240991@
+1 NOTE _UIDA05D3E24E8EA834AAEAEBE6CFEBD6513B71F
+0 @F527577079@ FAM
+1 HUSB @I573240995@
+1 WIFE @I573240994@
+0 @F527577080@ FAM
+1 HUSB @I573240996@
+1 WIFE @I573240994@
+1 CHIL @I573240997@
+0 @F527577081@ FAM
+1 HUSB @I573240998@
+1 WIFE @I573240999@
+1 CHIL @I573241000@
+0 @F527577082@ FAM
+1 HUSB @I573241001@
+1 WIFE @I573241002@
+1 CHIL @I573241003@
+1 CHIL @I573241004@
+0 @F527577083@ FAM
+1 HUSB @I573241006@
+1 WIFE @I573241005@
+1 CHIL @I573241007@
+0 @F527577084@ FAM
+1 HUSB @I573241008@
+1 WIFE @I573241005@
+0 @F527577085@ FAM
+1 HUSB @I573241011@
+1 WIFE @I573241010@
+1 CHIL @I573241012@
+1 NOTE _UIDBDD512D11DFF914C94BDB000EF4DA358A6B7
+0 @F527577086@ FAM
+1 HUSB @I573241013@
+1 WIFE @I573241012@
+1 CHIL @I573241016@
+1 NOTE _UIDAD8C46C51CE07648A404B21C9F84ED4DD110
+0 @F527577087@ FAM
+1 HUSB @I573241014@
+1 WIFE @I573241012@
+0 @F527577088@ FAM
+1 HUSB @I573241015@
+1 WIFE @I573241012@
+1 NOTE _UIDCC4FABFF9077D8459651989B864174B7F560
+0 @F527577089@ FAM
+1 HUSB @I573241016@
+1 WIFE @I573241017@
+1 CHIL @I573241018@
+0 @F527577090@ FAM
+1 HUSB @I573241020@
+1 WIFE @I573241019@
+1 CHIL @I573241021@
+1 CHIL @I573241022@
+1 CHIL @I573241023@
+1 CHIL @I573241024@
+1 NOTE _UIDC707DA172593564B829E3D493B6EA63C49F7
+0 @F527577091@ FAM
+1 HUSB @I573241025@
+1 WIFE @I573241019@
+1 NOTE _UID75EB2FAE1E42114C9154D0D4B634E0DE2BFB
+0 @F527577092@ FAM
+1 MARR
+2 PLAC Pulaski, Giles, Tennessee
+1 CHIL @I573241026@
+1 NOTE _UIDCFEA10B006E18C45BEFD641EB977C26BCB4F
+0 @F527577093@ FAM
+1 HUSB @I573241028@
+1 WIFE @I573241027@
+1 CHIL @I573241030@
+1 CHIL @I573241031@
+1 NOTE _UID4718756F9243C741AD7C93365F3D49FFF6B9
+0 @F527577094@ FAM
+1 HUSB @I573241029@
+1 WIFE @I573241027@
+1 CHIL @I573241032@
+1 CHIL @I573241033@
+1 NOTE _UIDD0CFA36FC912D54EAB813F7772A60ABE7128
+0 @F527577095@ FAM
+1 HUSB @I573241035@
+1 WIFE @I573241034@
+1 NOTE _UIDA9F6519320B4434EA6D1F2679760BF23912A
+0 @F527577096@ FAM
+1 HUSB @I573241037@
+1 WIFE @I573241036@
+1 NOTE _UID0FBFA0E583BAFE478EB0001CE80DD62A2478
+0 @F527577097@ FAM
+1 HUSB @I573241038@
+1 CHIL @I573242506@
+1 CHIL @I573242507@
+1 CHIL @I573242508@
+1 NOTE _UID11DAF191A0CC8E4C875FFF0E40785938EF40
+0 @F527577098@ FAM
+1 HUSB @I573241041@
+1 WIFE @I573241040@
+1 CHIL @I573241042@
+1 NOTE _UID57DF3C3DDDFE484AB35003B615185E046756
+0 @F527577099@ FAM
+1 HUSB @I573241046@
+1 WIFE @I573241045@
+1 CHIL @I573241047@
+1 CHIL @I573241048@
+1 CHIL @I573241049@
+1 CHIL @I573241050@
+1 CHIL @I573241051@
+1 CHIL @I573241052@
+1 CHIL @I573241053@
+1 CHIL @I573241054@
+1 CHIL @I573241055@
+1 CHIL @I573241056@
+1 CHIL @I573241057@
+1 NOTE _UID02BCDB521C97064496726754DF4BEA2DECEF
+0 @F527577100@ FAM
+1 HUSB @I573241059@
+1 WIFE @I573241058@
+1 CHIL @I573241060@
+1 CHIL @I573241061@
+1 CHIL @I573241062@
+1 CHIL @I573241063@
+1 CHIL @I573241064@
+1 CHIL @I573241065@
+1 NOTE _UID4BDC654F770C884AAE30F0E8850C19A73718
+0 @F527577101@ FAM
+1 HUSB @I573241066@
+1 WIFE @I573241067@
+1 CHIL @I573241068@
+1 CHIL @I573241069@
+1 CHIL @I573241070@
+1 CHIL @I573241071@
+1 CHIL @I573241072@
+1 CHIL @I573241073@
+1 CHIL @I573241074@
+1 NOTE _UID3874ED0B70D7DD43B5828EAC58DF016F239F
+0 @F527577102@ FAM
+1 HUSB @I573241075@
+1 WIFE @I573241076@
+1 CHIL @I573241077@
+1 CHIL @I573241078@
+1 NOTE _UID1E571F4B76D2794BB093E6656ADE39676162
+0 @F527577103@ FAM
+1 HUSB @I573241079@
+1 WIFE @I573241080@
+1 CHIL @I573241081@
+1 CHIL @I573241082@
+0 @F527577104@ FAM
+1 HUSB @I573241083@
+1 WIFE @I573241084@
+1 CHIL @I573241085@
+1 CHIL @I573241086@
+0 @F527577105@ FAM
+1 HUSB @I573241088@
+1 WIFE @I573241087@
+1 CHIL @I573241089@
+1 CHIL @I573241090@
+1 CHIL @I573241091@
+1 CHIL @I573241092@
+0 @F527577106@ FAM
+1 HUSB @I573241095@
+1 WIFE @I573241094@
+1 CHIL @I573241096@
+1 CHIL @I573241097@
+0 @F527577107@ FAM
+1 WIFE @I573241098@
+1 CHIL @I573241099@
+1 CHIL @I573241100@
+0 @F527577115@ FAM
+1 MARR
+2 DATE 25 Oct 1896
+2 PLAC , Lauderdale, Alabama
+1 HUSB @I573241135@
+1 WIFE @I573241172@
+1 CHIL @I573241173@
+1 CHIL @I573241174@
+1 CHIL @I573241176@
+1 CHIL @I573241178@
+1 CHIL @I573241179@
+1 CHIL @I573241181@
+1 CHIL @I573241183@
+1 NOTE _UID61EFE1C1E19F9F4CAAF3C9CA6AC8226748B7
+0 @F527577116@ FAM
+1 MARR
+2 DATE 1 May 1896
+2 PLAC , Lauderdale, Alabama
+1 HUSB @I573241136@
+1 WIFE @I573241185@
+1 CHIL @I573241186@
+1 CHIL @I573241188@
+1 CHIL @I573241190@
+1 CHIL @I573241191@
+1 NOTE _UID9E9FF5924662CE4BABC372C37B19944A9AFF
+0 @F527577117@ FAM
+1 MARR
+2 DATE May 1907
+1 HUSB @I573241137@
+1 WIFE @I573241138@
+1 NOTE _UID3B878E3D9C97F94A87D315CF2C747DC624E9
+0 @F527577118@ FAM
+1 HUSB @I573241193@
+1 WIFE @I573241139@
+1 CHIL @I573241194@
+1 CHIL @I573241195@
+1 CHIL @I573241197@
+1 CHIL @I573241198@
+1 CHIL @I573241200@
+1 CHIL @I573241202@
+1 NOTE _UID00F81B17476860418F334403F51372BBB832
+0 @F527577119@ FAM
+1 MARR
+2 DATE 1 Sep 1904
+1 HUSB @I573241140@
+1 WIFE @I573241204@
+1 CHIL @I573241205@
+1 CHIL @I573241207@
+1 CHIL @I573241209@
+1 CHIL @I573241211@
+1 CHIL @I573241213@
+1 NOTE _UID2B68870F9DC38A47893DB297153781BEF458
+0 @F527577132@ FAM
+1 MARR
+2 DATE 2 Nov 1919
+2 PLAC , Lauderdale, Alabama
+1 HUSB @I573241174@
+1 WIFE @I573241175@
+1 NOTE _UIDB77093DB2BE6C54FB41B063282B60DF4FA3B
+0 @F527577133@ FAM
+1 MARR
+2 DATE 8 Nov 1929
+2 PLAC , Lauderdale, Alabama
+1 HUSB @I573241176@
+1 WIFE @I573241177@
+1 NOTE _UID9ED5670A2460234C8AAA5C3E61FA2886AEF5
+0 @F527577134@ FAM
+1 MARR
+2 DATE 12 May 1928
+2 PLAC , Lauderdale, Alabama
+1 HUSB @I573241179@
+1 WIFE @I573241180@
+1 NOTE _UID8A50452D14ECBD4498D0F1B0C0FA7531B6C8
+0 @F527577135@ FAM
+1 MARR
+2 DATE 6 Dec 1933
+1 HUSB @I573241182@
+1 WIFE @I573241181@
+1 NOTE _UIDD0FB0BC54221F94A9585A3BDC1EE99989B8D
+0 @F527577136@ FAM
+1 MARR
+2 DATE 8 Oct 1938
+1 HUSB @I573241184@
+1 WIFE @I573241183@
+1 NOTE _UID113ADCB68BA43A44AD52ED00C99B61CA05A9
+0 @F527577137@ FAM
+1 HUSB @I573241186@
+1 WIFE @I573241187@
+1 NOTE _UID0BB82CC6A2F7E845BBD638899B7A3BDEFB7D
+0 @F527577138@ FAM
+1 MARR
+2 DATE 13 Feb 1932
+2 PLAC , Lauderdale, Alabama
+1 HUSB @I573241189@
+1 WIFE @I573241188@
+1 NOTE _UID4C1879386A3D3A4FBC79EF8AF0E839878B2C
+0 @F527577139@ FAM
+1 HUSB @I573241191@
+1 WIFE @I573241192@
+1 NOTE _UID8452EF4AA194BD4DA17B87F2B91EAEBB237F
+0 @F527577140@ FAM
+1 HUSB @I573241196@
+1 WIFE @I573241195@
+1 NOTE _UID98745FA8863C5C46A47A9521331E8BFF26C4
+0 @F527577141@ FAM
+1 HUSB @I573241199@
+1 WIFE @I573241198@
+1 NOTE _UIDDBC25B753433CF4CBB37BE6FE43F468C03B9
+0 @F527577142@ FAM
+1 HUSB @I573241201@
+1 WIFE @I573241200@
+1 NOTE _UID1C2584B4D513EF4BAEFC93214533C01849BD
+0 @F527577143@ FAM
+1 HUSB @I573241203@
+1 WIFE @I573241202@
+1 NOTE _UID26E3077E80ECB34C881D34D4AEB7FF5A64DF
+0 @F527577144@ FAM
+1 MARR
+2 DATE 11 Nov 1924
+2 PLAC , Lauderdale, Alabama
+1 HUSB @I573241205@
+1 WIFE @I573241206@
+1 NOTE _UID7A9CCE7D1968074DA0B5E55CB6AA9DFBC428
+0 @F527577145@ FAM
+1 MARR
+2 DATE 24 Dec 1927
+1 HUSB @I573241207@
+1 WIFE @I573241208@
+1 NOTE _UIDE6B4E96E37647645A3B211CBCA0F6F995948
+0 @F527577146@ FAM
+1 HUSB @I573241209@
+1 WIFE @I573241210@
+1 NOTE _UIDADA553C60F4FE542BA52F8A393A4C417A954
+0 @F527577147@ FAM
+1 MARR
+2 DATE 29 Jun 1925
+1 HUSB @I573241212@
+1 WIFE @I573241211@
+1 NOTE _UIDB7F5C5D63C28724C8824791014D56AE7D803
+0 @F527577148@ FAM
+1 HUSB @I573241213@
+1 WIFE @I573241214@
+1 NOTE _UID6363DF628321004292B92E2073B52123F2AD
+0 @F527577149@ FAM
+1 MARR
+2 DATE 14 Jan 1940
+1 HUSB @I573241213@
+1 WIFE @I573241215@
+1 NOTE _UID5E3552607B5639429E645D7B7C51732DD890
+0 @F527577670@ FAM
+1 HUSB @I573243356@
+1 WIFE @I573242506@
+1 CHIL @I573243357@
+1 CHIL @I573243358@
+0 @F527577671@ FAM
+1 HUSB @I573243359@
+1 WIFE @I573242507@
+1 CHIL @I573243360@
+1 CHIL @I573243361@
+0 @F527577672@ FAM
+1 HUSB @I573242508@
+1 WIFE @I573243362@
+1 CHIL @I573243363@
+1 CHIL @I573243364@
+1 CHIL @I573243365@
+1 CHIL @I573243366@
+0 @F527577881@ FAM
+1 HUSB @I573243376@
+1 WIFE @I573243360@
+1 CHIL @I573243377@
+0 @F527577882@ FAM
+1 HUSB @I573243367@
+1 WIFE @I573243363@
+1 CHIL @I573243373@
+1 CHIL @I573243374@
+0 @F527577883@ FAM
+1 HUSB @I573243370@
+1 WIFE @I573243363@
+0 @F527577884@ FAM
+1 CHIL @I573243367@
+0 @F527577885@ FAM
+1 CHIL @I573243370@
+0 @S546163369@ SOUR
+1 TITL Robert Suddath
+0 TRLR

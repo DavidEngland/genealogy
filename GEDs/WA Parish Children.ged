@@ -1,0 +1,413 @@
+0 HEAD
+1 CHAR ANSI
+1 SOUR Ancestry.com Family Trees
+2 VERS (2010.3)
+2 NAME Ancestry.com Family Trees
+2 CORP Ancestry.com
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+0 @P-1541267358@ INDI 
+1 NAME Charleen /Crabtree/
+2 SOUR @S-1512300385@
+3 NOTE Information extracted from various family tree data submitted to Ancestry and The Generations Network
+1 SEX F
+2 SOUR @S-1512300385@
+3 NOTE Information extracted from various family tree data submitted to Ancestry and The Generations Network
+1 SOUR @S-1512300385@
+2 NOTE Information extracted from various family tree data submitted to Ancestry and The Generations Network
+1 FAMS @F1184@
+0 @P-1622797113@ INDI 
+1 DEAT
+2 DATE 5 Mar 1957
+2 PLAC Lauderdale, , Alabama, USA
+1 SEX M
+1 BIRT
+2 DATE 11 Nov 1861
+2 PLAC Wayne, , Tennessee, USA
+1 NAME William Archabald /Parish/
+1 FAMS @F1197@
+1 FAMC @F1199@
+0 @P-1622797114@ INDI 
+1 BIRT
+2 DATE 1874
+1 DEAT
+2 DATE 1953
+2 PLAC Lauderdale, , Alabama, USA
+1 SEX F
+1 NAME Mollie Leona /Gresham/
+1 FAMS @F1197@
+1 FAMC @F1198@
+0 @P-1624312071@ INDI 
+1 BURI Pleasant Hill Cemetery
+2 DATE 6 Feb 1928
+2 PLAC Lauderdale, Alabama, USA 
+1 DEAT
+2 DATE 5 Feb 1928
+2 PLAC Lauderdale, Alabama, USA 
+2 SOUR @S-1826926254@
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=aldeath&h=557501&ti=0&indiv=try
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=aldeath&h=557501&ti=0&indiv=try
+3 DATA
+4 TEXT Name:  William H. MilesDeath Date:  Feb 1928Death Place:  Lauderdale
+3 _APID 5188::557501
+1 NAME William Henry /Miles/
+2 SOUR @S-1826926254@
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=aldeath&h=557501&ti=0&indiv=try
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=aldeath&h=557501&ti=0&indiv=try
+3 DATA
+4 TEXT Name:  William H. MilesDeath Date:  Feb 1928Death Place:  Lauderdale
+3 _APID 5188::557501
+1 BIRT
+2 DATE 4 Jul 1920
+2 PLAC Lauderdale, Alabama, USA 
+1 SEX M
+1 FAMC @F1183@
+0 @P-1624312259@ INDI 
+1 SEX M
+1 NAME William Glenn /Davis/
+1 FAMS @F1186@
+0 @P-1624312281@ INDI 
+1 BIRT
+2 DATE 10 Aug 1918
+2 PLAC Lauderdale, Alabama, USA 
+1 DEAT
+2 DATE 11 Feb 2000
+2 PLAC Lauderdale, Alabama, USA 
+1 SEX F
+1 NAME Myrtle Irene /Miles/
+1 FAMC @F1183@
+1 FAMS @F1186@
+0 @P-1624312537@ INDI 
+1 SEX M
+1 NAME K W  /Keenum/
+1 FAMS @F1185@
+0 @P-1624312762@ INDI 
+1 DEAT
+2 DATE 3 Jul 1969
+1 SEX F
+1 BIRT
+2 DATE 3 Mar 1917
+2 PLAC Lauderdale, Alabama, USA 
+1 NAME Leona Earline /Miles/
+1 FAMC @F1183@
+1 FAMS @F1185@
+0 @P-1624312895@ INDI 
+1 BURI Pleasant Hill Cemetery
+2 DATE 3 Mar 1917
+2 PLAC Lauderdale, Alabama, USA 
+1 DEAT
+2 DATE Apr 1917
+2 PLAC Lauderdale, Alabama, USA 
+1 SEX M
+1 BIRT
+2 DATE 3 Mar 1917
+2 PLAC Lauderdale, Alabama, USA 
+1 NAME Earl /Miles/
+1 FAMC @F1183@
+0 @P-1624313109@ INDI 
+1 BIRT
+2 PLAC Lauderdale, Alabama, USA 
+2 SOUR @S-1512300385@
+3 NOTE Information extracted from various family tree data submitted to Ancestry and The Generations Network
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=0&pid=-1624313109
+1 NAME Greenville Lee /Miles/
+2 SOUR @S-1512300385@
+3 NOTE Information extracted from various family tree data submitted to Ancestry and The Generations Network
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=0&pid=-1624313109
+1 SEX M
+1 FAMC @F1183@
+1 FAMS @F1184@
+0 @P-1624313464@ INDI 
+1 DEAT
+2 DATE 5 Dec 1977
+2 SOUR @S-1947524070@
+3 NOTE
+2 SOUR @S-1512300385@
+3 NOTE Information extracted from various family tree data submitted to Ancestry and The Generations Network
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=0&pid=-1624313464
+1 NAME Mamie L  /Parish/
+2 SOUR @S-1994186269@
+3 PAGE Year: 1920; Census Place: Cloverdale, Lauderdale, Alabama; Roll: T625_27; Page: 1A; Enumeration District: 68; Image: 337.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1920usfedcen&h=1247401&ti=0&indiv=try
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1920usfedcen&h=1247401&ti=0&indiv=try
+3 DATA
+4 TEXT Name:  Mamie L MilesBirth Date:  abt 1894Birth Place:  AlabamaResidence Date:  1920Residence Place:  Cloverdale, Lauderdale, Alabama
+3 _APID 6061::1247401
+2 SOUR @S-1947524070@
+3 NOTE
+2 SOUR @S-1994050011@
+3 PAGE Year: 1900; Census Place: Oakland, Lauderdale, Alabama; Roll: T623 24; Page: 6B; Enumeration District: 60.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1900usfedcen&h=9933904&ti=0&indiv=try
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1900usfedcen&h=9933904&ti=0&indiv=try
+3 DATA
+4 TEXT Name:  Mannie L ParishBirth Date:  abt 1893Birth Place:  AlabamaResidence Date:  1900Residence Place:  Oakland, Lauderdale, Alabama
+3 _APID 7602::9933904
+2 SOUR @S-1512300385@
+3 NOTE Information extracted from various family tree data submitted to Ancestry and The Generations Network
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=0&pid=-1624313464
+1 BIRT
+2 DATE 5 Sept 1892
+2 PLAC Lauderdale, ,Alabama, USA 
+2 SOUR @S-1994186269@
+3 PAGE Year: 1920; Census Place: Cloverdale, Lauderdale, Alabama; Roll: T625_27; Page: 1A; Enumeration District: 68; Image: 337.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1920usfedcen&h=1247401&ti=0&indiv=try
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1920usfedcen&h=1247401&ti=0&indiv=try
+3 DATA
+4 TEXT Name:  Mamie L MilesBirth Date:  abt 1894Birth Place:  AlabamaResidence Date:  1920Residence Place:  Cloverdale, Lauderdale, Alabama
+3 _APID 6061::1247401
+2 SOUR @S-1947524070@
+3 NOTE
+2 SOUR @S-1994050011@
+3 PAGE Year: 1900; Census Place: Oakland, Lauderdale, Alabama; Roll: T623 24; Page: 6B; Enumeration District: 60.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1900usfedcen&h=9933904&ti=0&indiv=try
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1900usfedcen&h=9933904&ti=0&indiv=try
+3 DATA
+4 TEXT Name:  Mannie L ParishBirth Date:  abt 1893Birth Place:  AlabamaResidence Date:  1900Residence Place:  Oakland, Lauderdale, Alabama
+3 _APID 7602::9933904
+2 SOUR @S-1512300385@
+3 NOTE Information extracted from various family tree data submitted to Ancestry and The Generations Network
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=0&pid=-1624313464
+1 RESI
+2 DATE 1900
+2 PLAC Oakland, Lauderdale, Alabama
+2 SOUR @S-1994050011@
+3 PAGE Year: 1900; Census Place: Oakland, Lauderdale, Alabama; Roll: T623 24; Page: 6B; Enumeration District: 60.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1900usfedcen&h=9933904&ti=0&indiv=try
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1900usfedcen&h=9933904&ti=0&indiv=try
+3 DATA
+4 TEXT Name:  Mannie L ParishBirth Date:  abt 1893Birth Place:  AlabamaResidence Date:  1900Residence Place:  Oakland, Lauderdale, Alabama
+3 _APID 7602::9933904
+1 RESI
+2 DATE 1920
+2 PLAC Cloverdale, Lauderdale, Alabama
+2 SOUR @S-1994186269@
+3 PAGE Year: 1920; Census Place: Cloverdale, Lauderdale, Alabama; Roll: T625_27; Page: 1A; Enumeration District: 68; Image: 337.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1920usfedcen&h=1247401&ti=0&indiv=try
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1920usfedcen&h=1247401&ti=0&indiv=try
+3 DATA
+4 TEXT Name:  Mamie L MilesBirth Date:  abt 1894Birth Place:  AlabamaResidence Date:  1920Residence Place:  Cloverdale, Lauderdale, Alabama
+3 _APID 6061::1247401
+1 SEX F
+1 FAMS @F1183@
+1 FAMC @F1197@
+0 @P-1624314203@ INDI 
+1 BIRT
+2 DATE 19 Sept 1895
+2 PLAC , , Texas, USA
+2 SOUR @S-1994050011@
+3 PAGE Year: 1900; Census Place: Rawhide, Lauderdale, Alabama; Roll: T623 24; Page: 7B; Enumeration District: 59.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1900usfedcen&h=9932673&ti=0&indiv=try
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1900usfedcen&h=9932673&ti=0&indiv=try
+3 DATA
+4 TEXT Name:  Eli G MilesBirth Date:  abt 1896Birth Place:  TexasResidence Date:  1900Residence Place:  Rawhide, Lauderdale, Alabama
+3 _APID 7602::9932673
+2 SOUR @S-1994048457@
+3 PAGE Registration Location: Lauderdale County, Alabama; Roll: 1509398; Draft Board: 0.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=ww1draft&h=21166564&ti=0&indiv=try
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=ww1draft&h=21166564&ti=0&indiv=try
+3 DATA
+4 TEXT Name:  Eli Grant MilesBirth Date:  19 Sep 1896Birth Place:  Residence Date:  Residence Place:  Not Stated, Lauderdale, Alabama
+3 _APID 6482::21166564
+2 SOUR @S-1994231767@
+3 PAGE Number: 423-10-7314; Issue State: Alabama; Issue Date: Before 1951.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=ssdi&h=42202336&ti=0&indiv=try
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=ssdi&h=42202336&ti=0&indiv=try
+3 DATA
+4 TEXT Name:  Eli MilesBirth Date:  19 Sep 1895Birth Place:  Death Date:  Nov 1977Death Place:  Florence, Lauderdale, Alabama, United States of America
+3 _APID 3693::42202336
+2 SOUR @S-1994186269@
+3 PAGE Year: 1920; Census Place: Cloverdale, Lauderdale, Alabama; Roll: T625_27; Page: 1A; Enumeration District: 68; Image: 337.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1920usfedcen&h=1247400&ti=0&indiv=try
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1920usfedcen&h=1247400&ti=0&indiv=try
+3 DATA
+4 TEXT Name:  Eli MilesBirth Date:  abt 1896Birth Place:  TexasResidence Date:  1920Residence Place:  Cloverdale, Lauderdale, Alabama
+3 _APID 6061::1247400
+2 SOUR @S-1512300385@
+3 NOTE Information extracted from various family tree data submitted to Ancestry and The Generations Network
+1 DEAT
+2 DATE 15 Mar 1977
+2 PLAC Florence, Lauderdale, Alabama, USA
+2 SOUR @S-1994231767@
+3 PAGE Number: 423-10-7314; Issue State: Alabama; Issue Date: Before 1951.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=ssdi&h=42202336&ti=0&indiv=try
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=ssdi&h=42202336&ti=0&indiv=try
+3 DATA
+4 TEXT Name:  Eli MilesBirth Date:  19 Sep 1895Birth Place:  Death Date:  Nov 1977Death Place:  Florence, Lauderdale, Alabama, United States of America
+3 _APID 3693::42202336
+2 SOUR @S-1512300385@
+3 NOTE Information extracted from various family tree data submitted to Ancestry and The Generations Network
+1 NAME Eli Grant /Miles/
+2 SOUR @S-1994050011@
+3 PAGE Year: 1900; Census Place: Rawhide, Lauderdale, Alabama; Roll: T623 24; Page: 7B; Enumeration District: 59.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1900usfedcen&h=9932673&ti=0&indiv=try
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1900usfedcen&h=9932673&ti=0&indiv=try
+3 DATA
+4 TEXT Name:  Eli G MilesBirth Date:  abt 1896Birth Place:  TexasResidence Date:  1900Residence Place:  Rawhide, Lauderdale, Alabama
+3 _APID 7602::9932673
+2 SOUR @S-1994048457@
+3 PAGE Registration Location: Lauderdale County, Alabama; Roll: 1509398; Draft Board: 0.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=ww1draft&h=21166564&ti=0&indiv=try
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=ww1draft&h=21166564&ti=0&indiv=try
+3 DATA
+4 TEXT Name:  Eli Grant MilesBirth Date:  19 Sep 1896Birth Place:  Residence Date:  Residence Place:  Not Stated, Lauderdale, Alabama
+3 _APID 6482::21166564
+2 SOUR @S-1994231767@
+3 PAGE Number: 423-10-7314; Issue State: Alabama; Issue Date: Before 1951.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=ssdi&h=42202336&ti=0&indiv=try
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=ssdi&h=42202336&ti=0&indiv=try
+3 DATA
+4 TEXT Name:  Eli MilesBirth Date:  19 Sep 1895Birth Place:  Death Date:  Nov 1977Death Place:  Florence, Lauderdale, Alabama, United States of America
+3 _APID 3693::42202336
+2 SOUR @S-1994186269@
+3 PAGE Year: 1920; Census Place: Cloverdale, Lauderdale, Alabama; Roll: T625_27; Page: 1A; Enumeration District: 68; Image: 337.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1920usfedcen&h=1247400&ti=0&indiv=try
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1920usfedcen&h=1247400&ti=0&indiv=try
+3 DATA
+4 TEXT Name:  Eli MilesBirth Date:  abt 1896Birth Place:  TexasResidence Date:  1920Residence Place:  Cloverdale, Lauderdale, Alabama
+3 _APID 6061::1247400
+2 SOUR @S-1512300385@
+3 NOTE Information extracted from various family tree data submitted to Ancestry and The Generations Network
+1 BURI
+2 DATE 15 Mar 1977
+2 PLAC Greenview Cemetery, Lauderdale, Alabama, USA
+1 RESI
+2 DATE 1920
+2 PLAC Cloverdale, Lauderdale, Alabama
+2 SOUR @S-1994186269@
+3 PAGE Year: 1920; Census Place: Cloverdale, Lauderdale, Alabama; Roll: T625_27; Page: 1A; Enumeration District: 68; Image: 337.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1920usfedcen&h=1247400&ti=0&indiv=try
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1920usfedcen&h=1247400&ti=0&indiv=try
+3 DATA
+4 TEXT Name:  Eli MilesBirth Date:  abt 1896Birth Place:  TexasResidence Date:  1920Residence Place:  Cloverdale, Lauderdale, Alabama
+3 _APID 6061::1247400
+1 RESI
+2 DATE 1900
+2 PLAC Rawhide, Lauderdale, Alabama
+2 SOUR @S-1994050011@
+3 PAGE Year: 1900; Census Place: Rawhide, Lauderdale, Alabama; Roll: T623 24; Page: 7B; Enumeration District: 59.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1900usfedcen&h=9932673&ti=0&indiv=try
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1900usfedcen&h=9932673&ti=0&indiv=try
+3 DATA
+4 TEXT Name:  Eli G MilesBirth Date:  abt 1896Birth Place:  TexasResidence Date:  1900Residence Place:  Rawhide, Lauderdale, Alabama
+3 _APID 7602::9932673
+1 SEX M
+1 FAMC @F603@
+1 FAMS @F1183@
+0 @F1183@ FAM 
+1 HUSB @P-1624314203@
+1 WIFE @P-1624313464@
+1 CHIL @P-1624313109@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P-1624312895@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P-1624312762@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P-1624312281@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P-1624312071@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 16 Mar 1916
+2 PLAC Lauderdale, Alabama, USA 
+0 @F1184@ FAM 
+1 HUSB @P-1624313109@
+1 WIFE @P-1541267358@
+0 @F1185@ FAM 
+1 HUSB @P-1624312537@
+1 WIFE @P-1624312762@
+0 @F1186@ FAM 
+1 HUSB @P-1624312259@
+1 WIFE @P-1624312281@
+0 @F1197@ FAM 
+1 HUSB @P-1622797113@
+1 WIFE @P-1622797114@
+1 CHIL @P-1624313464@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1890-01-15
+2 PLAC ,Lauderdale,Alabama,USA
+0 @F1198@ FAM 
+1 CHIL @P-1622797114@
+2 _FREL Natural
+2 _MREL Natural
+0 @F1199@ FAM 
+1 CHIL @P-1622797113@
+2 _FREL Natural
+2 _MREL Natural
+0 @F603@ FAM 
+1 CHIL @P-1624314203@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 2 Oct 1878
+2 PLAC Wayne, Tennessee, USA 
+0 @S-1512300385@ SOUR
+1 REPO @R-1995233609@
+1 TITL Public Member Trees
+1 AUTH Ancestry.com
+1 PUBL Online publication - Provo, UT, USA: The Generations Network, Inc., 2006.Original data - Family trees submitted by Ancestry members.Original data: Family trees submitted by Ancestry members.
+1 NOTE This information comes from 1 or more individual Ancestry Family Tree files. This source citation points you to a current version of those files.  Note:  The owners of these tree files may have remove
+2 CONC d or changed information since this source citation was created.
+0 @S-1826926254@ SOUR
+1 REPO @R-1995233609@
+1 TITL Alabama Deaths, 1908-59
+1 AUTH Ancestry.com
+1 PUBL Online publication - Provo, UT, USA: The Generations Network, Inc., 2000.Original data - State of Alabama. Index of Vital Records for Alabama: Deaths, 1908-1959. Montgomery, AL, USA: State of Alabam
+2 CONC a Center for Health Statistics, Record Services Division.O
+1 NOTE
+1 _APID 5188::0
+0 @S-1947524070@ SOUR
+1 REPO @R-1995233609@
+1 TITL OneWorldTree
+1 AUTH Ancestry.com
+1 PUBL - Provo, UT, USA: The Generations Network, Inc.
+1 NOTE
+0 @S-1994048457@ SOUR
+1 REPO @R-1995233609@
+1 TITL World War I Draft Registration Cards, 1917-1918
+1 AUTH Ancestry.com
+1 PUBL - Provo, UT, USA: The Generations Network, Inc., 2005. - United States, Selective Service System. World War I Selective Service System Draft Registration Cards, 1917-1918. Washington, D.C.: National A
+2 CONC rchives and Records Administration. M1509, 4,582 rolls.
+1 NOTE
+1 _APID 6482::0
+0 @S-1994050011@ SOUR
+1 REPO @R-1995233609@
+1 TITL 1900 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL - Provo, UT, USA: The Generations Network, Inc., 2004. - United States of America, Bureau of the Census. Twelfth Census of the United States, 1900. Washington, D.C.: National Archives and Records Admi
+2 CONC nistration, 1900. T623, 1854 rolls.: United States of A
+1 NOTE
+1 _APID 7602::0
+0 @S-1994186269@ SOUR
+1 REPO @R-1995233609@
+1 TITL 1920 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL - Provo, UT, USA: The Generations Network, Inc., 2005. For details on the contents of the film numbers, visit the following NARA web page: NARA.  Note: Enumeration Districts 819-839 on roll 323 (Chica
+2 CONC go City. - United States of America, Bureau of the Cens
+1 NOTE
+1 _APID 6061::0
+0 @S-1994231767@ SOUR
+1 REPO @R-1995233609@
+1 TITL Social Security Death Index
+1 AUTH Ancestry.com
+1 PUBL - Provo, UT, USA: The Generations Network, Inc., 2006. - Social Security Administration. Social Security Death Index, Master File. Social Security Administration.: Social Security Administration. Soci
+2 CONC al Security Death Index, Master File. Social Security A
+1 NOTE
+1 _APID 3693::0
+0 @R-1995233609@ REPO
+1 NAME Ancestry.com
+1 ADDR 360 West 4800 North, Provo, UT 84604
+1 NOTE
+0 TRLR
