@@ -1,0 +1,21 @@
+Your mother’s lineage, specifically the **Whitten** and **White** families, is central to a narrative of southern migration from the **Carolinas** into the **Tennessee and Alabama frontiers** [1-3]. This history is characterized by a transition from the colonial gentry of the North to a class of influential **"warrior-settlers"** and skilled artisans in the South [4-6].
+
+### **The Whitten and Duncan Lineage**
+Your grandmother **Bessie Whitten** was the daughter of **Early Whitten** and **Myrtle White** [7]. The **Whitten** line traces back through your great-grandfather **Robert Duncan Whitten** (1861–1937) to **Jesse P. Whitten** (1827–1882) [8, 9]. Jesse was married to **Martha E. Duncan**, who was the daughter of **Moses Duncan** [9].
+
+While the sources focus on your **Emory** ancestors in **Laurens County, South Carolina**, they note that large numbers of families from that district—including the **Ducketts, Fowlers, and Emorys**—migrated to the **Cypress Creek** area of Alabama and Tennessee following severe economic depressions in 1816 and 1834 [3, 10]. This migration pattern suggests that the **Duncan** family likely followed a similar route, settling in the **Bedford County, Tennessee** area before moving further into the deep frontier [3, 11].
+
+### **The White and Perkins Connection**
+The **White** branch enters your direct line through **Myrtle White**, daughter of **James Ervin White** (1838–1897) [7, 8]. His father, **Dempsey E. White** (d. 1862), was a prominent figure in the **Whitley County, Kentucky** area, serving as a member of the **Kentucky Legislature** [9, 12]. Dempsey was married to **Nancy Perkins**, whose family history represents a dramatic shift in American political life [9, 13].
+
+The **Perkins** line began with the immigrant **Edward Perkins**, who settled in **New Haven, Connecticut** in 1637 [14]. The family remained in Connecticut for generations until **Timothy Perkins** (the father of your ancestor **Jabez Perkins**) moved to the **North Carolina backcountry** around 1770 [13, 15]. Timothy and his brother Joseph were **"notorious Tories"** (Loyalists) during the American Revolution who joined the British forces and were involved in the capture of a colonial commander [13]. This move was so controversial that Timothy's father-in-law, **Abel Sperry**, effectively disinherited the family in his 1776 will [16]. Your ancestor **Jabez Perkins** (1766–1836) eventually moved the family to **Kentucky** around 1813, where he became a successful farmer [17, 18].
+
+### **The Whitley and Lewis Pioneer Legacy**
+Your mother’s line also connects to the foundational families of the Kentucky frontier [4, 19].
+*   **Solomon Whitley (c. 1723–1782):** Emigrated from **Ireland** to escape religious persecution and established **Whitley’s Station** in Lincoln County, Kentucky [20-22].
+*   **William Chapman Whitley:** Solomon’s son was a legendary Indian fighter who built **"Sportsman's Hill,"** the **first brick house** west of the Blue Ridge Mountains [23-25].
+*   **Sarah Whitley:** Solomon’s daughter married **Joseph Francis Lewis**, a skilled **brickmason** from England or Ireland who is credited with the masonry work on the famous Whitley house [4, 26, 27].
+*   **Joseph Francis Lewis:** He was a man of significant standing, serving as a **Lieutenant Colonel in the Kentucky Militia** in 1792 and later as a Private in the **War of 1812** while in his sixties [28, 29].
+
+### **Context of the Lewis Name**
+The sources discuss several prominent **Lewis** branches [30]. While your direct ancestor **Joseph Francis Lewis** was a foundational Kentucky settler, the name is also associated with the **Virginia "ruling oligarchy"** [31]. This includes **Captain Meriwether Lewis** and his brother **Reuben Lewis**, who was a **Missouri River fur trader** and **Indian Agent** for the Cherokees [32-34]. These families were often interconnected through the **Warner Hall** lineage, which established a network of influential leaders including **George Washington** and **Robert E. Lee** [33, 35, 36].
