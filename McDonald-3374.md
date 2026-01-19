@@ -1,4 +1,12 @@
 [[Category:Savannah Cemetery, Savannah, Tennessee]]
+[[Category:Clan Donald]]
+[[Category:Blacksmiths]]
+[[Category:Gunsmiths]]
+[[Category:Lauderdale County, Alabama]]
+[[Category:Wayne County, Tennessee]]
+[[Category:Lawrence County, Tennessee]]
+[[Category:Tennessee Pioneers]]
+
 == Biography ==
 
 Thomas Anderson McDonald (c. 1822 – c. 1885) was a skilled blacksmith and gunsmith who represented the fourth generation of the McDonald family's tradition of technical craftsmanship in early America. He was the fourth child of [[McDonald-3121 | John McDonald]] (c. 1792–c. 1860) and [[Emory-1 | Margaret Emory]] (c. 1793–c. 1880), born at Wartrace in Bedford County, Tennessee, during a period of rapid settlement following his family's migration from South Carolina.

@@ -1,3 +1,9 @@
+[[Category:Aberdeen, Scotland]]
+[[Category:Newberry County, South Carolina]]
+[[Category:South Carolina Pioneers]]
+[[Category:Scottish Immigrants]]
+[[Category:Frontier Settlers]]
+
 {{Estimated Date}}
 
 == Discrepancy ==
