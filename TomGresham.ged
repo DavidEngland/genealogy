@@ -1,0 +1,162 @@
+0 HEAD
+1 SOUR WikiTree.com
+1 DATE 20 JAN 2026
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @SUBM1@ SUBM
+1 NAME David Edward England
+
+0 @I1@ INDI
+1 NAME Thomas /Gresham/
+2 GIVN Thomas
+2 SURN Gresham
+1 SEX M
+1 BIRT
+2 DATE 10 DEC 1761
+2 PLAC Amherst, Colony of Virginia
+1 DEAT
+2 DATE 1816
+2 PLAC Lauderdale, Alabama, United States
+1 BURI
+2 PLAC Gresham Cemetery, Green Hill, Lauderdale Co., AL
+1 NOTE Revolutionary War veteran; 3rd Virginia Regiment; Valley Forge survivor [1-3].
+1 FAMS @F1@
+1 FAMC @F2@
+
+0 @I2@ INDI
+1 NAME Mary /Thornton/
+2 GIVN Mary
+2 SURN Thornton
+1 SEX F
+1 BIRT
+2 DATE ABT 1773
+1 DEAT
+2 DATE 1823
+2 PLAC Lauderdale, Alabama, United States
+1 FAMC @F3@
+1 FAMS @F1@
+
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+1 MARR
+2 DATE 1793
+2 PLAC Oglethorpe County, Georgia [4, 5].
+1 CHIL @I10@ (John Gresham)
+1 CHIL @I11@ (Elizabeth Gresham)
+1 CHIL @I12@ (George Gresham)
+1 CHIL @I13@ (Thomas Gresham Jr.)
+1 CHIL @I14@ (Benjamin Gresham)
+1 CHIL @I15@ (Philemon Gresham)
+1 CHIL @I16@ (Jarred Gresham)
+1 CHIL @I17@ (David Gresham)
+1 CHIL @I18@ (James Gresham)
+1 CHIL @I19@ (Katherine Gresham)
+
+0 @I3@ INDI
+1 NAME George /Gresham/
+2 GIVN George
+2 SURN Gresham
+1 SEX M
+1 BIRT
+2 DATE ABT 1740
+2 PLAC Essex, Virginia
+1 DEAT
+2 DATE 31 DEC 1818
+1 NOTE DNA research proves this line is Haplogroup R-M269 and unrelated to the Titsey line [6-8].
+1 FAMS @F2@
+
+0 @I4@ INDI
+1 NAME Elizabeth /Watts/
+2 GIVN Elizabeth
+2 SURN Watts
+1 SEX F
+1 BIRT
+2 DATE ABT 1745
+1 DEAT
+2 DATE 1842
+1 FAMC @F4@
+1 FAMS @F2@
+
+0 @F2@ FAM
+1 HUSB @I3@
+1 WIFE @I4@
+1 CHIL @I1@ (Thomas Gresham)
+1 CHIL @I20@ (John Gresham)
+1 CHIL @I21@ (George Gresham)
+1 CHIL @I22@ (Benjamin Gresham)
+1 CHIL @I23@ (Philemon Gresham)
+1 CHIL @I24@ (Jarred Gresham)
+1 CHIL @I25@ (Sarah Gresham)
+1 CHIL @I26@ (Jane Gresham)
+1 CHIL @I27@ (Dicey Gresham)
+1 CHIL @I28@ (Mary Gresham)
+1 CHIL @I29@ (Kaufman Gresham)
+1 CHIL @I30@ (Frances Gresham)
+1 CHIL @I31@ (Martha Gresham)
+1 NOTE Three brothers—Thomas, George, and Benjamin—married Thornton sisters [4, 9, 10].
+
+0 @I5@ INDI
+1 NAME William /Thornton/
+1 BIRT
+2 DATE 1740
+1 DEAT
+2 DATE 1796
+1 FAMS @F3@
+
+0 @F3@ FAM
+1 HUSB @I5@
+1 CHIL @I2@ (Mary Thornton)
+1 CHIL @I32@ (Martha Thornton)
+1 CHIL @I33@ (Sarah Thornton)
+
+0 @I6@ INDI
+1 NAME Thomas /Watts/
+2 NSFX Jr.
+1 BIRT
+2 DATE ABT 1710
+1 DEAT
+2 DATE 1767
+1 FAMS @F4@
+1 FAMC @F5@
+
+0 @I7@ INDI
+1 NAME Mary /Kauffman/
+1 BIRT
+2 DATE ABT 1730
+1 DEAT
+2 DATE BEF 05 SEP 1781
+1 FAMS @F4@
+
+0 @F4@ FAM
+1 HUSB @I6@
+1 WIFE @I7@
+1 CHIL @I4@ (Elizabeth Watts)
+
+0 @I8@ INDI
+1 NAME Thomas /Watts/
+2 NSFX Sr.
+1 BIRT
+2 DATE ABT 1680
+1 DEAT
+2 DATE BEF 1744
+1 FAMC @F6@
+1 FAMS @F5@
+
+0 @F5@ FAM
+1 HUSB @I8@
+1 CHIL @I6@ (Thomas Watts Jr.)
+
+0 @I9@ INDI
+1 NAME William /Watts/
+1 DEAT
+2 DATE BEF 1704
+1 FAMS @F6@
+
+0 @F6@ FAM
+1 HUSB @I9@
+1 CHIL @I8@ (Thomas Watts Sr.)
+
+0 TRLR

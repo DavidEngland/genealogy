@@ -7,6 +7,24 @@ Palina was part of a large family with deep roots in the **Clan Donald**. Her fa
 
 The family history is noted for its **technical craftsmanship**; her father and several uncles were renowned **blacksmiths and gunsmiths** who produced "Kentucky Rifles". Interestingly, family records indicate that in various census reports, Palina’s surname was often recorded as **"McDaniel,"** a common variation for the MacDonald family in that era.
 
+=== The Scottish Gaelic Origins of "Palina" and "Altimira" ===
+
+Palina's distinctive given names reflect her family's **Scots-Celtic heritage** and the linguistic traditions of the **Clan Donald**. 
+
+**"Palina"** is likely a **Scottish Gaelic variant** of names related to:
+* **"Pàl"** (Paul) with the feminine diminutive suffix **"-ina"**
+* Possibly derived from **"Peighinn"** or **"Peigidh"** (Margaret/Pearl in Gaelic)
+* Related to the Gaelic **"Catrìona"** (Catherine) naming patterns where "-ina" indicates "little" or "beloved"
+
+**"Altimira"** (also recorded as **"Altimena"** or **"Artimena"**) is more unusual and may represent:
+* A **Scots Gaelic compound name** combining elements meaning "height/noble" (**alt**) with a personal element
+* A family-created name honoring multiple relatives, a common Scottish Highland practice
+* Possibly related to **"Eilidh Mòr"** (Big Helen) or similar Gaelic compound names that evolved through Scots-English pronunciation
+
+The **McDonald/MacDonald** family maintained strong Scottish naming traditions even after generations in America. The practice of naming daughters after aunts (as Palina was named for **Artimena McDonald English**) reflects the Highland custom of **patronymic and matronymic naming** to preserve family connections and clan identity.
+
+The variation in spelling (**Altimira/Altimena/Artimena**) is typical of Gaelic names being recorded phonetically by non-Gaelic speakers in American records, where census takers and clerks spelled names "as they heard them."
+
 ### **Marriage and Children**
 On **November 29, 1876**, Palina married **[William M "Bill" England](https://www.wikitree.com/wiki/England-1361)**. Her husband was born on March 1, 1853, and passed away on March 6, 1905. Following her husband's death, a 1908 photograph of their family farm near the **Rhodesville Community** shows the family residing in a **story-and-a-half structure** with a full front porch and a picket fence.
 
@@ -35,3 +53,6 @@ Palina passed away on **August 5, 1936**. She is buried at the **Wesley Chapel U
 
 **Analogy for Palina's Life:**
 Palina lived as a **vital bridge** in her family’s history; born in the springs of Tennessee and settling in the fields of Alabama, she connected the rugged craftsmanship of her blacksmith father to a new generation of Alabama farmers and civic leaders.
+
+*   **Name Etymology:** The names "Palina" and "Altimira/Altimena" appear to be **Scottish Gaelic** in origin, reflecting the family's Clan Donald heritage. Spelling variations were common as Gaelic names were recorded phonetically in English.
+*   **Naming Pattern:** The tradition of passing "Altimira/Altimena" through female lines suggests a **matrilineal naming custom** from Highland Scottish culture, where both patrilineal and matrilineal names were preserved.
