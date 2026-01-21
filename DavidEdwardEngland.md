@@ -73,5 +73,3 @@ David maintains active interests in family genealogy and historical research, pa
 🔗 LinkedIn: https://www.linkedin.com/in/davidengland
 
 ---
-
-*For detailed genealogical information on ancestors, see related profiles for [[England-1361 | William M England]], [[McDonald-4057 | Palina McDonald England]], and [[England-1360 | William Edward England]].*
