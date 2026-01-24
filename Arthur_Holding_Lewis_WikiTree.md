@@ -44,7 +44,7 @@ The Lewis family ancestry traces back through:
 - **Edward Lewis** - married Frances Bressie in 1763, Revolutionary War soldier (listed in DAR's Patriot Index)
 - **James Lewis** - married Nancy Watkins, named one son Meriwether Anderson Lewis
 - **Meriwether Anderson Lewis** - born in Virginia in 1809, raised in Triana, established plantation where Boeing complex is now located between runways at south end of airport between Triana and Madison
-
+N
 The connections of the Madison Lewis family to the lineages of George and Martha Washington are numerous. The Lewis family was among the Colonial settlers of Virginia, holding very large plantations around Charlottesville, where Thomas Jefferson built his own mansion and plantation.
 
 Notable Lewis family member **David Lewis** served as the 24th Governor of the State of Alabama, from 1872 to 1874. He is buried in Maple Hill Cemetery in Huntsville.
