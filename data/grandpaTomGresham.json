@@ -8,7 +8,7 @@
     "people": [
         {
             "gedcomId": "@I1@",
-            "wikitreeId": "Person-I1",
+            "wikitreeId": "Gresham-1",
             "name": {
                 "full": "Thomas \/Gresham\/",
                 "given": "Thomas",
@@ -31,7 +31,7 @@
         },
         {
             "gedcomId": "@I3@",
-            "wikitreeId": "Person-I3",
+            "wikitreeId": "Gresham-3",
             "name": {
                 "full": "George \/Gresham\/",
                 "given": "George",
@@ -51,7 +51,7 @@
         },
         {
             "gedcomId": "@I6@",
-            "wikitreeId": "Person-I6",
+            "wikitreeId": "Watts-6",
             "name": {
                 "full": "Thomas \/Watts\/",
                 "given": "Thomas",
@@ -81,5 +81,25 @@
         }
     ],
     "places": [],
-    "sources": []
+    "sources": [],
+    "idMappings": [
+        {
+            "gedcomId": "@I1@",
+            "wikitreeId": "Gresham-1",
+            "name": "Thomas \/Gresham\/",
+            "sources": []
+        },
+        {
+            "gedcomId": "@I3@",
+            "wikitreeId": "Gresham-3",
+            "name": "George \/Gresham\/",
+            "sources": []
+        },
+        {
+            "gedcomId": "@I6@",
+            "wikitreeId": "Watts-6",
+            "name": "Thomas \/Watts\/",
+            "sources": []
+        }
+    ]
 }

@@ -8,7 +8,7 @@
     "people": [
         {
             "gedcomId": "@I0230@",
-            "wikitreeId": "Person-I0230",
+            "wikitreeId": "Roberts-0230",
             "name": {
                 "full": "Elizabeth \/Roberts\/",
                 "given": "Elizabeth",
@@ -33,15 +33,23 @@
                 "date": "ABT. 1790"
             },
             "children": [
-                "Person-I0230"
+                "Roberts-0230"
             ]
         },
         {
             "familyId": "@F064@",
             "husband": "@I0245@",
-            "wife": "Person-I0230"
+            "wife": "Roberts-0230"
         }
     ],
     "places": [],
-    "sources": []
+    "sources": [],
+    "idMappings": [
+        {
+            "gedcomId": "@I0230@",
+            "wikitreeId": "Roberts-0230",
+            "name": "Elizabeth \/Roberts\/",
+            "sources": []
+        }
+    ]
 }

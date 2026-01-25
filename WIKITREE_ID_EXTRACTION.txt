@@ -1,0 +1,318 @@
+WIKITREE & FAMILYSEARCH ID EXTRACTION - IMPLEMENTATION COMPLETE
+==============================================================
+
+Your genealogy system now automatically extracts and manages external genealogy 
+service IDs from GEDCOM files, including:
+  • WikiTree IDs (e.g., England-1357)
+  • FamilySearch IDs (e.g., LDLZ-17W)
+  • Ancestry IDs
+  • Find A Grave IDs
+
+═══════════════════════════════════════════════════════════════════════════
+
+WHAT'S NEW
+
+1. Enhanced GEDCOM Parser
+   File: schema/enhanced_gedcom_parser.php
+   
+   Features:
+   ✓ Extracts WikiTree IDs from GEDCOM records
+   ✓ Extracts FamilySearch IDs (e.g., LDLZ-17W)
+   ✓ Extracts Ancestry and Find A Grave IDs
+   ✓ Generates ID mapping CSV
+   ✓ Searches NOTE fields, sources, and custom fields
+   ✓ Smart fallback when external ID not found
+   ✓ Verbose reporting of extraction statistics
+
+2. Flexible GEDCOM Processor
+   File: schema/process_gedcom.sh
+   
+   Features:
+   ✓ Process single or multiple GEDCOM files
+   ✓ Command-line options for output control
+   ✓ Verbose mode with extraction statistics
+   ✓ Automatic CSV generation (lookup + full)
+   ✓ ID mapping CSV for every file
+   ✓ Process all GEDs with --all flag
+   ✓ Custom output directory support
+
+3. ID Mapping CSV
+   Output: data/filename-ids.csv
+   
+   Columns:
+   - GEDCOM ID: Internal ID (@I123@)
+   - WikiTree ID: Resolved ID or generated
+   - Name: Person's full name
+   - ID Sources: Which services found the ID
+   
+   Example:
+   @I1357@,England-1357,David Edward England,wikitree
+   @I17W@,Duncan-166,Sarah Clark Duncan,familysearch
+
+═══════════════════════════════════════════════════════════════════════════
+
+QUICK START
+
+Your ID (for example):
+  • WikiTree: England-1357
+  • FamilySearch: LDLZ-17W
+
+PROCESS A SINGLE GEDCOM FILE:
+
+  schema/process_gedcom.sh GEDs/wikiEngland.ged
+
+  Output files:
+    • data/wikiEngland.json ............ Parsed data with IDs
+    • data/wikiEngland-ids.csv ........ ID mapping (GEDCOM → WikiTree/FS)
+    • data/wikiEngland-lookup.csv .... Quick lookup (ID + Name)
+    • data/wikiEngland-full.csv ...... Complete genealogy data
+
+PROCESS MULTIPLE FILES:
+
+  schema/process_gedcom.sh GEDs/file1.ged GEDs/file2.ged GEDs/file3.ged
+
+PROCESS ALL GEDCOM FILES:
+
+  schema/process_gedcom.sh --all
+
+VIEW ID MAPPINGS:
+
+  # See what IDs were found
+  head -20 data/wikiEngland-ids.csv
+
+FIND YOUR ID:
+
+  # Find yourself in any processed file
+  grep "England-1357" data/*-ids.csv
+
+  # Find your FamilySearch ID
+  grep "LDLZ-17W" data/*-ids.csv
+
+═══════════════════════════════════════════════════════════════════════════
+
+ID EXTRACTION PROCESS
+
+1. Parser reads GEDCOM file
+2. Searches for ID patterns in:
+   - NOTE fields (where genealogists put references)
+   - SOUR (source citations)
+   - _UID (external unique IDs)
+   - Custom genealogy fields
+3. Recognizes patterns:
+   - WikiTree: "England-1357" or "England-1357"
+   - FamilySearch: "LDLZ-17W" or "LDLZ-17W"
+   - Ancestry: "123456789" (6+ digits)
+   - Find A Grave: "12345678"
+4. Maps GEDCOM internal IDs to external IDs
+5. Generates CSV report showing:
+   - Which GEDCOM ID mapped to which external ID
+   - Person's name
+   - Which services provided the ID
+
+═══════════════════════════════════════════════════════════════════════════
+
+COMMAND REFERENCE
+
+Show help:
+  schema/process_gedcom.sh --help
+
+Process single file (verbose):
+  schema/process_gedcom.sh -v GEDs/myfile.ged
+
+Process multiple files:
+  schema/process_gedcom.sh GEDs/file1.ged GEDs/file2.ged GEDs/file3.ged
+
+Process all files:
+  schema/process_gedcom.sh --all
+
+Custom output directory:
+  schema/process_gedcom.sh -o /custom/path GEDs/myfile.ged
+
+JSON only (skip CSV export):
+  schema/process_gedcom.sh --no-csv GEDs/myfile.ged
+
+View extraction results:
+  head -20 data/*-ids.csv
+  
+Create master index:
+  cat data/*-ids.csv | grep -v "^GEDCOM" > all-ids.csv
+
+Count WikiTree IDs:
+  grep ',wikitree' data/*-ids.csv | wc -l
+
+Count FamilySearch IDs:
+  grep ',familysearch' data/*-ids.csv | wc -l
+
+═══════════════════════════════════════════════════════════════════════════
+
+OUTPUT FILES
+
+For each GEDCOM file processed:
+
+1. data/filename.json
+   The parsed genealogy data with extracted IDs included in each person record.
+   
+   Example JSON entry:
+   {
+     "wikitreeId": "England-1357",
+     "familySearchId": "LDLZ-17W",
+     "name": {"full": "David Edward England", ...},
+     ...
+   }
+
+2. data/filename-ids.csv
+   ID mapping report showing GEDCOM ID → external service ID mapping.
+   
+   Columns: GEDCOM ID, WikiTree ID, Name, ID Sources
+   Perfect for reference and verification.
+
+3. data/filename-lookup.csv
+   Quick search index (wikitree_id, name).
+   Use for fast lookups in spreadsheet.
+
+4. data/filename-full.csv
+   Complete genealogy data including birth/death dates and places.
+   Suitable for analysis in Excel or Google Sheets.
+
+═══════════════════════════════════════════════════════════════════════════
+
+EXTRACTION STATISTICS
+
+When processing with verbose mode, see extraction statistics:
+
+  Statistics:
+    People: 801
+    Families: 266
+    IDs extracted: WikiTree=45, FamilySearch=12, Ancestry=8
+    IDs generated: 736
+
+Meaning:
+  • People: Total individuals in the GEDCOM
+  • Families: Total family relationships
+  • IDs extracted: Number of external IDs found
+  • IDs generated: Number of fallback IDs created
+
+═══════════════════════════════════════════════════════════════════════════
+
+COMMON WORKFLOWS
+
+WORKFLOW 1: Find Your Profile
+  
+  schema/process_gedcom.sh GEDs/wikiEngland.ged
+  grep "England-1357" data/wikiEngland-ids.csv
+  
+  Output:
+  @I1357@,England-1357,David Edward England,wikitree
+
+WORKFLOW 2: Extract All WikiTree IDs
+
+  schema/process_gedcom.sh --all
+  grep ',wikitree' data/*-ids.csv | cut -d, -f2 > wikitree-ids.txt
+  
+  Now have all WikiTree IDs in wikitree-ids.txt
+
+WORKFLOW 3: Find Coverage (WikiTree vs FamilySearch)
+
+  schema/process_gedcom.sh --all
+  cat data/*-ids.csv | grep -v "^GEDCOM" > all-ids.csv
+  
+  WikiTree only:     grep ',wikitree' all-ids.csv | wc -l
+  FamilySearch only: grep ',familysearch' all-ids.csv | wc -l
+  Both:              awk -F',' '$4~wikitree/ && $4~/familysearch/' all-ids.csv | wc -l
+
+WORKFLOW 4: Create Master Index
+
+  schema/process_gedcom.sh --all
+  cat data/*-ids.csv | grep -v "^GEDCOM" | sort -u > master-ids.csv
+  
+  Now have single file with all people and their IDs across all GEDCOMs.
+
+═══════════════════════════════════════════════════════════════════════════
+
+FILE SUMMARY
+
+Core Implementation Files:
+  ✓ schema/enhanced_gedcom_parser.php ... Enhanced parser with ID extraction
+  ✓ schema/process_gedcom.sh ............ Flexible single/multi file processor
+  ✓ schema/WIKITREE_ID_GUIDE.md ........ Complete documentation
+
+Features:
+  ✓ Extract WikiTree IDs (e.g., England-1357)
+  ✓ Extract FamilySearch IDs (e.g., LDLZ-17W)
+  ✓ Extract Ancestry & Find A Grave IDs
+  ✓ Generate ID mapping CSV for verification
+  ✓ Process single or multiple files
+  ✓ Verbose statistics reporting
+  ✓ Automatic CSV export
+  ✓ Smart fallback ID generation
+
+═══════════════════════════════════════════════════════════════════════════
+
+EXAMPLE SESSION
+
+Your genealogy workspace setup:
+
+  # Check available tools
+  ls -la schema/*.php schema/*.sh
+  
+  # Process your main GEDCOM file
+  schema/process_gedcom.sh -v GEDs/wikiEngland.ged
+  
+  # View your extracted ID
+  grep "England" data/wikiEngland-ids.csv | head -5
+  
+  # Also find your FamilySearch ID
+  grep "LDLZ" data/wikiEngland-ids.csv
+  
+  # Create comprehensive index
+  schema/process_gedcom.sh --all
+  cat data/*-ids.csv | grep -v "^GEDCOM" | sort > complete-index.csv
+  
+  # Use in Excel
+  open complete-index.csv
+
+═══════════════════════════════════════════════════════════════════════════
+
+DOCUMENTATION
+
+See these files for more information:
+
+  • schema/WIKITREE_ID_GUIDE.md ..... Complete guide with examples
+  • schema/README.md ............... Technical reference
+  • schema/QUICKSTART.md .......... Getting started
+  • START_HERE.txt ................ Quick reference
+
+═══════════════════════════════════════════════════════════════════════════
+
+NEXT STEPS
+
+1. ✅ System Enhanced
+   WikiTree and FamilySearch ID extraction is now implemented.
+
+2. 👉 Process Your Files
+   schema/process_gedcom.sh GEDs/wikiEngland.ged
+   
+3. Extract Your IDs
+   grep "England-1357" data/*-ids.csv
+   grep "LDLZ-17W" data/*-ids.csv
+
+4. Create Master Index
+   schema/process_gedcom.sh --all
+   cat data/*-ids.csv > master-index.csv
+
+5. Use in Analysis
+   open data/*-lookup.csv
+   (Import into Excel/Google Sheets for analysis)
+
+═══════════════════════════════════════════════════════════════════════════
+
+You're all set!
+
+To get started:
+  schema/process_gedcom.sh -v GEDs/wikiEngland.ged
+
+For more information:
+  schema/process_gedcom.sh --help
+  cat schema/WIKITREE_ID_GUIDE.md
+
+═══════════════════════════════════════════════════════════════════════════
