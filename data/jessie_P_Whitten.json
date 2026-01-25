@@ -1,0 +1,851 @@
+{
+    "metadata": [],
+    "people": [
+        {
+            "gedcomId": "@I1741@",
+            "wikitreeId": "Person-I1741",
+            "name": {
+                "full": "Mason \/WHITTEN\/",
+                "given": "Mason",
+                "surname": "WHITTEN"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1798"
+            },
+            "death": {
+                "date": "BET 1864 AND 1866"
+            },
+            "familyAsSpouse": [
+                "@F818@",
+                "@F20553@"
+            ],
+            "familyAsChild": [
+                "@F110@"
+            ],
+            "notes": "Whitten, D.C. et al, vs Mason Whitten et al, page 393 Chancery Court Book II"
+        },
+        {
+            "gedcomId": "@I208@",
+            "wikitreeId": "Person-I208",
+            "name": {
+                "full": "George \/WHITTEN\/",
+                "given": "George",
+                "surname": "WHITTEN"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "22 Jan 1787"
+            },
+            "death": {
+                "date": "26 Apr 1856"
+            },
+            "familyAsSpouse": [
+                "@F79@"
+            ],
+            "familyAsChild": [
+                "@F110@"
+            ],
+            "notes": "I'm going to include this will here, but I'm not certain if this is the same George. There ar"
+        },
+        {
+            "gedcomId": "@I217@",
+            "wikitreeId": "Person-I217",
+            "name": {
+                "full": "Charles \/WHITTEN\/",
+                "given": "Charles",
+                "surname": "WHITTEN"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1760"
+            },
+            "death": {
+                "date": "ABT 1845"
+            },
+            "familyAsSpouse": [
+                "@F110@"
+            ],
+            "notes": "Whitten to Whitten"
+        },
+        {
+            "gedcomId": "@I3788@",
+            "wikitreeId": "Person-I3788",
+            "name": {
+                "full": "Jonathan \/WHITTEN\/",
+                "given": "Jonathan",
+                "surname": "WHITTEN"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1795"
+            },
+            "death": {
+                "date": "AFT 1872"
+            },
+            "familyAsSpouse": [
+                "@F1656@",
+                "@F1657@"
+            ],
+            "familyAsChild": [
+                "@F110@"
+            ]
+        },
+        {
+            "gedcomId": "@I44506@",
+            "wikitreeId": "Person-I44506",
+            "name": {
+                "full": "Robert \"Bob\" Duncan \/Whitten\/",
+                "given": "Robert \"Bob\" Duncan",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "7 Feb 1861"
+            },
+            "death": {
+                "date": "8 Feb 1937"
+            },
+            "familyAsSpouse": [
+                "@F15467@"
+            ],
+            "familyAsChild": [
+                "@F15468@"
+            ],
+            "notes": "1900 Lauderdale County, Alabama"
+        },
+        {
+            "gedcomId": "@I44507@",
+            "wikitreeId": "Person-I44507",
+            "name": {
+                "full": "Jessie P. \/Whitten\/",
+                "given": "Jessie P.",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1828"
+            },
+            "familyAsSpouse": [
+                "@F15468@"
+            ],
+            "familyAsChild": [
+                "@F2250@"
+            ],
+            "notes": "I do not have proof that Jesse was a son of John and Lucinda, however, Lucinda was living i"
+        },
+        {
+            "gedcomId": "@I44508@",
+            "wikitreeId": "Person-I44508",
+            "name": {
+                "full": "Martha Ann \/Duncan\/",
+                "given": "Martha Ann",
+                "surname": "Duncan"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1831"
+            },
+            "familyAsSpouse": [
+                "@F15468@"
+            ],
+            "familyAsChild": [
+                "@F20554@"
+            ]
+        },
+        {
+            "gedcomId": "@I4593@",
+            "wikitreeId": "Person-I4593",
+            "name": {
+                "full": "Nicholas \/WHITTEN\/",
+                "given": "Nicholas",
+                "surname": "WHITTEN"
+            },
+            "sex": "M",
+            "birth": {
+                "place": "South Carolina"
+            },
+            "death": {
+                "date": "BEF 1860"
+            },
+            "familyAsSpouse": [
+                "@F1977@"
+            ],
+            "familyAsChild": [
+                "@F110@"
+            ]
+        },
+        {
+            "gedcomId": "@I5562@",
+            "wikitreeId": "Person-I5562",
+            "name": {
+                "full": "Joel \/WHITTEN\/",
+                "given": "Joel",
+                "surname": "WHITTEN"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "31 Jan 1792"
+            },
+            "death": {
+                "date": "12 Dec 1860"
+            },
+            "familyAsSpouse": [
+                "@F2249@"
+            ],
+            "familyAsChild": [
+                "@F110@"
+            ],
+            "notes": "In 1830 there is a female in the household born between 1810-1820. This is possibly Eliza Hay"
+        },
+        {
+            "gedcomId": "@I5563@",
+            "wikitreeId": "Person-I5563",
+            "name": {
+                "full": "John \/WHITTEN\/",
+                "given": "John",
+                "surname": "WHITTEN"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1790"
+            },
+            "death": {
+                "date": "BEF 1840"
+            },
+            "familyAsSpouse": [
+                "@F2250@"
+            ],
+            "familyAsChild": [
+                "@F110@"
+            ],
+            "notes": "1820 Warren Co., TN Census"
+        },
+        {
+            "gedcomId": "@I5564@",
+            "wikitreeId": "Person-I5564",
+            "name": {
+                "full": "Charles \/WHITTEN\/",
+                "given": "Charles",
+                "surname": "WHITTEN"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1790\/1800"
+            },
+            "death": {
+                "date": "Mar 1850"
+            },
+            "familyAsSpouse": [
+                "@F20537@"
+            ],
+            "familyAsChild": [
+                "@F110@"
+            ],
+            "notes": "This information is taken from the 2nd Edition of the Whitten Family in America.  I had foun"
+        },
+        {
+            "gedcomId": "@I5582@",
+            "wikitreeId": "Person-I5582",
+            "name": {
+                "full": "\/unknown\/"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1760"
+            },
+            "death": {
+                "date": "AFT 1850"
+            },
+            "familyAsSpouse": [
+                "@F110@"
+            ]
+        },
+        {
+            "gedcomId": "@I5583@",
+            "wikitreeId": "Person-I5583",
+            "name": {
+                "full": "daughter \/WHITTEN\/",
+                "given": "daughter",
+                "surname": "WHITTEN"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1788"
+            },
+            "familyAsChild": [
+                "@F110@"
+            ]
+        },
+        {
+            "gedcomId": "@I5584@",
+            "wikitreeId": "Person-I5584",
+            "name": {
+                "full": "daughter \/WHITTEN\/",
+                "given": "daughter",
+                "surname": "WHITTEN"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1788"
+            },
+            "familyAsChild": [
+                "@F110@"
+            ]
+        },
+        {
+            "gedcomId": "@I5585@",
+            "wikitreeId": "Person-I5585",
+            "name": {
+                "full": "Mary Ann \/WHITTEN\/ (?)"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1795"
+            },
+            "familyAsSpouse": [
+                "@F20555@"
+            ],
+            "familyAsChild": [
+                "@F110@"
+            ],
+            "notes": "It is not known if Mary Ann Whitten who married James M. Clark was a daughter of Charles Whit"
+        },
+        {
+            "gedcomId": "@I5603@",
+            "wikitreeId": "Person-I5603",
+            "name": {
+                "full": "Lucinda \/\/"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1797\/1800"
+            },
+            "familyAsSpouse": [
+                "@F2250@"
+            ],
+            "notes": "Lucinda Whitten was living with Henry T. Hays in 1870 in Lauderdale County, AL. She was liste"
+        },
+        {
+            "gedcomId": "@I5604@",
+            "wikitreeId": "Person-I5604",
+            "name": {
+                "full": "son \/WHITTEN\/",
+                "given": "son",
+                "surname": "WHITTEN"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1815"
+            },
+            "familyAsChild": [
+                "@F2250@"
+            ]
+        },
+        {
+            "gedcomId": "@I5605@",
+            "wikitreeId": "Person-I5605",
+            "name": {
+                "full": "son \/WHITTEN\/",
+                "given": "son",
+                "surname": "WHITTEN"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1815"
+            },
+            "familyAsChild": [
+                "@F2250@"
+            ]
+        },
+        {
+            "gedcomId": "@I5606@",
+            "wikitreeId": "Person-I5606",
+            "name": {
+                "full": "daughter \/WHITTEN\/",
+                "given": "daughter",
+                "surname": "WHITTEN"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1815"
+            },
+            "familyAsChild": [
+                "@F2250@"
+            ]
+        },
+        {
+            "gedcomId": "@I5607@",
+            "wikitreeId": "Person-I5607",
+            "name": {
+                "full": "daughter \/Whitten\/",
+                "given": "daughter",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1815"
+            },
+            "familyAsChild": [
+                "@F2250@"
+            ]
+        },
+        {
+            "gedcomId": "@I5608@",
+            "wikitreeId": "Person-I5608",
+            "name": {
+                "full": "daughter \/WHITTEN\/",
+                "given": "daughter",
+                "surname": "WHITTEN"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1815"
+            },
+            "familyAsChild": [
+                "@F2250@"
+            ]
+        },
+        {
+            "gedcomId": "@I5609@",
+            "wikitreeId": "Person-I5609",
+            "name": {
+                "full": "Martha \/WHITTEN\/",
+                "given": "Martha",
+                "surname": "WHITTEN"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1824"
+            },
+            "familyAsSpouse": [
+                "@F2258@"
+            ],
+            "familyAsChild": [
+                "@F2250@"
+            ]
+        },
+        {
+            "gedcomId": "@I5610@",
+            "wikitreeId": "Person-I5610",
+            "name": {
+                "full": "John T. \/WHITTEN\/",
+                "given": "John T.",
+                "surname": "WHITTEN"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1826"
+            },
+            "familyAsSpouse": [
+                "@F2259@"
+            ],
+            "familyAsChild": [
+                "@F2250@"
+            ]
+        },
+        {
+            "gedcomId": "@I5611@",
+            "wikitreeId": "Person-I5611",
+            "name": {
+                "full": "Mary Ann \"Polly\" \/WHITTEN\/",
+                "given": "Mary Ann \"Polly\"",
+                "surname": "WHITTEN"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1835"
+            },
+            "familyAsSpouse": [
+                "@F24555@"
+            ],
+            "familyAsChild": [
+                "@F2250@"
+            ]
+        },
+        {
+            "gedcomId": "@I5612@",
+            "wikitreeId": "Person-I5612",
+            "name": {
+                "full": "Josiah A. \/WHITTEN\/",
+                "given": "Josiah A.",
+                "surname": "WHITTEN"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1833"
+            },
+            "death": {
+                "date": "3 May 1863"
+            },
+            "familyAsChild": [
+                "@F2250@"
+            ],
+            "notes": "Served in Co. D, 9th Alabama Infantry, CSA. Enlisted 27 May 1861, Lauderdale Co., AL,"
+        },
+        {
+            "gedcomId": "@I5613@",
+            "wikitreeId": "Person-I5613",
+            "name": {
+                "full": "Moses \/WHITTEN\/",
+                "given": "Moses",
+                "surname": "WHITTEN"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1831\/1832"
+            },
+            "familyAsSpouse": [
+                "@F20551@"
+            ],
+            "familyAsChild": [
+                "@F2250@"
+            ]
+        },
+        {
+            "gedcomId": "@I58354@",
+            "wikitreeId": "Person-I58354",
+            "name": {
+                "full": "John W. \/Whitten\/",
+                "given": "John W.",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "Mar 1853\/1855"
+            },
+            "familyAsSpouse": [
+                "@F20646@"
+            ],
+            "familyAsChild": [
+                "@F15468@"
+            ],
+            "notes": "1900 Lauderdale County, Alabama"
+        },
+        {
+            "gedcomId": "@I58355@",
+            "wikitreeId": "Person-I58355",
+            "name": {
+                "full": "Fanny \/Whitten\/",
+                "given": "Fanny",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1855"
+            },
+            "familyAsChild": [
+                "@F15468@"
+            ]
+        },
+        {
+            "gedcomId": "@I58356@",
+            "wikitreeId": "Person-I58356",
+            "name": {
+                "full": "Houston \/Whitten\/",
+                "given": "Houston",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1857"
+            },
+            "familyAsChild": [
+                "@F15468@"
+            ]
+        },
+        {
+            "gedcomId": "@I58357@",
+            "wikitreeId": "Person-I58357",
+            "name": {
+                "full": "Wiley \/Whitten\/",
+                "given": "Wiley",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1859"
+            },
+            "familyAsChild": [
+                "@F15468@"
+            ]
+        },
+        {
+            "gedcomId": "@I58358@",
+            "wikitreeId": "Person-I58358",
+            "name": {
+                "full": "Mira \/Whitten\/",
+                "given": "Mira",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1864"
+            },
+            "familyAsChild": [
+                "@F15468@"
+            ]
+        },
+        {
+            "gedcomId": "@I58359@",
+            "wikitreeId": "Person-I58359",
+            "name": {
+                "full": "James \/Whitten\/",
+                "given": "James",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1866"
+            },
+            "familyAsChild": [
+                "@F15468@"
+            ]
+        },
+        {
+            "gedcomId": "@I58360@",
+            "wikitreeId": "Person-I58360",
+            "name": {
+                "full": "Reeder Jones \/Whitten\/",
+                "given": "Reeder Jones",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "Nov 1868\/1869"
+            },
+            "familyAsChild": [
+                "@F15468@"
+            ]
+        },
+        {
+            "gedcomId": "@I58361@",
+            "wikitreeId": "Person-I58361",
+            "name": {
+                "full": "Sallie \/Whitten\/",
+                "given": "Sallie",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1870"
+            },
+            "familyAsChild": [
+                "@F15468@"
+            ]
+        },
+        {
+            "gedcomId": "@I58369@",
+            "wikitreeId": "Person-I58369",
+            "name": {
+                "full": "Nancy ? \/WHITTEN\/",
+                "given": "Nancy ?",
+                "surname": "WHITTEN"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1804"
+            },
+            "familyAsChild": [
+                "@F110@"
+            ],
+            "notes": "Living in household of Turner M. Whitten, 1880 Lee Co. MS listed as aunt."
+        },
+        {
+            "gedcomId": "@I58370@",
+            "wikitreeId": "Person-I58370",
+            "name": {
+                "full": "Patsy \/WHITTEN\/",
+                "given": "Patsy",
+                "surname": "WHITTEN"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1814"
+            },
+            "familyAsChild": [
+                "@F110@"
+            ],
+            "notes": "Living in household of Turner M. Whitten, 1880 Lee Co., MS, listed as aunt."
+        }
+    ],
+    "families": [
+        {
+            "familyId": "@F110@",
+            "husband": "Person-I217",
+            "wife": "Person-I5582",
+            "marriage": {
+                "date": "ABT 1780"
+            },
+            "children": [
+                "Person-I208",
+                "Person-I5583",
+                "Person-I5584",
+                "Person-I1741",
+                "Person-I3788",
+                "Person-I5585",
+                "Person-I4593",
+                "Person-I5562",
+                "Person-I5563",
+                "Person-I5564",
+                "Person-I58369",
+                "Person-I58370",
+                "@I58424@"
+            ]
+        },
+        {
+            "familyId": "@F15467@",
+            "husband": "Person-I44506",
+            "marriage": {
+                "date": "19 Dec 1883"
+            }
+        },
+        {
+            "familyId": "@F15468@",
+            "husband": "Person-I44507",
+            "wife": "Person-I44508",
+            "marriage": {
+                "date": "14 Jun 1850"
+            },
+            "children": [
+                "Person-I58354",
+                "Person-I58355",
+                "Person-I58356",
+                "Person-I58357",
+                "Person-I44506",
+                "Person-I58358",
+                "Person-I58359",
+                "Person-I58360",
+                "Person-I58361"
+            ]
+        },
+        {
+            "familyId": "@F1656@",
+            "husband": "Person-I3788",
+            "marriage": {
+                "date": "ABT 1818"
+            }
+        },
+        {
+            "familyId": "@F1657@",
+            "husband": "Person-I3788",
+            "marriage": {
+                "date": "23 Dec 1834"
+            }
+        },
+        {
+            "familyId": "@F1977@",
+            "husband": "Person-I4593",
+            "marriage": {
+                "date": "19 Apr 1828"
+            }
+        },
+        {
+            "familyId": "@F20537@",
+            "husband": "Person-I5564",
+            "marriage": {
+                "date": "23 Dec 1825"
+            }
+        },
+        {
+            "familyId": "@F20551@",
+            "husband": "Person-I5613",
+            "marriage": {
+                "date": "2 Dec 1856"
+            }
+        },
+        {
+            "familyId": "@F20553@",
+            "husband": "Person-I1741",
+            "marriage": {
+                "date": "2 Jan 1861"
+            }
+        },
+        {
+            "familyId": "@F20554@",
+            "children": [
+                "Person-I44508"
+            ]
+        },
+        {
+            "familyId": "@F20555@",
+            "wife": "Person-I5585",
+            "marriage": {
+                "date": "11 Mar 1830"
+            }
+        },
+        {
+            "familyId": "@F20556@",
+            "wife": "@I58424@",
+            "marriage": {
+                "date": "6 Sep 1831"
+            }
+        },
+        {
+            "familyId": "@F20646@",
+            "husband": "Person-I58354",
+            "marriage": {
+                "date": "1884"
+            }
+        },
+        {
+            "familyId": "@F2249@",
+            "husband": "Person-I5562",
+            "marriage": {
+                "date": "6 Jun 1819"
+            }
+        },
+        {
+            "familyId": "@F2250@",
+            "husband": "Person-I5563",
+            "wife": "Person-I5603",
+            "children": [
+                "Person-I5604",
+                "Person-I5605",
+                "Person-I5606",
+                "Person-I5607",
+                "Person-I5608",
+                "Person-I5609",
+                "Person-I5610",
+                "Person-I44507",
+                "Person-I5613",
+                "Person-I5612",
+                "Person-I5611"
+            ]
+        },
+        {
+            "familyId": "@F2258@",
+            "wife": "Person-I5609",
+            "marriage": {
+                "date": "29 Jun 1843"
+            }
+        },
+        {
+            "familyId": "@F2259@",
+            "husband": "Person-I5610"
+        },
+        {
+            "familyId": "@F24555@",
+            "wife": "Person-I5611",
+            "marriage": {
+                "date": "1865"
+            }
+        },
+        {
+            "familyId": "@F79@",
+            "husband": "Person-I208",
+            "marriage": {
+                "date": "26 May 1808"
+            }
+        },
+        {
+            "familyId": "@F818@",
+            "husband": "Person-I1741",
+            "marriage": {
+                "date": "13 Feb 1824"
+            }
+        }
+    ],
+    "places": [],
+    "sources": []
+}

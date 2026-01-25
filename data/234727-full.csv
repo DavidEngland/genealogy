@@ -1,0 +1,80 @@
+wikitree_id,name,given_name,surname,birth_date,birth_place,death_date,death_place,sex
+Person-I001,Dailey Eugene /England/,Dailey Eugene,England,27 MAY 1935,,2000,,M
+Person-I015,Hershel Tilman /England/,Hershel Tilman,England,13 MAY 1910,,15 MAR 1984,,M
+Person-I016,Opal Mary /Lewis/,Opal Mary,Lewis,27 OCT 1913,,2000,,F
+Person-I017,Thomas Henry /England/,Thomas Henry,England,25 JUN 1929,,2000,,M
+Person-I018,Alice Evelyn /England/,Alice Evelyn,England,23 MAY 1932,,2000,,F
+Person-I019,Bedford Elias /England/,Bedford Elias,England,27 MAY 1935,,20 OCT 1943,,M
+Person-I020,Bobby Earl /England/,Bobby Earl,England,17 JAN 1941,,2000,,M
+Person-I021,Shirley Jean /England/,Shirley Jean,England,10 JAN 1949,,2000,,F
+Person-I022,Kathryn Gayle /England/,Kathryn Gayle,England,24 SEP 1949,,2000,,F
+Person-I023,Hershel Glenn /England/,Hershel Glenn,England,29 JUN 1952,,2000,,M
+Person-I024,Viola La Rue /Peterson/,Viola La Rue,Peterson,16 APR 1921,,20 JAN 1980,,F
+Person-I032,Elias Monroe /England/,Elias Monroe,England,29 APR 1878,,29 JUL 1946,,M
+Person-I033,Florence Louetta /Hand/,Florence Louetta,Hand,27 JAN 1877,,5 MAR 1975,,F
+Person-I034,Thomas R. /England/,Thomas R.,England,16 JAN 1847,,10 APR 1924,,M
+Person-I035,Cinthia Rebecca /Dubois/,Cinthia Rebecca,Dubois,1 JAN 1852,,5 FEB 1901,,F
+Person-I036,Louisa /Pruitt/,Louisa,Pruitt,1846,,,,F
+Person-I037,George Calvin /England/,George Calvin,England,7 JUL 1874,,20 AUG 1949,,M
+Person-I038,Melvina /England/,Melvina,England,17 JUL 1876,,10 MAR 1946,,F
+Person-I039,Elizabeth /England/,Elizabeth,England,9 AUG 1917,,9 JUN 1992,,F
+Person-I040,Ida Lucinda /England/,Ida Lucinda,England,10 FEB 1883,,,,F
+Person-I041,Mary Catherine /England/,Mary Catherine,England,21 FEB 1887,,13 NOV 1898,,F
+Person-I042,William /England/,William,England,9 APR 1887,,,,M
+Person-I043,Frances M. /England/,Frances M.,England,15 AUG 1892,,,,F
+Person-I044,Andrew C. /Dubois/,Andrew C.,Dubois,1824,,8 AUG 1866,,M
+Person-I045,Mary E. /Furman/,Mary E.,Furman,1824,,4 APR 1866,,F
+Person-I046,M. Frances /Dubois/,M. Frances,Dubois,,,,,F
+Person-I056,Virginia Ethel /England/,Virginia Ethel,England,4 SEP 1907,,19 JAN 1984,,F
+Person-I058,Newell J. /England/,Newell J.,England,15 FEB 1826,,14 AUG 1909,,M
+Person-I059,Martha Ann /Glidewell/,Martha Ann,Glidewell,30 MAR 1821,,11 MAR 1877,,F
+Person-I060,Henry Martin /England/,Henry Martin,England,28 DEC 1844,,11 DEC 1911,,M
+Person-I061,John B. /England/,John B.,England,5 MAY 1849,,,,M
+Person-I062,Daniel Henderson /England/,Daniel Henderson,England,1 JUL 1852,,,,M
+Person-I063,Nancy Elizabeth Jane /England/,Nancy Elizabeth Jane,England,12 AUG 1854,,,,F
+Person-I064,William Newell /England/,William Newell,England,23 MAR 1857,,10 NOV 1935,,M
+Person-I065,Martha Ann /England/,Martha Ann,England,8 AUG 1858,,,,F
+Person-I066,Mary Catherine /England/,Mary Catherine,England,14 MAY 1863,,,,F
+Person-I067,James Isom /England/,James Isom,England,22 NOV 1867,,29 MAY 1930,,M
+Person-I068,John /England/,John,England,ABT. 1788,,1858,,M
+Person-I069,Elizabeth /Roberts/,Elizabeth,Roberts,26 JUL 1792,,ABT. 1850,,F
+Person-I070,Banister /Glidewell/,Banister,Glidewell,1 JAN 1801,,9 JAN 1861,,M
+Person-I071,Nancy Ann /Hawley/,Nancy Ann,Hawley,1802,,28 OCT 1860,,F
+Person-I085,Jonathan /England/,Jonathan,England,15 FEB 1817,,,,M
+Person-I086,Tillman /England/,Tillman,England,20 MAY 1819,,1900,,M
+Person-I087,Rezin /England/,Rezin,England,,,,,M
+Person-I088,Sarah /England/,Sarah,England,22 JUL 1813,,,,F
+Person-I089,Mary /England/,Mary,England,,,,,F
+Person-I090,Eliza Jane /England/,Eliza Jane,England,,,,,F
+Person-I091,John /England/,John,England,,,,,M
+Person-I298,Enos Miles /Hand/,Enos Miles,Hand,DEC 1847,,JUN 1933,,M
+Person-I299,Mary Catherine /Dilk/,Mary Catherine,Dilk,6 AUG 1851,,SEP 1935,,F
+Person-I300,Frederick /Dilk/,Frederick,Dilk,5 MAR 1805,,26 APR 1875,,M
+Person-I301,Sarah Margaret /Dickson/,Sarah Margaret,Dickson,3 AUG 1818,,16 JAN 1900,,F
+Person-I305,Obediah /Hand/,Obediah,Hand,7 APR 1818,,20 JUL 1911,,M
+Person-I309,Mary /Jones/,Mary,Jones,2 JUN 1818,,20 JUN 1904,,F
+Person-I310,Ephraim /Hand/,Ephraim,Hand,1784,,8 APR 1859,,M
+Person-I311,Comfort //,,,1794,,,,F
+Person-I312,Elias H. /DuBois/,Elias H.,DuBois,1799,,24 JUN 1864,,M
+Person-I313,Rebecca //,,,1800,,,,F
+Person-I403,Malindy /England/,Malindy,England,7 MAR 1815,,,,F
+Person-I410,Martin /England/,Martin,England,8 JUL 1821,,,,M
+Person-I411,John M. /Roberts/,John M.,Roberts,28 DEC 1779,,23 JUN 1842,,M
+Person-I412,Sarah /Phillips/,Sarah,Phillips,16 JUN 1776,,11 NOV 1838,,F
+Person-I413,/Unknown/,,,,,,,M
+Person-I414,/Unknown/,,,,,,,F
+Person-I415,Mary /Roberts/,Mary,Roberts,11 OCT 1794,,,,F
+Person-I417,Catherine /Roberts/,Catherine,Roberts,17 DEC 1805,,,,F
+Person-I418,John W. /Roberts/,John W.,Roberts,21 JUN 1804,,,,M
+Person-I419,Mary /Roberts/,Mary,Roberts,19 FEB 1801,,,,F
+Person-I420,John C. /Roberts/,John C.,Roberts,12 APR 1799,,,,M
+Person-I424,Jessee B. /Roberts/,Jessee B.,Roberts,12 MAY 1796,,,,M
+Person-I427,Matthew /Roberts/,Matthew,Roberts,20 AUG 1797,,8 JUL 1882,,M
+Person-I452,Sarah /Smith/,Sarah,Smith,,,11 NOV 1838,,F
+Person-I455,Susannah /Roberts/,Susannah,Roberts,23 JUN 1807,,30 SEP 1891,,F
+Person-I457,Howard /Roberts/,Howard,Roberts,,,,,M
+Person-I477,Hiram /Roberts/,Hiram,Roberts,13 MAR 1808,,,,M
+Person-I481,Rachel /Roberts/,Rachel,Roberts,7 MAR 1812,,2 AUG 1898,,F
+Person-I505,Artamacy /Roberts/,Artamacy,Roberts,18 APR 1814,,3 APR 1882,,M
+Person-I514,William C. /Roberts/,William C.,Roberts,20 APR 1816,,,,M
+Person-I534,Rezin /Roberts/,Rezin,Roberts,,,,,M

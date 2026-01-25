@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "source": "WikiTree.com",
+        "lastUpdated": "20 JAN 2026",
+        "gedcomVersion": "5.5.1",
+        "charset": "UTF-8"
+    },
+    "people": [
+        {
+            "gedcomId": "@I1@",
+            "wikitreeId": "Person-I1",
+            "name": {
+                "full": "Thomas \/Gresham\/",
+                "given": "Thomas",
+                "surname": "Gresham"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "10 DEC 1761"
+            },
+            "death": {
+                "date": "1816"
+            },
+            "familyAsSpouse": [
+                "@F1@"
+            ],
+            "familyAsChild": [
+                "@F2@"
+            ],
+            "notes": "Revolutionary War veteran; 3rd Virginia Regiment; Valley Forge survivor [1-3]."
+        },
+        {
+            "gedcomId": "@I3@",
+            "wikitreeId": "Person-I3",
+            "name": {
+                "full": "George \/Gresham\/",
+                "given": "George",
+                "surname": "Gresham"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1740"
+            },
+            "death": {
+                "date": "31 DEC 1818"
+            },
+            "familyAsSpouse": [
+                "@F2@"
+            ],
+            "notes": "DNA research proves this line is Haplogroup R-M269 and unrelated to the Titsey line [6-8]."
+        },
+        {
+            "gedcomId": "@I6@",
+            "wikitreeId": "Person-I6",
+            "name": {
+                "full": "Thomas \/Watts\/",
+                "given": "Thomas",
+                "surname": "Watts"
+            },
+            "birth": {
+                "date": "ABT 1710"
+            },
+            "death": {
+                "date": "1767"
+            },
+            "familyAsSpouse": [
+                "@F4@"
+            ],
+            "familyAsChild": [
+                "@F5@"
+            ]
+        }
+    ],
+    "families": [
+        {
+            "familyId": "@F6@",
+            "husband": "@I9@",
+            "children": [
+                "@I8@ (Thomas Watts Sr.)"
+            ]
+        }
+    ],
+    "places": [],
+    "sources": []
+}

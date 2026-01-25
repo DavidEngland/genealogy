@@ -1,0 +1,364 @@
+{
+    "metadata": {
+        "source": "FTW",
+        "lastUpdated": "22 JUL 2007",
+        "charset": "ANSI",
+        "gedcomVersion": "5.5"
+    },
+    "people": [
+        {
+            "gedcomId": "@I0342@",
+            "wikitreeId": "Person-I0342",
+            "name": {
+                "full": "Charles Wallace \/Meredith\/",
+                "given": "Charles Wallace",
+                "surname": "Meredith"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1782"
+            },
+            "death": {
+                "date": "1840"
+            },
+            "familyAsSpouse": [
+                "@F0266@"
+            ],
+            "familyAsChild": [
+                "@F0270@"
+            ]
+        },
+        {
+            "gedcomId": "@I0351@",
+            "wikitreeId": "Person-I0351",
+            "name": {
+                "full": "Nancy \/Skaggs\/",
+                "given": "Nancy",
+                "surname": "Skaggs"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "22 APR 1763"
+            },
+            "death": {
+                "date": "1840"
+            },
+            "familyAsSpouse": [
+                "@F0270@"
+            ],
+            "familyAsChild": [
+                "@F0440@"
+            ]
+        },
+        {
+            "gedcomId": "@I0352@",
+            "wikitreeId": "Person-I0352",
+            "name": {
+                "full": "Joseph \/Meredith\/",
+                "given": "Joseph",
+                "surname": "Meredith"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1762"
+            },
+            "death": {
+                "date": "24 OCT 1840"
+            },
+            "familyAsSpouse": [
+                "@F0270@"
+            ]
+        },
+        {
+            "gedcomId": "@I0730@",
+            "wikitreeId": "Person-I0730",
+            "name": {
+                "full": "Lucinda \/Thompson\/",
+                "given": "Lucinda",
+                "surname": "Thompson"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "21 FEB 1742"
+            },
+            "death": {
+                "date": "1838"
+            },
+            "familyAsSpouse": [
+                "@F0440@"
+            ],
+            "familyAsChild": [
+                "@F0441@"
+            ]
+        },
+        {
+            "gedcomId": "@I0731@",
+            "wikitreeId": "Person-I0731",
+            "name": {
+                "full": "Charles \/Skaggs\/",
+                "given": "Charles",
+                "surname": "Skaggs"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1737"
+            },
+            "death": {
+                "date": "2 SEP 1815"
+            },
+            "familyAsSpouse": [
+                "@F0440@"
+            ],
+            "familyAsChild": [
+                "@F0442@"
+            ]
+        },
+        {
+            "gedcomId": "@I0732@",
+            "wikitreeId": "Person-I0732",
+            "name": {
+                "full": "Mary Catherine \/England\/",
+                "given": "Mary Catherine",
+                "surname": "England"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "14 MAY 1863"
+            },
+            "death": {
+                "date": "25 APR 1942"
+            },
+            "familyAsSpouse": [
+                "@F0441@"
+            ],
+            "familyAsChild": [
+                "@F0443@"
+            ]
+        },
+        {
+            "gedcomId": "@I0733@",
+            "wikitreeId": "Person-I0733",
+            "name": {
+                "full": "David \/Thompson\/",
+                "given": "David",
+                "surname": "Thompson"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F0441@"
+            ]
+        },
+        {
+            "gedcomId": "@I0736@",
+            "wikitreeId": "Person-I0736",
+            "name": {
+                "full": "Martha Ann \/Glidewell\/",
+                "given": "Martha Ann",
+                "surname": "Glidewell"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "30 MAR 1821"
+            },
+            "death": {
+                "date": "11 MAR 1877"
+            },
+            "familyAsSpouse": [
+                "@F0443@"
+            ],
+            "familyAsChild": [
+                "@F0445@"
+            ]
+        },
+        {
+            "gedcomId": "@I0737@",
+            "wikitreeId": "Person-I0737",
+            "name": {
+                "full": "Newell J \/England\/",
+                "given": "Newell J",
+                "surname": "England"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "4 FEB 1826"
+            },
+            "death": {
+                "date": "14 AUG 1909"
+            },
+            "familyAsSpouse": [
+                "@F0443@"
+            ],
+            "familyAsChild": [
+                "@F0446@"
+            ]
+        },
+        {
+            "gedcomId": "@I0743@",
+            "wikitreeId": "Person-I0743",
+            "name": {
+                "full": "Elizabeth \/Roberts\/",
+                "given": "Elizabeth",
+                "surname": "Roberts"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "26 JUL 1792"
+            },
+            "death": {
+                "date": "1850"
+            },
+            "familyAsSpouse": [
+                "@F0446@"
+            ],
+            "familyAsChild": [
+                "@F0449@"
+            ]
+        },
+        {
+            "gedcomId": "@I0744@",
+            "wikitreeId": "Person-I0744",
+            "name": {
+                "full": "John \/England\/",
+                "given": "John",
+                "surname": "England"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1788"
+            },
+            "death": {
+                "date": "1858"
+            },
+            "familyAsSpouse": [
+                "@F0446@"
+            ]
+        },
+        {
+            "gedcomId": "@I0749@",
+            "wikitreeId": "Person-I0749",
+            "name": {
+                "full": "Sarah \/Smith\/",
+                "given": "Sarah",
+                "surname": "Smith"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "16 NOV 1774"
+            },
+            "death": {
+                "date": "1860"
+            },
+            "familyAsSpouse": [
+                "@F0449@"
+            ],
+            "familyAsChild": [
+                "@F0451@"
+            ]
+        }
+    ],
+    "families": [
+        {
+            "familyId": "@F0266@",
+            "husband": "Person-I0342",
+            "marriage": {
+                "date": "25 MAR 1801"
+            }
+        },
+        {
+            "familyId": "@F0270@",
+            "husband": "Person-I0352",
+            "wife": "Person-I0351",
+            "marriage": {
+                "date": "24 DEC 1812"
+            },
+            "children": [
+                "Person-I0342"
+            ]
+        },
+        {
+            "familyId": "@F0440@",
+            "husband": "Person-I0731",
+            "wife": "Person-I0730",
+            "marriage": {
+                "date": "1758"
+            },
+            "children": [
+                "Person-I0351"
+            ]
+        },
+        {
+            "familyId": "@F0441@",
+            "husband": "Person-I0733",
+            "wife": "Person-I0732",
+            "children": [
+                "Person-I0730"
+            ]
+        },
+        {
+            "familyId": "@F0442@",
+            "marriage": {
+                "date": "1720"
+            },
+            "children": [
+                "Person-I0731"
+            ]
+        },
+        {
+            "familyId": "@F0443@",
+            "husband": "Person-I0737",
+            "wife": "Person-I0736",
+            "marriage": {
+                "date": "3 DEC 1843"
+            },
+            "children": [
+                "Person-I0732"
+            ]
+        },
+        {
+            "familyId": "@F0445@",
+            "marriage": {
+                "date": "4 SEP 1819"
+            },
+            "children": [
+                "Person-I0736"
+            ]
+        },
+        {
+            "familyId": "@F0446@",
+            "husband": "Person-I0744",
+            "wife": "Person-I0743",
+            "marriage": {
+                "date": "1810"
+            },
+            "children": [
+                "Person-I0737"
+            ]
+        },
+        {
+            "familyId": "@F0449@",
+            "husband": "@I0750@",
+            "wife": "Person-I0749",
+            "marriage": {
+                "date": "1790"
+            },
+            "children": [
+                "Person-I0743"
+            ]
+        }
+    ],
+    "places": [],
+    "sources": [
+        {
+            "sourceId": "@S02957@",
+            "title": "1860 United States Federal Census"
+        },
+        {
+            "sourceId": "@S02960@",
+            "title": "OneWorldTree"
+        },
+        {
+            "sourceId": "@S02962@",
+            "title": "1850 United States Federal Census"
+        }
+    ]
+}

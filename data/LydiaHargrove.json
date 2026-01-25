@@ -1,0 +1,1439 @@
+{
+    "metadata": {
+        "source": "FTW",
+        "lastUpdated": "27 JUN 2005",
+        "charset": "ANSI"
+    },
+    "people": [
+        {
+            "gedcomId": "@I0896@",
+            "wikitreeId": "Person-I0896",
+            "name": {
+                "full": "ufn \/Whitley\/",
+                "given": "ufn",
+                "surname": "Whitley"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F122@"
+            ]
+        },
+        {
+            "gedcomId": "@I0897@",
+            "wikitreeId": "Person-I0897",
+            "name": {
+                "full": "Jonathan \/Whitley\/",
+                "given": "Jonathan",
+                "surname": "Whitley"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1750"
+            },
+            "familyAsChild": [
+                "@F122@"
+            ],
+            "notes": "[1.ged]"
+        },
+        {
+            "gedcomId": "@I0898@",
+            "wikitreeId": "Person-I0898",
+            "name": {
+                "full": "Paul \/Whitley\/",
+                "given": "Paul",
+                "surname": "Whitley"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1753"
+            },
+            "familyAsChild": [
+                "@F122@"
+            ],
+            "notes": "[1.ged]"
+        },
+        {
+            "gedcomId": "@I0899@",
+            "wikitreeId": "Person-I0899",
+            "name": {
+                "full": "Solomon \/Whitley\/",
+                "given": "Solomon",
+                "surname": "Whitley"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1723"
+            },
+            "death": {
+                "date": "ABT 1782"
+            },
+            "familyAsSpouse": [
+                "@F761@",
+                "@F786@",
+                "@F551@"
+            ],
+            "familyAsChild": [
+                "@F122@"
+            ],
+            "notes": "[1.ged]"
+        },
+        {
+            "gedcomId": "@I1107@",
+            "wikitreeId": "Person-I1107",
+            "name": {
+                "full": "Joseph Francis \/Lewis\/",
+                "given": "Joseph Francis",
+                "surname": "Lewis"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1752"
+            },
+            "death": {
+                "date": "BET 1825 AND 1828"
+            },
+            "familyAsSpouse": [
+                "@F227@"
+            ],
+            "notes": "[2.ged]"
+        },
+        {
+            "gedcomId": "@I1129@",
+            "wikitreeId": "Person-I1129",
+            "name": {
+                "full": "Benjamin J. \/Lewis\/",
+                "given": "Benjamin J.",
+                "surname": "Lewis"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1793"
+            },
+            "death": {
+                "date": "1827"
+            },
+            "familyAsSpouse": [
+                "@F246@"
+            ],
+            "familyAsChild": [
+                "@F227@"
+            ]
+        },
+        {
+            "gedcomId": "@I1152@",
+            "wikitreeId": "Person-I1152",
+            "name": {
+                "full": "Elizabeth \/Lewis\/",
+                "given": "Elizabeth",
+                "surname": "Lewis"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1784"
+            },
+            "familyAsSpouse": [
+                "@F264@",
+                "@F265@"
+            ],
+            "familyAsChild": [
+                "@F227@"
+            ]
+        },
+        {
+            "gedcomId": "@I1182@",
+            "wikitreeId": "Person-I1182",
+            "name": {
+                "full": "Isabella \/Lewis\/",
+                "given": "Isabella",
+                "surname": "Lewis"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1787"
+            },
+            "familyAsChild": [
+                "@F227@"
+            ]
+        },
+        {
+            "gedcomId": "@I1188@",
+            "wikitreeId": "Person-I1188",
+            "name": {
+                "full": "Jasper W(hitley?) \/Lewis\/",
+                "given": "Jasper W(hitley?)",
+                "surname": "Lewis"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1785"
+            },
+            "death": {
+                "date": "28 AUG 1843"
+            },
+            "familyAsSpouse": [
+                "@F237@"
+            ],
+            "familyAsChild": [
+                "@F227@"
+            ]
+        },
+        {
+            "gedcomId": "@I1217@",
+            "wikitreeId": "Person-I1217",
+            "name": {
+                "full": "Mary Ann \/Lewis\/",
+                "given": "Mary Ann",
+                "surname": "Lewis"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "8 DEC 1795"
+            },
+            "death": {
+                "date": "3 DEC 1874"
+            },
+            "familyAsSpouse": [
+                "@F289@"
+            ],
+            "familyAsChild": [
+                "@F227@"
+            ],
+            "notes": "[2.ged]"
+        },
+        {
+            "gedcomId": "@I1277@",
+            "wikitreeId": "Person-I1277",
+            "name": {
+                "full": "Ruth Whitley \/Lewis\/",
+                "given": "Ruth Whitley",
+                "surname": "Lewis"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1780"
+            },
+            "death": {
+                "date": "BEF 1840"
+            },
+            "familyAsSpouse": [
+                "@F320@"
+            ],
+            "familyAsChild": [
+                "@F227@"
+            ],
+            "notes": "[2.ged]"
+        },
+        {
+            "gedcomId": "@I1278@",
+            "wikitreeId": "Person-I1278",
+            "name": {
+                "full": "Samuel \/Lewis\/",
+                "given": "Samuel",
+                "surname": "Lewis"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1781"
+            },
+            "death": {
+                "date": "OCT 1820"
+            },
+            "familyAsSpouse": [
+                "@F229@"
+            ],
+            "familyAsChild": [
+                "@F227@"
+            ]
+        },
+        {
+            "gedcomId": "@I1279@",
+            "wikitreeId": "Person-I1279",
+            "name": {
+                "full": "Sarah\\Sally Norman \/Lewis\/",
+                "given": "Sarah\\Sally Norman",
+                "surname": "Lewis"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "23 OCT 1785"
+            },
+            "death": {
+                "date": "5 SEP 1848"
+            },
+            "familyAsSpouse": [
+                "@F213@",
+                "@F321@"
+            ],
+            "familyAsChild": [
+                "@F227@"
+            ]
+        },
+        {
+            "gedcomId": "@I1322@",
+            "wikitreeId": "Person-I1322",
+            "name": {
+                "full": "William W. \/Lewis\/",
+                "given": "William W.",
+                "surname": "Lewis"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1790"
+            },
+            "death": {
+                "date": "1845"
+            },
+            "familyAsSpouse": [
+                "@F255@"
+            ],
+            "familyAsChild": [
+                "@F227@"
+            ]
+        },
+        {
+            "gedcomId": "@I1714@",
+            "wikitreeId": "Person-I1714",
+            "name": {
+                "full": "Lydia \/Poole\/",
+                "given": "Lydia",
+                "surname": "Poole"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1829"
+            },
+            "death": {
+                "date": "ABT 1851"
+            },
+            "familyAsSpouse": [
+                "@F489@"
+            ]
+        },
+        {
+            "gedcomId": "@I1888@",
+            "wikitreeId": "Person-I1888",
+            "name": {
+                "full": "Serena \/Welch\/",
+                "given": "Serena",
+                "surname": "Welch"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1833"
+            },
+            "death": {
+                "date": "1884"
+            },
+            "familyAsSpouse": [
+                "@F539@"
+            ]
+        },
+        {
+            "gedcomId": "@I1906@",
+            "wikitreeId": "Person-I1906",
+            "name": {
+                "full": "\"Ervie\" \/White\/",
+                "given": "\"Ervie\"",
+                "surname": "White"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F545@"
+            ]
+        },
+        {
+            "gedcomId": "@I1918@",
+            "wikitreeId": "Person-I1918",
+            "name": {
+                "full": "Catherine \/Whitley\/",
+                "given": "Catherine",
+                "surname": "Whitley"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1760"
+            },
+            "familyAsSpouse": [
+                "@F273@"
+            ],
+            "familyAsChild": [
+                "@F551@"
+            ]
+        },
+        {
+            "gedcomId": "@I1933@",
+            "wikitreeId": "Person-I1933",
+            "name": {
+                "full": "James \/Whitley\/",
+                "given": "James",
+                "surname": "Whitley"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1750"
+            },
+            "familyAsChild": [
+                "@F551@"
+            ]
+        },
+        {
+            "gedcomId": "@I1941@",
+            "wikitreeId": "Person-I1941",
+            "name": {
+                "full": "Margaret \/Whitley\/",
+                "given": "Margaret",
+                "surname": "Whitley"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1748"
+            },
+            "death": {
+                "date": "ABT MAY 1831"
+            },
+            "familyAsSpouse": [
+                "@F557@"
+            ],
+            "familyAsChild": [
+                "@F551@"
+            ]
+        },
+        {
+            "gedcomId": "@I1943@",
+            "wikitreeId": "Person-I1943",
+            "name": {
+                "full": "Mary \/Whitley\/",
+                "given": "Mary",
+                "surname": "Whitley"
+            },
+            "sex": "F",
+            "familyAsChild": [
+                "@F551@"
+            ]
+        },
+        {
+            "gedcomId": "@I1953@",
+            "wikitreeId": "Person-I1953",
+            "name": {
+                "full": "Robert \/Whitley\/",
+                "given": "Robert",
+                "surname": "Whitley"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1745"
+            },
+            "death": {
+                "date": "15 JUL 1802"
+            },
+            "familyAsSpouse": [
+                "@F506@"
+            ],
+            "familyAsChild": [
+                "@F551@"
+            ],
+            "notes": "[2.ged]"
+        },
+        {
+            "gedcomId": "@I1955@",
+            "wikitreeId": "Person-I1955",
+            "name": {
+                "full": "Ruth \/Whitley\/",
+                "given": "Ruth",
+                "surname": "Whitley"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1748"
+            },
+            "death": {
+                "date": "29 JAN 1789"
+            },
+            "familyAsSpouse": [
+                "@F559@"
+            ],
+            "familyAsChild": [
+                "@F551@"
+            ],
+            "notes": "[2.ged]"
+        },
+        {
+            "gedcomId": "@I1956@",
+            "wikitreeId": "Person-I1956",
+            "name": {
+                "full": "Sarah \/Whitley\/",
+                "given": "Sarah",
+                "surname": "Whitley"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1750"
+            },
+            "death": {
+                "date": "21 APR 1837"
+            },
+            "familyAsSpouse": [
+                "@F227@"
+            ],
+            "familyAsChild": [
+                "@F551@"
+            ],
+            "notes": "[1.ged]"
+        },
+        {
+            "gedcomId": "@I1959@",
+            "wikitreeId": "Person-I1959",
+            "name": {
+                "full": "Solomon \/Whitley\/",
+                "given": "Solomon",
+                "surname": "Whitley"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1753"
+            },
+            "familyAsSpouse": [
+                "@F503@"
+            ],
+            "familyAsChild": [
+                "@F551@"
+            ]
+        },
+        {
+            "gedcomId": "@I1962@",
+            "wikitreeId": "Person-I1962",
+            "name": {
+                "full": "Thomas \/Whitley\/",
+                "given": "Thomas",
+                "surname": "Whitley"
+            },
+            "sex": "M",
+            "familyAsChild": [
+                "@F551@"
+            ]
+        },
+        {
+            "gedcomId": "@I2260@",
+            "wikitreeId": "Person-I2260",
+            "name": {
+                "full": "William Chapman \/Whitley\/",
+                "given": "William Chapman",
+                "surname": "Whitley"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "14 AUG 1749"
+            },
+            "death": {
+                "date": "5 OCT 1813"
+            },
+            "familyAsSpouse": [
+                "@F553@"
+            ],
+            "familyAsChild": [
+                "@F551@"
+            ],
+            "notes": "[2.ged]"
+        },
+        {
+            "gedcomId": "@I2605@",
+            "wikitreeId": "Person-I2605",
+            "name": {
+                "full": "Elizabeth \/Barnett\/",
+                "given": "Elizabeth",
+                "surname": "Barnett"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1727"
+            },
+            "death": {
+                "date": "ABT 1783"
+            },
+            "familyAsSpouse": [
+                "@F551@"
+            ],
+            "notes": "[1.ged]"
+        },
+        {
+            "gedcomId": "@I2686@",
+            "wikitreeId": "Person-I2686",
+            "name": {
+                "full": "Elizabeth Louisiana \/Hargrove\/",
+                "given": "Elizabeth Louisiana",
+                "surname": "Hargrove"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "19 JAN 1804"
+            },
+            "death": {
+                "date": "MAR 1862"
+            },
+            "familyAsSpouse": [
+                "@F720@"
+            ],
+            "familyAsChild": [
+                "@F320@"
+            ]
+        },
+        {
+            "gedcomId": "@I2772@",
+            "wikitreeId": "Person-I2772",
+            "name": {
+                "full": "Jackson \/Hargrove\/",
+                "given": "Jackson",
+                "surname": "Hargrove"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1830"
+            },
+            "familyAsChild": [
+                "@F320@"
+            ]
+        },
+        {
+            "gedcomId": "@I2773@",
+            "wikitreeId": "Person-I2773",
+            "name": {
+                "full": "James Alexander \/Hargrove\/",
+                "given": "James Alexander",
+                "surname": "Hargrove"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1866"
+            },
+            "familyAsSpouse": [
+                "@F674@"
+            ],
+            "familyAsChild": [
+                "@F539@"
+            ]
+        },
+        {
+            "gedcomId": "@I2777@",
+            "wikitreeId": "Person-I2777",
+            "name": {
+                "full": "James Monroe \/Hargrove\/",
+                "given": "James Monroe",
+                "surname": "Hargrove"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1818"
+            },
+            "death": {
+                "date": "1884"
+            },
+            "familyAsSpouse": [
+                "@F539@",
+                "@F489@"
+            ],
+            "familyAsChild": [
+                "@F320@"
+            ]
+        },
+        {
+            "gedcomId": "@I2790@",
+            "wikitreeId": "Person-I2790",
+            "name": {
+                "full": "John Lindsey \/Hargrove\/",
+                "given": "John Lindsey",
+                "surname": "Hargrove"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "24 JAN 1826"
+            },
+            "death": {
+                "date": "21 MAY 1902"
+            },
+            "familyAsSpouse": [
+                "@F687@",
+                "@F339@"
+            ],
+            "familyAsChild": [
+                "@F320@"
+            ]
+        },
+        {
+            "gedcomId": "@I2799@",
+            "wikitreeId": "Person-I2799",
+            "name": {
+                "full": "Lorenzo Dow \/Hargrove\/",
+                "given": "Lorenzo Dow",
+                "surname": "Hargrove"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1868"
+            },
+            "familyAsChild": [
+                "@F539@"
+            ]
+        },
+        {
+            "gedcomId": "@I2809@",
+            "wikitreeId": "Person-I2809",
+            "name": {
+                "full": "Lydia S. \/Hargrove\/",
+                "given": "Lydia S.",
+                "surname": "Hargrove"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1854"
+            },
+            "familyAsSpouse": [
+                "@F545@"
+            ],
+            "familyAsChild": [
+                "@F539@"
+            ]
+        },
+        {
+            "gedcomId": "@I2816@",
+            "wikitreeId": "Person-I2816",
+            "name": {
+                "full": "Martha \/Hargrove\/",
+                "given": "Martha",
+                "surname": "Hargrove"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1862"
+            },
+            "familyAsChild": [
+                "@F539@"
+            ]
+        },
+        {
+            "gedcomId": "@I2826@",
+            "wikitreeId": "Person-I2826",
+            "name": {
+                "full": "Margaret Alice \/Hargrove\/",
+                "given": "Margaret Alice",
+                "surname": "Hargrove"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1864"
+            },
+            "familyAsSpouse": [
+                "@F565@"
+            ],
+            "familyAsChild": [
+                "@F539@"
+            ]
+        },
+        {
+            "gedcomId": "@I2835@",
+            "wikitreeId": "Person-I2835",
+            "name": {
+                "full": "Mary Wright \/Hargrove\/",
+                "given": "Mary Wright",
+                "surname": "Hargrove"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "20 OCT 1856"
+            },
+            "familyAsSpouse": [
+                "@F691@"
+            ],
+            "familyAsChild": [
+                "@F539@"
+            ]
+        },
+        {
+            "gedcomId": "@I2840@",
+            "wikitreeId": "Person-I2840",
+            "name": {
+                "full": "Minerva Jane \/Hargrove\/",
+                "given": "Minerva Jane",
+                "surname": "Hargrove"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1859"
+            },
+            "familyAsSpouse": [
+                "@F655@"
+            ],
+            "familyAsChild": [
+                "@F539@"
+            ]
+        },
+        {
+            "gedcomId": "@I2844@",
+            "wikitreeId": "Person-I2844",
+            "name": {
+                "full": "Omar Hassen \/Hargrove\/",
+                "given": "Omar Hassen",
+                "surname": "Hargrove"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1820"
+            },
+            "death": {
+                "date": "1865"
+            },
+            "familyAsSpouse": [
+                "@F688@",
+                "@F525@"
+            ],
+            "familyAsChild": [
+                "@F320@"
+            ]
+        },
+        {
+            "gedcomId": "@I2854@",
+            "wikitreeId": "Person-I2854",
+            "name": {
+                "full": "Ruth Elizabeth \/Hargrove\/",
+                "given": "Ruth Elizabeth",
+                "surname": "Hargrove"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1849"
+            },
+            "familyAsSpouse": [
+                "@F681@"
+            ],
+            "familyAsChild": [
+                "@F489@"
+            ]
+        },
+        {
+            "gedcomId": "@I2865@",
+            "wikitreeId": "Person-I2865",
+            "name": {
+                "full": "Samuel Ball \/Hargrove\/",
+                "given": "Samuel Ball",
+                "surname": "Hargrove"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "21 FEB 1806"
+            },
+            "death": {
+                "date": "BEF 1880"
+            },
+            "familyAsSpouse": [
+                "@F405@",
+                "@F471@"
+            ],
+            "familyAsChild": [
+                "@F320@"
+            ]
+        },
+        {
+            "gedcomId": "@I2883@",
+            "wikitreeId": "Person-I2883",
+            "name": {
+                "full": "Unknown female \/Hargrove\/",
+                "given": "Unknown female",
+                "surname": "Hargrove"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1802"
+            },
+            "familyAsChild": [
+                "@F320@"
+            ]
+        },
+        {
+            "gedcomId": "@I2884@",
+            "wikitreeId": "Person-I2884",
+            "name": {
+                "full": "Unknown female \/Hargrove\/",
+                "given": "Unknown female",
+                "surname": "Hargrove"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1805"
+            },
+            "familyAsChild": [
+                "@F320@"
+            ]
+        },
+        {
+            "gedcomId": "@I2885@",
+            "wikitreeId": "Person-I2885",
+            "name": {
+                "full": "Unknown female \/Hargrove\/",
+                "given": "Unknown female",
+                "surname": "Hargrove"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1810"
+            },
+            "familyAsChild": [
+                "@F320@"
+            ]
+        },
+        {
+            "gedcomId": "@I2886@",
+            "wikitreeId": "Person-I2886",
+            "name": {
+                "full": "Unknown female \/Hargrove\/",
+                "given": "Unknown female",
+                "surname": "Hargrove"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1824"
+            },
+            "familyAsChild": [
+                "@F320@"
+            ]
+        },
+        {
+            "gedcomId": "@I2887@",
+            "wikitreeId": "Person-I2887",
+            "name": {
+                "full": "Unknown female \/Hargrove\/",
+                "given": "Unknown female",
+                "surname": "Hargrove"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1819"
+            },
+            "familyAsChild": [
+                "@F320@"
+            ]
+        },
+        {
+            "gedcomId": "@I2891@",
+            "wikitreeId": "Person-I2891",
+            "name": {
+                "full": "Unknown male \/Hargrove\/",
+                "given": "Unknown male",
+                "surname": "Hargrove"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1799"
+            },
+            "familyAsChild": [
+                "@F320@"
+            ]
+        },
+        {
+            "gedcomId": "@I2892@",
+            "wikitreeId": "Person-I2892",
+            "name": {
+                "full": "Unknown male \/Hargrove\/",
+                "given": "Unknown male",
+                "surname": "Hargrove"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1812"
+            },
+            "familyAsChild": [
+                "@F320@"
+            ]
+        },
+        {
+            "gedcomId": "@I2893@",
+            "wikitreeId": "Person-I2893",
+            "name": {
+                "full": "Valentine \/Hargrove\/",
+                "given": "Valentine",
+                "surname": "Hargrove"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1778"
+            },
+            "death": {
+                "date": "BET 1851 AND 1860"
+            },
+            "familyAsSpouse": [
+                "@F320@"
+            ]
+        },
+        {
+            "gedcomId": "@I2901@",
+            "wikitreeId": "Person-I2901",
+            "name": {
+                "full": "William V. \/Hargrove\/",
+                "given": "William V.",
+                "surname": "Hargrove"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1851"
+            },
+            "familyAsSpouse": [
+                "@F511@"
+            ],
+            "familyAsChild": [
+                "@F489@"
+            ]
+        },
+        {
+            "gedcomId": "@I2902@",
+            "wikitreeId": "Person-I2902",
+            "name": {
+                "full": "William Wesley \/Hargrove\/",
+                "given": "William Wesley",
+                "surname": "Hargrove"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "4 JAN 1816"
+            },
+            "death": {
+                "date": "1876"
+            },
+            "familyAsSpouse": [
+                "@F666@"
+            ],
+            "familyAsChild": [
+                "@F320@"
+            ]
+        },
+        {
+            "gedcomId": "@I3047@",
+            "wikitreeId": "Person-I3047",
+            "name": {
+                "full": "Samuel \/Lewis\/",
+                "given": "Samuel",
+                "surname": "Lewis"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1772"
+            },
+            "familyAsChild": [
+                "@F227@"
+            ]
+        },
+        {
+            "gedcomId": "@I3077@",
+            "wikitreeId": "Person-I3077",
+            "name": {
+                "full": "Samuel \/Lewis\/",
+                "given": "Samuel",
+                "surname": "Lewis"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1772"
+            },
+            "familyAsSpouse": [
+                "@F753@"
+            ],
+            "familyAsChild": [
+                "@F227@"
+            ]
+        },
+        {
+            "gedcomId": "@I3169@",
+            "wikitreeId": "Person-I3169",
+            "name": {
+                "full": "Elizabeth \/Barnett\/",
+                "given": "Elizabeth",
+                "surname": "Barnett"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1727"
+            },
+            "death": {
+                "date": "ABT 1783"
+            },
+            "familyAsSpouse": [
+                "@F761@"
+            ],
+            "notes": "[2.ged]"
+        },
+        {
+            "gedcomId": "@I3172@",
+            "wikitreeId": "Person-I3172",
+            "name": {
+                "full": "Solomon \/Whitley\/",
+                "given": "Solomon",
+                "surname": "Whitley"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1753"
+            },
+            "familyAsChild": [
+                "@F761@"
+            ]
+        },
+        {
+            "gedcomId": "@I3252@",
+            "wikitreeId": "Person-I3252",
+            "name": {
+                "full": "Samuel \/Lewis\/",
+                "given": "Samuel",
+                "surname": "Lewis"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1772"
+            },
+            "familyAsSpouse": [
+                "@F774@"
+            ],
+            "familyAsChild": [
+                "@F227@"
+            ]
+        },
+        {
+            "gedcomId": "@I3298@",
+            "wikitreeId": "Person-I3298",
+            "name": {
+                "full": "Elizabeth \/Barnett\/",
+                "given": "Elizabeth",
+                "surname": "Barnett"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1727"
+            },
+            "death": {
+                "date": "ABT 1783"
+            },
+            "familyAsSpouse": [
+                "@F786@"
+            ],
+            "notes": "[1.ged]"
+        }
+    ],
+    "families": [
+        {
+            "familyId": "@F122@",
+            "husband": "Person-I0896",
+            "children": [
+                "Person-I0899",
+                "Person-I0897",
+                "Person-I0898"
+            ]
+        },
+        {
+            "familyId": "@F213@",
+            "wife": "Person-I1279"
+        },
+        {
+            "familyId": "@F227@",
+            "husband": "Person-I1107",
+            "wife": "Person-I1956",
+            "marriage": {
+                "date": "2 JAN 1779"
+            },
+            "children": [
+                "Person-I1277",
+                "Person-I1278",
+                "Person-I1152",
+                "Person-I1188",
+                "Person-I1279",
+                "Person-I1182",
+                "Person-I1322",
+                "Person-I1129",
+                "Person-I1217",
+                "Person-I3047",
+                "Person-I3077",
+                "Person-I3252"
+            ]
+        },
+        {
+            "familyId": "@F229@",
+            "husband": "Person-I1278",
+            "marriage": {
+                "date": "13 JUL 1801"
+            }
+        },
+        {
+            "familyId": "@F237@",
+            "husband": "Person-I1188",
+            "marriage": {
+                "date": "27 FEB 1809"
+            }
+        },
+        {
+            "familyId": "@F246@",
+            "husband": "Person-I1129",
+            "marriage": {
+                "date": "ABT 1818"
+            }
+        },
+        {
+            "familyId": "@F255@",
+            "husband": "Person-I1322",
+            "marriage": {
+                "date": "31 JAN 1816"
+            }
+        },
+        {
+            "familyId": "@F264@",
+            "wife": "Person-I1152",
+            "marriage": {
+                "date": "23 MAR 1803"
+            }
+        },
+        {
+            "familyId": "@F265@",
+            "wife": "Person-I1152",
+            "marriage": {
+                "date": "7 APR 1818"
+            }
+        },
+        {
+            "familyId": "@F273@",
+            "wife": "Person-I1918",
+            "marriage": {
+                "date": "1779"
+            }
+        },
+        {
+            "familyId": "@F289@",
+            "wife": "Person-I1217",
+            "marriage": {
+                "date": "15 APR 1812"
+            }
+        },
+        {
+            "familyId": "@F320@",
+            "husband": "Person-I2893",
+            "wife": "Person-I1277",
+            "marriage": {
+                "date": "9 OCT 1799"
+            },
+            "children": [
+                "Person-I2891",
+                "Person-I2883",
+                "Person-I2686",
+                "Person-I2884",
+                "Person-I2865",
+                "Person-I2885",
+                "Person-I2892",
+                "Person-I2902",
+                "Person-I2777",
+                "Person-I2887",
+                "Person-I2844",
+                "Person-I2886",
+                "Person-I2790",
+                "Person-I2772"
+            ]
+        },
+        {
+            "familyId": "@F321@",
+            "wife": "Person-I1279",
+            "marriage": {
+                "date": "23 MAY 1807"
+            }
+        },
+        {
+            "familyId": "@F339@",
+            "husband": "Person-I2790",
+            "marriage": {
+                "date": "1876"
+            }
+        },
+        {
+            "familyId": "@F405@",
+            "husband": "Person-I2865",
+            "marriage": {
+                "date": "1830"
+            }
+        },
+        {
+            "familyId": "@F471@",
+            "husband": "Person-I2865",
+            "marriage": {
+                "date": "1860"
+            }
+        },
+        {
+            "familyId": "@F489@",
+            "husband": "Person-I2777",
+            "wife": "Person-I1714",
+            "children": [
+                "Person-I2854",
+                "Person-I2901"
+            ]
+        },
+        {
+            "familyId": "@F503@",
+            "husband": "Person-I1959",
+            "marriage": {
+                "date": "1779"
+            }
+        },
+        {
+            "familyId": "@F506@",
+            "husband": "Person-I1953",
+            "marriage": {
+                "date": "ABT 1765"
+            }
+        },
+        {
+            "familyId": "@F511@",
+            "husband": "Person-I2901"
+        },
+        {
+            "familyId": "@F525@",
+            "husband": "Person-I2844",
+            "marriage": {
+                "date": "BEF 1861"
+            }
+        },
+        {
+            "familyId": "@F539@",
+            "husband": "Person-I2777",
+            "wife": "Person-I1888",
+            "children": [
+                "Person-I2809",
+                "Person-I2835",
+                "Person-I2840",
+                "Person-I2816",
+                "Person-I2826",
+                "Person-I2773",
+                "Person-I2799"
+            ]
+        },
+        {
+            "familyId": "@F545@",
+            "husband": "Person-I1906",
+            "wife": "Person-I2809"
+        },
+        {
+            "familyId": "@F551@",
+            "husband": "Person-I0899",
+            "wife": "Person-I2605",
+            "marriage": {
+                "date": "BEF 1745"
+            },
+            "children": [
+                "Person-I1943",
+                "Person-I1962",
+                "Person-I1953",
+                "Person-I1941",
+                "Person-I1955",
+                "Person-I2260",
+                "Person-I1933",
+                "Person-I1956",
+                "Person-I1959",
+                "Person-I1918"
+            ]
+        },
+        {
+            "familyId": "@F553@",
+            "husband": "Person-I2260",
+            "marriage": {
+                "date": "5 OCT 1770"
+            }
+        },
+        {
+            "familyId": "@F557@",
+            "wife": "Person-I1941",
+            "marriage": {
+                "date": "ABT 1768"
+            }
+        },
+        {
+            "familyId": "@F559@",
+            "wife": "Person-I1955"
+        },
+        {
+            "familyId": "@F565@",
+            "wife": "Person-I2826",
+            "marriage": {
+                "date": "20 NOV 1895"
+            }
+        },
+        {
+            "familyId": "@F655@",
+            "wife": "Person-I2840"
+        },
+        {
+            "familyId": "@F666@",
+            "husband": "Person-I2902"
+        },
+        {
+            "familyId": "@F674@",
+            "husband": "Person-I2773",
+            "marriage": {
+                "date": "20 NOV 1895"
+            }
+        },
+        {
+            "familyId": "@F681@",
+            "wife": "Person-I2854"
+        },
+        {
+            "familyId": "@F687@",
+            "husband": "Person-I2790",
+            "marriage": {
+                "date": "ABT 1852"
+            }
+        },
+        {
+            "familyId": "@F688@",
+            "husband": "Person-I2844",
+            "marriage": {
+                "date": "1850"
+            }
+        },
+        {
+            "familyId": "@F691@",
+            "wife": "Person-I2835"
+        },
+        {
+            "familyId": "@F720@",
+            "wife": "Person-I2686",
+            "marriage": {
+                "date": "1834"
+            }
+        },
+        {
+            "familyId": "@F753@",
+            "husband": "Person-I3077"
+        },
+        {
+            "familyId": "@F761@",
+            "husband": "Person-I0899",
+            "wife": "Person-I3169",
+            "children": [
+                "Person-I3172"
+            ]
+        },
+        {
+            "familyId": "@F774@",
+            "husband": "Person-I3252"
+        }
+    ],
+    "places": [],
+    "sources": [
+        {
+            "sourceId": "@S03712@",
+            "title": "1.ged"
+        },
+        {
+            "sourceId": "@S05248@",
+            "title": "2.ged"
+        },
+        {
+            "sourceId": "@S09354@",
+            "title": "Ancestral File (R)"
+        },
+        {
+            "sourceId": "@S09477@",
+            "title": "The path of empire in the conquest of The Great West."
+        }
+    ]
+}

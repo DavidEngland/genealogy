@@ -1,0 +1,840 @@
+wikitree_id,name,given_name,surname,birth_date,birth_place,death_date,death_place,sex
+Person-I10,Living /Sorrells/,Living,Sorrells,,,,,F
+Person-I10241,Eva /Wagster/,Eva,Wagster,30 May 1880,,,,F
+Person-I10242,Elmer Alline /Wagster/,Elmer Alline,Wagster,5 Aug 1891,,,,M
+Person-I1028,Mattie Jennie /Freeman/,Mattie Jennie,Freeman,20 Apr 1877,,4 Dec 1961,,F
+Person-I1031,Maggie Pearly /Freeman/,Maggie Pearly,Freeman,6 Oct 1884,,11 Dec 1944,,F
+Person-I1036,Felix Hopwood /Nichols/,Felix Hopwood,Nichols,28 Mar 1886,,3 May 1959,,M
+Person-I1039,Unnamed Infant /Lambert/,Unnamed Infant,Lambert,12 Jan 1899,,12 Jan 1899,,U
+Person-I1040,Annie O. /Lambert/,Annie O.,Lambert,1 Mar 1898,,7 Apr 1898,,F
+Person-I11160,James Anderson /Barham/,James Anderson,Barham,15 May 1893,,1971,,M
+Person-I11163,Thomas Muse /Barham/,Thomas Muse,Barham,16 Mar 1917,,,,M
+Person-I11168,Infant /Barham/,Infant,Barham,,,,,M
+Person-I11169,Horace /Barham/,Horace,Barham,,,,,M
+Person-I11182,Moses /Darnell/,Moses,Darnell,19 Oct 1868,,27 Sep 1928,,M
+Person-I11191,Robert M. /Darnell/,Robert M.,Darnell,20 Sep 1895,,10 Aug 1901,,M
+Person-I11197,Stella /Darnell/,Stella,Darnell,13 Nov 1907,,19 Apr 1969,,F
+Person-I11198,George Allen /Brown/,George Allen,Brown,8 Jul 1908,,12 Apr 1969,,M
+Person-I11199,Melba Elaine /Brown/,Melba Elaine,Brown,,,,,F
+Person-I11200,Robert Allen /Brown/,Robert Allen,Brown,,,,,M
+Person-I11201,Living /Brown/,Living,Brown,,,,,M
+Person-I11202,Living /Brown/,Living,Brown,,,,,F
+Person-I11230,John Cantrell /Davis/,John Cantrell,Davis,10 Sep 1812,,3 Apr 1846,,M
+Person-I11231,Sarah /England/,Sarah,England,12 Jul 1813,,5 Nov 1892,,F
+Person-I11232,"Elizabeth ""Betsy"" Jane /Davis/","Elizabeth ""Betsy"" Jane",Davis,1844,,20 Oct 1911,,F
+Person-I11234,Jim /Freeman/,Jim,Freeman,1863,,1942,,M
+Person-I11235,William Golie /Freeman/,William Golie,Freeman,1878,,1959,,M
+Person-I11236,"Sarah Elizabeth ""Lizzie"" /Freeman/","Sarah Elizabeth ""Lizzie""",Freeman,1892,,1963,,F
+Person-I11238,Sally Mars /Williams/,Sally Mars,Williams,1870,,1945,,F
+Person-I11239,"John R. ""Johnnie"" /Freeman/","John R. ""Johnnie""",Freeman,1890,,1967,,M
+Person-I11240,Velma /Freeman/,Velma,Freeman,,,,,F
+Person-I11241,James /Freeman/,James,Freeman,,,,,M
+Person-I11242,Edna Ethel /Davis/,Edna Ethel,Davis,1895,,1968,,F
+Person-I11244,Mary Fannie /Welch/,Mary Fannie,Welch,1881,,1962,,F
+Person-I11245,Vernon Kay /Freeman/,Vernon Kay,Freeman,,,,,U
+Person-I11246,Floyd /Freeman/,Floyd,Freeman,,,,,M
+Person-I11249,"James R. ""Jim"" /Williams/","James R. ""Jim""",Williams,1881,,1946,,M
+Person-I11250,James Freeman /Williams/,James Freeman,Williams,,,,,M
+Person-I11251,Julius /Williams/,Julius,Williams,,,,,M
+Person-I11252,Sammie E. /Williams/,Sammie E.,Williams,,,,,U
+Person-I11253,Beulah Mae /Williams/,Beulah Mae,Williams,,,,,F
+Person-I11254,Nina /Williams/,Nina,Williams,,,,,F
+Person-I11255,Dorathy /Williams/,Dorathy,Williams,,,,,F
+Person-I11256,Joe Melvin /Williams/,Joe Melvin,Williams,,,,,M
+Person-I11257,Larena /Freeman/,Larena,Freeman,7 Aug 1883,,9 Feb 1907,,F
+Person-I11258,Bessie H. /Freeman/,Bessie H.,Freeman,,,,,F
+Person-I11274,James Roland /Davis/,James Roland,Davis,21 Dec 1867,,16 Nov 1929,,M
+Person-I11275,"Virginia ""Jennie"" /Ingle/","Virginia ""Jennie""",Ingle,1867,,1917,,F
+Person-I11276,Charlie Parker /Davis/,Charlie Parker,Davis,,,,,M
+Person-I11277,Bessie /Williams/,Bessie,Williams,,,,,F
+Person-I11278,James Bascom /Davis/,James Bascom,Davis,,,,,M
+Person-I11279,Charles /Davis/,Charles,Davis,,,,,M
+Person-I11280,Karl /Davis/,Karl,Davis,,,,,M
+Person-I11281,Harold /Davis/,Harold,Davis,,,,,M
+Person-I11282,Reba /Davis/,Reba,Davis,,,,,F
+Person-I11297,Female /Davis/,Female,Davis,,,,,F
+Person-I11298,Ruth /Gilbert/,Ruth,Gilbert,,,,,F
+Person-I11299,Arah /Gilbert/,Arah,Gilbert,,,,,M
+Person-I11300,Ira /Gilbert/,Ira,Gilbert,,,,,F
+Person-I11301,Estill /Gilbert/,Estill,Gilbert,,,,,F
+Person-I11302,Willie /Gilbert/,Willie,Gilbert,,,,,M
+Person-I11303,Felix /Gilbert/,Felix,Gilbert,,,,,M
+Person-I11304,Edith /Gilbert/,Edith,Gilbert,,,,,F
+Person-I11305,Hickman //,,,,,,,M
+Person-I11306,/Moore/,,,,,,,M
+Person-I11307,/Gillian/,,,,,,,M
+Person-I11349,Thomas Benton /Scott/,Thomas Benton,Scott,1 Sep 1875,,8 Nov 1929,,M
+Person-I11362,Alice /Lambert/,Alice,Lambert,,,,,F
+Person-I11363,Susie May /Scott/,Susie May,Scott,,,,,F
+Person-I11364,James Roy /Scott/,James Roy,Scott,,,,,M
+Person-I11447,"James Zacharias Vance ""Boss"" /Davis/","James Zacharias Vance ""Boss""",Davis,ABT 1889,,,,M
+Person-I11448,Mary Lee or J. /Davis/,Mary Lee or J.,Davis,ABT 1892,,,,F
+Person-I11449,Gracie /Davis/,Gracie,Davis,ABT 1899,,,,F
+Person-I11450,Louis L. /Steelman/,Louis L.,Steelman,ABT 1870,,,,M
+Person-I11451,Bentley /Pigg/,Bentley,Pigg,,,,,M
+Person-I11452,William Henry /Freeman/,William Henry,Freeman,1 Mar 1885,,7 Jul 1959,,M
+Person-I11453,Nancy Ann /Williams/,Nancy Ann,Williams,1 Jul 1891,,13 Feb 1969,,F
+Person-I115,Elbert Eugene /Sorrells/,Elbert Eugene,Sorrells,5 Dec 1892,,10 Jun 1970,,M
+Person-I116,Beulah Mai /Darnell/,Beulah Mai,Darnell,18 Aug 1902,,6 Nov 1957,,F
+Person-I11637,John /Williams/,John,Williams,1812,,,,M
+Person-I11638,Mary /England/,Mary,England,ABT 1830,,AFT 1902,,F
+Person-I11646,Eliza Jane //,,,,,,,F
+Person-I11647,/Harper/,,,,,,,F
+Person-I11648,John /England/ Jr.,,,ABT 1837,,,,M
+Person-I11649,Elizabeth /Davis/,Elizabeth,Davis,,,,,F
+Person-I11650,Rezin /England/,Rezin,England,ABT 1823,,AFT 1902,,M
+Person-I117,James (Jack) Edward /Sorrells/,James (Jack) Edward,Sorrells,7 Sep 1925,,13 Feb 1982,,M
+Person-I118,Living /Sorrells/,Living,Sorrells,,,,,F
+Person-I119,Living /Sorrells/,Living,Sorrells,,,,,M
+Person-I124,Living /Sorrells/,Living,Sorrells,,,,,M
+Person-I12467,Thomas Jefferson /Lambert/,Thomas Jefferson,Lambert,1870,,1952,,M
+Person-I1316,Washington Alexander /Gilbert/,Washington Alexander,Gilbert,1840,,,,M
+Person-I1317,John R. /Gilbert/,John R.,Gilbert,1841,,,,M
+Person-I1318,Resin A. /Gilbert/,Resin A.,Gilbert,1843,,,,M
+Person-I1319,Ambrose Franklin /Gilbert/,Ambrose Franklin,Gilbert,1844,,,,M
+Person-I1321,Sarah A. /Gilbert/,Sarah A.,Gilbert,1847,,,,F
+Person-I1322,Peter C. /Gilbert/,Peter C.,Gilbert,26 Dec 1849,,,,M
+Person-I1335,Susannah /Roberts/,Susannah,Roberts,23 Jun 1807,,30 Sep 1891,,F
+Person-I1336,John C. /Morton/,John C.,Morton,16 Nov 1806,,23 May 1879,,M
+Person-I1338,Elisabeth /Roberts/,Elisabeth,Roberts,26 Jul 1792,,1850/1860,,F
+Person-I1339,Reason or Rezin /Roberts/,Reason or Rezin,Roberts,19 Feb 1805,,,,M
+Person-I1340,William /Roberts/,William,Roberts,19 Oct 1796,,,,M
+Person-I1341,Justen or Peter /Roberts/,Justen or Peter,Roberts,29 Nov 1800,,,,M
+Person-I1342,Sarah L. /Roberts/,Sarah L.,Roberts,18 Feb 1810,,,,F
+Person-I1343,John /England/,John,England,ABT 1788,,ABT 1858,,M
+Person-I1344,Samuel /Moore/,Samuel,Moore,,,,,M
+Person-I1345,James Littleton /Foster/,James Littleton,Foster,28 Feb 1803,,9 Apr 1871,,M
+Person-I1346,William /Foster/,William,Foster,27 Nov 1822,,22 Dec 1822,,M
+Person-I1347,Fanny /Gilbert/,Fanny,Gilbert,ABT 1866,,,,F
+Person-I1348,Rezin Ambrose /Foster/,Rezin Ambrose,Foster,1835,,1 Jun 1861,,M
+Person-I1350,Andrew Jackson /Burns/,Andrew Jackson,Burns,22 May 1849,,24 Feb 1928,,M
+Person-I1351,Johnnie Benton /King/,Johnnie Benton,King,23 Jul 1886,,29 Jan 1955,,M
+Person-I1352,Nellie Florence /Nichols/,Nellie Florence,Nichols,4 Dec 1892,,21 Sep 1944,,F
+Person-I1353,William Leonard /King/,William Leonard,King,24 Mar 1917,,10 Sep 1968,,M
+Person-I1354,Living /King/,Living,King,,,,,F
+Person-I139,Frances Elizabeth /Sorrells/,Frances Elizabeth,Sorrells,31 Jan 1916,,8 Oct 1988,,F
+Person-I140,William Harvey /Finley/,William Harvey,Finley,27 May 1913,,13 Dec 1991,,M
+Person-I145,Dora Ann /Davis/,Dora Ann,Davis,17 Apr 1876,,23 Jul 1965,,F
+Person-I14591,Martha Ann /Waid/,Martha Ann,Waid,18 Jun 1928,,,,F
+Person-I14594,Henry Hopwood /Nichols/,Henry Hopwood,Nichols,17 Jan 1927,,21 Jan 1994,,M
+Person-I146,William Lee /Davis/,William Lee,Davis,1 Aug 1842,,13 Jun 1918,,M
+Person-I148,Sarah Martha Valentine /Jackson/,Sarah Martha Valentine,Jackson,13 Sep 1851,,Aug 1939,,F
+Person-I15035,Living /Gilbert/,Living,Gilbert,,,,,M
+Person-I15036,Living /Gilbert/,Living,Gilbert,,,,,F
+Person-I15037,Living /Gilbert/,Living,Gilbert,,,,,F
+Person-I1549,Mary Catherine /Bledsoe/,Mary Catherine,Bledsoe,20 Jul 1910,,,,F
+Person-I16479,Lethe //,,,,,,,F
+Person-I16480,Nancy /Roberts/,Nancy,Roberts,24 Nov 1839,,24 Dec 1877,,F
+Person-I16481,William C. /Reavis/,William C.,Reavis,18 Jul 1840,,9 Nov 1898,,M
+Person-I16784,Estelle /Nichols/,Estelle,Nichols,23 Dec 1946,,12 Feb 1947,,F
+Person-I16785,Living /Nichols/,Living,Nichols,,,,,M
+Person-I16786,Living /Nichols/,Living,Nichols,,,,,F
+Person-I16787,Living /Nichols/,Living,Nichols,,,,,F
+Person-I16788,Living /Nichols/,Living,Nichols,,,,,F
+Person-I1687,Charlotta A. /Reese/,Charlotta A.,Reese,ABT 1834,,,,F
+Person-I1690,Joel /Foster/,Joel,Foster,24 Sep 1825,,9 Apr,,M
+Person-I1691,Martha A /Foster/,Martha A,Foster,19 Nov 1864,,19 Nov 1904,,F
+Person-I1693,James W. /Foster/,James W.,Foster,ABT 1866,,,,M
+Person-I1694,Minnie C. Ella /Muse/,Minnie C. Ella,Muse,,,,,F
+Person-I1695,Virginia Victoria /Foster/,Virginia Victoria,Foster,Feb 1870,,1943,,F
+Person-I1696,W. Thomas /Glazier/,W. Thomas,Glazier,,,,,M
+Person-I1697,Joe Alice /Foster/,Joe Alice,Foster,20 Apr 1874,,20 Apr 1922,,F
+Person-I1698,George Washington /Moore/,George Washington,Moore,,,,,M
+Person-I1699,Alcy Ann //,,,1826,,1 Jun 1861,,F
+Person-I1700,Artan M. /Foster/,Artan M.,Foster,ABT 1850,,1862,,U
+Person-I1701,John Blount /Foster/,John Blount,Foster,ABT 1852,,1910,,M
+Person-I1702,Sarah Jane /Foster/,Sarah Jane,Foster,ABT 1847,,9 May 1864,,F
+Person-I1703,Nancy J. /Foster/,Nancy J.,Foster,ABT 1848,,,,F
+Person-I1713,Mary /Foster/,Mary,Foster,ABT 1854,,,,F
+Person-I1714,Matilda /Foster/,Matilda,Foster,ABT 1856,,,,F
+Person-I1715,Joel /Foster/,Joel,Foster,ABT 1858,,,,M
+Person-I1758,Willis Hopwood /Foster/,Willis Hopwood,Foster,22 Aug 1829,,7 Sep 1904,,M
+Person-I1759,Mary /Lambert/,Mary,Lambert,4 Jul 1827,,19 Apr 1866,,F
+Person-I1760,John R. /Foster/,John R.,Foster,ABT 1857,,1 Apr 1895,,M
+Person-I1761,Ailcy /Foster/,Ailcy,Foster,31 Oct 1837,,11 Nov 1910,,F
+Person-I1763,James Wilson /Foster/,James Wilson,Foster,31 Dec 1839,,22 Aug 1901,,M
+Person-I1764,Mary Jane /Lambert/,Mary Jane,Lambert,1837,,,,F
+Person-I1765,Nancy /Foster/,Nancy,Foster,8 Jan 1842,,24 Aug 1910,,F
+Person-I1766,Isaac Richard /Morton/,Isaac Richard,Morton,,,,,M
+Person-I1767,Peter /Foster/,Peter,Foster,23 Feb 1844,,12 Dec 1919,,M
+Person-I1768,John Roberts /Foster/,John Roberts,Foster,22 Sep 1827,,11 Oct 1897,,M
+Person-I1770,Ruth A. /Gilbert/,Ruth A.,Gilbert,ABT 1864,,,,F
+Person-I1771,Jesse Littleton /Muse/,Jesse Littleton,Muse,13 Oct 1847,,14 Oct 1937,,M
+Person-I1772,Sarah Elizabeth /Muse/,Sarah Elizabeth,Muse,ABT 1849,,,,F
+Person-I1773,Rachel /Muse/,Rachel,Muse,ABT 1853,,,,F
+Person-I1774,"Mary Jane ""Minnie"" /Muse/","Mary Jane ""Minnie""",Muse,ABT 1856,,,,F
+Person-I1775,Thomas B. /Muse/,Thomas B.,Muse,ABT 1857,,,,M
+Person-I1776,Sarah /Morton/,Sarah,Morton,,,,,F
+Person-I1777,Mary Elizabeth /Nichols/,Mary Elizabeth,Nichols,22 Apr 1832,,13 Nov 1905,,F
+Person-I1778,America Rachel /Foster/,America Rachel,Foster,1849,,1927,,F
+Person-I1779,James Wilkerson /Foster/,James Wilkerson,Foster,ABT 1852,,Jan 1936,,M
+Person-I1780,"Elizabeth ""Lizzie"" /Foster/","Elizabeth ""Lizzie""",Foster,ABT 1854,,,,F
+Person-I1781,Molly C. /Foster/,Molly C.,Foster,ABT 1856,,,,F
+Person-I1782,John Alton /Foster/,John Alton,Foster,ABT 1861,,,,M
+Person-I1783,Livonia Theodocia /Foster/,Livonia Theodocia,Foster,ABT 1865,,1898,,F
+Person-I1784,William R. /Foster/,William R.,Foster,ABT 1867,,May 1940,,M
+Person-I1785,Living /Redd/,Living,Redd,,,,,F
+Person-I1786,Rosie D. /Foster/,Rosie D.,Foster,ABT 1873,,,,F
+Person-I1787,Golie A. /Foster/,Golie A.,Foster,25 Aug 1876,,2 Jul 1955,,M
+Person-I1788,Robert L. /Foster/,Robert L.,Foster,ABT 1879,,,,M
+Person-I1789,Martin V. /Reese/,Martin V.,Reese,,,,,M
+Person-I1790,Walter Asbury /Prosser/,Walter Asbury,Prosser,,,,,M
+Person-I1791,Thomas Lee /Foster/,Thomas Lee,Foster,10 Nov 1861,,8 Jun 1925,,M
+Person-I1792,Mary Ida /Muse/,Mary Ida,Muse,,,,,F
+Person-I1793,Kathryn /Hanaway/,Kathryn,Hanaway,,,,,F
+Person-I1794,William /Reese/,William,Reese,1868,,,,M
+Person-I1795,Joel /Reese/,Joel,Reese,1869,,,,M
+Person-I18305,/Brown/,,,,,,,M
+Person-I18306,Living /Lambert/,Living,Lambert,,,,,F
+Person-I18307,Living /Fielder/,Living,Fielder,,,,,M
+Person-I20150,"John Knox ""Bud"" /Lambert/","John Knox ""Bud""",Lambert,1868,,1939,,M
+Person-I20151,Jemima //,,,1857,,1922,,F
+Person-I20152,Maudie /Foster/,Maudie,Foster,1879,,1956,,F
+Person-I20162,Martha C. /Lambert/,Martha C.,Lambert,8 Nov 1829,,6 Nov 1916,,F
+Person-I20174,Infant /Foster/,Infant,Foster,9 Apr 1866,,9 Apr 1866,,M
+Person-I20647,Eleanor Jean /Cornelison/,Eleanor Jean,Cornelison,,,,,F
+Person-I20648,Living /McGee/,Living,McGee,,,,,M
+Person-I20658,Nancy June /Cobb/,Nancy June,Cobb,21 Apr 1937,,25 Apr 2002,,F
+Person-I20659,Living /Cobb/,Living,Cobb,,,,,F
+Person-I20660,Living /Tate/,Living,Tate,,,,,M
+Person-I20667,Sarah /Roberts/,Sarah,Roberts,,,,,F
+Person-I20668,William Jordan /Baker/,William Jordan,Baker,,,,,M
+Person-I21168,Retta //,,,,,,,F
+Person-I22738,Elma Nora /Foster/,Elma Nora,Foster,28 May 1879,,,,F
+Person-I22740,Callie B. /Foster/,Callie B.,Foster,Aug 1881,,,,F
+Person-I22741,"James Oliver ""Ollie"" /Foster/","James Oliver ""Ollie""",Foster,Sep 1883,,,,M
+Person-I22742,Neely E. /Foster/,Neely E.,Foster,25 Dec 1885,,,,M
+Person-I22743,Ola Mae /Foster/,Ola Mae,Foster,28 May 1889,,,,F
+Person-I22744,Lessie /Foster/,Lessie,Foster,1890,,,,F
+Person-I22745,John Carson /Foster/,John Carson,Foster,29 Aug 1893,,,,M
+Person-I23302,Lillian Ozelle /Darnell/,Lillian Ozelle,Darnell,,,,,F
+Person-I23303,Lila /Foster/,Lila,Foster,1922,,6 Dec 2002,,F
+Person-I23304,Aubrey D. /Arnold/,Aubrey D.,Arnold,,,1988,,M
+Person-I23305,Living /Arnold/,Living,Arnold,,,,,M
+Person-I23306,Living /Arnold/,Living,Arnold,,,,,M
+Person-I23767,Alice /Davis/,Alice,Davis,ABT 1876,,,,F
+Person-I23768,Oliver /Davis/,Oliver,Davis,27 Nov 1878,,24 Jan 1937,,M
+Person-I23769,Fannie Lou /Davis/,Fannie Lou,Davis,29 Jan 1889,,Sep 1936,,F
+Person-I23770,"Willie Lee ""Bee"" /Davis/","Willie Lee ""Bee""",Davis,15 Jun 1894,,13 Jun 1966,,M
+Person-I23771,Lizzie /Davis/,Lizzie,Davis,3 Feb 1884,,Oct 1960,,F
+Person-I23772,Maggie Maizie /Davis/,Maggie Maizie,Davis,17 Oct 1883,,1952,,F
+Person-I23773,Oscar T. /Davis/,Oscar T.,Davis,1881,,1956,,M
+Person-I24,George Lee /Redd/,George Lee,Redd,6 Dec 1883,,16 Feb 1964,,M
+Person-I2417,Glendon /Nichols/,Glendon,Nichols,,,,,F
+Person-I24201,Ossie /Blackshire/,Ossie,Blackshire,ABT 1890,,,,F
+Person-I24204,Clifford /Davis/,Clifford,Davis,1908,,1912,,M
+Person-I24205,Margaret /Davis/,Margaret,Davis,Mar 1916,,Spring 2000,,F
+Person-I24206,Ferry /Davis/,Ferry,Davis,ABT 1914,,,,M
+Person-I24207,Mary Frances /Davis/,Mary Frances,Davis,ABT 1918,,,,F
+Person-I24236,James Martin /Davis/,James Martin,Davis,9 Oct 1840,,7 May 1914,,M
+Person-I2426,Priscilla Lucy /Warren/,Priscilla Lucy,Warren,26 Jan 1861,,Mar 1934/1935,,F
+Person-I2427,James A. /Gilbert/,James A.,Gilbert,,,,,M
+Person-I24271,John M. /Hutchinson/,John M.,Hutchinson,ABT 1871,,,,M
+Person-I2428,Virginia /Phillips/,Virginia,Phillips,,,,,F
+Person-I2429,Willie Mai /Gilbert/,Willie Mai,Gilbert,,,,,F
+Person-I2430,Odell /Gilbert/,Odell,Gilbert,,,,,F
+Person-I2431,Joe /Sutton/,Joe,Sutton,,,,,M
+Person-I2432,Estil /Gilbert/,Estil,Gilbert,,,,,F
+Person-I24326,Tula /Smith/,Tula,Smith,,,,,F
+Person-I24327,Floyd /Foster/,Floyd,Foster,,,,,M
+Person-I24328,/Foster/,,,,,,,F
+Person-I24329,Lee Pat /Hastings/,Lee Pat,Hastings,,,,,M
+Person-I2433,Virgil /Dahl/,Virgil,Dahl,,,,,M
+Person-I24330,Billy /Hastings/,Billy,Hastings,,,,,M
+Person-I24331,Jack /Hastings/,Jack,Hastings,,,,,M
+Person-I24332,Charles /Hastings/,Charles,Hastings,,,,,M
+Person-I24334,Roy /Foster/,Roy,Foster,,,,,M
+Person-I24335,W. C. /Foster/,W. C.,Foster,,,,,M
+Person-I24336,"Thomas Lee /Foster/ , Jr.",,,,,,,M
+Person-I2434,Grace /Gilbert/,Grace,Gilbert,,,,,F
+Person-I2435,Dayton /Cobb/,Dayton,Cobb,,,,,M
+Person-I24354,Mary /E./,Mary,E.,ABT 1866,,,,F
+Person-I24355,Living /Pierce/,Living,Pierce,,,,,F
+Person-I2436,Roy /Gilbert/,Roy,Gilbert,,,,,M
+Person-I2437,Jane /Rittenberry/,Jane,Rittenberry,,,,,F
+Person-I24375,Osher /Hutchinson/,Osher,Hutchinson,ABT 1894,,,,M
+Person-I24376,Lena N. /Hutchinson/,Lena N.,Hutchinson,ABT 1903,,,,F
+Person-I24377,Nancy Mey /Woodard/,Nancy Mey,Woodard,20 Feb 1843,,9 Jan 1928,,F
+Person-I24378,Gollie /Pigg/,Gollie,Pigg,,,,,M
+Person-I24379,Francis /Pigg/,Francis,Pigg,,,,,M
+Person-I2438,Warren Reece /Gilbert/,Warren Reece,Gilbert,,,Nov 2002,,M
+Person-I24380,Twin /Davis/,Twin,Davis,,,,,U
+Person-I24381,Twin /Davis/,Twin,Davis,,,,,U
+Person-I24382,Juanita /Snell/,Juanita,Snell,,,,,F
+Person-I24383,Living /Davis/,Living,Davis,,,,,M
+Person-I24384,Living /Davis/,Living,Davis,,,,,M
+Person-I24385,Tom /Curlee/,Tom,Curlee,,,,,M
+Person-I24386,Living /Curlee/,Living,Curlee,,,,,M
+Person-I24387,Living /Curlee/,Living,Curlee,,,,,F
+Person-I24388,Condit /Pierce/,Condit,Pierce,,,,,M
+Person-I24389,Living /Pierce/,Living,Pierce,,,,,M
+Person-I2439,Evelyn /Crosby/,Evelyn,Crosby,,,,,F
+Person-I24390,Living /Pierce/,Living,Pierce,,,,,M
+Person-I24391,Living /Pierce/,Living,Pierce,,,,,F
+Person-I24392,Luther /Henderson/,Luther,Henderson,,,,,M
+Person-I24393,Walter Ed /Sherwood/,Walter Ed,Sherwood,1886,,1933,,M
+Person-I24394,Kay //,,,,,,,F
+Person-I24395,Olive //,,,,,,,F
+Person-I24500,Mary Julia /Wright/,Mary Julia,Wright,,,,,F
+Person-I24830,Robert Alpine /Whorley/,Robert Alpine,Whorley,23 Sep 1889,,,,M
+Person-I24847,Winnie /Muse/,Winnie,Muse,,,,,F
+Person-I24849,Fannie L. /Raney/,Fannie L.,Raney,1868,,1945,,F
+Person-I24850,Mabern /Barham/,Mabern,Barham,18 Sep 1924,,,,F
+Person-I24865,Earl Crawford /Prosser/,Earl Crawford,Prosser,26 Aug 1899,,,,M
+Person-I24866,Beatrice Ruth /Patton/,Beatrice Ruth,Patton,1 Jan 1905,,,,F
+Person-I24867,Living /Prosser/,Living,Prosser,,,,,F
+Person-I24920,Benjamin D. /Bledsoe/,Benjamin D.,Bledsoe,,,BEF 1910,,M
+Person-I24921,Pearl /Bledsoe/,Pearl,Bledsoe,,,,,F
+Person-I24922,Bessie /Bledsoe/,Bessie,Bledsoe,,,1908,,F
+Person-I25,Jessie Edna /Freeman/,Jessie Edna,Freeman,7 Nov 1884,,31 Aug 1965,,F
+Person-I25120,Mattie Elizabeth /Foster/,Mattie Elizabeth,Foster,7 Oct 1900,,6 Oct 1973,,F
+Person-I25121,Martha Elizabeth /Parsons/,Martha Elizabeth,Parsons,24 Nov 1925,,,,F
+Person-I25122,Living /Smith/,Living,Smith,,,,,F
+Person-I25126,Robert Pierson /Smith/,Robert Pierson,Smith,10 Oct 1923,,,,M
+Person-I25127,"James Bunyan /Parsons/ , Sr.",,,9 Jun 1895,,6 Jun 1961,,M
+Person-I25128,Living /Parsons/,Living,Parsons,,,,,F
+Person-I25131,Living /Carmichael/,Living,Carmichael,,,,,M
+Person-I25132,Living /Carmichael/,Living,Carmichael,,,,,F
+Person-I25133,Living /Carmichael/,Living,Carmichael,,,,,M
+Person-I25134,"Alberta ""Bert"" /Foster/","Alberta ""Bert""",Foster,10 Jan 1905,,Jul 1983,,F
+Person-I25135,Juanita /Kingston/,Juanita,Kingston,28 Jan 1926,,7 Nov 1932,,F
+Person-I25136,Robert Parsons /Smith/,Robert Parsons,Smith,30 Dec 1946,,30 Aug 1983,,M
+Person-I25137,Living /Smith/,Living,Smith,,,,,F
+Person-I25138,Living /Smith/,Living,Smith,,,,,F
+Person-I25139,Living /Smith/,Living,Smith,,,,,F
+Person-I25140,Living /Smith/,Living,Smith,,,,,F
+Person-I25149,Estil /Foster/,Estil,Foster,14 Sep 1910,,Jun 1979,,M
+Person-I25151,Avis /Hummel/,Avis,Hummel,1912,,18 Jul 2000,,F
+Person-I25152,Sewell /Kingston/,Sewell,Kingston,1897,,1943,,M
+Person-I25255,Callie Donie /Anderson/,Callie Donie,Anderson,1862,,,,F
+Person-I26,George M. /Redd/,George M.,Redd,26 Mar 1851,,31 Aug 1897,,M
+Person-I262,William Crittenden /Wagster/,William Crittenden,Wagster,7 Jul 1832,,5 Feb 1900,,M
+Person-I263,Mary Ann /Gilbert/,Mary Ann,Gilbert,4 Aug 1835,,29 Jul 1894,,F
+Person-I27,"Sarah Elizabeth ""Betty"" /Wagster/","Sarah Elizabeth ""Betty""",Wagster,7 Jun 1853,,12 Mar 1943,,F
+Person-I27218,Francis Marion /Bonner/,Francis Marion,Bonner,,,,,M
+Person-I27230,Sam /Warner/,Sam,Warner,,,,,M
+Person-I27279,Elvira /Foster/,Elvira,Foster,8 Jul 1852,,22 Nov 1895,,F
+Person-I27280,Tama Bernicia /Foster/,Tama Bernicia,Foster,ABT 1856,,,,F
+Person-I27281,Nancy J. /Foster/,Nancy J.,Foster,28 Dec 1860,,24 Oct 1888,,F
+Person-I27282,M. W. /Foster/,M. W.,Foster,21 Jun 1861,,15 May 1866,,U
+Person-I27283,George W. /Jones/,George W.,Jones,ABT 1853,,,,M
+Person-I27334,William E. /England/,William E.,England,ABT 1878,,,,M
+Person-I279,John W. /Wagster/,John W.,Wagster,7 Jun 1853,,1 Sep 1853,,M
+Person-I28,James Crittendon /Redd/,James Crittendon,Redd,21 Aug 1876,,28 Oct 1911,,M
+Person-I280,William Harvie /Bonner/,William Harvie,Bonner,31 Jan 1893,,29 Apr 1897,,M
+Person-I281,Lena E. /Bonner/,Lena E.,Bonner,14 May 1892,,Dec 1941,,F
+Person-I282,W. A. /Bonner/,W. A.,Bonner,5 Feb 1845,,1872,,M
+Person-I283,Lonnie Lee /Wagster/,Lonnie Lee,Wagster,5 Aug 1901,,Aug 1923,,M
+Person-I2867,Martha Ann /Glidewell/,Martha Ann,Glidewell,30 Mar 1821,,11 Mar 1877,,F
+Person-I29,M. Annliza /Redd/,M. Annliza,Redd,14 Mar 1879,,1976,,F
+Person-I2913,"William J. ""Bill"" /Freeman/","William J. ""Bill""",Freeman,23 Dec 1839,,16 Nov 1922,,M
+Person-I2944,Joel Anderson /Steelman/ Jr.,,,9 Apr 1862,,1949,,M
+Person-I3,Living /Sorrells/,Living,Sorrells,,,,,M
+Person-I30,J. Michael /Redd/,J. Michael,Redd,16 Apr 1881,,1965,,M
+Person-I31,"Martha Elizabeth ""Mattie"" /Redd/","Martha Elizabeth ""Mattie""",Redd,18 Sep 1886,,,"Lewisburg, Marshall Co, TN",F
+Person-I32,Allie F. /Redd/,Allie F.,Redd,1 Apr 1887,,13 Jan 1913,,M
+Person-I33,Ora D /Redd/,Ora D,Redd,29 Nov 1891,,1 Sep 1893,,F
+Person-I34,Oma Green /Redd/,Oma Green,Redd,29 Nov 1891,,21 Aug 1924,,F
+Person-I3582,Sarah E. //,,,ABT 1857,,,,F
+Person-I382,John C. /Gilbert/ Sr.,,,ABT 1810,,1848,,M
+Person-I383,Racheal /Roberts/,Racheal,Roberts,7 Mar 1812,,2 Aug 1898,,F
+Person-I384,Washington Culpepper /Wagster/,Washington Culpepper,Wagster,6 Jul 1856,,1900,,M
+Person-I385,David /Wagster/,David,Wagster,18 Dec 1858,,17 Jun 1931,,M
+Person-I386,Rezin A. /Wagster/,Rezin A.,Wagster,6 Nov 1854,,18 Jun 1930,,M
+Person-I387,Peter Roberts /Wagster/,Peter Roberts,Wagster,4 Mar 1870,,Feb 1925,,M
+Person-I388,Joseph C. /Wagster/,Joseph C.,Wagster,27 Mar 1861,,,,M
+Person-I390,Robert L. /Wagster/,Robert L.,Wagster,18 Jun 1868,,,,M
+Person-I391,Martha Ann /Wagster/,Martha Ann,Wagster,5 Sep 1866,,1948,,F
+Person-I3910,Newell J. /England/,Newell J.,England,4 Feb 1826,,14 Aug 1909,,M
+Person-I392,"M. ""Callie"" Caledonia /Wagster/","M. ""Callie"" Caledonia",Wagster,14 Sep 1878,,,,F
+Person-I393,John /Roberts/ Sr.,,,ABT 1765,,ABT 1861,,M
+Person-I394,Sara /Smith/,Sara,Smith,16 Nov 1774,,1850/1860,,F
+Person-I397,Mary Ann /Roberts/,Mary Ann,Roberts,11 Oct 1794,,,,F
+Person-I398,Nancy (Honey) /Roberts/,Nancy (Honey),Roberts,23 Dec 1802,,2 Jan 1867,,F
+Person-I399,Artamacy /Roberts/,Artamacy,Roberts,18 Oct 1814,,3 Apr 1882,,F
+Person-I400,John /Roberts/,John,Roberts,25 Dec 1798,,,,M
+Person-I401,"Mary Mozell ""Mollie"" /Warren/","Mary Mozell ""Mollie""",Warren,12 Sep 1862,,1956,,F
+Person-I403,Nancy R. /Foster/,Nancy R.,Foster,,,,,F
+Person-I404,Gertrude /Bryant/,Gertrude,Bryant,,,,,F
+Person-I4055,Living /Finley/,Living,Finley,,,,,F
+Person-I4056,Living /Finley/,Living,Finley,,,,,M
+Person-I407,Willie N. /Bonner/,Willie N.,Bonner,5 May,,10 Dec 1894,,M
+Person-I4072,Martha Jane /Nichols/,Martha Jane,Nichols,1849,,1879,,F
+Person-I408,Minta /Taylor/,Minta,Taylor,,,,,F
+Person-I409,"James Madison ""Mack"" /Lambert/ Sr.",,,6 May 1866,,Sep 1946,,M
+Person-I410,Beulah /Conwell/,Beulah,Conwell,,,,,F
+Person-I411,Robert Fulton /Lambert/,Robert Fulton,Lambert,1877,,1956,,M
+Person-I412,Lura /Thompson/,Lura,Thompson,1882,,1966,,F
+Person-I413,Nolan Edward /Barham/,Nolan Edward,Barham,26 Mar 1877,,15 Oct 1933,,M
+Person-I4143,James L. /Gilbert/,James L.,Gilbert,ABT 1852,,,,M
+Person-I4144,Margaret (Beulah) /Gilbert/,Margaret (Beulah),Gilbert,1854,,20 Nov 1890,,F
+Person-I4145,Henry /Gilbert/,Henry,Gilbert,ABT 1855,,,,M
+Person-I4146,Mary /Gilbert/,Mary,Gilbert,ABT 1857,,,,F
+Person-I416,A. B. /Gilbert/,A. B.,Gilbert,23 Mar 1838,,,,M
+Person-I4167,Ella B. /Gilbert/,Ella B.,Gilbert,Dec 1879,,,,F
+Person-I4168,Margaret T. /Sorrells/,Margaret T.,Sorrells,19 Nov 1846,,,,F
+Person-I4169,Alice Eugenia /Gilbert/,Alice Eugenia,Gilbert,15 Aug 1867,,14 Mar 1919,,F
+Person-I417,Sarah M. /Gilbert/,Sarah M.,Gilbert,21 Apr 1834,,,,F
+Person-I4170,Ivie D. /Gilbert/,Ivie D.,Gilbert,ABT 1869,,,,F
+Person-I4171,Mary A. /Gilbert/,Mary A.,Gilbert,ABT 1873,,,,F
+Person-I4173,"Ruth Bell ""B.B."" /Freeman/","Ruth Bell ""B.B.""",Freeman,ABT 1867,,,,F
+Person-I4174,Hattie Dillie /Freeman/,Hattie Dillie,Freeman,17 Aug 1876,,10 Nov 1942,,F
+Person-I4176,Thomas Oscar /Muse/,Thomas Oscar,Muse,1870,,1956,,M
+Person-I4177,Jesse J. /Muse/,Jesse J.,Muse,ABT 1872,,,,M
+Person-I4178,Mary B. /Muse/,Mary B.,Muse,ABT 1874,,,,F
+Person-I4179,Felix W. /Muse/,Felix W.,Muse,ABT 1876,,,,M
+Person-I418,"Artimesia ""Meece"" /Gilbert/","Artimesia ""Meece""",Gilbert,1 Dec 1836,,,,F
+Person-I4180,Corrie E. /Gilbert/,Corrie E.,Gilbert,ABT 1869,,,,F
+Person-I4181,William R. /Gilbert/,William R.,Gilbert,ABT 1871,,,,M
+Person-I4182,Moses A. /Gilbert/,Moses A.,Gilbert,ABT 1878,,,,M
+Person-I419,Lucretia /Roberts/,Lucretia,Roberts,7 Oct 1820,,24 Mar 1893,,F
+Person-I420,William /Morton/,William,Morton,,,,,M
+Person-I421,John /Morton/,John,Morton,,,,,M
+Person-I4394,Henry Martin /England/,Henry Martin,England,28 Dec 1844,,16 Dec 1911,,M
+Person-I4395,Hester Ann /Hobbs/,Hester Ann,Hobbs,,,,,F
+Person-I4396,Thomas R. /England/,Thomas R.,England,16 Jan 1847,,10 Apr 1924,,M
+Person-I4397,Cinthia Rebecca /Dubois/,Cinthia Rebecca,Dubois,,,,,F
+Person-I4398,Louisa /Pruitt/,Louisa,Pruitt,,,,,F
+Person-I4426,John Bannister /England/,John Bannister,England,3 May 1849,,,,M
+Person-I4428,Rachel Caroline /Jones/,Rachel Caroline,Jones,ABT 1849,,,,F
+Person-I4429,Martha Anna /England/,Martha Anna,England,ABT 1876,,,,F
+Person-I4430,Amer Miles /Hand/,Amer Miles,Hand,,,,,M
+Person-I4431,Elsie /Hand/,Elsie,Hand,,,,,F
+Person-I4432,/Rich/,,,,,,,M
+Person-I4433,Daniel Henderson /England/,Daniel Henderson,England,1 Jul 1852,,14 Sep 1933,,M
+Person-I4434,Charlotte Charity /Dubois/,Charlotte Charity,Dubois,,,,,F
+Person-I4435,Martha L. //,,,,,,,F
+Person-I4436,Nancy Elizabeth Jane /England/,Nancy Elizabeth Jane,England,12 Aug 1854,,,,F
+Person-I4437,George /Starling/,George,Starling,,,,,M
+Person-I4438,William Newel /England/,William Newel,England,23 Mar 1857,,10 Nov 1935,,M
+Person-I4439,Nancy Jane /Allison/,Nancy Jane,Allison,,,,,F
+Person-I4440,Minervia Catherine /England/,Minervia Catherine,England,5 Dec 1857,,30 Jul 1887,,F
+Person-I4441,Martha Anna /England/,Martha Anna,England,18 Aug 1858,,,,F
+Person-I4442,James R. /Jacks/,James R.,Jacks,,,,,M
+Person-I4443,Mary Catherine /England/,Mary Catherine,England,14 May 1863,,25 Apr 1942,,F
+Person-I4444,David /Thompson/,David,Thompson,,,,,M
+Person-I4445,William C. /King/,William C.,King,,,,,M
+Person-I4446,James Isom /England/,James Isom,England,22 Nov 1867,,20 May 1930,,M
+Person-I4447,Nancy Caledonia /Clayton/,Nancy Caledonia,Clayton,,,,,F
+Person-I4448,Minerva Ann /Westfall/,Minerva Ann,Westfall,,,,,F
+Person-I4532,Sophronia /Hand/,Sophronia,Hand,1 Sep 1893,,,,F
+Person-I4533,Daniel Thomas /Rackley/,Daniel Thomas,Rackley,,,,,M
+Person-I4534,"Delphia ""Elfa"" /Rackley/","Delphia ""Elfa""",Rackley,16 Jan 1914,,,,F
+Person-I498,Emma /King/,Emma,King,24 Mar 1871,,1940's,,F
+Person-I5,Leonard Dayton /Sorrells/,Leonard Dayton,Sorrells,10 Nov 1902,,24 Aug 1992,,M
+Person-I500,Bascom /Davis/,Bascom,Davis,18 Oct 1869,,11 Oct 1929,,M
+Person-I5200,William Henry /Nichols/,William Henry,Nichols,14 Mar 1862,,11 Oct 1947,,M
+Person-I5203,Edna Lourene /Faulkner/,Edna Lourene,Faulkner,17 Apr 1916,,23 Aug 1994,,F
+Person-I5220,"Aletha ""Letha"" Elizabeth /King/","Aletha ""Letha"" Elizabeth",King,17 Nov 1835,,1892,,F
+Person-I5282,Alfred /Palmer/,Alfred,Palmer,,,,,M
+Person-I5315,Charles Edward /Barham/,Charles Edward,Barham,10 Dec 1910,,,,M
+Person-I5316,James Thomas /Lambert/,James Thomas,Lambert,8 Mar 1912,,1965,,M
+Person-I5373,Blanche May /Shelly/,Blanche May,Shelly,,,,,F
+Person-I5374,Living /Redd/,Living,Redd,,,,,M
+Person-I5375,Living /Redd/,Living,Redd,,,,,M
+Person-I5376,Living /Redd/,Living,Redd,,,,,F
+Person-I5377,Living /Redd/,Living,Redd,,,,,M
+Person-I5378,Living /Redd/,Living,Redd,,,,,M
+Person-I5379,James Forrest /Redd/,James Forrest,Redd,1912,,,,M
+Person-I5380,Kathy /House/,Kathy,House,,,,,F
+Person-I5381,Living /Redd/,Living,Redd,,,,,M
+Person-I5382,Living /Redd/,Living,Redd,,,,,M
+Person-I5383,Living /Redd/,Living,Redd,,,,,F
+Person-I5384,Living /Redd/,Living,Redd,,,,,F
+Person-I5385,Juanita /Pike/,Juanita,Pike,,,,,F
+Person-I5386,Living /Redd/,Living,Redd,,,,,M
+Person-I5387,Living /Redd/,Living,Redd,,,,,M
+Person-I5388,Living /Redd/,Living,Redd,,,,,M
+Person-I5389,Mary K. /Grant/,Mary K.,Grant,,,,,F
+Person-I5390,Living /Redd/,Living,Redd,,,,,M
+Person-I5391,Living /Redd/,Living,Redd,,,,,F
+Person-I5392,Living /Redd/,Living,Redd,,,,,M
+Person-I5393,Living /Palmer/,Living,Palmer,,,,,M
+Person-I5394,Living /Palmer/,Living,Palmer,,,,,F
+Person-I5395,Living /Palmer/,Living,Palmer,,,,,M
+Person-I5396,Living /Palmer/,Living,Palmer,,,,,F
+Person-I5397,Living /Pierce/,Living,Pierce,,,,,M
+Person-I5398,Living /Pierce/,Living,Pierce,,,,,M
+Person-I5423,Roy /Waid/,Roy,Waid,,,,,M
+Person-I5516,Pearl /Wagster/,Pearl,Wagster,,,,,F
+Person-I5520,Jim /Creason/,Jim,Creason,,,,,M
+Person-I5521,William Noah /Wagster/,William Noah,Wagster,15 Feb 1881,,,,M
+Person-I5522,Mattie Mae /Wagster/,Mattie Mae,Wagster,10 Jul 1884,,,,F
+Person-I5523,Annie Ethel /Wagster/,Annie Ethel,Wagster,20 Feb 1889,,,,F
+Person-I5524,Berry J. /Wagster/,Berry J.,Wagster,1 Aug 1886,,,,M
+Person-I5525,"John ""Johnny"" /Wagster/","John ""Johnny""",Wagster,5 Aug 1891,,,,M
+Person-I5526,Hattie Emma /Newsom/,Hattie Emma,Newsom,,,,,F
+Person-I5527,Ernest /Wagster/,Ernest,Wagster,,,,,M
+Person-I5528,Eva /Wagster/,Eva,Wagster,,,,,F
+Person-I5529,Alta /Wagster/,Alta,Wagster,,,,,U
+Person-I5530,B.J. /Wagster/,B.J.,Wagster,,,,,M
+Person-I5531,Houston /Wagster/,Houston,Wagster,,,,,M
+Person-I5532,Paul /Wagster/,Paul,Wagster,,,,,M
+Person-I5533,Broadus /Wagster/,Broadus,Wagster,,,,,M
+Person-I5534,Elsie /Wagster/,Elsie,Wagster,,,,,F
+Person-I5535,Robert /Marr/,Robert,Marr,,,,,M
+Person-I5536,Mae /Marr/,Mae,Marr,,,,,F
+Person-I5537,Selina /Marr/,Selina,Marr,,,,,F
+Person-I5538,Levoy /Marr/,Levoy,Marr,,,,,M
+Person-I5539,Aline /Marr/,Aline,Marr,,,,,F
+Person-I5540,Davie Floyd /Warren/,Davie Floyd,Warren,,,,,M
+Person-I5541,Cletus /Warren/,Cletus,Warren,,,,,M
+Person-I5542,Vopel /Warren/,Vopel,Warren,,,,,U
+Person-I5543,J.C. /Warren/,J.C.,Warren,,,,,M
+Person-I5544,Nora /Newsom/,Nora,Newsom,,,,,F
+Person-I5545,Virginia /Wagster/,Virginia,Wagster,,,,,F
+Person-I5546,Raymond /Groce/,Raymond,Groce,,,,,M
+Person-I5547,Ovaline /Wagster/,Ovaline,Wagster,,,,,F
+Person-I5548,Johnny /Groce/,Johnny,Groce,,,,,M
+Person-I5549,Paul /Wagster/,Paul,Wagster,,,,,M
+Person-I5550,Doyle /Wagster/,Doyle,Wagster,,,,,M
+Person-I5551,Lucille /McKinney/,Lucille,McKinney,,,,,F
+Person-I5552,Eva /Locke/,Eva,Locke,,,,,F
+Person-I5553,Ottie /Wagster/,Ottie,Wagster,,,,,M
+Person-I5554,Allie /Wagster/,Allie,Wagster,,,,,F
+Person-I5555,Annie /Wagster/,Annie,Wagster,,,,,F
+Person-I5556,Thenie /Welch/,Thenie,Welch,,,,,F
+Person-I5557,John D. /Wagster/,John D.,Wagster,,,,,M
+Person-I5558,Elizabeth /Wagster/,Elizabeth,Wagster,,,,,F
+Person-I5559,David /Wagster/,David,Wagster,,,,,M
+Person-I5560,Lem /Wagster/,Lem,Wagster,,,,,M
+Person-I5561,Ollie /Bartlett/,Ollie,Bartlett,,,,,M
+Person-I5562,Ed /Bartlett/,Ed,Bartlett,,,,,M
+Person-I5563,Edna /Bartlett/,Edna,Bartlett,,,,,F
+Person-I5564,Melba /Bartlett/,Melba,Bartlett,,,,,F
+Person-I5565,Hollis /Bartlett/,Hollis,Bartlett,,,,,M
+Person-I5566,Lois /Bartlett/,Lois,Bartlett,,,,,F
+Person-I5567,Cleve /Noland/,Cleve,Noland,,,,,M
+Person-I5568,David /Noland/,David,Noland,,,,,M
+Person-I5569,J.C. /Noland/,J.C.,Noland,,,,,M
+Person-I5570,Edmund /Noland/,Edmund,Noland,,,,,M
+Person-I5571,Mabel /Dunn/,Mabel,Dunn,,,,,F
+Person-I5572,Bernice /Waid/,Bernice,Waid,,,,,F
+Person-I5573,Stella /Waid/,Stella,Waid,,,,,F
+Person-I5574,Mabel /Waid/,Mabel,Waid,,,,,F
+Person-I5575,Ruth /Waid/,Ruth,Waid,,,,,F
+Person-I5576,Dorothy /Waid/,Dorothy,Waid,,,,,F
+Person-I5577,Lucille /Waid/,Lucille,Waid,,,,,F
+Person-I5578,Wyman /Waid/,Wyman,Waid,,,,,M
+Person-I5579,Isom /Smith/,Isom,Smith,,,,,M
+Person-I5580,Lonnie /Dunn/,Lonnie,Dunn,,,,,M
+Person-I5581,Living /Dunn/,Living,Dunn,,,,,F
+Person-I5582,Isaac /Williams/,Isaac,Williams,,,,,M
+Person-I5583,Harold /Garland/,Harold,Garland,,,,,M
+Person-I5584,Robert /Steelman/,Robert,Steelman,,,,,M
+Person-I5585,Jack /Raby/,Jack,Raby,,,,,M
+Person-I5586,/Conaway/,,,,,,,F
+Person-I5587,Myrtle Lee /Wagster/,Myrtle Lee,Wagster,,,,,F
+Person-I5588,Eula B. /Wagster/,Eula B.,Wagster,,,,,F
+Person-I5589,Ellen /Wagster/,Ellen,Wagster,,,,,F
+Person-I5590,Euliss /Warren/,Euliss,Warren,,,,,M
+Person-I5591,Lynn Wagster /Warren/,Lynn Wagster,Warren,,,,,F
+Person-I5592,Margie /Warren/,Margie,Warren,,,,,F
+Person-I5593,Jane /Warren/,Jane,Warren,,,,,F
+Person-I5594,William Bryant /Warren/,William Bryant,Warren,,,,,M
+Person-I5595,Charles /Russell/,Charles,Russell,,,,,M
+Person-I5596,Eula Mai /Lambert/,Eula Mai,Lambert,,,,,F
+Person-I5597,Mattie Lee /Lambert/,Mattie Lee,Lambert,1903,,1965,,F
+Person-I5598,Laverne /Lambert/,Laverne,Lambert,,,,,F
+Person-I5599,Cecil /Ellis/,Cecil,Ellis,,,,,M
+Person-I5600,Mary Sue /Loving/,Mary Sue,Loving,,,,,F
+Person-I5601,Jack /Peck/,Jack,Peck,,,,,M
+Person-I5602,Reba /Warren/,Reba,Warren,,,,,F
+Person-I5606,Euliss /Haislip/,Euliss,Haislip,,,,,M
+Person-I5607,Madge /Spencer/,Madge,Spencer,18 Apr 1918,,,,F
+Person-I5608,Living /Barham/,Living,Barham,,,,,M
+Person-I5609,Evelyn Nadine /Barham/,Evelyn Nadine,Barham,,,,,F
+Person-I5610,Charles Eddie /Barham/,Charles Eddie,Barham,9 Dec,,,,M
+Person-I5611,Martha Alice /Barham/,Martha Alice,Barham,,,,,F
+Person-I5612,Madge Marie /Barham/,Madge Marie,Barham,,,,,F
+Person-I5613,Mary Jane /Barham/,Mary Jane,Barham,,,,,F
+Person-I5615,Living /Lambert/,Living,Lambert,,,,,M
+Person-I5616,Living /Lambert/,Living,Lambert,,,,,M
+Person-I5617,Living /Lambert/,Living,Lambert,,,,,M
+Person-I5618,Living /Lambert/,Living,Lambert,,,,,M
+Person-I5619,Linda Lou /Lambert/,Linda Lou,Lambert,,,,,F
+Person-I5620,Nancy /Lambert/,Nancy,Lambert,,,,,F
+Person-I5636,Sarah C. /Morrison/,Sarah C.,Morrison,25 Jun 1852,,Jul 1891,,F
+Person-I5639,R. S. Sam /Morrison/,R. S. Sam,Morrison,29 Aug 1855,,26 Sep 1876,,M
+Person-I5672,Samuel T. /Scott/,Samuel T.,Scott,ABT 1870,,1934,,M
+Person-I5673,"Elizabeth ""Bettie"" /Morrison/","Elizabeth ""Bettie""",Morrison,,,,,F
+Person-I5725,Sophia Ann /Melson/,Sophia Ann,Melson,3 Apr 1855,,13 Nov 1933,,F
+Person-I5726,Hattie Flora /Foster/,Hattie Flora,Foster,1 Mar 1876,,,,F
+Person-I58,Lillian Dale /Sorrells/,Lillian Dale,Sorrells,10 Nov 1902,,12 Mar 1967,,F
+Person-I5878,Dorah Eugenia /Bledsoe/,Dorah Eugenia,Bledsoe,5 Feb 1884,,11 Sep 1937,,F
+Person-I5881,Docia Ann /Davidson/,Docia Ann,Davidson,18 May 1867,,11 Feb 1941,,F
+Person-I5887,Priscilla /Davis/,Priscilla,Davis,ABT 1872,,,,F
+Person-I5896,Martha /Nichols/,Martha,Nichols,1858,,1927,,F
+Person-I5923,Dolphus G. /Foster/,Dolphus G.,Foster,23 Mar 1878,,,,M
+Person-I5924,Elizabeth /Reese/,Elizabeth,Reese,,,,,F
+Person-I5925,William Blount /Foster/,William Blount,Foster,30 Jun 1887,,1957,,M
+Person-I5927,Eva D. /Foster/,Eva D.,Foster,4 Jul 1889,,Apr 1912,,F
+Person-I5928,Rosa May /Mills/,Rosa May,Mills,,,,,F
+Person-I6,Vida Lurline /Redd/,Vida Lurline,Redd,12 Mar 1906,,27 Aug 1998,,F
+Person-I6014,Lee Floyd /Pyrdom/ Jr.,,,6 Feb 1925,,,,M
+Person-I6015,Living /Pyrdom/,Living,Pyrdom,,,,,M
+Person-I6023,Wilma Colene /Bartlett/,Wilma Colene,Bartlett,12 Oct 1929,,,,F
+Person-I61,Charles Berton /Nichols/,Charles Berton,Nichols,7 Nov 1902,,15 Mar 1987,,M
+Person-I6144,Briggs /Nichols/,Briggs,Nichols,Jun 1836,,27 Dec 1891,,M
+Person-I6186,William Wood /Gilbert/,William Wood,Gilbert,1846,,1894,,M
+Person-I6227,John R. /Foster/,John R.,Foster,1864,,1904,,M
+Person-I6228,Newton J. /Foster/,Newton J.,Foster,1869,,1946,,M
+Person-I6229,John Rezin /Nichols/,John Rezin,Nichols,1866,,1936,,M
+Person-I6230,Martha Ella /Young/,Martha Ella,Young,1874,,1938,,F
+Person-I6231,James M. /Nichols/,James M.,Nichols,1859,,1892,,M
+Person-I6232,N. E. /Nichols/,N. E.,Nichols,1860,,1861,,U
+Person-I6233,"Mary Jane ""Molly"" /Nichols/","Mary Jane ""Molly""",Nichols,1869,,1937,,F
+Person-I6234,Calvin Luther /Nichols/,Calvin Luther,Nichols,1873,,1919,,M
+Person-I6235,Benjamin Franklin /Nichols/,Benjamin Franklin,Nichols,1875,,1963,,M
+Person-I6236,Littleton Orzro /Nichols/,Littleton Orzro,Nichols,1871,,1933,,M
+Person-I6237,Darthula /Nichols/,Darthula,Nichols,1875,,1875,,U
+Person-I6238,S. L. /Nichols/,S. L.,Nichols,1879,,1879,,U
+Person-I6254,Otha White /King/,Otha White,King,16 Sep 1882,,3 Jan 1923,,M
+Person-I6255,Ada Lee /Nichols/,Ada Lee,Nichols,9 Dec 1890,,28 Feb 1959,,F
+Person-I6258,Suzie Deliah /King/,Suzie Deliah,King,9 Sep 1890,,Apr 1990,,F
+Person-I63,"Cordilia ""Cordie"" /Sorrells/","Cordilia ""Cordie""",Sorrells,ABT 1871,,8 Mar 1906,,F
+Person-I676,"Mary Ethel ""Bess"" /Freeman/","Mary Ethel ""Bess""",Freeman,28 Jun 1881,,1970,,F
+Person-I684,James Franklin /Gilbert/,James Franklin,Gilbert,30 May 1876,,1929,,M
+Person-I695,"Doster ""Dock"" Addison /Gilbert/","Doster ""Dock"" Addison",Gilbert,6 Jan 1821,,19 Feb 1903,,M
+Person-I696,Henry Clay /Lambert/,Henry Clay,Lambert,1835,,1923,,M
+Person-I697,"Nancy Susanna ""Suz"" /Muse/","Nancy Susanna ""Suz""",Muse,1846,,1922,,F
+Person-I698,Caledonia Gertrude /Lambert/,Caledonia Gertrude,Lambert,Oct 1888,,,,F
+Person-I699,Susan Eunice /Lambert/,Susan Eunice,Lambert,4 Jul 1890,,,,F
+Person-I700,Edgar Folk /Lambert/,Edgar Folk,Lambert,Jun 1891,,,"Lewisburg, Marshall Co, TN",M
+Person-I701,"William Clay ""Bill"" /Lambert/","William Clay ""Bill""",Lambert,25 Aug 1895,,1 Apr 1978,,M
+Person-I702,Minta Alice /Lambert/,Minta Alice,Lambert,AFT 1900,,,"Marshall Co, TN",F
+Person-I703,Retta Thomas /Lambert/,Retta Thomas,Lambert,AFT 1900,,,"Marshall Co, TN",F
+Person-I704,James Madison /Lambert/ Jr.,,,AFT 1900,,,"Marshall Co, TN",M
+Person-I705,Elizabeth /Lambert/,Elizabeth,Lambert,ABT 1908,,,,F
+Person-I706,Bob /Childers/,Bob,Childers,,,,,M
+Person-I707,Living /Jones/,Living,Jones,,,,,F
+Person-I708,Pauline /Dance/,Pauline,Dance,,,,,F
+Person-I709,Ruth /Casteel/,Ruth,Casteel,,,,,F
+Person-I710,Carl Swabsib /McCullough/,Carl Swabsib,McCullough,,,,,M
+Person-I711,Wendel /Bunch/,Wendel,Bunch,,,,,M
+Person-I712,Folk /Lambert/,Folk,Lambert,,,,,M
+Person-I713,Martha /Lambert/,Martha,Lambert,,,,,F
+Person-I714,Mary Briggs /Lambert/,Mary Briggs,Lambert,,,,,F
+Person-I715,Ann /Lambert/,Ann,Lambert,,,,,F
+Person-I716,Living /Lambert/,Living,Lambert,,,,,F
+Person-I717,Living /Lambert/,Living,Lambert,,,,,M
+Person-I718,Living /Lambert/,Living,Lambert,,,,,M
+Person-I719,Living /Brannon/,Living,Brannon,,,,,F
+Person-I720,Living /Lambert/,Living,Lambert,,,,,F
+Person-I721,Living /Lambert/,Living,Lambert,,,,,M
+Person-I722,Living /Lambert/,Living,Lambert,,,,,M
+Person-I723,Mary /Myers/,Mary,Myers,,,,,F
+Person-I724,Bill /Watkins/,Bill,Watkins,,,,,M
+Person-I725,Charles /Bond/ Rev.,,,,,,,M
+Person-I726,Living //,,,,,,,F
+Person-I727,Knox /Lambert/,Knox,Lambert,,,,,M
+Person-I728,Leslie /Lambert/,Leslie,Lambert,,,,,M
+Person-I729,Doris /Lambert/,Doris,Lambert,,,,,F
+Person-I730,"Joseph Mack ""Joe Mac"" /Lambert/ I",,,15 Mar 1926,,,,M
+Person-I731,Ralph /Lambert/,Ralph,Lambert,,,,,M
+Person-I732,Catherine //,,,,,,,F
+Person-I733,Carolyn /Sheltie/,Carolyn,Sheltie,,,,,F
+Person-I7333,Lloyd /Bartlett/,Lloyd,Bartlett,25 Jun 1902,,21 Feb 1930,,M
+Person-I7334,Onie Viola /Bartlett/,Onie Viola,Bartlett,9 Mar 1903,,13 Jan 1982,,F
+Person-I7335,James B. /Bartlett/,James B.,Bartlett,12 Jan 1851,,30 Jan 1928,,M
+Person-I7336,"Martha ""Mattie Babs"" /Foster/","Martha ""Mattie Babs""",Foster,8 May 1859,,1954,,F
+Person-I734,Nina /Nichols/,Nina,Nichols,10 Nov 1926,,,,F
+Person-I736,Living /Lambert/,Living,Lambert,,,,,M
+Person-I737,Alice /McCullough/,Alice,McCullough,,,,,F
+Person-I738,Bobby /McCullough/,Bobby,McCullough,,,,,M
+Person-I739,David /McCullough/,David,McCullough,,,,,M
+Person-I740,Louisa /Wagner/,Louisa,Wagner,,,,,F
+Person-I741,Living /Bunch/,Living,Bunch,,,,,M
+Person-I742,Living /Bunch/,Living,Bunch,,,,,F
+Person-I743,Living /Bunch/,Living,Bunch,,,,,F
+Person-I744,Brazeal /Muse/,Brazeal,Muse,23 May 1823,,ABT 1858/1859,,M
+Person-I7447,Thomas Roberts /Morton/,Thomas Roberts,Morton,,,,,M
+Person-I7448,Arty Lera /Morton/,Arty Lera,Morton,20 Sep 1888,,,,F
+Person-I7449,Marchie M. /Morton/,Marchie M.,Morton,13 Mar 1890,,,,F
+Person-I745,Sarah A. /Muse/,Sarah A.,Muse,ABT 1876,,,,F
+Person-I7450,James Howell /Davenport/,James Howell,Davenport,,,,,M
+Person-I7452,Velva T. /Morton/,Velva T.,Morton,6 Mar 1902,,10 Feb 1911,,F
+Person-I746,Pete /Morton/,Pete,Morton,,,,,M
+Person-I747,Cordelia /Gilbert/,Cordelia,Gilbert,ABT 1862,,,,F
+Person-I748,Sara /Foster/,Sara,Foster,25 Mar 1824,,11 May 1862,,F
+Person-I7489,Eliza Jane /England/,Eliza Jane,England,ABT 1834,,,,F
+Person-I749,Marion E. /Muse/,Marion E.,Muse,ABT Oct 1879,,,,M
+Person-I7490,Ailcy /Roberts/,Ailcy,Roberts,18 Dec 1829,,,,F
+Person-I7491,John /Roberts/,John,Roberts,13 Nov 1827,,,,M
+Person-I7493,Malinda /England/,Malinda,England,7 Mar 1815,,1852,,F
+Person-I7494,Absolem /Williams/,Absolem,Williams,,,,,M
+Person-I7495,Jonathan /England/,Jonathan,England,15 Feb 1817,,,,M
+Person-I7496,Tilman /England/,Tilman,England,20 May 1819,,,,M
+Person-I7497,Martin /England/,Martin,England,8 Jul 1821,,AFT 1880,,M
+Person-I7498,Henry /Moore/,Henry,Moore,21 Jan 1823,,,,M
+Person-I7499,Adaline /Moore/,Adaline,Moore,13 Aug 1824,,,,F
+Person-I750,Bessie DeWitt /Wagster/,Bessie DeWitt,Wagster,8 May 1889,,15 Jan 1981,,F
+Person-I751,Nora /Wagster/,Nora,Wagster,,,,,F
+Person-I752,Lee Athel L.A. /Redd/,Lee Athel L.A.,Redd,2 Dec 1882,,Oct 1976,,M
+Person-I753,Bill /Wagster/,Bill,Wagster,,,,,M
+Person-I754,Joe /Wagster/,Joe,Wagster,,,,,M
+Person-I755,Mary /Wagster/,Mary,Wagster,,,,,F
+Person-I757,Grace /Redd/,Grace,Redd,1925,,,,F
+Person-I758,"John Ivey /Pierce/ , Jr.",,,,,,,M
+Person-I759,John Ivey /Pierce/ Sr.,,,,,,,M
+Person-I760,Mary Faye /Pierce/,Mary Faye,Pierce,25 Dec 1924,,,,F
+Person-I761,Len Stuckey /Jones/,Len Stuckey,Jones,9 Nov 1912,,21 Sep 1978,,M
+Person-I762,Living /Jones/,Living,Jones,,,,,M
+Person-I763,Living /Jones/,Living,Jones,,,,,F
+Person-I7791,Stanley Thurman /Nichols/,Stanley Thurman,Nichols,16 Sep 1896,,4 Jan 1953,,M
+Person-I7792,Mattie Mae /Nichols/,Mattie Mae,Nichols,11 Jan 1899,,14 Feb 1968,,F
+Person-I7793,Mary Elma /Nichols/,Mary Elma,Nichols,16 Nov 1906,,,,F
+Person-I7794,Eley Hue /Nunley/,Eley Hue,Nunley,23 Jul 1879,,11 Nov 1954,,M
+Person-I7795,Willie D. //,,,31 Mar 1900,,4 Jan 1985,,F
+Person-I7796,Vesta /Nichols/,Vesta,Nichols,2 Feb 1902,,,,F
+Person-I7797,Henry /Perryman/,Henry,Perryman,,,,,M
+Person-I7798,Roy /Williams/,Roy,Williams,,,,,M
+Person-I7799,Logan /McGee/,Logan,McGee,,,,,M
+Person-I7874,John A. /Foster/,John A.,Foster,6 Jun 1928,,,,M
+Person-I7875,Malina Christine /Foster/,Malina Christine,Foster,25 May 1915,,,,F
+Person-I7876,Infant /Foster/,Infant,Foster,18 Jul 1910,,18 Jul 1910,,U
+Person-I7877,Nettie Elizabeth /Mills/,Nettie Elizabeth,Mills,20 Feb 1927,,1 Aug 1996,,F
+Person-I7878,Living /Foster/,Living,Foster,,,,,F
+Person-I7879,Living /Foster/,Living,Foster,,,,,M
+Person-I7880,Living /Clayton/,Living,Clayton,,,,,F
+Person-I7881,Living /Foster/,Living,Foster,,,,,M
+Person-I7900,Carl Freeman /King/,Carl Freeman,King,26 Jan 1938,,26 Jan 1938,,M
+Person-I7901,Living /King/,Living,King,,,,,M
+Person-I7902,Living /King/,Living,King,,,,,M
+Person-I7903,Living /King/,Living,King,,,,,F
+Person-I7904,Charles Leonard /King/,Charles Leonard,King,18 Mar 1945,,12 May 1946,,M
+Person-I7905,Opal June /King/,Opal June,King,24 Dec 1946,,24 Dec 1946,,F
+Person-I7906,Living /King/,Living,King,,,,,M
+Person-I7907,Living /King/,Living,King,,,,,F
+Person-I7908,Living /King/,Living,King,,,,,F
+Person-I795,John C. /Gilbert/ Jr.,,,8 Mar 1839,,18 Jan 1863,,M
+Person-I796,John R. /Wagster/,John R.,Wagster,2 Apr 1864,,3 Oct 1928,,M
+Person-I7992,Gertie Lee /King/,Gertie Lee,King,19 Apr 1910,,1 Jan 1947,,F
+Person-I7993,Samuel Edward /King/,Samuel Edward,King,26 Sep 1911,,4 Sep 1949,,M
+Person-I7994,Maudie Lousie /King/,Maudie Lousie,King,3 May 1913,,,,F
+Person-I7995,Laura Christine /King/,Laura Christine,King,1915,,1916,,F
+Person-I7996,Robert T. /King/,Robert T.,King,27 Mar 1919,,1937,,M
+Person-I7997,Mattie Jewel /King/,Mattie Jewel,King,7 Apr 1921,,,,F
+Person-I7998,Paul Laymond /King/,Paul Laymond,King,25 Aug 1925,,19 Jul 1990,,M
+Person-I7999,Elizabeth Ann /King/,Elizabeth Ann,King,20 Jul 1928,,1 Feb 1982,,F
+Person-I8000,Lee Ross /Tillett/,Lee Ross,Tillett,2 Jan 1902,,1 Sep 1998,,M
+Person-I8001,Tommy Ed /Ward/,Tommy Ed,Ward,,,,,M
+Person-I8002,Thomas L. /Harris/,Thomas L.,Harris,,,,,M
+Person-I8003,Charles /Brown/,Charles,Brown,,,,,M
+Person-I8004,Lois /Holt/,Lois,Holt,,,,,F
+Person-I8005,Connie //,,,,,,,F
+Person-I8006,Thomas /Neeley/,Thomas,Neeley,,,,,M
+Person-I8007,Lewis /Clark/,Lewis,Clark,,,,,M
+Person-I819,Tom /Freeman/,Tom,Freeman,,,,,M
+Person-I820,"Sarah Elizabeth ""Besh"" /Reese/","Sarah Elizabeth ""Besh""",Reese,1 Aug 1846,,28 Sep 1905,,F
+Person-I827,Sarah Elizabeth /Redd/,Sarah Elizabeth,Redd,10 Nov 1914,,12 Nov 1915,,F
+Person-I8619,Edward Henry /Prosser/ Jr.,,,7 Dec 1913,,,,M
+Person-I8622,Maudie Ruth /Whorley/,Maudie Ruth,Whorley,30 May 1920,,30 Aug 1985,,F
+Person-I8623,Living /Prosser/,Living,Prosser,,,,,M
+Person-I8960,/Collier/,,,,,,,M
+Person-I8963,Living /Bledsoe/,Living,Bledsoe,,,,,F
+Person-I8965,/Wright/,,,,,,,M
+Person-I8966,/Lewis/,,,,,,,M
+Person-I8967,Living /Henderson/,Living,Henderson,,,,,M
+Person-I8968,Living /Henderson/,Living,Henderson,,,,,M
+Person-I8969,Living /Kopepasah/,Living,Kopepasah,,,,,M
+Person-I8970,Living /Burns/,Living,Burns,,,,,M
+Person-I8971,Living /Burns/,Living,Burns,,,,,F
+Person-I8972,Living /Burns/,Living,Burns,,,,,F
+Person-I8973,Living /Newman/,Living,Newman,,,,,F
+Person-I8974,Don /Gillispie/,Don,Gillispie,,,,,M
+Person-I8975,Marvin /Henderson/,Marvin,Henderson,,,,,M
+Person-I8976,Thomas J. /Kelly/,Thomas J.,Kelly,,,1988,,M
+Person-I8977,Living /Kopepasah/,Living,Kopepasah,,,,,M
+Person-I8978,Alfred /Kopepasah/,Alfred,Kopepasah,,,,,M
+Person-I8979,Mary Madaline /Moore/,Mary Madaline,Moore,1 Oct 1928,,,,F
+Person-I8980,/Thompson/,,,,,,,M
+Person-I8981,Richard C. /Trammell/,Richard C.,Trammell,,,,,M
+Person-I8982,John Henry /Trammell/,John Henry,Trammell,,,,,M
+Person-I8984,Living /Burns/,Living,Burns,,,,,M
+Person-I8985,Birdie Lois /Burns/,Birdie Lois,Burns,3 Dec 1925,,,,F
+Person-I8986,Norma Lee /Burns/,Norma Lee,Burns,8 May 1929,,,,F
+Person-I8987,Effie Rosetta /Burns/,Effie Rosetta,Burns,29 Sep 1923,,,,F
+Person-I8988,Raymond Haskell /Burns/,Raymond Haskell,Burns,3 Jul 1920,,,,M
+Person-I8989,Thomas Roscoe /Burns/,Thomas Roscoe,Burns,,", , TX",,", , TX",M
+Person-I8990,Opal Delia /Burns/,Opal Delia,Burns,6 Feb,,1929,,F
+Person-I8991,Eva Mae /Burns/,Eva Mae,Burns,8 Feb,,27 Apr 1987,,F
+Person-I8992,Eula Mae /Burns/,Eula Mae,Burns,25 Sep 1908,,,,F
+Person-I8993,Living /Burns/,Living,Burns,,,,,M
+Person-I8996,Living /Blythe/,Living,Blythe,,,,,M
+Person-I8997,Living /Ramsey/,Living,Ramsey,,,,,F
+Person-I8998,Living /Ramsey/,Living,Ramsey,,,,,M
+Person-I8999,Living /Ramsey/,Living,Ramsey,,,,,F
+Person-I9,Leonard Harold /Sorrells/,Leonard Harold,Sorrells,10 Oct 1933,,26 Mar 1983,,M
+Person-I9000,Billy /Ramsey/,Billy,Ramsey,6 Apr 1927,,,,M
+Person-I9001,Living /Burns/,Living,Burns,,,,,F
+Person-I9002,Ruth //,,,,,,,F
+Person-I9003,Madie Lou //,,,,,,,F
+Person-I9004,Jack /Barker/,Jack,Barker,,,,,M
+Person-I9005,Albert /Hidler/,Albert,Hidler,,,,,M
+Person-I9006,Byron /Holley/,Byron,Holley,,,,,M
+Person-I9007,Ocie /Engleman/,Ocie,Engleman,ABT 1894,,,,M
+Person-I9008,Henry /Kerr/,Henry,Kerr,,,,,M
+Person-I9009,Thelma Marcilean /Burns/,Thelma Marcilean,Burns,1 Sep 1925,,,,F
+Person-I9010,George Gilbert /Burns/,George Gilbert,Burns,25 Dec 1921,,,,M
+Person-I9011,Porter Wilson /Burns/,Porter Wilson,Burns,11 Oct 1918,,,,M
+Person-I9012,Coy Earl /Burns/,Coy Earl,Burns,6 Sep 1917,,12 Sep 1917,,M
+Person-I9013,LeRoy Harris /Burns/,LeRoy Harris,Burns,8 Oct 1915,,,,M
+Person-I9014,Rufus LaRue /Burns/,Rufus LaRue,Burns,1 Apr 1912,,,,M
+Person-I9015,James Andrew /Burns/,James Andrew,Burns,16 Sep 1911,,,,M
+Person-I9016,Beulah Juanita /Burns/,Beulah Juanita,Burns,14 Dec 1906,,,,F
+Person-I9017,Jewel Marie /Burns/,Jewel Marie,Burns,19 Mar 1906,,26 Jun 1981,,F
+Person-I9018,Willie Jo /Burns/,Willie Jo,Burns,26 Apr 1904,,2 Apr 1983,,F
+Person-I9019,Bessie Georgia /Burns/,Bessie Georgia,Burns,1 Feb 1902,,26 Mar 1983,,F
+Person-I9020,Margaret Adaline /Burns/,Margaret Adaline,Burns,18 Nov 1900,,,,F
+Person-I9021,Nathan /Collier/,Nathan,Collier,,,,,M
+Person-I9022,Henry Etta /Collier/,Henry Etta,Collier,22 Jun 1893,,20 Feb 1979,,F
+Person-I9023,Ernest /Hicks/,Ernest,Hicks,,,,,M
+Person-I9024,Living /Nichols/,Living,Nichols,,,,,F
+Person-I9025,/Kennion/,,,,,,,M
+Person-I9026,Hazel /Sanders/,Hazel,Sanders,,,,,F
+Person-I9027,Rosemary /Keland/,Rosemary,Keland,,,,,F
+Person-I9028,Benny /Southworth/,Benny,Southworth,,,,,M
+Person-I9029,Johnny /Walker/,Johnny,Walker,,,,,M
+Person-I9030,J. A. /Underwood/,J. A.,Underwood,,,,,M
+Person-I9031,Alberta D. /Burns/,Alberta D.,Burns,,,,,F
+Person-I9032,Mattie /Miller/,Mattie,Miller,,", , TN",,", , TN",F
+Person-I9033,Gentry Willard /Burns/,Gentry Willard,Burns,7 Jan 1916,,,,M
+Person-I9034,Robert William /Burns/,Robert William,Burns,1923,,,,M
+Person-I9035,Geraldine Imogene /Burns/,Geraldine Imogene,Burns,1919,,,,F
+Person-I9036,Hattie Opal /Burns/,Hattie Opal,Burns,1910,,,,F
+Person-I9037,Wendell Margaret /Burns/,Wendell Margaret,Burns,15 May 1913,,,,F
+Person-I9038,Harriet Savannah /Dennis/,Harriet Savannah,Dennis,18 Aug 1884,,25 Feb 1952,,F
+Person-I9039,Minnie W. /Rose/,Minnie W.,Rose,30 May 1883,,7 Dec 1966,,F
+Person-I9040,Helen //,,,,,,,F
+Person-I9053,Mae /Burns/,Mae,Burns,,", , TN",,"Garland, Dallas, TX",F
+Person-I9054,James Thomas /Burns/,James Thomas,Burns,7 Jan 1884,,24 Jan 1966,,M
+Person-I9055,Robert Albert /Burns/,Robert Albert,Burns,18 Apr 1882,,11 Jun 1963,,M
+Person-I9057,William Dalby /Burns/,William Dalby,Burns,1878,,,"Greenville, Hunt, TX",M
+Person-I9058,Elizabeth Delia /Burns/,Elizabeth Delia,Burns,1876,,,,F
+Person-I9059,Rufus A. /Burns/,Rufus A.,Burns,Apr 1873,,17 Oct 1958,,M
+Person-I9061,Hank /Piotrak/,Hank,Piotrak,,,,,M
+Person-I9062,Living /Rush/,Living,Rush,,,,,F
+Person-I9063,Everette /Rush/,Everette,Rush,,"Shelbyville, Bedford, TN",,,M
+Person-I9064,Ruth /Turner/,Ruth,Turner,19 Jun 1910,,May 1975,,F
+Person-I9065,John Thomas /Turner/,John Thomas,Turner,,", , TN",,,M
+Person-I9079,Everette Jenkins /Bledsoe/,Everette Jenkins,Bledsoe,29 Oct 1904,,,,M
+Person-I9080,Fannie /Burns/,Fannie,Burns,,", , TN",,,F
+Person-I9081,James D. /Bledsoe/,James D.,Bledsoe,1869,,18 Mar 1909,,M
+Person-I914,Ina D /Barham/,Ina D,Barham,19 Feb 1906,,,,F
+Person-I915,Mary Chrystaline /Redd/,Mary Chrystaline,Redd,14 Jan 1906,,,,F
+Person-I940,Willie Thomas /Warren/,Willie Thomas,Warren,,,,,M
+Person-I941,George Everett /Redd/,George Everett,Redd,25 Mar 1903,,Oct 1983,,M
+Person-I942,James Vernon /Redd/ Sr.,,,8 Oct 1906,,20 Sep 1971,,M
+Person-I943,Virginia /Moore/,Virginia,Moore,,,,,F
+Person-I945,Lura /Higgs/,Lura,Higgs,,,,,F
+Person-I946,James Vernon /Redd/ Jr.,,,25 Dec 1937,,1 Apr 1995,,M
+Person-I947,Living /Redd/,Living,Redd,,,,,M
+Person-I948,Mabel Irene /Redd/,Mabel Irene,Redd,25 Apr 1911,,1930,,F
+Person-I9511,Tempie Ann /Moore/,Tempie Ann,Moore,1859,,12 Oct 1895,,F
+Person-I958,"Massey ""Mac"" Athel /Redd/","Massey ""Mac"" Athel",Redd,20 Oct 1909,,BEF 1976,,M
+Person-I959,Joe Billy /Redd/,Joe Billy,Redd,1915,,,,M
+Person-I960,"Harold ""Bungle"" /Redd/","Harold ""Bungle""",Redd,1918,,BEF 1976,,M
+Person-I961,Wallace /Redd/,Wallace,Redd,1919,,,,M
+Person-I962,Elizabeth /Redd/,Elizabeth,Redd,1922,,,,F
+Person-I963,Living /Pierce/,Living,Pierce,,,,,F

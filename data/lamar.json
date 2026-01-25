@@ -1,0 +1,6669 @@
+{
+    "metadata": {
+        "source": "@S1535@",
+        "lastUpdated": "26 JUN 2013",
+        "charset": "ANSEL",
+        "gedcomVersion": "5.5"
+    },
+    "people": [
+        {
+            "gedcomId": "@I103276@",
+            "wikitreeId": "Person-I103276",
+            "name": {
+                "full": "Infant \/Paulk\/",
+                "given": "Infant",
+                "surname": "Paulk"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1 OCT 1903"
+            },
+            "death": {
+                "date": "1 OCT 1903"
+            },
+            "familyAsChild": [
+                "@F14038@"
+            ]
+        },
+        {
+            "gedcomId": "@I26759@",
+            "wikitreeId": "Person-I26759",
+            "name": {
+                "full": "Emma Carolyn \/Paulk\/",
+                "given": "Emma Carolyn",
+                "surname": "Paulk"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1926"
+            },
+            "familyAsChild": [
+                "@F14025@"
+            ]
+        },
+        {
+            "gedcomId": "@I26760@",
+            "wikitreeId": "Person-I26760",
+            "name": {
+                "full": "Oscar Howell \/Barnhill\/",
+                "given": "Oscar Howell",
+                "surname": "Barnhill"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1912"
+            },
+            "death": {
+                "date": "1987"
+            },
+            "familyAsSpouse": [
+                "@F14548@"
+            ]
+        },
+        {
+            "gedcomId": "@I38239@",
+            "wikitreeId": "Person-I38239",
+            "name": {
+                "full": "Alice Beulah \/Paulk\/",
+                "given": "Alice Beulah",
+                "surname": "Paulk"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "28 DEC 1912"
+            },
+            "death": {
+                "date": "6 JAN 1978"
+            },
+            "familyAsSpouse": [
+                "@F14548@"
+            ],
+            "familyAsChild": [
+                "@F14025@"
+            ]
+        },
+        {
+            "gedcomId": "@I38240@",
+            "wikitreeId": "Person-I38240",
+            "name": {
+                "full": "William Lee \/Paulk\/",
+                "given": "William Lee",
+                "surname": "Paulk"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "27 JUN 1871"
+            },
+            "death": {
+                "date": "30 APR 1929"
+            },
+            "familyAsSpouse": [
+                "@F14025@"
+            ],
+            "familyAsChild": [
+                "@F14026@"
+            ]
+        },
+        {
+            "gedcomId": "@I38241@",
+            "wikitreeId": "Person-I38241",
+            "name": {
+                "full": "Laura Louemma \/Hitchcock\/",
+                "given": "Laura Louemma",
+                "surname": "Hitchcock"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "14 APR 1878"
+            },
+            "death": {
+                "date": "12 JAN 1936"
+            },
+            "familyAsSpouse": [
+                "@F14025@"
+            ],
+            "familyAsChild": [
+                "@F9642@"
+            ]
+        },
+        {
+            "gedcomId": "@I38242@",
+            "wikitreeId": "Person-I38242",
+            "name": {
+                "full": "J. Wilbur \/Paulk\/",
+                "given": "J. Wilbur",
+                "surname": "Paulk"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "9 NOV 1903"
+            },
+            "death": {
+                "date": "22 JAN 1973"
+            },
+            "familyAsSpouse": [
+                "@F14028@"
+            ],
+            "familyAsChild": [
+                "@F14025@"
+            ]
+        },
+        {
+            "gedcomId": "@I38243@",
+            "wikitreeId": "Person-I38243",
+            "name": {
+                "full": "Mary Eula \/Paulk\/",
+                "given": "Mary Eula",
+                "surname": "Paulk"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "29 SEP 1905"
+            },
+            "death": {
+                "date": "24 APR 1940"
+            },
+            "familyAsChild": [
+                "@F14025@"
+            ]
+        },
+        {
+            "gedcomId": "@I38244@",
+            "wikitreeId": "Person-I38244",
+            "name": {
+                "full": "Katherine Elizabeth \/Paulk\/",
+                "given": "Katherine Elizabeth",
+                "surname": "Paulk"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "18 MAY 1910"
+            },
+            "death": {
+                "date": "3 MAR 1962"
+            },
+            "familyAsSpouse": [
+                "@F14029@"
+            ],
+            "familyAsChild": [
+                "@F14025@"
+            ]
+        },
+        {
+            "gedcomId": "@I38245@",
+            "wikitreeId": "Person-I38245",
+            "name": {
+                "full": "Edna \"Eva\" Emma \/Paulk\/",
+                "given": "Edna \"Eva\" Emma",
+                "surname": "Paulk"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "6 JUN 1915"
+            },
+            "death": {
+                "date": "5 MAY 1998"
+            },
+            "familyAsSpouse": [
+                "@F14030@"
+            ],
+            "familyAsChild": [
+                "@F14025@"
+            ]
+        },
+        {
+            "gedcomId": "@I38246@",
+            "wikitreeId": "Person-I38246",
+            "name": {
+                "full": "Hugh Clay \/Paulk\/",
+                "given": "Hugh Clay",
+                "surname": "Paulk"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "27 OCT 1917"
+            },
+            "familyAsChild": [
+                "@F14025@"
+            ]
+        },
+        {
+            "gedcomId": "@I38247@",
+            "wikitreeId": "Person-I38247",
+            "name": {
+                "full": "Laura Frances \/Paulk\/",
+                "given": "Laura Frances",
+                "surname": "Paulk"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "20 JAN 1921"
+            },
+            "familyAsSpouse": [
+                "@F14031@"
+            ],
+            "familyAsChild": [
+                "@F14025@"
+            ]
+        },
+        {
+            "gedcomId": "@I38248@",
+            "wikitreeId": "Person-I38248",
+            "name": {
+                "full": "James Isaac \/Paulk\/",
+                "given": "James Isaac",
+                "surname": "Paulk"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "21 MAR 1908"
+            },
+            "death": {
+                "date": "20 AUG 1912"
+            },
+            "familyAsChild": [
+                "@F14025@"
+            ]
+        },
+        {
+            "gedcomId": "@I38249@",
+            "wikitreeId": "Person-I38249",
+            "name": {
+                "full": "Ruby \/Young\/",
+                "given": "Ruby",
+                "surname": "Young"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "C1905"
+            },
+            "familyAsSpouse": [
+                "@F14028@"
+            ]
+        },
+        {
+            "gedcomId": "@I38250@",
+            "wikitreeId": "Person-I38250",
+            "name": {
+                "full": "Living \/Paulk\/",
+                "given": "Living",
+                "surname": "Paulk"
+            },
+            "sex": "M",
+            "familyAsChild": [
+                "@F14028@"
+            ]
+        },
+        {
+            "gedcomId": "@I38251@",
+            "wikitreeId": "Person-I38251",
+            "name": {
+                "full": "Living \/Paulk\/",
+                "given": "Living",
+                "surname": "Paulk"
+            },
+            "sex": "F",
+            "familyAsChild": [
+                "@F14028@"
+            ]
+        },
+        {
+            "gedcomId": "@I38252@",
+            "wikitreeId": "Person-I38252",
+            "name": {
+                "full": "Alexander Carmack \/McDougal\/",
+                "given": "Alexander Carmack",
+                "surname": "McDougal"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "26 AUG 1901"
+            },
+            "death": {
+                "date": "2 AUG 1954"
+            },
+            "familyAsSpouse": [
+                "@F14029@"
+            ]
+        },
+        {
+            "gedcomId": "@I38253@",
+            "wikitreeId": "Person-I38253",
+            "name": {
+                "full": "Gabriel \/Ghignatti\/",
+                "given": "Gabriel",
+                "surname": "Ghignatti"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "C1915"
+            },
+            "familyAsSpouse": [
+                "@F14030@"
+            ]
+        },
+        {
+            "gedcomId": "@I38254@",
+            "wikitreeId": "Person-I38254",
+            "name": {
+                "full": "Albert L. \/Callicott\/",
+                "given": "Albert L.",
+                "surname": "Callicott"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "18 FEB 1920"
+            },
+            "death": {
+                "date": "12 SEP 1988"
+            },
+            "familyAsSpouse": [
+                "@F14031@"
+            ]
+        },
+        {
+            "gedcomId": "@I38255@",
+            "wikitreeId": "Person-I38255",
+            "name": {
+                "full": "Living \/Callicott\/",
+                "given": "Living",
+                "surname": "Callicott"
+            },
+            "sex": "M",
+            "familyAsChild": [
+                "@F14031@"
+            ]
+        },
+        {
+            "gedcomId": "@I38256@",
+            "wikitreeId": "Person-I38256",
+            "name": {
+                "full": "James Callicott \/Paulk\/",
+                "given": "James Callicott",
+                "surname": "Paulk"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "11 JUL 1846"
+            },
+            "death": {
+                "date": "18 DEC 1879"
+            },
+            "familyAsSpouse": [
+                "@F14026@"
+            ],
+            "familyAsChild": [
+                "@F14032@"
+            ]
+        },
+        {
+            "gedcomId": "@I38257@",
+            "wikitreeId": "Person-I38257",
+            "name": {
+                "full": "Mary Leona \/Whitten\/",
+                "given": "Mary Leona",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "23 APR 1851"
+            },
+            "death": {
+                "date": "28 JUL 1922"
+            },
+            "familyAsSpouse": [
+                "@F14026@",
+                "@F14033@"
+            ],
+            "familyAsChild": [
+                "@F14034@"
+            ]
+        },
+        {
+            "gedcomId": "@I38258@",
+            "wikitreeId": "Person-I38258",
+            "name": {
+                "full": "Frank Glen \/Paulk\/",
+                "given": "Frank Glen",
+                "surname": "Paulk"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "17 DEC 1900"
+            },
+            "death": {
+                "date": "19 APR 1929"
+            },
+            "familyAsSpouse": [
+                "@F14035@"
+            ],
+            "familyAsChild": [
+                "@F14025@"
+            ]
+        },
+        {
+            "gedcomId": "@I38259@",
+            "wikitreeId": "Person-I38259",
+            "name": {
+                "full": "Carrie \/Fletcher\/",
+                "given": "Carrie",
+                "surname": "Fletcher"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "C1905"
+            },
+            "familyAsSpouse": [
+                "@F14035@"
+            ]
+        },
+        {
+            "gedcomId": "@I38260@",
+            "wikitreeId": "Person-I38260",
+            "name": {
+                "full": "Carolyn \/Paulk\/",
+                "given": "Carolyn",
+                "surname": "Paulk"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "21 OCT 1926"
+            },
+            "death": {
+                "date": "9 AUG 1991"
+            },
+            "familyAsSpouse": [
+                "@F14036@",
+                "@F14037@"
+            ],
+            "familyAsChild": [
+                "@F14035@"
+            ]
+        },
+        {
+            "gedcomId": "@I38261@",
+            "wikitreeId": "Person-I38261",
+            "name": {
+                "full": "John Chester \/Paulk\/",
+                "given": "John Chester",
+                "surname": "Paulk"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "24 DEC 1876"
+            },
+            "death": {
+                "date": "14 AUG 1971"
+            },
+            "familyAsSpouse": [
+                "@F14038@"
+            ],
+            "familyAsChild": [
+                "@F14026@"
+            ]
+        },
+        {
+            "gedcomId": "@I38262@",
+            "wikitreeId": "Person-I38262",
+            "name": {
+                "full": "Charles Franklin \/Paulk\/",
+                "given": "Charles Franklin",
+                "surname": "Paulk"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "10 DEC 1874"
+            },
+            "familyAsSpouse": [
+                "@F14039@"
+            ],
+            "familyAsChild": [
+                "@F14026@"
+            ]
+        },
+        {
+            "gedcomId": "@I38263@",
+            "wikitreeId": "Person-I38263",
+            "name": {
+                "full": "Melinda Elizabeth \/Paulk\/",
+                "given": "Melinda Elizabeth",
+                "surname": "Paulk"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "21 DEC 1872"
+            },
+            "death": {
+                "date": "16 JUN 1947"
+            },
+            "familyAsSpouse": [
+                "@F14040@"
+            ],
+            "familyAsChild": [
+                "@F14026@"
+            ]
+        },
+        {
+            "gedcomId": "@I38264@",
+            "wikitreeId": "Person-I38264",
+            "name": {
+                "full": "David Carter \/Paulk\/",
+                "given": "David Carter",
+                "surname": "Paulk"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "12 SEP 1878"
+            },
+            "death": {
+                "date": "15 MAR 1912"
+            },
+            "familyAsSpouse": [
+                "@F14041@"
+            ],
+            "familyAsChild": [
+                "@F14026@"
+            ]
+        },
+        {
+            "gedcomId": "@I38265@",
+            "wikitreeId": "Person-I38265",
+            "name": {
+                "full": "Andrew \/Scharnagel\/",
+                "given": "Andrew",
+                "surname": "Scharnagel"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "22 DEC 1871"
+            },
+            "death": {
+                "date": "16 FEB 1915"
+            },
+            "familyAsSpouse": [
+                "@F14040@"
+            ],
+            "familyAsChild": [
+                "@F38302@"
+            ]
+        },
+        {
+            "gedcomId": "@I38266@",
+            "wikitreeId": "Person-I38266",
+            "name": {
+                "full": "Verdeller \/Hitchcock\/",
+                "given": "Verdeller",
+                "surname": "Hitchcock"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "10 DEC 1875"
+            },
+            "death": {
+                "date": "28 MAR 1907"
+            },
+            "familyAsSpouse": [
+                "@F14039@"
+            ],
+            "familyAsChild": [
+                "@F9642@"
+            ]
+        },
+        {
+            "gedcomId": "@I38267@",
+            "wikitreeId": "Person-I38267",
+            "name": {
+                "full": "Samuel Lee \/Paulk\/",
+                "given": "Samuel Lee",
+                "surname": "Paulk"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "5 JAN 1907"
+            },
+            "death": {
+                "date": "8 FEB 1989"
+            },
+            "familyAsSpouse": [
+                "@F14042@"
+            ],
+            "familyAsChild": [
+                "@F14038@"
+            ]
+        },
+        {
+            "gedcomId": "@I38268@",
+            "wikitreeId": "Person-I38268",
+            "name": {
+                "full": "Embree Edward \/Paulk\/",
+                "given": "Embree Edward",
+                "surname": "Paulk"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1905 - 1906"
+            },
+            "familyAsChild": [
+                "@F14038@"
+            ]
+        },
+        {
+            "gedcomId": "@I38269@",
+            "wikitreeId": "Person-I38269",
+            "name": {
+                "full": "James Joseph \/Paulk\/",
+                "given": "James Joseph",
+                "surname": "Paulk"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "3 DEC 1913"
+            },
+            "death": {
+                "date": "13 SEP 1954"
+            },
+            "familyAsSpouse": [
+                "@F14043@"
+            ],
+            "familyAsChild": [
+                "@F14038@"
+            ]
+        },
+        {
+            "gedcomId": "@I38270@",
+            "wikitreeId": "Person-I38270",
+            "name": {
+                "full": "Norma Inez \/Scharnagel\/",
+                "given": "Norma Inez",
+                "surname": "Scharnagel"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "28 JUL 1906"
+            },
+            "death": {
+                "date": "19 DEC 1978"
+            },
+            "familyAsSpouse": [
+                "@F14044@"
+            ],
+            "familyAsChild": [
+                "@F14040@"
+            ]
+        },
+        {
+            "gedcomId": "@I38271@",
+            "wikitreeId": "Person-I38271",
+            "name": {
+                "full": "Mary \/Scharnagel\/",
+                "given": "Mary",
+                "surname": "Scharnagel"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "4 JUN 1899"
+            },
+            "death": {
+                "date": "14 SEP 1937"
+            },
+            "familyAsChild": [
+                "@F14040@"
+            ]
+        },
+        {
+            "gedcomId": "@I38272@",
+            "wikitreeId": "Person-I38272",
+            "name": {
+                "full": "Clara Inez \/Paulk\/",
+                "given": "Clara Inez",
+                "surname": "Paulk"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1904"
+            },
+            "familyAsChild": [
+                "@F14039@"
+            ]
+        },
+        {
+            "gedcomId": "@I38273@",
+            "wikitreeId": "Person-I38273",
+            "name": {
+                "full": "Ottie \/Paulk\/",
+                "given": "Ottie",
+                "surname": "Paulk"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1895 - 1905"
+            },
+            "familyAsChild": [
+                "@F14041@"
+            ]
+        },
+        {
+            "gedcomId": "@I38274@",
+            "wikitreeId": "Person-I38274",
+            "name": {
+                "full": "Bess \/Paulk\/",
+                "given": "Bess",
+                "surname": "Paulk"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1895 - 1905"
+            },
+            "familyAsChild": [
+                "@F14041@"
+            ]
+        },
+        {
+            "gedcomId": "@I38275@",
+            "wikitreeId": "Person-I38275",
+            "name": {
+                "full": "George Andrew \/Willis\/",
+                "given": "George Andrew",
+                "surname": "Willis"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "28 FEB 1847"
+            },
+            "death": {
+                "date": "2 APR 1917"
+            },
+            "familyAsSpouse": [
+                "@F14033@"
+            ],
+            "familyAsChild": [
+                "@F14045@"
+            ]
+        },
+        {
+            "gedcomId": "@I38276@",
+            "wikitreeId": "Person-I38276",
+            "name": {
+                "full": "Ottie Boone \/Willis\/",
+                "given": "Ottie Boone",
+                "surname": "Willis"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "11 JAN 1884"
+            },
+            "death": {
+                "date": "2 NOV 1967"
+            },
+            "familyAsSpouse": [
+                "@F14046@"
+            ],
+            "familyAsChild": [
+                "@F14033@"
+            ]
+        },
+        {
+            "gedcomId": "@I38277@",
+            "wikitreeId": "Person-I38277",
+            "name": {
+                "full": "Emmett Houston \/Willis\/",
+                "given": "Emmett Houston",
+                "surname": "Willis"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "30 APR 1887"
+            },
+            "death": {
+                "date": "9 DEC 1972"
+            },
+            "familyAsSpouse": [
+                "@F14047@"
+            ],
+            "familyAsChild": [
+                "@F14033@"
+            ]
+        },
+        {
+            "gedcomId": "@I38278@",
+            "wikitreeId": "Person-I38278",
+            "name": {
+                "full": "Gilbert Whitten \/Willis\/",
+                "given": "Gilbert Whitten",
+                "surname": "Willis"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "24 SEP 1891"
+            },
+            "death": {
+                "date": "29 MAR 1971"
+            },
+            "familyAsSpouse": [
+                "@F14048@"
+            ],
+            "familyAsChild": [
+                "@F14033@"
+            ]
+        },
+        {
+            "gedcomId": "@I38279@",
+            "wikitreeId": "Person-I38279",
+            "name": {
+                "full": "Albert Gilteroy \/Willis\/",
+                "given": "Albert Gilteroy",
+                "surname": "Willis"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "10 AUG 1894"
+            },
+            "death": {
+                "date": "3 NOV 1973"
+            },
+            "familyAsSpouse": [
+                "@F14049@"
+            ],
+            "familyAsChild": [
+                "@F14033@"
+            ]
+        },
+        {
+            "gedcomId": "@I38280@",
+            "wikitreeId": "Person-I38280",
+            "name": {
+                "full": "Elizabeth \/Doughty\/",
+                "given": "Elizabeth",
+                "surname": "Doughty"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "17 FEB 1890"
+            },
+            "death": {
+                "date": "22 NOV 1987"
+            },
+            "familyAsSpouse": [
+                "@F14046@"
+            ]
+        },
+        {
+            "gedcomId": "@I38281@",
+            "wikitreeId": "Person-I38281",
+            "name": {
+                "full": "George \/Willis\/",
+                "given": "George",
+                "surname": "Willis"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "10 AUG 1911"
+            },
+            "death": {
+                "date": "20 NOV 1990"
+            },
+            "familyAsSpouse": [
+                "@F14050@"
+            ],
+            "familyAsChild": [
+                "@F14046@"
+            ]
+        },
+        {
+            "gedcomId": "@I38282@",
+            "wikitreeId": "Person-I38282",
+            "name": {
+                "full": "Douglas \/Willis\/",
+                "given": "Douglas",
+                "surname": "Willis"
+            },
+            "sex": "M",
+            "familyAsChild": [
+                "@F14046@"
+            ]
+        },
+        {
+            "gedcomId": "@I38283@",
+            "wikitreeId": "Person-I38283",
+            "name": {
+                "full": "Louise \/Willis\/",
+                "given": "Louise",
+                "surname": "Willis"
+            },
+            "sex": "F",
+            "familyAsChild": [
+                "@F14046@"
+            ]
+        },
+        {
+            "gedcomId": "@I38284@",
+            "wikitreeId": "Person-I38284",
+            "name": {
+                "full": "Carrie \/Willis\/",
+                "given": "Carrie",
+                "surname": "Willis"
+            },
+            "sex": "F",
+            "familyAsChild": [
+                "@F14046@"
+            ]
+        },
+        {
+            "gedcomId": "@I38285@",
+            "wikitreeId": "Person-I38285",
+            "name": {
+                "full": "Ada \/Love\/",
+                "given": "Ada",
+                "surname": "Love"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "20 JUN 1889"
+            },
+            "death": {
+                "date": "17 JUL 1934"
+            },
+            "familyAsSpouse": [
+                "@F14047@"
+            ]
+        },
+        {
+            "gedcomId": "@I38286@",
+            "wikitreeId": "Person-I38286",
+            "name": {
+                "full": "Henry Arthur \/Willis\/",
+                "given": "Henry Arthur",
+                "surname": "Willis"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "28 SEP 1911"
+            },
+            "familyAsSpouse": [
+                "@F14051@"
+            ],
+            "familyAsChild": [
+                "@F14047@"
+            ]
+        },
+        {
+            "gedcomId": "@I38287@",
+            "wikitreeId": "Person-I38287",
+            "name": {
+                "full": "Ruth N. \/Willis\/",
+                "given": "Ruth N.",
+                "surname": "Willis"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "31 JAN 1913"
+            },
+            "familyAsSpouse": [
+                "@F14052@"
+            ],
+            "familyAsChild": [
+                "@F14047@"
+            ]
+        },
+        {
+            "gedcomId": "@I38288@",
+            "wikitreeId": "Person-I38288",
+            "name": {
+                "full": "Norma \/Willis\/",
+                "given": "Norma",
+                "surname": "Willis"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "13 DEC 1917"
+            },
+            "familyAsChild": [
+                "@F14047@"
+            ]
+        },
+        {
+            "gedcomId": "@I38289@",
+            "wikitreeId": "Person-I38289",
+            "name": {
+                "full": "Rubie Frank \/Cope\/",
+                "given": "Rubie Frank",
+                "surname": "Cope"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "7 DEC 1907"
+            },
+            "familyAsSpouse": [
+                "@F14048@"
+            ],
+            "familyAsChild": [
+                "@F14053@"
+            ]
+        },
+        {
+            "gedcomId": "@I38290@",
+            "wikitreeId": "Person-I38290",
+            "name": {
+                "full": "Living \/Willis\/",
+                "given": "Living",
+                "surname": "Willis"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F14054@"
+            ],
+            "familyAsChild": [
+                "@F14048@"
+            ]
+        },
+        {
+            "gedcomId": "@I38291@",
+            "wikitreeId": "Person-I38291",
+            "name": {
+                "full": "Living \/Willis\/",
+                "given": "Living",
+                "surname": "Willis"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F14055@"
+            ],
+            "familyAsChild": [
+                "@F14048@"
+            ]
+        },
+        {
+            "gedcomId": "@I38292@",
+            "wikitreeId": "Person-I38292",
+            "name": {
+                "full": "Siama \/Abramson\/",
+                "given": "Siama",
+                "surname": "Abramson"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "17 OCT 1900"
+            },
+            "death": {
+                "date": "3 DEC 1976"
+            },
+            "familyAsSpouse": [
+                "@F14049@"
+            ]
+        },
+        {
+            "gedcomId": "@I38293@",
+            "wikitreeId": "Person-I38293",
+            "name": {
+                "full": "Charles Alfred \/Willis\/",
+                "given": "Charles Alfred",
+                "surname": "Willis"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "24 AUG 1925"
+            },
+            "familyAsSpouse": [
+                "@F14056@"
+            ],
+            "familyAsChild": [
+                "@F14049@"
+            ]
+        },
+        {
+            "gedcomId": "@I38294@",
+            "wikitreeId": "Person-I38294",
+            "name": {
+                "full": "Living \/Willis\/",
+                "given": "Living",
+                "surname": "Willis"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F14057@"
+            ],
+            "familyAsChild": [
+                "@F14049@"
+            ]
+        },
+        {
+            "gedcomId": "@I38401@",
+            "wikitreeId": "Person-I38401",
+            "name": {
+                "full": "David Clay \/Whitten\/",
+                "given": "David Clay",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "27 JUL 1823"
+            },
+            "death": {
+                "date": "20 FEB 1889"
+            },
+            "familyAsSpouse": [
+                "@F14034@"
+            ],
+            "familyAsChild": [
+                "@F14095@"
+            ]
+        },
+        {
+            "gedcomId": "@I38402@",
+            "wikitreeId": "Person-I38402",
+            "name": {
+                "full": "Malinda Ann \/Faires\/",
+                "given": "Malinda Ann",
+                "surname": "Faires"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "3 AUG 1826"
+            },
+            "death": {
+                "date": "27 MAR 1906"
+            },
+            "familyAsSpouse": [
+                "@F14034@"
+            ],
+            "familyAsChild": [
+                "@F14096@"
+            ]
+        },
+        {
+            "gedcomId": "@I38403@",
+            "wikitreeId": "Person-I38403",
+            "name": {
+                "full": "George \/Whitten\/",
+                "given": "George",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "22 JAN 1787"
+            },
+            "death": {
+                "date": "26 APR 1856"
+            },
+            "familyAsSpouse": [
+                "@F14095@"
+            ],
+            "familyAsChild": [
+                "@F14097@"
+            ]
+        },
+        {
+            "gedcomId": "@I38404@",
+            "wikitreeId": "Person-I38404",
+            "name": {
+                "full": "Elizabeth \/Cox\/",
+                "given": "Elizabeth",
+                "surname": "Cox"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1788"
+            },
+            "death": {
+                "date": "4 AUG 1853"
+            },
+            "familyAsSpouse": [
+                "@F14095@"
+            ]
+        },
+        {
+            "gedcomId": "@I38405@",
+            "wikitreeId": "Person-I38405",
+            "name": {
+                "full": "Charles \/Whitten\/",
+                "given": "Charles",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "BET 1750 AND 1760"
+            },
+            "death": {
+                "date": "BET 1840 AND 1850"
+            },
+            "familyAsSpouse": [
+                "@F14097@"
+            ]
+        },
+        {
+            "gedcomId": "@I38406@",
+            "wikitreeId": "Person-I38406",
+            "name": {
+                "full": "Francis Marion \/Whitten\/",
+                "given": "Francis Marion",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "C1828"
+            },
+            "death": {
+                "date": "27 DEC 1904"
+            },
+            "familyAsSpouse": [
+                "@F14099@"
+            ],
+            "familyAsChild": [
+                "@F14095@"
+            ]
+        },
+        {
+            "gedcomId": "@I38407@",
+            "wikitreeId": "Person-I38407",
+            "name": {
+                "full": "George Washington \/Whitten\/",
+                "given": "George Washington",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "9 JAN 1825"
+            },
+            "death": {
+                "date": "6 JAN 1908"
+            },
+            "familyAsSpouse": [
+                "@F14100@",
+                "@F14101@"
+            ],
+            "familyAsChild": [
+                "@F14095@"
+            ]
+        },
+        {
+            "gedcomId": "@I38408@",
+            "wikitreeId": "Person-I38408",
+            "name": {
+                "full": "Melton \/Whitten\/",
+                "given": "Melton",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "C1820"
+            },
+            "death": {
+                "date": "17 FEB 1858"
+            },
+            "familyAsSpouse": [
+                "@F14102@"
+            ],
+            "familyAsChild": [
+                "@F14095@"
+            ]
+        },
+        {
+            "gedcomId": "@I38409@",
+            "wikitreeId": "Person-I38409",
+            "name": {
+                "full": "Harriet Meranday \/Whitten\/",
+                "given": "Harriet Meranday",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1 MAY 1809"
+            },
+            "death": {
+                "date": "21 MAY 1894"
+            },
+            "familyAsSpouse": [
+                "@F23062@",
+                "@F14103@"
+            ],
+            "familyAsChild": [
+                "@F14095@"
+            ]
+        },
+        {
+            "gedcomId": "@I38410@",
+            "wikitreeId": "Person-I38410",
+            "name": {
+                "full": "Mariah C. \/Whitten\/",
+                "given": "Mariah C.",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "29 APR 1815"
+            },
+            "death": {
+                "date": "27 DEC 1901"
+            },
+            "familyAsSpouse": [
+                "@F14104@"
+            ],
+            "familyAsChild": [
+                "@F14095@"
+            ]
+        },
+        {
+            "gedcomId": "@I38411@",
+            "wikitreeId": "Person-I38411",
+            "name": {
+                "full": "Joel Sumter \/Whitten\/",
+                "given": "Joel Sumter",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "23 JUN 1817"
+            },
+            "death": {
+                "date": "18 JUN 1908"
+            },
+            "familyAsSpouse": [
+                "@F14105@"
+            ],
+            "familyAsChild": [
+                "@F14095@"
+            ]
+        },
+        {
+            "gedcomId": "@I38412@",
+            "wikitreeId": "Person-I38412",
+            "name": {
+                "full": "George Washington \/Brewer\/",
+                "given": "George Washington",
+                "surname": "Brewer"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1803"
+            },
+            "death": {
+                "date": "C1852"
+            },
+            "familyAsSpouse": [
+                "@F23061@",
+                "@F14103@"
+            ],
+            "familyAsChild": [
+                "@F22755@"
+            ]
+        },
+        {
+            "gedcomId": "@I38413@",
+            "wikitreeId": "Person-I38413",
+            "name": {
+                "full": "Henry T. \/Hays\/",
+                "given": "Henry T.",
+                "surname": "Hays"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "26 JAN 1818"
+            },
+            "death": {
+                "date": "8 JUN 1893"
+            },
+            "familyAsSpouse": [
+                "@F14104@"
+            ],
+            "familyAsChild": [
+                "@F21826@"
+            ]
+        },
+        {
+            "gedcomId": "@I38414@",
+            "wikitreeId": "Person-I38414",
+            "name": {
+                "full": "Nancy M. \/Gresham\/",
+                "given": "Nancy M.",
+                "surname": "Gresham"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "17 JAN 1819"
+            },
+            "death": {
+                "date": "5 JUL 1903"
+            },
+            "familyAsSpouse": [
+                "@F14105@"
+            ]
+        },
+        {
+            "gedcomId": "@I38627@",
+            "wikitreeId": "Person-I38627",
+            "name": {
+                "full": "Cynthia \/Phillips\/",
+                "given": "Cynthia",
+                "surname": "Phillips"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "C1830"
+            },
+            "familyAsSpouse": [
+                "@F14100@"
+            ]
+        },
+        {
+            "gedcomId": "@I38628@",
+            "wikitreeId": "Person-I38628",
+            "name": {
+                "full": "Lucinda E. \/McGlamery\/",
+                "given": "Lucinda E.",
+                "surname": "McGlamery"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "11 NOV 1834"
+            },
+            "death": {
+                "date": "2 JUN 1902"
+            },
+            "familyAsSpouse": [
+                "@F14101@"
+            ]
+        },
+        {
+            "gedcomId": "@I38629@",
+            "wikitreeId": "Person-I38629",
+            "name": {
+                "full": "Margaret A. \/Faires\/",
+                "given": "Margaret A.",
+                "surname": "Faires"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "C1830"
+            },
+            "familyAsSpouse": [
+                "@F14099@"
+            ]
+        },
+        {
+            "gedcomId": "@I38630@",
+            "wikitreeId": "Person-I38630",
+            "name": {
+                "full": "Jonathan M. \/Whitten\/",
+                "given": "Jonathan M.",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "17 FEB 1819"
+            },
+            "death": {
+                "date": "20 JAN 1882"
+            },
+            "familyAsSpouse": [
+                "@F14205@",
+                "@F14204@"
+            ],
+            "familyAsChild": [
+                "@F14095@"
+            ]
+        },
+        {
+            "gedcomId": "@I38632@",
+            "wikitreeId": "Person-I38632",
+            "name": {
+                "full": "Daughter \/Whitten\/",
+                "given": "Daughter",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "C1788"
+            },
+            "familyAsChild": [
+                "@F14097@"
+            ]
+        },
+        {
+            "gedcomId": "@I38633@",
+            "wikitreeId": "Person-I38633",
+            "name": {
+                "full": "Daughter \/Whitten\/",
+                "given": "Daughter",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "C1788"
+            },
+            "familyAsChild": [
+                "@F14097@"
+            ]
+        },
+        {
+            "gedcomId": "@I38634@",
+            "wikitreeId": "Person-I38634",
+            "name": {
+                "full": "Mason \/Whitten\/",
+                "given": "Mason",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "C1790"
+            },
+            "death": {
+                "date": "C1865"
+            },
+            "familyAsSpouse": [
+                "@F14206@"
+            ],
+            "familyAsChild": [
+                "@F14097@"
+            ]
+        },
+        {
+            "gedcomId": "@I38635@",
+            "wikitreeId": "Person-I38635",
+            "name": {
+                "full": "Jonathan \/Whitten\/",
+                "given": "Jonathan",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "BET 1791 AND 1796"
+            },
+            "death": {
+                "date": "Aft 1872"
+            },
+            "familyAsSpouse": [
+                "@F14207@"
+            ],
+            "familyAsChild": [
+                "@F14097@"
+            ]
+        },
+        {
+            "gedcomId": "@I38636@",
+            "wikitreeId": "Person-I38636",
+            "name": {
+                "full": "Daughter \/Whitten\/",
+                "given": "Daughter",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "C1795"
+            },
+            "familyAsChild": [
+                "@F14097@"
+            ]
+        },
+        {
+            "gedcomId": "@I38637@",
+            "wikitreeId": "Person-I38637",
+            "name": {
+                "full": "Nicholas \/Whitten\/",
+                "given": "Nicholas",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "2 FEB 1802"
+            },
+            "death": {
+                "date": "28 MAR 1845"
+            },
+            "familyAsSpouse": [
+                "@F14208@"
+            ],
+            "familyAsChild": [
+                "@F14097@"
+            ]
+        },
+        {
+            "gedcomId": "@I38638@",
+            "wikitreeId": "Person-I38638",
+            "name": {
+                "full": "Joel \/Whitten\/",
+                "given": "Joel",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1792"
+            },
+            "familyAsChild": [
+                "@F14097@"
+            ]
+        },
+        {
+            "gedcomId": "@I38639@",
+            "wikitreeId": "Person-I38639",
+            "name": {
+                "full": "John \/Whitten\/",
+                "given": "John",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "C1790"
+            },
+            "death": {
+                "date": "BEF 1840"
+            },
+            "familyAsSpouse": [
+                "@F14209@"
+            ],
+            "familyAsChild": [
+                "@F14097@"
+            ]
+        },
+        {
+            "gedcomId": "@I38640@",
+            "wikitreeId": "Person-I38640",
+            "name": {
+                "full": "Nancy \/Hair\/",
+                "given": "Nancy",
+                "surname": "Hair"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F14206@"
+            ]
+        },
+        {
+            "gedcomId": "@I38641@",
+            "wikitreeId": "Person-I38641",
+            "name": {
+                "full": "Jane \/Murphy\/",
+                "given": "Jane",
+                "surname": "Murphy"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1807"
+            },
+            "familyAsSpouse": [
+                "@F14207@"
+            ]
+        },
+        {
+            "gedcomId": "@I38642@",
+            "wikitreeId": "Person-I38642",
+            "name": {
+                "full": "Rebecca \/Murphy\/",
+                "given": "Rebecca",
+                "surname": "Murphy"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "C1805"
+            },
+            "familyAsSpouse": [
+                "@F14208@"
+            ]
+        },
+        {
+            "gedcomId": "@I38643@",
+            "wikitreeId": "Person-I38643",
+            "name": {
+                "full": "Lucinda \/Unknown\/",
+                "given": "Lucinda",
+                "surname": "Unknown"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "C1795"
+            },
+            "familyAsSpouse": [
+                "@F14209@"
+            ]
+        },
+        {
+            "gedcomId": "@I38644@",
+            "wikitreeId": "Person-I38644",
+            "name": {
+                "full": "Charles \/Whitten\/",
+                "given": "Charles",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "C1805"
+            },
+            "familyAsChild": [
+                "@F14097@"
+            ]
+        },
+        {
+            "gedcomId": "@I38658@",
+            "wikitreeId": "Person-I38658",
+            "name": {
+                "full": "Martha Lucinda \/Young\/",
+                "given": "Martha Lucinda",
+                "surname": "Young"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "21 NOV 1846"
+            },
+            "familyAsSpouse": [
+                "@F14204@"
+            ],
+            "familyAsChild": [
+                "@F14216@"
+            ]
+        },
+        {
+            "gedcomId": "@I38659@",
+            "wikitreeId": "Person-I38659",
+            "name": {
+                "full": "Vina E. \/Unknown\/",
+                "given": "Vina E.",
+                "surname": "Unknown"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "C1821"
+            },
+            "familyAsSpouse": [
+                "@F14205@"
+            ]
+        },
+        {
+            "gedcomId": "@I38685@",
+            "wikitreeId": "Person-I38685",
+            "name": {
+                "full": "Hattie Alma \/Branum\/",
+                "given": "Hattie Alma",
+                "surname": "Branum"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1881"
+            },
+            "death": {
+                "date": "1931"
+            },
+            "familyAsSpouse": [
+                "@F14038@"
+            ],
+            "familyAsChild": [
+                "@F14224@"
+            ]
+        },
+        {
+            "gedcomId": "@I38686@",
+            "wikitreeId": "Person-I38686",
+            "name": {
+                "full": "David \/Paulk\/",
+                "given": "David",
+                "surname": "Paulk"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1908"
+            },
+            "familyAsChild": [
+                "@F14038@"
+            ]
+        },
+        {
+            "gedcomId": "@I38687@",
+            "wikitreeId": "Person-I38687",
+            "name": {
+                "full": "Mary \/Paulk\/",
+                "given": "Mary",
+                "surname": "Paulk"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1 JUN 1904"
+            },
+            "familyAsChild": [
+                "@F14038@"
+            ]
+        },
+        {
+            "gedcomId": "@I38688@",
+            "wikitreeId": "Person-I38688",
+            "name": {
+                "full": "Living \/McClintock\/",
+                "given": "Living",
+                "surname": "McClintock"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F14225@"
+            ],
+            "familyAsChild": [
+                "@F14226@"
+            ]
+        },
+        {
+            "gedcomId": "@I38689@",
+            "wikitreeId": "Person-I38689",
+            "name": {
+                "full": "Living \/Paulk\/",
+                "given": "Living",
+                "surname": "Paulk"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F14227@"
+            ],
+            "familyAsChild": [
+                "@F14225@"
+            ]
+        },
+        {
+            "gedcomId": "@I38690@",
+            "wikitreeId": "Person-I38690",
+            "name": {
+                "full": "Michael Edward \/Paulk\/",
+                "given": "Michael Edward",
+                "surname": "Paulk"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "15 APR 1960"
+            },
+            "death": {
+                "date": "27 FEB 1993"
+            },
+            "familyAsSpouse": [
+                "@F14228@"
+            ],
+            "familyAsChild": [
+                "@F14225@"
+            ]
+        },
+        {
+            "gedcomId": "@I38691@",
+            "wikitreeId": "Person-I38691",
+            "name": {
+                "full": "Living \/Paulk\/",
+                "given": "Living",
+                "surname": "Paulk"
+            },
+            "sex": "M",
+            "familyAsChild": [
+                "@F14225@"
+            ]
+        },
+        {
+            "gedcomId": "@I38692@",
+            "wikitreeId": "Person-I38692",
+            "name": {
+                "full": "Pamela Susan \/Paulk\/",
+                "given": "Pamela Susan",
+                "surname": "Paulk"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "5 NOV 1964"
+            },
+            "death": {
+                "date": "9 AUG 1995"
+            },
+            "familyAsChild": [
+                "@F14225@"
+            ]
+        },
+        {
+            "gedcomId": "@I38694@",
+            "wikitreeId": "Person-I38694",
+            "name": {
+                "full": "Willie Mae \/Cain\/",
+                "given": "Willie Mae",
+                "surname": "Cain"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "11 SEP 1907"
+            },
+            "death": {
+                "date": "1 DEC 1993"
+            },
+            "familyAsSpouse": [
+                "@F14042@"
+            ],
+            "familyAsChild": [
+                "@F14229@"
+            ]
+        },
+        {
+            "gedcomId": "@I38697@",
+            "wikitreeId": "Person-I38697",
+            "name": {
+                "full": "James Donald \/Paulk\/",
+                "given": "James Donald",
+                "surname": "Paulk"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1926"
+            },
+            "familyAsSpouse": [
+                "@F14230@"
+            ],
+            "familyAsChild": [
+                "@F14042@"
+            ]
+        },
+        {
+            "gedcomId": "@I38698@",
+            "wikitreeId": "Person-I38698",
+            "name": {
+                "full": "Samuel Lee \/Paulk\/",
+                "given": "Samuel Lee",
+                "surname": "Paulk"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "9 SEP 1927"
+            },
+            "death": {
+                "date": "21 MAR 1984"
+            },
+            "familyAsSpouse": [
+                "@F14231@"
+            ],
+            "familyAsChild": [
+                "@F14042@"
+            ]
+        },
+        {
+            "gedcomId": "@I38699@",
+            "wikitreeId": "Person-I38699",
+            "name": {
+                "full": "Living \/Paulk\/",
+                "given": "Living",
+                "surname": "Paulk"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F14232@"
+            ],
+            "familyAsChild": [
+                "@F14042@"
+            ]
+        },
+        {
+            "gedcomId": "@I38700@",
+            "wikitreeId": "Person-I38700",
+            "name": {
+                "full": "Mabel Lorene \/Hollenbeck\/",
+                "given": "Mabel Lorene",
+                "surname": "Hollenbeck"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1913 - 1916"
+            },
+            "familyAsSpouse": [
+                "@F14043@"
+            ],
+            "familyAsChild": [
+                "@F14233@"
+            ]
+        },
+        {
+            "gedcomId": "@I38703@",
+            "wikitreeId": "Person-I38703",
+            "name": {
+                "full": "Living \/Paulk\/",
+                "given": "Living",
+                "surname": "Paulk"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F14225@"
+            ],
+            "familyAsChild": [
+                "@F14043@"
+            ]
+        },
+        {
+            "gedcomId": "@I38704@",
+            "wikitreeId": "Person-I38704",
+            "name": {
+                "full": "Living \/Paulk\/",
+                "given": "Living",
+                "surname": "Paulk"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F14234@",
+                "@F14235@"
+            ],
+            "familyAsChild": [
+                "@F14043@"
+            ]
+        },
+        {
+            "gedcomId": "@I38705@",
+            "wikitreeId": "Person-I38705",
+            "name": {
+                "full": "Living \/Paulk\/",
+                "given": "Living",
+                "surname": "Paulk"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F14236@"
+            ],
+            "familyAsChild": [
+                "@F14043@"
+            ]
+        },
+        {
+            "gedcomId": "@I38706@",
+            "wikitreeId": "Person-I38706",
+            "name": {
+                "full": "James Arthur \/Paulk\/",
+                "given": "James Arthur",
+                "surname": "Paulk"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "5 MAY 1950"
+            },
+            "death": {
+                "date": "1 JAN 1985"
+            },
+            "familyAsChild": [
+                "@F14043@"
+            ]
+        },
+        {
+            "gedcomId": "@I38707@",
+            "wikitreeId": "Person-I38707",
+            "name": {
+                "full": "Living \/Baggett\/",
+                "given": "Living",
+                "surname": "Baggett"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F14230@"
+            ]
+        },
+        {
+            "gedcomId": "@I38708@",
+            "wikitreeId": "Person-I38708",
+            "name": {
+                "full": "Living \/Paulk\/",
+                "given": "Living",
+                "surname": "Paulk"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F14237@"
+            ],
+            "familyAsChild": [
+                "@F14230@"
+            ]
+        },
+        {
+            "gedcomId": "@I38709@",
+            "wikitreeId": "Person-I38709",
+            "name": {
+                "full": "Living \/Paulk\/",
+                "given": "Living",
+                "surname": "Paulk"
+            },
+            "sex": "F",
+            "familyAsChild": [
+                "@F14230@"
+            ]
+        },
+        {
+            "gedcomId": "@I38710@",
+            "wikitreeId": "Person-I38710",
+            "name": {
+                "full": "Living \/Paulk\/",
+                "given": "Living",
+                "surname": "Paulk"
+            },
+            "sex": "M",
+            "familyAsChild": [
+                "@F14230@"
+            ]
+        },
+        {
+            "gedcomId": "@I38711@",
+            "wikitreeId": "Person-I38711",
+            "name": {
+                "full": "Living \/Michallick\/",
+                "given": "Living",
+                "surname": "Michallick"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F14237@"
+            ]
+        },
+        {
+            "gedcomId": "@I38712@",
+            "wikitreeId": "Person-I38712",
+            "name": {
+                "full": "Living \/Hosey\/",
+                "given": "Living",
+                "surname": "Hosey"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F14231@"
+            ]
+        },
+        {
+            "gedcomId": "@I38713@",
+            "wikitreeId": "Person-I38713",
+            "name": {
+                "full": "Living \/Paulk\/",
+                "given": "Living",
+                "surname": "Paulk"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F14238@"
+            ],
+            "familyAsChild": [
+                "@F14231@"
+            ]
+        },
+        {
+            "gedcomId": "@I38714@",
+            "wikitreeId": "Person-I38714",
+            "name": {
+                "full": "Living \/Paulk\/",
+                "given": "Living",
+                "surname": "Paulk"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F14239@",
+                "@F14240@"
+            ],
+            "familyAsChild": [
+                "@F14231@"
+            ]
+        },
+        {
+            "gedcomId": "@I38715@",
+            "wikitreeId": "Person-I38715",
+            "name": {
+                "full": "Living \/Paulk\/",
+                "given": "Living",
+                "surname": "Paulk"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F14241@"
+            ],
+            "familyAsChild": [
+                "@F14231@"
+            ]
+        },
+        {
+            "gedcomId": "@I38716@",
+            "wikitreeId": "Person-I38716",
+            "name": {
+                "full": "Living \/Paulk\/",
+                "given": "Living",
+                "surname": "Paulk"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F14242@"
+            ],
+            "familyAsChild": [
+                "@F14231@"
+            ]
+        },
+        {
+            "gedcomId": "@I38717@",
+            "wikitreeId": "Person-I38717",
+            "name": {
+                "full": "Living \/Steinbaugh\/",
+                "given": "Living",
+                "surname": "Steinbaugh"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F14238@"
+            ]
+        },
+        {
+            "gedcomId": "@I38718@",
+            "wikitreeId": "Person-I38718",
+            "name": {
+                "full": "Living \/Mitrisin\/",
+                "given": "Living",
+                "surname": "Mitrisin"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F14239@"
+            ]
+        },
+        {
+            "gedcomId": "@I38719@",
+            "wikitreeId": "Person-I38719",
+            "name": {
+                "full": "Living \/Smock\/",
+                "given": "Living",
+                "surname": "Smock"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F14240@"
+            ]
+        },
+        {
+            "gedcomId": "@I38720@",
+            "wikitreeId": "Person-I38720",
+            "name": {
+                "full": "Living \/Lubeck\/",
+                "given": "Living",
+                "surname": "Lubeck"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F14241@"
+            ]
+        },
+        {
+            "gedcomId": "@I38721@",
+            "wikitreeId": "Person-I38721",
+            "name": {
+                "full": "Living \/Vienna\/",
+                "given": "Living",
+                "surname": "Vienna"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F14242@"
+            ]
+        },
+        {
+            "gedcomId": "@I38722@",
+            "wikitreeId": "Person-I38722",
+            "name": {
+                "full": "Living \/Wood\/",
+                "given": "Living",
+                "surname": "Wood"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F14232@"
+            ]
+        },
+        {
+            "gedcomId": "@I38723@",
+            "wikitreeId": "Person-I38723",
+            "name": {
+                "full": "Living \/Paulk\/",
+                "given": "Living",
+                "surname": "Paulk"
+            },
+            "sex": "M",
+            "familyAsChild": [
+                "@F14232@"
+            ]
+        },
+        {
+            "gedcomId": "@I38724@",
+            "wikitreeId": "Person-I38724",
+            "name": {
+                "full": "Living \/Paulk\/",
+                "given": "Living",
+                "surname": "Paulk"
+            },
+            "sex": "F",
+            "familyAsChild": [
+                "@F14232@"
+            ]
+        },
+        {
+            "gedcomId": "@I38727@",
+            "wikitreeId": "Person-I38727",
+            "name": {
+                "full": "Living \/Smith\/",
+                "given": "Living",
+                "surname": "Smith"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F14227@"
+            ]
+        },
+        {
+            "gedcomId": "@I38728@",
+            "wikitreeId": "Person-I38728",
+            "name": {
+                "full": "Living \/Smith\/",
+                "given": "Living",
+                "surname": "Smith"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F14228@"
+            ]
+        },
+        {
+            "gedcomId": "@I38729@",
+            "wikitreeId": "Person-I38729",
+            "name": {
+                "full": "Living \/Unknown\/",
+                "given": "Living",
+                "surname": "Unknown"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F14234@"
+            ]
+        },
+        {
+            "gedcomId": "@I38730@",
+            "wikitreeId": "Person-I38730",
+            "name": {
+                "full": "Living \/Weaver\/",
+                "given": "Living",
+                "surname": "Weaver"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F14235@"
+            ]
+        },
+        {
+            "gedcomId": "@I38731@",
+            "wikitreeId": "Person-I38731",
+            "name": {
+                "full": "Living \/Paulk\/",
+                "given": "Living",
+                "surname": "Paulk"
+            },
+            "sex": "F",
+            "familyAsChild": [
+                "@F14235@"
+            ]
+        },
+        {
+            "gedcomId": "@I38732@",
+            "wikitreeId": "Person-I38732",
+            "name": {
+                "full": "Living \/Paulk\/",
+                "given": "Living",
+                "surname": "Paulk"
+            },
+            "sex": "F",
+            "familyAsChild": [
+                "@F14235@"
+            ]
+        },
+        {
+            "gedcomId": "@I38733@",
+            "wikitreeId": "Person-I38733",
+            "name": {
+                "full": "Living \/Adkins\/",
+                "given": "Living",
+                "surname": "Adkins"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F14236@"
+            ]
+        },
+        {
+            "gedcomId": "@I38734@",
+            "wikitreeId": "Person-I38734",
+            "name": {
+                "full": "Living \/Adkins\/",
+                "given": "Living",
+                "surname": "Adkins"
+            },
+            "sex": "M",
+            "familyAsChild": [
+                "@F14236@"
+            ]
+        },
+        {
+            "gedcomId": "@I38735@",
+            "wikitreeId": "Person-I38735",
+            "name": {
+                "full": "Living \/Adkins\/",
+                "given": "Living",
+                "surname": "Adkins"
+            },
+            "sex": "M",
+            "familyAsChild": [
+                "@F14236@"
+            ]
+        },
+        {
+            "gedcomId": "@I38736@",
+            "wikitreeId": "Person-I38736",
+            "name": {
+                "full": "Leander Faires \/Whitten\/",
+                "given": "Leander Faires",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "27 NOV 1848"
+            },
+            "death": {
+                "date": "1 DEC 1918"
+            },
+            "familyAsSpouse": [
+                "@F14243@"
+            ],
+            "familyAsChild": [
+                "@F14034@"
+            ]
+        },
+        {
+            "gedcomId": "@I38737@",
+            "wikitreeId": "Person-I38737",
+            "name": {
+                "full": "Otis Edgar Burr \/Whitten\/",
+                "given": "Otis Edgar Burr",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "25 OCT 1854"
+            },
+            "death": {
+                "date": "2 MAR 1883"
+            },
+            "familyAsChild": [
+                "@F14034@"
+            ]
+        },
+        {
+            "gedcomId": "@I38738@",
+            "wikitreeId": "Person-I38738",
+            "name": {
+                "full": "Alice Eudora \/Whitten\/",
+                "given": "Alice Eudora",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "18 JUL 1857"
+            },
+            "death": {
+                "date": "26 MAY 1918"
+            },
+            "familyAsSpouse": [
+                "@F14244@"
+            ],
+            "familyAsChild": [
+                "@F14034@"
+            ]
+        },
+        {
+            "gedcomId": "@I38739@",
+            "wikitreeId": "Person-I38739",
+            "name": {
+                "full": "Wiley Boone \/Whitten\/",
+                "given": "Wiley Boone",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "8 SEP 1860"
+            },
+            "death": {
+                "date": "21 APR 1882"
+            },
+            "familyAsChild": [
+                "@F14034@"
+            ]
+        },
+        {
+            "gedcomId": "@I38740@",
+            "wikitreeId": "Person-I38740",
+            "name": {
+                "full": "David Calloway \/Whitten\/",
+                "given": "David Calloway",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "22 MAR 1865"
+            },
+            "death": {
+                "date": "21 MAY 1879"
+            },
+            "familyAsChild": [
+                "@F14034@"
+            ]
+        },
+        {
+            "gedcomId": "@I38741@",
+            "wikitreeId": "Person-I38741",
+            "name": {
+                "full": "Mary E. \/Carter\/",
+                "given": "Mary E.",
+                "surname": "Carter"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "C1850"
+            },
+            "familyAsSpouse": [
+                "@F14243@"
+            ]
+        },
+        {
+            "gedcomId": "@I38742@",
+            "wikitreeId": "Person-I38742",
+            "name": {
+                "full": "James Franklin \/Belew\/",
+                "given": "James Franklin",
+                "surname": "Belew"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "APRIL 1850"
+            },
+            "death": {
+                "date": "28 NOV 1920"
+            },
+            "familyAsSpouse": [
+                "@F14244@"
+            ]
+        },
+        {
+            "gedcomId": "@I38743@",
+            "wikitreeId": "Person-I38743",
+            "name": {
+                "full": "Annie Moore \/Whitten\/",
+                "given": "Annie Moore",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1878 - 1888"
+            },
+            "familyAsSpouse": [
+                "@F14245@",
+                "@F14246@"
+            ],
+            "familyAsChild": [
+                "@F14243@"
+            ]
+        },
+        {
+            "gedcomId": "@I38744@",
+            "wikitreeId": "Person-I38744",
+            "name": {
+                "full": "Lean Beauchamp \/Whitten\/",
+                "given": "Lean Beauchamp",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1878 - 1888"
+            },
+            "familyAsSpouse": [
+                "@F14247@"
+            ],
+            "familyAsChild": [
+                "@F14243@"
+            ]
+        },
+        {
+            "gedcomId": "@I38745@",
+            "wikitreeId": "Person-I38745",
+            "name": {
+                "full": "Ida Willard \/Whitten\/",
+                "given": "Ida Willard",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1878 - 1888"
+            },
+            "familyAsSpouse": [
+                "@F14248@"
+            ],
+            "familyAsChild": [
+                "@F14243@"
+            ]
+        },
+        {
+            "gedcomId": "@I38746@",
+            "wikitreeId": "Person-I38746",
+            "name": {
+                "full": "M.S. \/Hitchcock\/",
+                "given": "M.S.",
+                "surname": "Hitchcock"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1875 - 1880"
+            },
+            "familyAsSpouse": [
+                "@F14245@"
+            ]
+        },
+        {
+            "gedcomId": "@I38747@",
+            "wikitreeId": "Person-I38747",
+            "name": {
+                "full": "J. l. \/Yancey\/",
+                "given": "J. l.",
+                "surname": "Yancey"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1875 - 1880"
+            },
+            "familyAsSpouse": [
+                "@F14246@"
+            ]
+        },
+        {
+            "gedcomId": "@I38748@",
+            "wikitreeId": "Person-I38748",
+            "name": {
+                "full": "William Phillip \/Lynch\/",
+                "given": "William Phillip",
+                "surname": "Lynch"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "C1875"
+            },
+            "familyAsSpouse": [
+                "@F14247@"
+            ]
+        },
+        {
+            "gedcomId": "@I38749@",
+            "wikitreeId": "Person-I38749",
+            "name": {
+                "full": "Richard \/Lanier\/",
+                "given": "Richard",
+                "surname": "Lanier"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F14248@"
+            ]
+        },
+        {
+            "gedcomId": "@I38750@",
+            "wikitreeId": "Person-I38750",
+            "name": {
+                "full": "Minnie Lee \/Belew\/",
+                "given": "Minnie Lee",
+                "surname": "Belew"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F14249@"
+            ],
+            "familyAsChild": [
+                "@F14244@"
+            ]
+        },
+        {
+            "gedcomId": "@I38751@",
+            "wikitreeId": "Person-I38751",
+            "name": {
+                "full": "Norma Corine \/Belew\/",
+                "given": "Norma Corine",
+                "surname": "Belew"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "14 JUN 1883"
+            },
+            "death": {
+                "date": "AUG 1971"
+            },
+            "familyAsSpouse": [
+                "@F14250@"
+            ],
+            "familyAsChild": [
+                "@F14244@"
+            ]
+        },
+        {
+            "gedcomId": "@I38752@",
+            "wikitreeId": "Person-I38752",
+            "name": {
+                "full": "David Owen \/Belew\/",
+                "given": "David Owen",
+                "surname": "Belew"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F14251@"
+            ],
+            "familyAsChild": [
+                "@F14244@"
+            ]
+        },
+        {
+            "gedcomId": "@I38753@",
+            "wikitreeId": "Person-I38753",
+            "name": {
+                "full": "Homer F. \/Belew\/",
+                "given": "Homer F.",
+                "surname": "Belew"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F14252@"
+            ],
+            "familyAsChild": [
+                "@F14244@"
+            ]
+        },
+        {
+            "gedcomId": "@I38754@",
+            "wikitreeId": "Person-I38754",
+            "name": {
+                "full": "Guy E. \/Vance\/",
+                "given": "Guy E.",
+                "surname": "Vance"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F14249@"
+            ]
+        },
+        {
+            "gedcomId": "@I38755@",
+            "wikitreeId": "Person-I38755",
+            "name": {
+                "full": "Samuel \/Reese\/",
+                "given": "Samuel",
+                "surname": "Reese"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "C1880"
+            },
+            "familyAsSpouse": [
+                "@F14250@"
+            ]
+        },
+        {
+            "gedcomId": "@I38756@",
+            "wikitreeId": "Person-I38756",
+            "name": {
+                "full": "Mazie \/Erskine\/",
+                "given": "Mazie",
+                "surname": "Erskine"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F14251@"
+            ]
+        },
+        {
+            "gedcomId": "@I38757@",
+            "wikitreeId": "Person-I38757",
+            "name": {
+                "full": "Jeffye \/Gaddis\/",
+                "given": "Jeffye",
+                "surname": "Gaddis"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F14252@"
+            ]
+        },
+        {
+            "gedcomId": "@I39388@",
+            "wikitreeId": "Person-I39388",
+            "name": {
+                "full": "Mae Ollie \/Rayborn\/",
+                "given": "Mae Ollie",
+                "surname": "Rayborn"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "9 JAN 1909"
+            },
+            "familyAsSpouse": [
+                "@F14050@"
+            ]
+        },
+        {
+            "gedcomId": "@I39389@",
+            "wikitreeId": "Person-I39389",
+            "name": {
+                "full": "Carmen \/Nelson\/",
+                "given": "Carmen",
+                "surname": "Nelson"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1 JUN 1915"
+            },
+            "death": {
+                "date": "15 OCT 1988"
+            },
+            "familyAsSpouse": [
+                "@F14051@"
+            ]
+        },
+        {
+            "gedcomId": "@I39390@",
+            "wikitreeId": "Person-I39390",
+            "name": {
+                "full": "Ralph Stevens \/Ward\/",
+                "given": "Ralph Stevens",
+                "surname": "Ward"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "26 AUG 1914"
+            },
+            "death": {
+                "date": "29 MAY 1992"
+            },
+            "familyAsSpouse": [
+                "@F14052@"
+            ]
+        },
+        {
+            "gedcomId": "@I39391@",
+            "wikitreeId": "Person-I39391",
+            "name": {
+                "full": "Living \/Ward\/",
+                "given": "Living",
+                "surname": "Ward"
+            },
+            "sex": "M",
+            "familyAsChild": [
+                "@F14052@"
+            ]
+        },
+        {
+            "gedcomId": "@I39392@",
+            "wikitreeId": "Person-I39392",
+            "name": {
+                "full": "Monnie Lee \/Willis\/",
+                "given": "Monnie Lee",
+                "surname": "Willis"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "17 DEC 1914"
+            },
+            "familyAsChild": [
+                "@F14047@"
+            ]
+        },
+        {
+            "gedcomId": "@I39393@",
+            "wikitreeId": "Person-I39393",
+            "name": {
+                "full": "Living \/Willis\/",
+                "given": "Living",
+                "surname": "Willis"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F14456@"
+            ],
+            "familyAsChild": [
+                "@F14047@"
+            ]
+        },
+        {
+            "gedcomId": "@I39394@",
+            "wikitreeId": "Person-I39394",
+            "name": {
+                "full": "Mary Sue \/Willis\/",
+                "given": "Mary Sue",
+                "surname": "Willis"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "8 MAY 1928"
+            },
+            "familyAsChild": [
+                "@F14047@"
+            ]
+        },
+        {
+            "gedcomId": "@I39395@",
+            "wikitreeId": "Person-I39395",
+            "name": {
+                "full": "Naomi E. \/Willis\/",
+                "given": "Naomi E.",
+                "surname": "Willis"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "13 DEC 1917"
+            },
+            "familyAsChild": [
+                "@F14047@"
+            ]
+        },
+        {
+            "gedcomId": "@I39396@",
+            "wikitreeId": "Person-I39396",
+            "name": {
+                "full": "Martha Viola \/Willis\/",
+                "given": "Martha Viola",
+                "surname": "Willis"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "29 MAY 1922"
+            },
+            "familyAsSpouse": [
+                "@F14457@"
+            ],
+            "familyAsChild": [
+                "@F14047@"
+            ]
+        },
+        {
+            "gedcomId": "@I39397@",
+            "wikitreeId": "Person-I39397",
+            "name": {
+                "full": "Gilbert Boyd \/Willis\/",
+                "given": "Gilbert Boyd",
+                "surname": "Willis"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1 JUN 1924"
+            },
+            "familyAsChild": [
+                "@F14047@"
+            ]
+        },
+        {
+            "gedcomId": "@I39398@",
+            "wikitreeId": "Person-I39398",
+            "name": {
+                "full": "Living \/Willis\/",
+                "given": "Living",
+                "surname": "Willis"
+            },
+            "sex": "M",
+            "familyAsChild": [
+                "@F14047@"
+            ]
+        },
+        {
+            "gedcomId": "@I39399@",
+            "wikitreeId": "Person-I39399",
+            "name": {
+                "full": "Living \/Willis\/",
+                "given": "Living",
+                "surname": "Willis"
+            },
+            "sex": "M",
+            "familyAsChild": [
+                "@F14047@"
+            ]
+        },
+        {
+            "gedcomId": "@I39400@",
+            "wikitreeId": "Person-I39400",
+            "name": {
+                "full": "Unknown \/Knox\/",
+                "given": "Unknown",
+                "surname": "Knox"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "C1920"
+            },
+            "familyAsSpouse": [
+                "@F14457@"
+            ]
+        },
+        {
+            "gedcomId": "@I39401@",
+            "wikitreeId": "Person-I39401",
+            "name": {
+                "full": "Unknown \/Hoch\/",
+                "given": "Unknown",
+                "surname": "Hoch"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F14456@"
+            ]
+        },
+        {
+            "gedcomId": "@I39404@",
+            "wikitreeId": "Person-I39404",
+            "name": {
+                "full": "Living \/Hulgan\/",
+                "given": "Living",
+                "surname": "Hulgan"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F14054@"
+            ]
+        },
+        {
+            "gedcomId": "@I39405@",
+            "wikitreeId": "Person-I39405",
+            "name": {
+                "full": "Living \/Willis\/",
+                "given": "Living",
+                "surname": "Willis"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F14458@"
+            ],
+            "familyAsChild": [
+                "@F14054@"
+            ]
+        },
+        {
+            "gedcomId": "@I39406@",
+            "wikitreeId": "Person-I39406",
+            "name": {
+                "full": "Living \/Willis\/",
+                "given": "Living",
+                "surname": "Willis"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F14459@"
+            ],
+            "familyAsChild": [
+                "@F14054@"
+            ]
+        },
+        {
+            "gedcomId": "@I39407@",
+            "wikitreeId": "Person-I39407",
+            "name": {
+                "full": "Living \/Henry\/",
+                "given": "Living",
+                "surname": "Henry"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F14459@"
+            ]
+        },
+        {
+            "gedcomId": "@I39408@",
+            "wikitreeId": "Person-I39408",
+            "name": {
+                "full": "Living \/Barton\/",
+                "given": "Living",
+                "surname": "Barton"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F14458@"
+            ]
+        },
+        {
+            "gedcomId": "@I39409@",
+            "wikitreeId": "Person-I39409",
+            "name": {
+                "full": "Gerald Edwin \/Comer\/",
+                "given": "Gerald Edwin",
+                "surname": "Comer"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "30 AUG 1929"
+            },
+            "familyAsSpouse": [
+                "@F14055@"
+            ]
+        },
+        {
+            "gedcomId": "@I39410@",
+            "wikitreeId": "Person-I39410",
+            "name": {
+                "full": "Living \/Comer\/",
+                "given": "Living",
+                "surname": "Comer"
+            },
+            "sex": "M",
+            "familyAsChild": [
+                "@F14055@"
+            ]
+        },
+        {
+            "gedcomId": "@I39411@",
+            "wikitreeId": "Person-I39411",
+            "name": {
+                "full": "Living \/Comer\/",
+                "given": "Living",
+                "surname": "Comer"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F14460@"
+            ],
+            "familyAsChild": [
+                "@F14055@"
+            ]
+        },
+        {
+            "gedcomId": "@I39412@",
+            "wikitreeId": "Person-I39412",
+            "name": {
+                "full": "Living \/Shay\/",
+                "given": "Living",
+                "surname": "Shay"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F14460@"
+            ]
+        },
+        {
+            "gedcomId": "@I39413@",
+            "wikitreeId": "Person-I39413",
+            "name": {
+                "full": "Billie Jean \/Johnson\/",
+                "given": "Billie Jean",
+                "surname": "Johnson"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "23 DEC 1928"
+            },
+            "familyAsSpouse": [
+                "@F14056@"
+            ]
+        },
+        {
+            "gedcomId": "@I39414@",
+            "wikitreeId": "Person-I39414",
+            "name": {
+                "full": "Living \/Willis\/",
+                "given": "Living",
+                "surname": "Willis"
+            },
+            "sex": "M",
+            "familyAsChild": [
+                "@F14056@"
+            ]
+        },
+        {
+            "gedcomId": "@I39415@",
+            "wikitreeId": "Person-I39415",
+            "name": {
+                "full": "Living \/Willis\/",
+                "given": "Living",
+                "surname": "Willis"
+            },
+            "sex": "M",
+            "familyAsChild": [
+                "@F14056@"
+            ]
+        },
+        {
+            "gedcomId": "@I39416@",
+            "wikitreeId": "Person-I39416",
+            "name": {
+                "full": "Living \/Gray\/",
+                "given": "Living",
+                "surname": "Gray"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F14057@"
+            ]
+        },
+        {
+            "gedcomId": "@I39417@",
+            "wikitreeId": "Person-I39417",
+            "name": {
+                "full": "Living \/Willis\/",
+                "given": "Living",
+                "surname": "Willis"
+            },
+            "sex": "M",
+            "familyAsChild": [
+                "@F14049@"
+            ]
+        },
+        {
+            "gedcomId": "@I39418@",
+            "wikitreeId": "Person-I39418",
+            "name": {
+                "full": "Living \/Willis\/",
+                "given": "Living",
+                "surname": "Willis"
+            },
+            "sex": "M",
+            "familyAsChild": [
+                "@F14049@"
+            ]
+        },
+        {
+            "gedcomId": "@I39435@",
+            "wikitreeId": "Person-I39435",
+            "name": {
+                "full": "Eliza \/Hays\/",
+                "given": "Eliza",
+                "surname": "Hays"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1819"
+            },
+            "death": {
+                "date": "NOV 1895"
+            },
+            "familyAsSpouse": [
+                "@F14102@"
+            ],
+            "familyAsChild": [
+                "@F21826@"
+            ]
+        },
+        {
+            "gedcomId": "@I39441@",
+            "wikitreeId": "Person-I39441",
+            "name": {
+                "full": "Howard W. \/Wright\/",
+                "given": "Howard W.",
+                "surname": "Wright"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1 SEP 1899"
+            },
+            "death": {
+                "date": "1 APR 1970"
+            },
+            "familyAsSpouse": [
+                "@F14044@"
+            ],
+            "familyAsChild": [
+                "@F38303@"
+            ]
+        },
+        {
+            "gedcomId": "@I39442@",
+            "wikitreeId": "Person-I39442",
+            "name": {
+                "full": "Living \/Wright\/",
+                "given": "Living",
+                "surname": "Wright"
+            },
+            "sex": "M",
+            "familyAsChild": [
+                "@F14044@"
+            ]
+        },
+        {
+            "gedcomId": "@I39443@",
+            "wikitreeId": "Person-I39443",
+            "name": {
+                "full": "Jesse P. \/Whitten\/",
+                "given": "Jesse P.",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "5 JAN 1827"
+            },
+            "death": {
+                "date": "30 JUN 1882"
+            },
+            "familyAsSpouse": [
+                "@F14470@"
+            ],
+            "familyAsChild": [
+                "@F14095@"
+            ]
+        },
+        {
+            "gedcomId": "@I39444@",
+            "wikitreeId": "Person-I39444",
+            "name": {
+                "full": "Martha Ann \/Duncan\/",
+                "given": "Martha Ann",
+                "surname": "Duncan"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1831"
+            },
+            "familyAsSpouse": [
+                "@F14470@"
+            ],
+            "familyAsChild": [
+                "@F21682@"
+            ]
+        },
+        {
+            "gedcomId": "@I39445@",
+            "wikitreeId": "Person-I39445",
+            "name": {
+                "full": "Harriett Minerva \/Hays\/",
+                "given": "Harriett Minerva",
+                "surname": "Hays"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1837"
+            },
+            "death": {
+                "date": "C1915"
+            },
+            "familyAsSpouse": [
+                "@F14471@"
+            ],
+            "familyAsChild": [
+                "@F14104@"
+            ]
+        },
+        {
+            "gedcomId": "@I39446@",
+            "wikitreeId": "Person-I39446",
+            "name": {
+                "full": "Charles Payton \/Hays\/",
+                "given": "Charles Payton",
+                "surname": "Hays"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1842"
+            },
+            "familyAsChild": [
+                "@F14104@"
+            ]
+        },
+        {
+            "gedcomId": "@I39447@",
+            "wikitreeId": "Person-I39447",
+            "name": {
+                "full": "Ruth Ellen \/Hays\/",
+                "given": "Ruth Ellen",
+                "surname": "Hays"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "29 AUG 1844"
+            },
+            "death": {
+                "date": "6 MAR 1924"
+            },
+            "familyAsSpouse": [
+                "@F14472@"
+            ],
+            "familyAsChild": [
+                "@F14104@"
+            ]
+        },
+        {
+            "gedcomId": "@I39448@",
+            "wikitreeId": "Person-I39448",
+            "name": {
+                "full": "Frances Malinda \/Hays\/",
+                "given": "Frances Malinda",
+                "surname": "Hays"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1850"
+            },
+            "familyAsSpouse": [
+                "@F14473@"
+            ],
+            "familyAsChild": [
+                "@F14104@"
+            ]
+        },
+        {
+            "gedcomId": "@I39449@",
+            "wikitreeId": "Person-I39449",
+            "name": {
+                "full": "John Randolph \/Hays\/",
+                "given": "John Randolph",
+                "surname": "Hays"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "10 NOV 1853"
+            },
+            "death": {
+                "date": "7 NOV 1935"
+            },
+            "familyAsSpouse": [
+                "@F14474@"
+            ],
+            "familyAsChild": [
+                "@F14104@"
+            ]
+        },
+        {
+            "gedcomId": "@I39450@",
+            "wikitreeId": "Person-I39450",
+            "name": {
+                "full": "Eliza Florence \/Hays\/",
+                "given": "Eliza Florence",
+                "surname": "Hays"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1858"
+            },
+            "familyAsChild": [
+                "@F14104@"
+            ]
+        },
+        {
+            "gedcomId": "@I39451@",
+            "wikitreeId": "Person-I39451",
+            "name": {
+                "full": "David Huston \/Hays\/",
+                "given": "David Huston",
+                "surname": "Hays"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "7 SEP 1861"
+            },
+            "death": {
+                "date": "9 NOV 1932"
+            },
+            "familyAsSpouse": [
+                "@F21731@"
+            ],
+            "familyAsChild": [
+                "@F14104@"
+            ]
+        },
+        {
+            "gedcomId": "@I39452@",
+            "wikitreeId": "Person-I39452",
+            "name": {
+                "full": "John \/Fowler\/",
+                "given": "John",
+                "surname": "Fowler"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "C1835"
+            },
+            "familyAsSpouse": [
+                "@F14471@"
+            ]
+        },
+        {
+            "gedcomId": "@I39453@",
+            "wikitreeId": "Person-I39453",
+            "name": {
+                "full": "Eli A. \/Spain\/",
+                "given": "Eli A.",
+                "surname": "Spain"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "13 MAR 1843"
+            },
+            "death": {
+                "date": "28 APR 1918"
+            },
+            "familyAsSpouse": [
+                "@F14472@"
+            ],
+            "familyAsChild": [
+                "@F14475@"
+            ]
+        },
+        {
+            "gedcomId": "@I39455@",
+            "wikitreeId": "Person-I39455",
+            "name": {
+                "full": "Unknown \/Perkins\/",
+                "given": "Unknown",
+                "surname": "Perkins"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "C1850"
+            },
+            "familyAsSpouse": [
+                "@F14473@"
+            ]
+        },
+        {
+            "gedcomId": "@I39456@",
+            "wikitreeId": "Person-I39456",
+            "name": {
+                "full": "Rebecca Ladoskie \/Lovelace\/",
+                "given": "Rebecca Ladoskie",
+                "surname": "Lovelace"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "31 JAN 1847"
+            },
+            "death": {
+                "date": "21 JUN 1931"
+            },
+            "familyAsSpouse": [
+                "@F14474@"
+            ],
+            "familyAsChild": [
+                "@F14476@"
+            ]
+        },
+        {
+            "gedcomId": "@I39459@",
+            "wikitreeId": "Person-I39459",
+            "name": {
+                "full": "Charles E. \/Whitten\/",
+                "given": "Charles E.",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1839"
+            },
+            "familyAsSpouse": [
+                "@F25961@"
+            ],
+            "familyAsChild": [
+                "@F14105@"
+            ]
+        },
+        {
+            "gedcomId": "@I39460@",
+            "wikitreeId": "Person-I39460",
+            "name": {
+                "full": "David H. \/Whitten\/",
+                "given": "David H.",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "23 APR 1844"
+            },
+            "death": {
+                "date": "15 FEB 1911"
+            },
+            "familyAsSpouse": [
+                "@F14478@"
+            ],
+            "familyAsChild": [
+                "@F14105@"
+            ]
+        },
+        {
+            "gedcomId": "@I39461@",
+            "wikitreeId": "Person-I39461",
+            "name": {
+                "full": "Harriet L. \/Whitten\/",
+                "given": "Harriet L.",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1846"
+            },
+            "familyAsSpouse": [
+                "@F26990@"
+            ],
+            "familyAsChild": [
+                "@F14105@"
+            ]
+        },
+        {
+            "gedcomId": "@I39462@",
+            "wikitreeId": "Person-I39462",
+            "name": {
+                "full": "Thomas J. \/Whitten\/",
+                "given": "Thomas J.",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1849"
+            },
+            "familyAsChild": [
+                "@F14105@"
+            ]
+        },
+        {
+            "gedcomId": "@I39463@",
+            "wikitreeId": "Person-I39463",
+            "name": {
+                "full": "Jabaus H. \/Whitten\/",
+                "given": "Jabaus H.",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1851"
+            },
+            "familyAsSpouse": [
+                "@F14480@"
+            ],
+            "familyAsChild": [
+                "@F14105@"
+            ]
+        },
+        {
+            "gedcomId": "@I39464@",
+            "wikitreeId": "Person-I39464",
+            "name": {
+                "full": "Aaron A. \/Whitten\/",
+                "given": "Aaron A.",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "18 AUG 1853"
+            },
+            "death": {
+                "date": "15 JUL 1913"
+            },
+            "familyAsSpouse": [
+                "@F14481@"
+            ],
+            "familyAsChild": [
+                "@F14105@"
+            ]
+        },
+        {
+            "gedcomId": "@I39465@",
+            "wikitreeId": "Person-I39465",
+            "name": {
+                "full": "Rachel Emily \/Whitten\/",
+                "given": "Rachel Emily",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1857"
+            },
+            "familyAsSpouse": [
+                "@F14482@"
+            ],
+            "familyAsChild": [
+                "@F14105@"
+            ]
+        },
+        {
+            "gedcomId": "@I39466@",
+            "wikitreeId": "Person-I39466",
+            "name": {
+                "full": "Mariah Angeline \/Whitten\/",
+                "given": "Mariah Angeline",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1859"
+            },
+            "familyAsSpouse": [
+                "@F14483@",
+                "@F14484@"
+            ],
+            "familyAsChild": [
+                "@F14105@"
+            ]
+        },
+        {
+            "gedcomId": "@I39467@",
+            "wikitreeId": "Person-I39467",
+            "name": {
+                "full": "Henry Bogard \/Whitten\/",
+                "given": "Henry Bogard",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "10 NOV 1861"
+            },
+            "death": {
+                "date": "15 NOV 1947"
+            },
+            "familyAsSpouse": [
+                "@F14485@"
+            ],
+            "familyAsChild": [
+                "@F14105@"
+            ]
+        },
+        {
+            "gedcomId": "@I39468@",
+            "wikitreeId": "Person-I39468",
+            "name": {
+                "full": "Molly Jane \/Whitten\/",
+                "given": "Molly Jane",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "11 AUG 1864"
+            },
+            "death": {
+                "date": "19 NOV 1953"
+            },
+            "familyAsSpouse": [
+                "@F14486@"
+            ],
+            "familyAsChild": [
+                "@F14105@"
+            ]
+        },
+        {
+            "gedcomId": "@I39469@",
+            "wikitreeId": "Person-I39469",
+            "name": {
+                "full": "James Theodora \/Whitten\/",
+                "given": "James Theodora",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "28 APR 1866"
+            },
+            "death": {
+                "date": "8 FEB 1932"
+            },
+            "familyAsSpouse": [
+                "@F14487@"
+            ],
+            "familyAsChild": [
+                "@F14105@"
+            ]
+        },
+        {
+            "gedcomId": "@I39470@",
+            "wikitreeId": "Person-I39470",
+            "name": {
+                "full": "Addaline \/Whitten\/",
+                "given": "Addaline",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1867 - 1870"
+            },
+            "familyAsChild": [
+                "@F14105@"
+            ]
+        },
+        {
+            "gedcomId": "@I39472@",
+            "wikitreeId": "Person-I39472",
+            "name": {
+                "full": "Nancy J. \/Chapman\/",
+                "given": "Nancy J.",
+                "surname": "Chapman"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1841"
+            },
+            "familyAsSpouse": [
+                "@F14478@"
+            ]
+        },
+        {
+            "gedcomId": "@I39474@",
+            "wikitreeId": "Person-I39474",
+            "name": {
+                "full": "Mary Ellen \/Thrasher\/",
+                "given": "Mary Ellen",
+                "surname": "Thrasher"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1856"
+            },
+            "familyAsSpouse": [
+                "@F14480@"
+            ],
+            "familyAsChild": [
+                "@F14488@"
+            ]
+        },
+        {
+            "gedcomId": "@I39476@",
+            "wikitreeId": "Person-I39476",
+            "name": {
+                "full": "Lydia E. \/Curtis\/",
+                "given": "Lydia E.",
+                "surname": "Curtis"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "9 JUL 1840"
+            },
+            "death": {
+                "date": "13 JAN 1909"
+            },
+            "familyAsSpouse": [
+                "@F14481@"
+            ]
+        },
+        {
+            "gedcomId": "@I39477@",
+            "wikitreeId": "Person-I39477",
+            "name": {
+                "full": "John Newton \/Avery\/",
+                "given": "John Newton",
+                "surname": "Avery"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "22 JUN 1850"
+            },
+            "death": {
+                "date": "1904"
+            },
+            "familyAsSpouse": [
+                "@F14482@",
+                "@F26990@"
+            ],
+            "familyAsChild": [
+                "@F14489@"
+            ]
+        },
+        {
+            "gedcomId": "@I39480@",
+            "wikitreeId": "Person-I39480",
+            "name": {
+                "full": "Unknown \/Ward\/",
+                "given": "Unknown",
+                "surname": "Ward"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "C1860"
+            },
+            "familyAsSpouse": [
+                "@F14483@"
+            ]
+        },
+        {
+            "gedcomId": "@I39481@",
+            "wikitreeId": "Person-I39481",
+            "name": {
+                "full": "William Henry \/Wilson\/",
+                "given": "William Henry",
+                "surname": "Wilson"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "C1855"
+            },
+            "familyAsSpouse": [
+                "@F14484@"
+            ],
+            "familyAsChild": [
+                "@F14490@"
+            ]
+        },
+        {
+            "gedcomId": "@I39484@",
+            "wikitreeId": "Person-I39484",
+            "name": {
+                "full": "Mary Ellen \/Hayes\/",
+                "given": "Mary Ellen",
+                "surname": "Hayes"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "13 JUN 1866"
+            },
+            "death": {
+                "date": "13 MAR 1953"
+            },
+            "familyAsSpouse": [
+                "@F14485@"
+            ]
+        },
+        {
+            "gedcomId": "@I39487@",
+            "wikitreeId": "Person-I39487",
+            "name": {
+                "full": "James Marion \/Wilson\/",
+                "given": "James Marion",
+                "surname": "Wilson"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "17 MAY 1857"
+            },
+            "death": {
+                "date": "1 FEB 1936"
+            },
+            "familyAsSpouse": [
+                "@F14486@"
+            ],
+            "familyAsChild": [
+                "@F14490@"
+            ]
+        },
+        {
+            "gedcomId": "@I39490@",
+            "wikitreeId": "Person-I39490",
+            "name": {
+                "full": "Eliza Catherine \/Hayes\/",
+                "given": "Eliza Catherine",
+                "surname": "Hayes"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "3 AUG 1869"
+            },
+            "death": {
+                "date": "19 NOV 1954"
+            },
+            "familyAsSpouse": [
+                "@F14487@"
+            ]
+        },
+        {
+            "gedcomId": "@I39493@",
+            "wikitreeId": "Person-I39493",
+            "name": {
+                "full": "George E. B. \/Whitten\/",
+                "given": "George E. B.",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1844"
+            },
+            "familyAsChild": [
+                "@F14205@"
+            ]
+        },
+        {
+            "gedcomId": "@I39494@",
+            "wikitreeId": "Person-I39494",
+            "name": {
+                "full": "John B. \/Whitten\/",
+                "given": "John B.",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "4 JAN 1845"
+            },
+            "death": {
+                "date": "13 MAY 1894"
+            },
+            "familyAsSpouse": [
+                "@F14494@"
+            ],
+            "familyAsChild": [
+                "@F14205@"
+            ]
+        },
+        {
+            "gedcomId": "@I39495@",
+            "wikitreeId": "Person-I39495",
+            "name": {
+                "full": "James K. P. \/Whitten\/",
+                "given": "James K. P.",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1846"
+            },
+            "familyAsChild": [
+                "@F14205@"
+            ]
+        },
+        {
+            "gedcomId": "@I39496@",
+            "wikitreeId": "Person-I39496",
+            "name": {
+                "full": "Mary E. \/Whitten\/",
+                "given": "Mary E.",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1852"
+            },
+            "familyAsChild": [
+                "@F14205@"
+            ]
+        },
+        {
+            "gedcomId": "@I39497@",
+            "wikitreeId": "Person-I39497",
+            "name": {
+                "full": "Martha E. \/Whitten\/",
+                "given": "Martha E.",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1855"
+            },
+            "familyAsChild": [
+                "@F14205@"
+            ]
+        },
+        {
+            "gedcomId": "@I39498@",
+            "wikitreeId": "Person-I39498",
+            "name": {
+                "full": "Jonathan Marion \/Whitten\/",
+                "given": "Jonathan Marion",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1858"
+            },
+            "death": {
+                "date": "1920"
+            },
+            "familyAsSpouse": [
+                "@F21695@"
+            ],
+            "familyAsChild": [
+                "@F14205@"
+            ]
+        },
+        {
+            "gedcomId": "@I39499@",
+            "wikitreeId": "Person-I39499",
+            "name": {
+                "full": "Nancy J. \/Johnson\/",
+                "given": "Nancy J.",
+                "surname": "Johnson"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1846"
+            },
+            "familyAsSpouse": [
+                "@F14494@"
+            ]
+        },
+        {
+            "gedcomId": "@I39500@",
+            "wikitreeId": "Person-I39500",
+            "name": {
+                "full": "James Mack \/Whitten\/",
+                "given": "James Mack",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1844"
+            },
+            "death": {
+                "date": "4 FEB 1863"
+            },
+            "familyAsChild": [
+                "@F14102@"
+            ]
+        },
+        {
+            "gedcomId": "@I39501@",
+            "wikitreeId": "Person-I39501",
+            "name": {
+                "full": "Frances Lodasky \/Whitten\/",
+                "given": "Frances Lodasky",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "16 JAN 1846"
+            },
+            "death": {
+                "date": "7 NOV 1885"
+            },
+            "familyAsSpouse": [
+                "@F14495@"
+            ],
+            "familyAsChild": [
+                "@F14102@"
+            ]
+        },
+        {
+            "gedcomId": "@I39502@",
+            "wikitreeId": "Person-I39502",
+            "name": {
+                "full": "Harriet E. \/Whitten\/",
+                "given": "Harriet E.",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1848"
+            },
+            "familyAsChild": [
+                "@F14102@"
+            ]
+        },
+        {
+            "gedcomId": "@I39503@",
+            "wikitreeId": "Person-I39503",
+            "name": {
+                "full": "Mary Caroline \/Whitten\/",
+                "given": "Mary Caroline",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1850"
+            },
+            "familyAsSpouse": [
+                "@F14496@"
+            ],
+            "familyAsChild": [
+                "@F14102@"
+            ]
+        },
+        {
+            "gedcomId": "@I39504@",
+            "wikitreeId": "Person-I39504",
+            "name": {
+                "full": "Henry Joel \/Whitten\/",
+                "given": "Henry Joel",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1855"
+            },
+            "familyAsSpouse": [
+                "@F14497@"
+            ],
+            "familyAsChild": [
+                "@F14102@"
+            ]
+        },
+        {
+            "gedcomId": "@I39505@",
+            "wikitreeId": "Person-I39505",
+            "name": {
+                "full": "William Asbury \/Whitten\/",
+                "given": "William Asbury",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "27 OCT 1852"
+            },
+            "death": {
+                "date": "1 DEC 1926"
+            },
+            "familyAsSpouse": [
+                "@F14498@"
+            ],
+            "familyAsChild": [
+                "@F14102@"
+            ]
+        },
+        {
+            "gedcomId": "@I39506@",
+            "wikitreeId": "Person-I39506",
+            "name": {
+                "full": "Melton Wesley \/Whitten\/",
+                "given": "Melton Wesley",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "24 APR 1858"
+            },
+            "death": {
+                "date": "12 NOV 1922"
+            },
+            "familyAsSpouse": [
+                "@F14499@",
+                "@F14500@"
+            ],
+            "familyAsChild": [
+                "@F14102@"
+            ]
+        },
+        {
+            "gedcomId": "@I39507@",
+            "wikitreeId": "Person-I39507",
+            "name": {
+                "full": "George W. \/Linville\/",
+                "given": "George W.",
+                "surname": "Linville"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "30 JAN 1847"
+            },
+            "death": {
+                "date": "7 FEB 1918"
+            },
+            "familyAsSpouse": [
+                "@F14495@"
+            ],
+            "familyAsChild": [
+                "@F14501@"
+            ]
+        },
+        {
+            "gedcomId": "@I39510@",
+            "wikitreeId": "Person-I39510",
+            "name": {
+                "full": "Jim \/Arnold\/",
+                "given": "Jim",
+                "surname": "Arnold"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "C1845"
+            },
+            "familyAsSpouse": [
+                "@F14496@"
+            ]
+        },
+        {
+            "gedcomId": "@I39511@",
+            "wikitreeId": "Person-I39511",
+            "name": {
+                "full": "Louisa J. \/Haddock\/",
+                "given": "Louisa J.",
+                "surname": "Haddock"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "C1860"
+            },
+            "familyAsSpouse": [
+                "@F14497@"
+            ]
+        },
+        {
+            "gedcomId": "@I39512@",
+            "wikitreeId": "Person-I39512",
+            "name": {
+                "full": "Martha E. \/Fox\/",
+                "given": "Martha E.",
+                "surname": "Fox"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "14 FEB 1857"
+            },
+            "death": {
+                "date": "25 JUL 1934"
+            },
+            "familyAsSpouse": [
+                "@F14498@"
+            ]
+        },
+        {
+            "gedcomId": "@I39513@",
+            "wikitreeId": "Person-I39513",
+            "name": {
+                "full": "Ann \/Whitten\/",
+                "given": "Ann",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1876"
+            },
+            "familyAsChild": [
+                "@F14498@"
+            ]
+        },
+        {
+            "gedcomId": "@I39514@",
+            "wikitreeId": "Person-I39514",
+            "name": {
+                "full": "M. Cordelia \/Marshall\/",
+                "given": "M. Cordelia",
+                "surname": "Marshall"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "C1860"
+            },
+            "familyAsSpouse": [
+                "@F14499@"
+            ]
+        },
+        {
+            "gedcomId": "@I39515@",
+            "wikitreeId": "Person-I39515",
+            "name": {
+                "full": "Eliza Wayne \/Simmons\/",
+                "given": "Eliza Wayne",
+                "surname": "Simmons"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1 NOV 1865"
+            },
+            "death": {
+                "date": "15 MAY 1939"
+            },
+            "familyAsSpouse": [
+                "@F14500@"
+            ],
+            "familyAsChild": [
+                "@F14502@"
+            ]
+        },
+        {
+            "gedcomId": "@I39517@",
+            "wikitreeId": "Person-I39517",
+            "name": {
+                "full": "Solon L. \/Whitten\/",
+                "given": "Solon L.",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1853"
+            },
+            "death": {
+                "date": "31 JAN 1907"
+            },
+            "familyAsSpouse": [
+                "@F14503@",
+                "@F14504@"
+            ],
+            "familyAsChild": [
+                "@F14101@"
+            ]
+        },
+        {
+            "gedcomId": "@I39518@",
+            "wikitreeId": "Person-I39518",
+            "name": {
+                "full": "Fernando M. \/Whitten\/",
+                "given": "Fernando M.",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "7 FEB 1857"
+            },
+            "death": {
+                "date": "29 MAY 1889"
+            },
+            "familyAsSpouse": [
+                "@F24820@"
+            ],
+            "familyAsChild": [
+                "@F14101@"
+            ]
+        },
+        {
+            "gedcomId": "@I39519@",
+            "wikitreeId": "Person-I39519",
+            "name": {
+                "full": "Harriet Cornelia \/Whitten\/",
+                "given": "Harriet Cornelia",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "6 AUG 1859"
+            },
+            "death": {
+                "date": "28 JAN 1889"
+            },
+            "familyAsChild": [
+                "@F14101@"
+            ]
+        },
+        {
+            "gedcomId": "@I39520@",
+            "wikitreeId": "Person-I39520",
+            "name": {
+                "full": "G. Willis Fox \/Whitten\/",
+                "given": "G. Willis Fox",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1878"
+            },
+            "death": {
+                "date": "1951"
+            },
+            "familyAsChild": [
+                "@F14101@",
+                "@F14101@"
+            ]
+        },
+        {
+            "gedcomId": "@I39521@",
+            "wikitreeId": "Person-I39521",
+            "name": {
+                "full": "Mary \/Ward\/",
+                "given": "Mary",
+                "surname": "Ward"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "C1855"
+            },
+            "familyAsSpouse": [
+                "@F14503@"
+            ]
+        },
+        {
+            "gedcomId": "@I39522@",
+            "wikitreeId": "Person-I39522",
+            "name": {
+                "full": "Angeline \/Fowler\/",
+                "given": "Angeline",
+                "surname": "Fowler"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "C1860"
+            },
+            "familyAsSpouse": [
+                "@F14504@"
+            ]
+        },
+        {
+            "gedcomId": "@I39527@",
+            "wikitreeId": "Person-I39527",
+            "name": {
+                "full": "Eddie \/Whitten\/",
+                "given": "Eddie",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1888"
+            },
+            "familyAsChild": [
+                "@F24820@"
+            ]
+        },
+        {
+            "gedcomId": "@I39528@",
+            "wikitreeId": "Person-I39528",
+            "name": {
+                "full": "James F. \/Whitten\/",
+                "given": "James F.",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1854"
+            },
+            "familyAsChild": [
+                "@F14470@"
+            ]
+        },
+        {
+            "gedcomId": "@I39529@",
+            "wikitreeId": "Person-I39529",
+            "name": {
+                "full": "Martha \/Whitten\/",
+                "given": "Martha",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1856"
+            },
+            "familyAsChild": [
+                "@F14470@"
+            ]
+        },
+        {
+            "gedcomId": "@I39530@",
+            "wikitreeId": "Person-I39530",
+            "name": {
+                "full": "Jimmy \/Goodspeed\/",
+                "given": "Jimmy",
+                "surname": "Goodspeed"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "C1925"
+            },
+            "familyAsSpouse": [
+                "@F14036@"
+            ]
+        },
+        {
+            "gedcomId": "@I39531@",
+            "wikitreeId": "Person-I39531",
+            "name": {
+                "full": "Unknown \/Marsh\/",
+                "given": "Unknown",
+                "surname": "Marsh"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F14037@"
+            ]
+        },
+        {
+            "gedcomId": "@I53526@",
+            "wikitreeId": "Person-I53526",
+            "name": {
+                "full": "Lou Ellen \/Whitten\/",
+                "given": "Lou Ellen",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "27 MAR 1873"
+            },
+            "death": {
+                "date": "10 DEC 1873"
+            },
+            "familyAsChild": [
+                "@F14494@"
+            ]
+        },
+        {
+            "gedcomId": "@I55127@",
+            "wikitreeId": "Person-I55127",
+            "name": {
+                "full": "Ida \/Unknown\/",
+                "given": "Ida",
+                "surname": "Unknown"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "17 FEB 1878"
+            },
+            "death": {
+                "date": "2 OCT 1924"
+            },
+            "familyAsSpouse": [
+                "@F14041@"
+            ]
+        },
+        {
+            "gedcomId": "@I55128@",
+            "wikitreeId": "Person-I55128",
+            "name": {
+                "full": "Thelma \/Paulk\/",
+                "given": "Thelma",
+                "surname": "Paulk"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "25 FEB 1903"
+            },
+            "death": {
+                "date": "27 JAN 1904"
+            },
+            "familyAsChild": [
+                "@F14041@"
+            ]
+        },
+        {
+            "gedcomId": "@I55748@",
+            "wikitreeId": "Person-I55748",
+            "name": {
+                "full": "Unknown \/Unknown\/",
+                "given": "Unknown",
+                "surname": "Unknown"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "C1760"
+            },
+            "death": {
+                "date": "BET 1850 AND 1860"
+            },
+            "familyAsSpouse": [
+                "@F14097@"
+            ]
+        },
+        {
+            "gedcomId": "@I56078@",
+            "wikitreeId": "Person-I56078",
+            "name": {
+                "full": "Martha \/Hays\/",
+                "given": "Martha",
+                "surname": "Hays"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "26 OCT 1844"
+            },
+            "familyAsSpouse": [
+                "@F25961@"
+            ],
+            "familyAsChild": [
+                "@F21514@"
+            ]
+        },
+        {
+            "gedcomId": "@I56623@",
+            "wikitreeId": "Person-I56623",
+            "name": {
+                "full": "George W. \/Whitten\/",
+                "given": "George W.",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1838"
+            },
+            "death": {
+                "date": "6 DEC 1861"
+            },
+            "familyAsChild": [
+                "@F14207@"
+            ]
+        },
+        {
+            "gedcomId": "@I56624@",
+            "wikitreeId": "Person-I56624",
+            "name": {
+                "full": "Mary L. \/Whitten\/",
+                "given": "Mary L.",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1837"
+            },
+            "familyAsSpouse": [
+                "@F21697@"
+            ],
+            "familyAsChild": [
+                "@F14207@"
+            ]
+        },
+        {
+            "gedcomId": "@I56625@",
+            "wikitreeId": "Person-I56625",
+            "name": {
+                "full": "Martha \/Whitten\/",
+                "given": "Martha",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1838"
+            },
+            "familyAsChild": [
+                "@F14207@"
+            ]
+        },
+        {
+            "gedcomId": "@I56626@",
+            "wikitreeId": "Person-I56626",
+            "name": {
+                "full": "Oliver H. Perry \/Whitten\/",
+                "given": "Oliver H. Perry",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "4 NOV 1838"
+            },
+            "death": {
+                "date": "23 DEC 1915"
+            },
+            "familyAsSpouse": [
+                "@F21810@"
+            ],
+            "familyAsChild": [
+                "@F14207@"
+            ]
+        },
+        {
+            "gedcomId": "@I56627@",
+            "wikitreeId": "Person-I56627",
+            "name": {
+                "full": "William \/Whitten\/",
+                "given": "William",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1841"
+            },
+            "familyAsSpouse": [
+                "@F21811@"
+            ],
+            "familyAsChild": [
+                "@F14207@"
+            ]
+        },
+        {
+            "gedcomId": "@I56628@",
+            "wikitreeId": "Person-I56628",
+            "name": {
+                "full": "Almira \/Whitten\/",
+                "given": "Almira",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1843"
+            },
+            "familyAsSpouse": [
+                "@F21698@"
+            ],
+            "familyAsChild": [
+                "@F14207@"
+            ]
+        },
+        {
+            "gedcomId": "@I56629@",
+            "wikitreeId": "Person-I56629",
+            "name": {
+                "full": "Nancy \/Whitten\/",
+                "given": "Nancy",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1845"
+            },
+            "familyAsChild": [
+                "@F14207@"
+            ]
+        },
+        {
+            "gedcomId": "@I56630@",
+            "wikitreeId": "Person-I56630",
+            "name": {
+                "full": "Asberry \/Whitten\/",
+                "given": "Asberry",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1847"
+            },
+            "familyAsChild": [
+                "@F14207@"
+            ]
+        },
+        {
+            "gedcomId": "@I56631@",
+            "wikitreeId": "Person-I56631",
+            "name": {
+                "full": "Sarah \/Whitten\/",
+                "given": "Sarah",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1850"
+            },
+            "familyAsChild": [
+                "@F14207@"
+            ]
+        },
+        {
+            "gedcomId": "@I56758@",
+            "wikitreeId": "Person-I56758",
+            "name": {
+                "full": "Mollie E. \/Unknown\/",
+                "given": "Mollie E.",
+                "surname": "Unknown"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1864"
+            },
+            "death": {
+                "date": "1930"
+            },
+            "familyAsSpouse": [
+                "@F21695@"
+            ]
+        },
+        {
+            "gedcomId": "@I56759@",
+            "wikitreeId": "Person-I56759",
+            "name": {
+                "full": "Beady Pearl \/Whitten\/",
+                "given": "Beady Pearl",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "24 DEC 1901"
+            },
+            "death": {
+                "date": "22 JUN 1903"
+            },
+            "familyAsChild": [
+                "@F14487@"
+            ]
+        },
+        {
+            "gedcomId": "@I56760@",
+            "wikitreeId": "Person-I56760",
+            "name": {
+                "full": "Cora M. \/Wilson\/",
+                "given": "Cora M.",
+                "surname": "Wilson"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "11 FEB 1893"
+            },
+            "death": {
+                "date": "15 JUL 1903"
+            },
+            "familyAsChild": [
+                "@F14486@"
+            ]
+        },
+        {
+            "gedcomId": "@I56761@",
+            "wikitreeId": "Person-I56761",
+            "name": {
+                "full": "Nannie M. \/Wilson\/",
+                "given": "Nannie M.",
+                "surname": "Wilson"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "19 OCT 1902"
+            },
+            "death": {
+                "date": "27 JUN 1903"
+            },
+            "familyAsChild": [
+                "@F14486@"
+            ]
+        },
+        {
+            "gedcomId": "@I56762@",
+            "wikitreeId": "Person-I56762",
+            "name": {
+                "full": "George D. \/Wilson\/",
+                "given": "George D.",
+                "surname": "Wilson"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "16 SEP 1889"
+            },
+            "death": {
+                "date": "7 JUL 1903"
+            },
+            "familyAsChild": [
+                "@F14486@"
+            ]
+        },
+        {
+            "gedcomId": "@I56767@",
+            "wikitreeId": "Person-I56767",
+            "name": {
+                "full": "Joseph \/Young\/",
+                "given": "Joseph",
+                "surname": "Young"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1836"
+            },
+            "familyAsSpouse": [
+                "@F21697@"
+            ]
+        },
+        {
+            "gedcomId": "@I56768@",
+            "wikitreeId": "Person-I56768",
+            "name": {
+                "full": "James T. \/Henson\/",
+                "given": "James T.",
+                "surname": "Henson"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "C1840"
+            },
+            "familyAsSpouse": [
+                "@F21698@"
+            ]
+        },
+        {
+            "gedcomId": "@I56884@",
+            "wikitreeId": "Person-I56884",
+            "name": {
+                "full": "Nancy Addline \/Campbell\/",
+                "given": "Nancy Addline",
+                "surname": "Campbell"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "22 AUG 1863"
+            },
+            "death": {
+                "date": "28 JUL 1935"
+            },
+            "familyAsSpouse": [
+                "@F21731@"
+            ]
+        },
+        {
+            "gedcomId": "@I57007@",
+            "wikitreeId": "Person-I57007",
+            "name": {
+                "full": "Wiley \/Young\/",
+                "given": "Wiley",
+                "surname": "Young"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1857"
+            },
+            "familyAsChild": [
+                "@F21697@"
+            ]
+        },
+        {
+            "gedcomId": "@I57008@",
+            "wikitreeId": "Person-I57008",
+            "name": {
+                "full": "Julia \/Young\/",
+                "given": "Julia",
+                "surname": "Young"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1859"
+            },
+            "familyAsChild": [
+                "@F21697@"
+            ]
+        },
+        {
+            "gedcomId": "@I57009@",
+            "wikitreeId": "Person-I57009",
+            "name": {
+                "full": "Laura \/Young\/",
+                "given": "Laura",
+                "surname": "Young"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1861"
+            },
+            "familyAsChild": [
+                "@F21697@"
+            ]
+        },
+        {
+            "gedcomId": "@I57010@",
+            "wikitreeId": "Person-I57010",
+            "name": {
+                "full": "Oliver \/Young\/",
+                "given": "Oliver",
+                "surname": "Young"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1863"
+            },
+            "familyAsChild": [
+                "@F21697@"
+            ]
+        },
+        {
+            "gedcomId": "@I57011@",
+            "wikitreeId": "Person-I57011",
+            "name": {
+                "full": "John \/Young\/",
+                "given": "John",
+                "surname": "Young"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1865"
+            },
+            "familyAsChild": [
+                "@F21697@"
+            ]
+        },
+        {
+            "gedcomId": "@I57012@",
+            "wikitreeId": "Person-I57012",
+            "name": {
+                "full": "Sarah \/Young\/",
+                "given": "Sarah",
+                "surname": "Young"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1868"
+            },
+            "familyAsChild": [
+                "@F21697@"
+            ]
+        },
+        {
+            "gedcomId": "@I57088@",
+            "wikitreeId": "Person-I57088",
+            "name": {
+                "full": "Amanda \/Unknown\/",
+                "given": "Amanda",
+                "surname": "Unknown"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1847"
+            },
+            "familyAsSpouse": [
+                "@F21810@"
+            ]
+        },
+        {
+            "gedcomId": "@I57089@",
+            "wikitreeId": "Person-I57089",
+            "name": {
+                "full": "Mary \/Whitten\/",
+                "given": "Mary",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1868"
+            },
+            "familyAsChild": [
+                "@F21810@"
+            ]
+        },
+        {
+            "gedcomId": "@I57090@",
+            "wikitreeId": "Person-I57090",
+            "name": {
+                "full": "Martha \/Tharp\/",
+                "given": "Martha",
+                "surname": "Tharp"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1845"
+            },
+            "familyAsSpouse": [
+                "@F21811@"
+            ]
+        },
+        {
+            "gedcomId": "@I57091@",
+            "wikitreeId": "Person-I57091",
+            "name": {
+                "full": "Charles C. \/Whitten\/",
+                "given": "Charles C.",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1865"
+            },
+            "familyAsChild": [
+                "@F21811@"
+            ]
+        },
+        {
+            "gedcomId": "@I57092@",
+            "wikitreeId": "Person-I57092",
+            "name": {
+                "full": "Ollie B. \/Whitten\/",
+                "given": "Ollie B.",
+                "surname": "Whitten"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1867"
+            },
+            "familyAsChild": [
+                "@F21811@"
+            ]
+        },
+        {
+            "gedcomId": "@I60853@",
+            "wikitreeId": "Person-I60853",
+            "name": {
+                "full": "Fillmore \/Brewer\/",
+                "given": "Fillmore",
+                "surname": "Brewer"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "C1805"
+            },
+            "familyAsSpouse": [
+                "@F23062@"
+            ]
+        },
+        {
+            "gedcomId": "@I65945@",
+            "wikitreeId": "Person-I65945",
+            "name": {
+                "full": "Sarah C. \/Berry\/",
+                "given": "Sarah C.",
+                "surname": "Berry"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "APRIL 1868"
+            },
+            "death": {
+                "date": "1936"
+            },
+            "familyAsSpouse": [
+                "@F24820@",
+                "@F24821@"
+            ],
+            "familyAsChild": [
+                "@F24816@"
+            ]
+        },
+        {
+            "gedcomId": "@I67590@",
+            "wikitreeId": "Person-I67590",
+            "name": {
+                "full": "Simon P. \/Whitten\/",
+                "given": "Simon P.",
+                "surname": "Whitten"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "7 JUN 1822"
+            },
+            "death": {
+                "date": "1881"
+            },
+            "familyAsChild": [
+                "@F14206@"
+            ]
+        },
+        {
+            "gedcomId": "@I72002@",
+            "wikitreeId": "Person-I72002",
+            "name": {
+                "full": "Charlie Wilson \/Avery\/",
+                "given": "Charlie Wilson",
+                "surname": "Avery"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "C1873"
+            },
+            "familyAsChild": [
+                "@F14482@"
+            ]
+        },
+        {
+            "gedcomId": "@I72005@",
+            "wikitreeId": "Person-I72005",
+            "name": {
+                "full": "Frances E. \/Avery\/",
+                "given": "Frances E.",
+                "surname": "Avery"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "aft 1877"
+            },
+            "familyAsChild": [
+                "@F26990@"
+            ]
+        },
+        {
+            "gedcomId": "@I72006@",
+            "wikitreeId": "Person-I72006",
+            "name": {
+                "full": "E. B. \/Avery\/",
+                "given": "E. B.",
+                "surname": "Avery"
+            },
+            "sex": "U",
+            "birth": {
+                "date": "aft 1877"
+            },
+            "familyAsChild": [
+                "@F26990@"
+            ]
+        },
+        {
+            "gedcomId": "@I72007@",
+            "wikitreeId": "Person-I72007",
+            "name": {
+                "full": "Norah P. \/Avery\/",
+                "given": "Norah P.",
+                "surname": "Avery"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "aft 1877"
+            },
+            "familyAsChild": [
+                "@F26990@"
+            ]
+        },
+        {
+            "gedcomId": "@I72008@",
+            "wikitreeId": "Person-I72008",
+            "name": {
+                "full": "Alvin Roscoe \/Avery\/",
+                "given": "Alvin Roscoe",
+                "surname": "Avery"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "aft 1877"
+            },
+            "familyAsChild": [
+                "@F26990@"
+            ]
+        },
+        {
+            "gedcomId": "@I72009@",
+            "wikitreeId": "Person-I72009",
+            "name": {
+                "full": "Mary \/Avery\/",
+                "given": "Mary",
+                "surname": "Avery"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "aft 1877"
+            },
+            "familyAsChild": [
+                "@F26990@"
+            ]
+        }
+    ],
+    "families": [
+        {
+            "familyId": "@F14025@",
+            "husband": "Person-I38240",
+            "wife": "Person-I38241",
+            "marriage": {
+                "date": "15 DEC 1898"
+            },
+            "children": [
+                "Person-I38258",
+                "Person-I38242",
+                "Person-I38243",
+                "Person-I38248",
+                "Person-I38244",
+                "Person-I38239",
+                "Person-I38245",
+                "Person-I38246",
+                "Person-I38247",
+                "Person-I26759"
+            ]
+        },
+        {
+            "familyId": "@F14026@",
+            "husband": "Person-I38256",
+            "wife": "Person-I38257",
+            "marriage": {
+                "date": "23 SEP 1869"
+            },
+            "children": [
+                "Person-I38240",
+                "Person-I38263",
+                "Person-I38262",
+                "Person-I38261",
+                "Person-I38264"
+            ]
+        },
+        {
+            "familyId": "@F14028@",
+            "husband": "Person-I38242",
+            "wife": "Person-I38249",
+            "marriage": {
+                "date": "17 DEC 1934"
+            },
+            "children": [
+                "Person-I38250",
+                "Person-I38251"
+            ]
+        },
+        {
+            "familyId": "@F14029@",
+            "husband": "Person-I38252",
+            "wife": "Person-I38244"
+        },
+        {
+            "familyId": "@F14030@",
+            "husband": "Person-I38253",
+            "wife": "Person-I38245",
+            "marriage": {
+                "date": "6 JUN 1942"
+            }
+        },
+        {
+            "familyId": "@F14031@",
+            "husband": "Person-I38254",
+            "wife": "Person-I38247",
+            "marriage": {
+                "date": "27 SEP 1947"
+            },
+            "children": [
+                "Person-I38255"
+            ]
+        },
+        {
+            "familyId": "@F14032@",
+            "marriage": {
+                "date": "4 MAR 1822"
+            },
+            "children": [
+                "Person-I38256"
+            ]
+        },
+        {
+            "familyId": "@F14033@",
+            "husband": "Person-I38275",
+            "wife": "Person-I38257",
+            "marriage": {
+                "date": "5 MAR 1883"
+            },
+            "children": [
+                "Person-I38276",
+                "Person-I38277",
+                "Person-I38278",
+                "Person-I38279"
+            ]
+        },
+        {
+            "familyId": "@F14034@",
+            "husband": "Person-I38401",
+            "wife": "Person-I38402",
+            "marriage": {
+                "date": "14 MAR 1848"
+            },
+            "children": [
+                "Person-I38736",
+                "Person-I38257",
+                "Person-I38737",
+                "Person-I38738",
+                "Person-I38739",
+                "Person-I38740"
+            ]
+        },
+        {
+            "familyId": "@F14035@",
+            "husband": "Person-I38258",
+            "wife": "Person-I38259",
+            "marriage": {
+                "date": "25 DEC 1925"
+            },
+            "children": [
+                "Person-I38260"
+            ]
+        },
+        {
+            "familyId": "@F14036@",
+            "husband": "Person-I39530",
+            "wife": "Person-I38260"
+        },
+        {
+            "familyId": "@F14037@",
+            "husband": "Person-I39531",
+            "wife": "Person-I38260"
+        },
+        {
+            "familyId": "@F14038@",
+            "husband": "Person-I38261",
+            "wife": "Person-I38685",
+            "marriage": {
+                "date": "1902"
+            },
+            "children": [
+                "Person-I103276",
+                "Person-I38687",
+                "Person-I38268",
+                "Person-I38267",
+                "Person-I38686",
+                "Person-I38269"
+            ]
+        },
+        {
+            "familyId": "@F14039@",
+            "husband": "Person-I38262",
+            "wife": "Person-I38266",
+            "marriage": {
+                "date": "20 APR 1903"
+            },
+            "children": [
+                "Person-I38272"
+            ]
+        },
+        {
+            "familyId": "@F14040@",
+            "husband": "Person-I38265",
+            "wife": "Person-I38263",
+            "children": [
+                "Person-I38271",
+                "Person-I38270"
+            ]
+        },
+        {
+            "familyId": "@F14041@",
+            "husband": "Person-I38264",
+            "wife": "Person-I55127",
+            "children": [
+                "Person-I55128",
+                "Person-I38273",
+                "Person-I38274"
+            ]
+        },
+        {
+            "familyId": "@F14042@",
+            "husband": "Person-I38267",
+            "wife": "Person-I38694",
+            "children": [
+                "Person-I38697",
+                "Person-I38698",
+                "Person-I38699"
+            ]
+        },
+        {
+            "familyId": "@F14043@",
+            "husband": "Person-I38269",
+            "wife": "Person-I38700",
+            "marriage": {
+                "date": "13 JUL 1934"
+            },
+            "children": [
+                "Person-I38703",
+                "Person-I38704",
+                "Person-I38705",
+                "Person-I38706"
+            ]
+        },
+        {
+            "familyId": "@F14044@",
+            "husband": "Person-I39441",
+            "wife": "Person-I38270",
+            "children": [
+                "Person-I39442"
+            ]
+        },
+        {
+            "familyId": "@F14045@",
+            "marriage": {
+                "date": "18 MAY 1842"
+            },
+            "children": [
+                "Person-I38275"
+            ]
+        },
+        {
+            "familyId": "@F14046@",
+            "husband": "Person-I38276",
+            "wife": "Person-I38280",
+            "children": [
+                "Person-I38281",
+                "Person-I38282",
+                "Person-I38283",
+                "Person-I38284"
+            ]
+        },
+        {
+            "familyId": "@F14047@",
+            "husband": "Person-I38277",
+            "wife": "Person-I38285",
+            "marriage": {
+                "date": "11 DEC 1910"
+            },
+            "children": [
+                "Person-I38286",
+                "Person-I38287",
+                "Person-I39392",
+                "Person-I38288",
+                "Person-I39395",
+                "Person-I39396",
+                "Person-I39397",
+                "Person-I39394",
+                "Person-I39398",
+                "Person-I39399",
+                "Person-I39393"
+            ]
+        },
+        {
+            "familyId": "@F14048@",
+            "husband": "Person-I38278",
+            "wife": "Person-I38289",
+            "marriage": {
+                "date": "15 JUL 1929"
+            },
+            "children": [
+                "Person-I38291",
+                "Person-I38290"
+            ]
+        },
+        {
+            "familyId": "@F14049@",
+            "husband": "Person-I38279",
+            "wife": "Person-I38292",
+            "children": [
+                "Person-I38293",
+                "Person-I38294",
+                "Person-I39417",
+                "Person-I39418"
+            ]
+        },
+        {
+            "familyId": "@F14050@",
+            "husband": "Person-I38281",
+            "wife": "Person-I39388",
+            "marriage": {
+                "date": "24 NOV 1946"
+            }
+        },
+        {
+            "familyId": "@F14051@",
+            "husband": "Person-I38286",
+            "wife": "Person-I39389",
+            "marriage": {
+                "date": "26 JAN 1934"
+            }
+        },
+        {
+            "familyId": "@F14052@",
+            "husband": "Person-I39390",
+            "wife": "Person-I38287",
+            "marriage": {
+                "date": "25 MAR 1949"
+            },
+            "children": [
+                "Person-I39391"
+            ]
+        },
+        {
+            "familyId": "@F14053@",
+            "children": [
+                "Person-I38289"
+            ]
+        },
+        {
+            "familyId": "@F14054@",
+            "husband": "Person-I38290",
+            "wife": "Person-I39404",
+            "children": [
+                "Person-I39406",
+                "Person-I39405"
+            ]
+        },
+        {
+            "familyId": "@F14055@",
+            "husband": "Person-I39409",
+            "wife": "Person-I38291",
+            "children": [
+                "Person-I39410",
+                "Person-I39411"
+            ]
+        },
+        {
+            "familyId": "@F14056@",
+            "husband": "Person-I38293",
+            "wife": "Person-I39413",
+            "marriage": {
+                "date": "13 JUN 1947"
+            },
+            "children": [
+                "Person-I39414",
+                "Person-I39415"
+            ]
+        },
+        {
+            "familyId": "@F14057@",
+            "husband": "Person-I39416",
+            "wife": "Person-I38294"
+        },
+        {
+            "familyId": "@F14095@",
+            "husband": "Person-I38403",
+            "wife": "Person-I38404",
+            "marriage": {
+                "date": "C1808"
+            },
+            "children": [
+                "Person-I38409",
+                "Person-I38410",
+                "Person-I38411",
+                "Person-I38630",
+                "Person-I38408",
+                "Person-I38401",
+                "Person-I38407",
+                "Person-I39443",
+                "Person-I38406"
+            ]
+        },
+        {
+            "familyId": "@F14096@",
+            "children": [
+                "Person-I38402"
+            ]
+        },
+        {
+            "familyId": "@F14097@",
+            "husband": "Person-I38405",
+            "wife": "Person-I55748",
+            "children": [
+                "Person-I38403",
+                "Person-I38632",
+                "Person-I38633",
+                "Person-I38634",
+                "Person-I38639",
+                "Person-I38635",
+                "Person-I38638",
+                "Person-I38636",
+                "Person-I38637",
+                "Person-I38644"
+            ]
+        },
+        {
+            "familyId": "@F14099@",
+            "husband": "Person-I38406",
+            "wife": "Person-I38629",
+            "marriage": {
+                "date": "21 NOV 1851"
+            }
+        },
+        {
+            "familyId": "@F14100@",
+            "husband": "Person-I38407",
+            "wife": "Person-I38627",
+            "marriage": {
+                "date": "C1850"
+            }
+        },
+        {
+            "familyId": "@F14101@",
+            "husband": "Person-I38407",
+            "wife": "Person-I38628",
+            "marriage": {
+                "date": "C1855"
+            },
+            "children": [
+                "Person-I39517",
+                "Person-I39518",
+                "Person-I39519",
+                "Person-I39520"
+            ]
+        },
+        {
+            "familyId": "@F14102@",
+            "husband": "Person-I38408",
+            "wife": "Person-I39435",
+            "marriage": {
+                "date": "C1840"
+            },
+            "children": [
+                "Person-I39500",
+                "Person-I39501",
+                "Person-I39502",
+                "Person-I39503",
+                "Person-I39505",
+                "Person-I39504",
+                "Person-I39506"
+            ]
+        },
+        {
+            "familyId": "@F14103@",
+            "husband": "Person-I38412",
+            "wife": "Person-I38409",
+            "marriage": {
+                "date": "C1844"
+            }
+        },
+        {
+            "familyId": "@F14104@",
+            "husband": "Person-I38413",
+            "wife": "Person-I38410",
+            "marriage": {
+                "date": "C1836"
+            },
+            "children": [
+                "Person-I39445",
+                "Person-I39446",
+                "Person-I39447",
+                "Person-I39448",
+                "Person-I39449",
+                "Person-I39450",
+                "Person-I39451"
+            ]
+        },
+        {
+            "familyId": "@F14105@",
+            "husband": "Person-I38411",
+            "wife": "Person-I38414",
+            "marriage": {
+                "date": "14 SEP 1836"
+            },
+            "children": [
+                "Person-I39459",
+                "Person-I39460",
+                "Person-I39461",
+                "Person-I39462",
+                "Person-I39463",
+                "Person-I39464",
+                "Person-I39465",
+                "Person-I39466",
+                "Person-I39467",
+                "Person-I39468",
+                "Person-I39469",
+                "Person-I39470"
+            ]
+        },
+        {
+            "familyId": "@F14204@",
+            "husband": "Person-I38630",
+            "wife": "Person-I38658",
+            "marriage": {
+                "date": "18 AUG 1881"
+            }
+        },
+        {
+            "familyId": "@F14205@",
+            "husband": "Person-I38630",
+            "wife": "Person-I38659",
+            "marriage": {
+                "date": "1840"
+            },
+            "children": [
+                "Person-I39493",
+                "Person-I39494",
+                "Person-I39495",
+                "Person-I39496",
+                "Person-I39497",
+                "Person-I39498"
+            ]
+        },
+        {
+            "familyId": "@F14206@",
+            "husband": "Person-I38634",
+            "wife": "Person-I38640",
+            "children": [
+                "Person-I67590"
+            ]
+        },
+        {
+            "familyId": "@F14207@",
+            "husband": "Person-I38635",
+            "wife": "Person-I38641",
+            "marriage": {
+                "date": "23 DEC 1834"
+            },
+            "children": [
+                "Person-I56624",
+                "Person-I56623",
+                "Person-I56625",
+                "Person-I56626",
+                "Person-I56627",
+                "Person-I56628",
+                "Person-I56629",
+                "Person-I56630",
+                "Person-I56631"
+            ]
+        },
+        {
+            "familyId": "@F14208@",
+            "husband": "Person-I38637",
+            "wife": "Person-I38642",
+            "marriage": {
+                "date": "20 APR 1830"
+            }
+        },
+        {
+            "familyId": "@F14209@",
+            "husband": "Person-I38639",
+            "wife": "Person-I38643"
+        },
+        {
+            "familyId": "@F14216@",
+            "marriage": {
+                "date": "30 OCT 1843"
+            },
+            "children": [
+                "Person-I38658"
+            ]
+        },
+        {
+            "familyId": "@F14224@",
+            "children": [
+                "Person-I38685"
+            ]
+        },
+        {
+            "familyId": "@F14225@",
+            "husband": "Person-I38703",
+            "wife": "Person-I38688",
+            "children": [
+                "Person-I38689",
+                "Person-I38690",
+                "Person-I38692",
+                "Person-I38691"
+            ]
+        },
+        {
+            "familyId": "@F14226@",
+            "children": [
+                "Person-I38688"
+            ]
+        },
+        {
+            "familyId": "@F14227@",
+            "husband": "Person-I38727",
+            "wife": "Person-I38689"
+        },
+        {
+            "familyId": "@F14228@",
+            "husband": "Person-I38690",
+            "wife": "Person-I38728"
+        },
+        {
+            "familyId": "@F14229@",
+            "children": [
+                "Person-I38694"
+            ]
+        },
+        {
+            "familyId": "@F14230@",
+            "husband": "Person-I38697",
+            "wife": "Person-I38707",
+            "children": [
+                "Person-I38708",
+                "Person-I38709",
+                "Person-I38710"
+            ]
+        },
+        {
+            "familyId": "@F14231@",
+            "husband": "Person-I38698",
+            "wife": "Person-I38712",
+            "children": [
+                "Person-I38713",
+                "Person-I38714",
+                "Person-I38715",
+                "Person-I38716"
+            ]
+        },
+        {
+            "familyId": "@F14232@",
+            "husband": "Person-I38699",
+            "wife": "Person-I38722",
+            "children": [
+                "Person-I38723",
+                "Person-I38724"
+            ]
+        },
+        {
+            "familyId": "@F14233@",
+            "children": [
+                "Person-I38700"
+            ]
+        },
+        {
+            "familyId": "@F14234@",
+            "husband": "Person-I38704",
+            "wife": "Person-I38729"
+        },
+        {
+            "familyId": "@F14235@",
+            "husband": "Person-I38704",
+            "wife": "Person-I38730",
+            "children": [
+                "Person-I38731",
+                "Person-I38732"
+            ]
+        },
+        {
+            "familyId": "@F14236@",
+            "husband": "Person-I38733",
+            "wife": "Person-I38705",
+            "children": [
+                "Person-I38734",
+                "Person-I38735"
+            ]
+        },
+        {
+            "familyId": "@F14237@",
+            "husband": "Person-I38711",
+            "wife": "Person-I38708"
+        },
+        {
+            "familyId": "@F14238@",
+            "husband": "Person-I38717",
+            "wife": "Person-I38713"
+        },
+        {
+            "familyId": "@F14239@",
+            "husband": "Person-I38718",
+            "wife": "Person-I38714"
+        },
+        {
+            "familyId": "@F14240@",
+            "husband": "Person-I38719",
+            "wife": "Person-I38714"
+        },
+        {
+            "familyId": "@F14241@",
+            "husband": "Person-I38720",
+            "wife": "Person-I38715"
+        },
+        {
+            "familyId": "@F14242@",
+            "husband": "Person-I38721",
+            "wife": "Person-I38716"
+        },
+        {
+            "familyId": "@F14243@",
+            "husband": "Person-I38736",
+            "wife": "Person-I38741",
+            "marriage": {
+                "date": "15 JAN 1878"
+            },
+            "children": [
+                "Person-I38743",
+                "Person-I38744",
+                "Person-I38745"
+            ]
+        },
+        {
+            "familyId": "@F14244@",
+            "husband": "Person-I38742",
+            "wife": "Person-I38738",
+            "marriage": {
+                "date": "14 JAN 1877"
+            },
+            "children": [
+                "Person-I38750",
+                "Person-I38751",
+                "Person-I38752",
+                "Person-I38753"
+            ]
+        },
+        {
+            "familyId": "@F14245@",
+            "husband": "Person-I38746",
+            "wife": "Person-I38743"
+        },
+        {
+            "familyId": "@F14246@",
+            "husband": "Person-I38747",
+            "wife": "Person-I38743"
+        },
+        {
+            "familyId": "@F14247@",
+            "husband": "Person-I38748",
+            "wife": "Person-I38744"
+        },
+        {
+            "familyId": "@F14248@",
+            "husband": "Person-I38749",
+            "wife": "Person-I38745"
+        },
+        {
+            "familyId": "@F14249@",
+            "husband": "Person-I38754",
+            "wife": "Person-I38750",
+            "marriage": {
+                "date": "20 DEC 1899"
+            }
+        },
+        {
+            "familyId": "@F14250@",
+            "husband": "Person-I38755",
+            "wife": "Person-I38751",
+            "marriage": {
+                "date": "23 DEC 1902"
+            }
+        },
+        {
+            "familyId": "@F14251@",
+            "husband": "Person-I38752",
+            "wife": "Person-I38756",
+            "marriage": {
+                "date": "26 DEC 1917"
+            }
+        },
+        {
+            "familyId": "@F14252@",
+            "husband": "Person-I38753",
+            "wife": "Person-I38757",
+            "marriage": {
+                "date": "FEB 1918"
+            }
+        },
+        {
+            "familyId": "@F14456@",
+            "husband": "Person-I39401",
+            "wife": "Person-I39393"
+        },
+        {
+            "familyId": "@F14457@",
+            "husband": "Person-I39400",
+            "wife": "Person-I39396"
+        },
+        {
+            "familyId": "@F14458@",
+            "husband": "Person-I39408",
+            "wife": "Person-I39405"
+        },
+        {
+            "familyId": "@F14459@",
+            "husband": "Person-I39407",
+            "wife": "Person-I39406"
+        },
+        {
+            "familyId": "@F14460@",
+            "husband": "Person-I39412",
+            "wife": "Person-I39411"
+        },
+        {
+            "familyId": "@F14470@",
+            "husband": "Person-I39443",
+            "wife": "Person-I39444",
+            "marriage": {
+                "date": "14 JUN 1850"
+            },
+            "children": [
+                "Person-I39528",
+                "Person-I39529"
+            ]
+        },
+        {
+            "familyId": "@F14471@",
+            "husband": "Person-I39452",
+            "wife": "Person-I39445"
+        },
+        {
+            "familyId": "@F14472@",
+            "husband": "Person-I39453",
+            "wife": "Person-I39447",
+            "marriage": {
+                "date": "6 SEP 1860"
+            }
+        },
+        {
+            "familyId": "@F14473@",
+            "husband": "Person-I39455",
+            "wife": "Person-I39448"
+        },
+        {
+            "familyId": "@F14474@",
+            "husband": "Person-I39449",
+            "wife": "Person-I39456",
+            "marriage": {
+                "date": "29 OCT 1874"
+            }
+        },
+        {
+            "familyId": "@F14475@",
+            "children": [
+                "Person-I39453"
+            ]
+        },
+        {
+            "familyId": "@F14476@",
+            "marriage": {
+                "date": "26 APR 1846"
+            },
+            "children": [
+                "Person-I39456"
+            ]
+        },
+        {
+            "familyId": "@F14478@",
+            "husband": "Person-I39460",
+            "wife": "Person-I39472",
+            "marriage": {
+                "date": "20 MAY 1866"
+            }
+        },
+        {
+            "familyId": "@F14480@",
+            "husband": "Person-I39463",
+            "wife": "Person-I39474",
+            "marriage": {
+                "date": "18 JUL 1876"
+            }
+        },
+        {
+            "familyId": "@F14481@",
+            "husband": "Person-I39464",
+            "wife": "Person-I39476"
+        },
+        {
+            "familyId": "@F14482@",
+            "husband": "Person-I39477",
+            "wife": "Person-I39465",
+            "marriage": {
+                "date": "19 FEB 1873"
+            },
+            "children": [
+                "Person-I72002"
+            ]
+        },
+        {
+            "familyId": "@F14483@",
+            "husband": "Person-I39480",
+            "wife": "Person-I39466"
+        },
+        {
+            "familyId": "@F14484@",
+            "husband": "Person-I39481",
+            "wife": "Person-I39466"
+        },
+        {
+            "familyId": "@F14485@",
+            "husband": "Person-I39467",
+            "wife": "Person-I39484",
+            "marriage": {
+                "date": "27 JUN 1886"
+            }
+        },
+        {
+            "familyId": "@F14486@",
+            "husband": "Person-I39487",
+            "wife": "Person-I39468",
+            "children": [
+                "Person-I56762",
+                "Person-I56760",
+                "Person-I56761"
+            ]
+        },
+        {
+            "familyId": "@F14487@",
+            "husband": "Person-I39469",
+            "wife": "Person-I39490",
+            "marriage": {
+                "date": "13 JAN 1892"
+            },
+            "children": [
+                "Person-I56759"
+            ]
+        },
+        {
+            "familyId": "@F14488@",
+            "marriage": {
+                "date": "20 OCT 1854"
+            },
+            "children": [
+                "Person-I39474"
+            ]
+        },
+        {
+            "familyId": "@F14489@",
+            "marriage": {
+                "date": "1846"
+            },
+            "children": [
+                "Person-I39477"
+            ]
+        },
+        {
+            "familyId": "@F14490@",
+            "children": [
+                "Person-I39481",
+                "Person-I39487"
+            ]
+        },
+        {
+            "familyId": "@F14494@",
+            "husband": "Person-I39494",
+            "wife": "Person-I39499",
+            "marriage": {
+                "date": "21 OCT 1866"
+            },
+            "children": [
+                "Person-I53526"
+            ]
+        },
+        {
+            "familyId": "@F14495@",
+            "husband": "Person-I39507",
+            "wife": "Person-I39501",
+            "marriage": {
+                "date": "9 JAN 1867"
+            }
+        },
+        {
+            "familyId": "@F14496@",
+            "husband": "Person-I39510",
+            "wife": "Person-I39503"
+        },
+        {
+            "familyId": "@F14497@",
+            "husband": "Person-I39504",
+            "wife": "Person-I39511",
+            "marriage": {
+                "date": "18 FEB 1883"
+            }
+        },
+        {
+            "familyId": "@F14498@",
+            "husband": "Person-I39505",
+            "wife": "Person-I39512",
+            "children": [
+                "Person-I39513"
+            ]
+        },
+        {
+            "familyId": "@F14499@",
+            "husband": "Person-I39506",
+            "wife": "Person-I39514",
+            "marriage": {
+                "date": "22 MAR 1883"
+            }
+        },
+        {
+            "familyId": "@F14500@",
+            "husband": "Person-I39506",
+            "wife": "Person-I39515",
+            "marriage": {
+                "date": "1885"
+            }
+        },
+        {
+            "familyId": "@F14501@",
+            "children": [
+                "Person-I39507"
+            ]
+        },
+        {
+            "familyId": "@F14502@",
+            "children": [
+                "Person-I39515"
+            ]
+        },
+        {
+            "familyId": "@F14503@",
+            "husband": "Person-I39517",
+            "wife": "Person-I39521",
+            "marriage": {
+                "date": "29 DEC 1872"
+            }
+        },
+        {
+            "familyId": "@F14504@",
+            "husband": "Person-I39517",
+            "wife": "Person-I39522",
+            "marriage": {
+                "date": "8 MAR 1876"
+            }
+        },
+        {
+            "familyId": "@F14548@",
+            "husband": "Person-I26760",
+            "wife": "Person-I38239"
+        },
+        {
+            "familyId": "@F21514@",
+            "marriage": {
+                "date": "BET 9 NOV 1837 AND 1838"
+            },
+            "children": [
+                "Person-I56078"
+            ]
+        },
+        {
+            "familyId": "@F21682@",
+            "marriage": {
+                "date": "27 MAR 1829"
+            },
+            "children": [
+                "Person-I39444"
+            ]
+        },
+        {
+            "familyId": "@F21695@",
+            "husband": "Person-I39498",
+            "wife": "Person-I56758"
+        },
+        {
+            "familyId": "@F21697@",
+            "husband": "Person-I56767",
+            "wife": "Person-I56624",
+            "marriage": {
+                "date": "6 MAR 1856"
+            },
+            "children": [
+                "Person-I57007",
+                "Person-I57008",
+                "Person-I57009",
+                "Person-I57010",
+                "Person-I57011",
+                "Person-I57012"
+            ]
+        },
+        {
+            "familyId": "@F21698@",
+            "husband": "Person-I56768",
+            "wife": "Person-I56628",
+            "marriage": {
+                "date": "5 DEC 1866"
+            }
+        },
+        {
+            "familyId": "@F21731@",
+            "husband": "Person-I39451",
+            "wife": "Person-I56884",
+            "marriage": {
+                "date": "25 DEC 1881"
+            }
+        },
+        {
+            "familyId": "@F21810@",
+            "husband": "Person-I56626",
+            "wife": "Person-I57088",
+            "children": [
+                "Person-I57089"
+            ]
+        },
+        {
+            "familyId": "@F21811@",
+            "husband": "Person-I56627",
+            "wife": "Person-I57090",
+            "marriage": {
+                "date": "17 APR 1863"
+            },
+            "children": [
+                "Person-I57091",
+                "Person-I57092"
+            ]
+        },
+        {
+            "familyId": "@F21826@",
+            "children": [
+                "Person-I38413",
+                "Person-I39435"
+            ]
+        },
+        {
+            "familyId": "@F22755@",
+            "marriage": {
+                "date": "C1801"
+            },
+            "children": [
+                "Person-I38412"
+            ]
+        },
+        {
+            "familyId": "@F23061@",
+            "husband": "Person-I38412",
+            "marriage": []
+        },
+        {
+            "familyId": "@F23062@",
+            "husband": "Person-I60853",
+            "wife": "Person-I38409"
+        },
+        {
+            "familyId": "@F24816@",
+            "children": [
+                "Person-I65945"
+            ]
+        },
+        {
+            "familyId": "@F24820@",
+            "husband": "Person-I39518",
+            "wife": "Person-I65945",
+            "marriage": {
+                "date": "24 APR 1887"
+            },
+            "children": [
+                "Person-I39527"
+            ]
+        },
+        {
+            "familyId": "@F24821@",
+            "wife": "Person-I65945",
+            "marriage": {
+                "date": "29 APR 1894"
+            }
+        },
+        {
+            "familyId": "@F25961@",
+            "husband": "Person-I39459",
+            "wife": "Person-I56078",
+            "marriage": {
+                "date": "10 JAN 1861"
+            }
+        },
+        {
+            "familyId": "@F26990@",
+            "husband": "Person-I39477",
+            "wife": "Person-I39461",
+            "marriage": {
+                "date": "10 JAN 1877"
+            },
+            "children": [
+                "Person-I72005",
+                "Person-I72006",
+                "Person-I72007",
+                "Person-I72008",
+                "Person-I72009",
+                "@I72010@"
+            ]
+        },
+        {
+            "familyId": "@F38302@",
+            "children": [
+                "Person-I38265"
+            ]
+        },
+        {
+            "familyId": "@F38303@",
+            "children": [
+                "Person-I39441"
+            ]
+        }
+    ],
+    "places": [],
+    "sources": [
+        {
+            "sourceId": "@S1013@",
+            "title": "Wesley Chapel Cemetery Census, Lauderdale Co., AL",
+            "abbreviation": "Cemetery Census, Lauderdale Co., AL"
+        },
+        {
+            "sourceId": "@S1021@",
+            "title": "Hitchcock Family Home Page",
+            "abbreviation": "Hitchcock Family Home Page"
+        },
+        {
+            "sourceId": "@S109@",
+            "title": "The 1980 Cemetery Census of Hardin County, Tennessee",
+            "abbreviation": "Cemetery Census, Hardin Co., TN"
+        },
+        {
+            "sourceId": "@S1178@",
+            "title": "Wayne County, Tennessee Cemetery and Death Records",
+            "abbreviation": "Cemetery Census, Wayne Co., TN"
+        },
+        {
+            "sourceId": "@S1385@",
+            "abbreviation": "http:\/\/www.rootsweb.com\/~allauder\/marbka-groomsa-h.htm"
+        },
+        {
+            "sourceId": "@S1535@",
+            "title": "Paulk,",
+            "abbreviation": "Callie Paulk Frew"
+        },
+        {
+            "sourceId": "@S1595@",
+            "title": "Family records",
+            "abbreviation": "Nadyne Lynn"
+        },
+        {
+            "sourceId": "@S1791@",
+            "title": "Census 1850 Wayne Co., TN",
+            "abbreviation": "Census, 1850, Wayne Co., TN"
+        },
+        {
+            "sourceId": "@S1879@",
+            "title": "Marriage Book 3, 1858 - 1867, Lauderdale Co, AL",
+            "abbreviation": "Marriage Book 3, 1858 - 1867, Lauderdale Co, AL"
+        },
+        {
+            "sourceId": "@S1898@",
+            "title": "Marriage Book 1: 1820 - 1825, Lauderdale Co., AL",
+            "abbreviation": "Marriage Book 1: 1820 - 1825, Lauderdale Co., AL"
+        },
+        {
+            "sourceId": "@S1899@",
+            "title": "Census, 1860 Wayne Co., TN",
+            "abbreviation": "Census, 1860 Wayne Co., TN"
+        },
+        {
+            "sourceId": "@S1904@",
+            "title": "Marriage Book 2, 1825 - 1833, Lauderdale Co., AL",
+            "abbreviation": "Marriage Book 2, 1825 - 1833, Lauderdale Co., AL"
+        },
+        {
+            "sourceId": "@S1905@",
+            "title": "Marriage Book 3, 1833 - 1838, Lauderdale Co., AL",
+            "abbreviation": "Marriage Book 3, 1833 - 1838, Lauderdale Co., AL"
+        },
+        {
+            "sourceId": "@S1906@",
+            "title": "Marriage Book 5, 1841 - 1851, Lauderdale Co., AL",
+            "abbreviation": "Marriage Book 5, 1841 - 1851, Lauderdale Co., AL"
+        },
+        {
+            "sourceId": "@S1907@",
+            "title": "Marriage Book 6, 1851 - 1857, Lauderdale Co., AL",
+            "abbreviation": "Marriage Book 6, 1851 - 1857, Lauderdale Co., AL"
+        },
+        {
+            "sourceId": "@S1915@",
+            "title": "Reconstructed Marriage Records 1820-1857, Wayne Co., TN",
+            "abbreviation": "Marriage Records Reconstructed, Wayne Co., TN"
+        },
+        {
+            "sourceId": "@S1945@",
+            "title": "Whitten's Cross Roads (Pleasant Point) Cemetery",
+            "abbreviation": "Cemetery Census, Wayne Co., TN"
+        },
+        {
+            "sourceId": "@S1952@",
+            "title": "Census, 1860, Wayne Co., TN",
+            "abbreviation": "Census, 1860, Wayne Co., TN"
+        },
+        {
+            "sourceId": "@S1964@",
+            "title": "Pleasant Hill Cemetery Census, Lauderdale Co., AL",
+            "abbreviation": "Cemetery Census, Lauderdale Co., AL"
+        },
+        {
+            "sourceId": "@S1967@",
+            "title": "Murphy's Chapel Cemetery Census, Lauderdale Co., AL",
+            "abbreviation": "Cemetery Census, Lauderdale Co., AL"
+        },
+        {
+            "sourceId": "@S1974@",
+            "title": "Marriage Book C, 1879 - 1882, Lauderdale Co., AL",
+            "abbreviation": "Marriage Book C, 1879 - 1882, Lauderdale Co., AL"
+        },
+        {
+            "sourceId": "@S1976@",
+            "title": "Census, 1860, Noxubee Co., MS",
+            "abbreviation": "Census, 1860, Noxubee Co., MS"
+        },
+        {
+            "sourceId": "@S1989@",
+            "title": "Census, 1870 Lauderdale Co., AL",
+            "abbreviation": "Census, 1870 Lauderdale Co., AL"
+        },
+        {
+            "sourceId": "@S1993@",
+            "title": "Giles Cemetery Census, Pottawatomie Co., OK",
+            "abbreviation": "Cemetery Census, Pottawatomie Co., OK"
+        },
+        {
+            "sourceId": "@S2005@",
+            "title": "1907 Confederate Veterans Census, Lauderdale Co, AL",
+            "abbreviation": "Census, 1907 Confederate Veterans, Lauderdale Co, AL"
+        },
+        {
+            "sourceId": "@S2093@",
+            "title": "Oak Grove Cemetery",
+            "abbreviation": "Cemetery Census, Wayne Co., TN"
+        },
+        {
+            "sourceId": "@S2094@",
+            "title": "Whitten's Chapel Cemetery",
+            "abbreviation": "Cemetery Census, Wayne Co., TN"
+        },
+        {
+            "sourceId": "@S2095@",
+            "title": "Pleasant Springs United Methodist Church Cemetery",
+            "abbreviation": "Cemetery Census, Wayne Co., TN"
+        },
+        {
+            "sourceId": "@S2117@",
+            "title": "Census, 1880, Wayne Co., TN",
+            "abbreviation": "Census, 1880, Wayne Co., TN"
+        },
+        {
+            "sourceId": "@S2119@",
+            "title": "David Clay Whitten Family Bible",
+            "abbreviation": "Bible of David Clay Whitten"
+        },
+        {
+            "sourceId": "@S2136@",
+            "title": "Obits of Wayne Co., TN",
+            "abbreviation": "Obits of Wayne Co., TN"
+        },
+        {
+            "sourceId": "@S2162@",
+            "title": "Wallace-Holt-Hill family tree",
+            "abbreviation": "Connie Pearl"
+        },
+        {
+            "sourceId": "@S2264@",
+            "title": "My Family Database",
+            "abbreviation": "Edgar D. Byler, III"
+        },
+        {
+            "sourceId": "@S2289@",
+            "title": "Civil War Pension Applications",
+            "abbreviation": "Pension Applications, Wayne Co., TN"
+        },
+        {
+            "sourceId": "@S2381@",
+            "title": "McFall Family Tree",
+            "abbreviation": "Carol McFall"
+        },
+        {
+            "sourceId": "@S2686@",
+            "title": "http:\/\/www.findagrave.com",
+            "abbreviation": "Find a Grave"
+        },
+        {
+            "sourceId": "@S853@",
+            "title": "Marriage Book A, 1870 - 1876, Lauderdale Co., AL",
+            "abbreviation": "Marriage Book A, 1870 - 1876, Lauderdale Co., AL"
+        },
+        {
+            "sourceId": "@S903@",
+            "title": "Census, 1850, Lauderdale Co., AL",
+            "abbreviation": "Census, 1850, Lauderdale Co., AL"
+        }
+    ]
+}

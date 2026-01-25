@@ -1,0 +1,964 @@
+{
+    "metadata": {
+        "source": "FTW",
+        "lastUpdated": "10 APR 2006",
+        "charset": "ANSI",
+        "gedcomVersion": "5.5"
+    },
+    "people": [
+        {
+            "gedcomId": "@I0131@",
+            "wikitreeId": "Person-I0131",
+            "name": {
+                "full": "John Scruggs \/McDonald\/",
+                "given": "John Scruggs",
+                "surname": "McDonald"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1834"
+            },
+            "death": {
+                "date": "3 NOV 1896"
+            },
+            "familyAsSpouse": [
+                "@F0042@",
+                "@F0077@"
+            ],
+            "familyAsChild": [
+                "@F0075@"
+            ]
+        },
+        {
+            "gedcomId": "@I0179@",
+            "wikitreeId": "Person-I0179",
+            "name": {
+                "full": "John W. \/McDonald\/",
+                "given": "John W.",
+                "surname": "McDonald"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1792"
+            },
+            "familyAsSpouse": [
+                "@F0075@"
+            ]
+        },
+        {
+            "gedcomId": "@I0180@",
+            "wikitreeId": "Person-I0180",
+            "name": {
+                "full": "Margaret \/Emory\/",
+                "given": "Margaret",
+                "surname": "Emory"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "ABT 1793"
+            },
+            "familyAsSpouse": [
+                "@F0075@"
+            ]
+        },
+        {
+            "gedcomId": "@I0690@",
+            "wikitreeId": "Person-I0690",
+            "name": {
+                "full": "Amos \/McDonald\/",
+                "given": "Amos",
+                "surname": "McDonald"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1816"
+            },
+            "familyAsSpouse": [
+                "@F0261@"
+            ],
+            "familyAsChild": [
+                "@F0075@"
+            ]
+        },
+        {
+            "gedcomId": "@I0691@",
+            "wikitreeId": "Person-I0691",
+            "name": {
+                "full": "Elias \/McDonald\/",
+                "given": "Elias",
+                "surname": "McDonald"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "25 JUL 1819"
+            },
+            "death": {
+                "date": "29 SEP 1897"
+            },
+            "familyAsSpouse": [
+                "@F0263@"
+            ],
+            "familyAsChild": [
+                "@F0075@"
+            ]
+        },
+        {
+            "gedcomId": "@I0692@",
+            "wikitreeId": "Person-I0692",
+            "name": {
+                "full": "Matthew J. \/McDonald\/",
+                "given": "Matthew J.",
+                "surname": "McDonald"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1817"
+            },
+            "death": {
+                "date": "1906"
+            },
+            "familyAsSpouse": [
+                "@F0262@"
+            ],
+            "familyAsChild": [
+                "@F0075@"
+            ]
+        },
+        {
+            "gedcomId": "@I0693@",
+            "wikitreeId": "Person-I0693",
+            "name": {
+                "full": "Thomas Anderson \/McDonald\/",
+                "given": "Thomas Anderson",
+                "surname": "McDonald"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "ABT 1822"
+            },
+            "familyAsSpouse": [
+                "@F0319@"
+            ],
+            "familyAsChild": [
+                "@F0075@"
+            ]
+        },
+        {
+            "gedcomId": "@I0694@",
+            "wikitreeId": "Person-I0694",
+            "name": {
+                "full": "Joseph Emory \/McDonald\/",
+                "given": "Joseph Emory",
+                "surname": "McDonald"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1 SEP 1824"
+            },
+            "death": {
+                "date": "28 FEB 1911"
+            },
+            "familyAsSpouse": [
+                "@F0389@"
+            ],
+            "familyAsChild": [
+                "@F0075@"
+            ]
+        },
+        {
+            "gedcomId": "@I0695@",
+            "wikitreeId": "Person-I0695",
+            "name": {
+                "full": "Lavenia Syrena \/McDonald\/",
+                "given": "Lavenia Syrena",
+                "surname": "McDonald"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F0260@"
+            ],
+            "familyAsChild": [
+                "@F0075@"
+            ]
+        },
+        {
+            "gedcomId": "@I0696@",
+            "wikitreeId": "Person-I0696",
+            "name": {
+                "full": "Flavis Horris \/McDonald\/",
+                "given": "Flavis Horris",
+                "surname": "McDonald"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1829"
+            },
+            "death": {
+                "date": "6 APR 1877"
+            },
+            "familyAsSpouse": [
+                "@F0650@"
+            ],
+            "familyAsChild": [
+                "@F0075@"
+            ]
+        },
+        {
+            "gedcomId": "@I0697@",
+            "wikitreeId": "Person-I0697",
+            "name": {
+                "full": "Altemina \/McDonald\/",
+                "given": "Altemina",
+                "surname": "McDonald"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1831"
+            },
+            "familyAsSpouse": [
+                "@F0651@"
+            ],
+            "familyAsChild": [
+                "@F0075@"
+            ]
+        },
+        {
+            "gedcomId": "@I0864@",
+            "wikitreeId": "Person-I0864",
+            "name": {
+                "full": "Sarah A. \/Adkinson\/",
+                "given": "Sarah A.",
+                "surname": "Adkinson"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F0319@"
+            ]
+        },
+        {
+            "gedcomId": "@I0865@",
+            "wikitreeId": "Person-I0865",
+            "name": {
+                "full": "Corinthus A. \/McDonald\/",
+                "given": "Corinthus A.",
+                "surname": "McDonald"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1855"
+            },
+            "familyAsChild": [
+                "@F0319@"
+            ]
+        },
+        {
+            "gedcomId": "@I0866@",
+            "wikitreeId": "Person-I0866",
+            "name": {
+                "full": "Martha Finch 'Mattie' \/McDonald\/",
+                "given": "Martha Finch 'Mattie'",
+                "surname": "McDonald"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1856"
+            },
+            "death": {
+                "date": "ABT 1933"
+            },
+            "familyAsSpouse": [
+                "@F0320@"
+            ],
+            "familyAsChild": [
+                "@F0319@"
+            ]
+        },
+        {
+            "gedcomId": "@I0867@",
+            "wikitreeId": "Person-I0867",
+            "name": {
+                "full": "Commodore Harry \/McDonald\/",
+                "given": "Commodore Harry",
+                "surname": "McDonald"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1857"
+            },
+            "death": {
+                "date": "1917"
+            },
+            "familyAsChild": [
+                "@F0319@"
+            ]
+        },
+        {
+            "gedcomId": "@I0868@",
+            "wikitreeId": "Person-I0868",
+            "name": {
+                "full": "Palina Altimira \/McDonald\/",
+                "given": "Palina Altimira",
+                "surname": "McDonald"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "31 MAR 1859"
+            },
+            "death": {
+                "date": "5 AUG 1936"
+            },
+            "familyAsSpouse": [
+                "@F0340@"
+            ],
+            "familyAsChild": [
+                "@F0319@"
+            ]
+        },
+        {
+            "gedcomId": "@I0869@",
+            "wikitreeId": "Person-I0869",
+            "name": {
+                "full": "John \/McDonald\/",
+                "given": "John",
+                "surname": "McDonald"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1861"
+            },
+            "death": {
+                "date": "1942"
+            },
+            "familyAsSpouse": [
+                "@F0368@"
+            ],
+            "familyAsChild": [
+                "@F0319@"
+            ]
+        },
+        {
+            "gedcomId": "@I0870@",
+            "wikitreeId": "Person-I0870",
+            "name": {
+                "full": "Joseph 'Joe' \/McDonald\/",
+                "given": "Joseph 'Joe'",
+                "surname": "McDonald"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1863"
+            },
+            "familyAsChild": [
+                "@F0319@"
+            ]
+        },
+        {
+            "gedcomId": "@I0871@",
+            "wikitreeId": "Person-I0871",
+            "name": {
+                "full": "William Scruggs \/McDonald\/",
+                "given": "William Scruggs",
+                "surname": "McDonald"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1866"
+            },
+            "familyAsSpouse": [
+                "@F0372@",
+                "@F0373@"
+            ],
+            "familyAsChild": [
+                "@F0319@"
+            ]
+        },
+        {
+            "gedcomId": "@I0872@",
+            "wikitreeId": "Person-I0872",
+            "name": {
+                "full": "Thomas Franklin \/McDonald\/",
+                "given": "Thomas Franklin",
+                "surname": "McDonald"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "22 DEC 1869"
+            },
+            "death": {
+                "date": "5 AUG 1953"
+            },
+            "familyAsSpouse": [
+                "@F0378@",
+                "@F0379@"
+            ],
+            "familyAsChild": [
+                "@F0319@"
+            ]
+        },
+        {
+            "gedcomId": "@I0873@",
+            "wikitreeId": "Person-I0873",
+            "name": {
+                "full": "Sarah \/McDonald\/",
+                "given": "Sarah",
+                "surname": "McDonald"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "22 DEC 1869"
+            },
+            "death": {
+                "date": "ABT 1870"
+            },
+            "familyAsChild": [
+                "@F0319@"
+            ]
+        },
+        {
+            "gedcomId": "@I0874@",
+            "wikitreeId": "Person-I0874",
+            "name": {
+                "full": "Fannie \/McDonald\/",
+                "given": "Fannie",
+                "surname": "McDonald"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1873"
+            },
+            "familyAsChild": [
+                "@F0319@"
+            ]
+        },
+        {
+            "gedcomId": "@I0924@",
+            "wikitreeId": "Person-I0924",
+            "name": {
+                "full": "William Eldredge \/England\/",
+                "given": "William Eldredge",
+                "surname": "England"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1 MAR 1853"
+            },
+            "death": {
+                "date": "6 MAR 1905"
+            },
+            "familyAsSpouse": [
+                "@F0340@"
+            ]
+        },
+        {
+            "gedcomId": "@I0925@",
+            "wikitreeId": "Person-I0925",
+            "name": {
+                "full": "Ella \/England\/",
+                "given": "Ella",
+                "surname": "England"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "17 SEP 1877"
+            },
+            "death": {
+                "date": "30 OCT 1910"
+            },
+            "familyAsSpouse": [
+                "@F0341@"
+            ],
+            "familyAsChild": [
+                "@F0340@"
+            ]
+        },
+        {
+            "gedcomId": "@I0927@",
+            "wikitreeId": "Person-I0927",
+            "name": {
+                "full": "William Edward \/England\/",
+                "given": "William Edward",
+                "surname": "England"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "17 DEC 1879"
+            },
+            "death": {
+                "date": "29 FEB 1964"
+            },
+            "familyAsSpouse": [
+                "@F0342@"
+            ],
+            "familyAsChild": [
+                "@F0340@"
+            ]
+        },
+        {
+            "gedcomId": "@I0928@",
+            "wikitreeId": "Person-I0928",
+            "name": {
+                "full": "Tilmon \/England\/",
+                "given": "Tilmon",
+                "surname": "England"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "18 MAR 1883"
+            },
+            "death": {
+                "date": "5 MAR 1894"
+            },
+            "familyAsChild": [
+                "@F0340@"
+            ]
+        },
+        {
+            "gedcomId": "@I0929@",
+            "wikitreeId": "Person-I0929",
+            "name": {
+                "full": "Neual \/England\/",
+                "given": "Neual",
+                "surname": "England"
+            },
+            "birth": {
+                "date": "1884"
+            },
+            "death": {
+                "date": "2 MAY 1902"
+            },
+            "familyAsChild": [
+                "@F0340@"
+            ]
+        },
+        {
+            "gedcomId": "@I0930@",
+            "wikitreeId": "Person-I0930",
+            "name": {
+                "full": "Roxie \/England\/",
+                "given": "Roxie",
+                "surname": "England"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "8 MAY 1887"
+            },
+            "death": {
+                "date": "8 APR 1979"
+            },
+            "familyAsSpouse": [
+                "@F0364@",
+                "@F0363@"
+            ],
+            "familyAsChild": [
+                "@F0340@"
+            ]
+        },
+        {
+            "gedcomId": "@I0931@",
+            "wikitreeId": "Person-I0931",
+            "name": {
+                "full": "Rivers Walsie \/England\/",
+                "given": "Rivers Walsie",
+                "surname": "England"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "13 JAN 1893"
+            },
+            "death": {
+                "date": "19 FEB 1971"
+            },
+            "familyAsSpouse": [
+                "@F0365@"
+            ],
+            "familyAsChild": [
+                "@F0340@"
+            ]
+        },
+        {
+            "gedcomId": "@I0932@",
+            "wikitreeId": "Person-I0932",
+            "name": {
+                "full": "Waymond \/England\/",
+                "given": "Waymond",
+                "surname": "England"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "26 JUL 1899"
+            },
+            "familyAsSpouse": [
+                "@F0366@"
+            ],
+            "familyAsChild": [
+                "@F0340@"
+            ]
+        },
+        {
+            "gedcomId": "@I0933@",
+            "wikitreeId": "Person-I0933",
+            "name": {
+                "full": "Carver \/England\/",
+                "given": "Carver",
+                "surname": "England"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1902"
+            },
+            "death": {
+                "date": "1978"
+            },
+            "familyAsSpouse": [
+                "@F0367@"
+            ],
+            "familyAsChild": [
+                "@F0340@"
+            ]
+        },
+        {
+            "gedcomId": "@I0934@",
+            "wikitreeId": "Person-I0934",
+            "name": {
+                "full": "Nancy Pearl \/Parish\/",
+                "given": "Nancy Pearl",
+                "surname": "Parish"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "18 NOV 1890"
+            },
+            "death": {
+                "date": "17 AUG 1965"
+            },
+            "familyAsSpouse": [
+                "@F0342@"
+            ]
+        },
+        {
+            "gedcomId": "@I0935@",
+            "wikitreeId": "Person-I0935",
+            "name": {
+                "full": "Bruner Elvin \/England\/",
+                "given": "Bruner Elvin",
+                "surname": "England"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "17 MAR 1911"
+            },
+            "death": {
+                "date": "29 AUG 1948"
+            },
+            "familyAsSpouse": [
+                "@F0343@",
+                "@F0344@"
+            ],
+            "familyAsChild": [
+                "@F0342@"
+            ]
+        },
+        {
+            "gedcomId": "@I0936@",
+            "wikitreeId": "Person-I0936",
+            "name": {
+                "full": "William Berlin \/England\/",
+                "given": "William Berlin",
+                "surname": "England"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "18 JAN 1913"
+            },
+            "familyAsSpouse": [
+                "@F0345@"
+            ],
+            "familyAsChild": [
+                "@F0342@"
+            ]
+        },
+        {
+            "gedcomId": "@I0937@",
+            "wikitreeId": "Person-I0937",
+            "name": {
+                "full": "Lois Marveline \/England\/",
+                "given": "Lois Marveline",
+                "surname": "England"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "17 DEC 1914"
+            },
+            "familyAsSpouse": [
+                "@F0351@"
+            ],
+            "familyAsChild": [
+                "@F0342@"
+            ]
+        },
+        {
+            "gedcomId": "@I0938@",
+            "wikitreeId": "Person-I0938",
+            "name": {
+                "full": "Otti Louise \/England\/",
+                "given": "Otti Louise",
+                "surname": "England"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "5 MAR 1916"
+            },
+            "death": {
+                "date": "11 APR 1975"
+            },
+            "familyAsSpouse": [
+                "@F0355@"
+            ],
+            "familyAsChild": [
+                "@F0342@"
+            ]
+        },
+        {
+            "gedcomId": "@I0939@",
+            "wikitreeId": "Person-I0939",
+            "name": {
+                "full": "Lora Mae \/England\/",
+                "given": "Lora Mae",
+                "surname": "England"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "25 AUG 1917"
+            },
+            "familyAsSpouse": [
+                "@F0361@"
+            ],
+            "familyAsChild": [
+                "@F0342@"
+            ]
+        }
+    ],
+    "families": [
+        {
+            "familyId": "@F0042@",
+            "husband": "Person-I0131",
+            "marriage": {
+                "place": "Green Hill, AL"
+            }
+        },
+        {
+            "familyId": "@F0075@",
+            "husband": "Person-I0179",
+            "wife": "Person-I0180",
+            "children": [
+                "Person-I0695",
+                "Person-I0690",
+                "Person-I0692",
+                "Person-I0691",
+                "Person-I0693",
+                "@I1021@",
+                "Person-I0694",
+                "Person-I0696",
+                "Person-I0697",
+                "Person-I0131"
+            ]
+        },
+        {
+            "familyId": "@F0077@",
+            "husband": "Person-I0131",
+            "marriage": {
+                "date": "25 APR 1853"
+            }
+        },
+        {
+            "familyId": "@F0260@",
+            "wife": "Person-I0695",
+            "marriage": {
+                "date": "29 OCT 1863"
+            }
+        },
+        {
+            "familyId": "@F0261@",
+            "husband": "Person-I0690",
+            "marriage": {
+                "date": "1 SEP 1836"
+            }
+        },
+        {
+            "familyId": "@F0262@",
+            "husband": "Person-I0692"
+        },
+        {
+            "familyId": "@F0263@",
+            "husband": "Person-I0691",
+            "marriage": {
+                "date": "11 JUL 1843"
+            }
+        },
+        {
+            "familyId": "@F0319@",
+            "husband": "Person-I0693",
+            "wife": "Person-I0864",
+            "marriage": {
+                "date": "24 JUN 1852"
+            },
+            "children": [
+                "Person-I0865",
+                "Person-I0866",
+                "Person-I0867",
+                "Person-I0868",
+                "Person-I0869",
+                "Person-I0870",
+                "Person-I0871",
+                "Person-I0872",
+                "Person-I0873",
+                "Person-I0874"
+            ]
+        },
+        {
+            "familyId": "@F0320@",
+            "wife": "Person-I0866"
+        },
+        {
+            "familyId": "@F0340@",
+            "husband": "Person-I0924",
+            "wife": "Person-I0868",
+            "children": [
+                "Person-I0925",
+                "Person-I0927",
+                "Person-I0928",
+                "Person-I0929",
+                "Person-I0930",
+                "Person-I0931",
+                "Person-I0932",
+                "Person-I0933"
+            ]
+        },
+        {
+            "familyId": "@F0341@",
+            "wife": "Person-I0925"
+        },
+        {
+            "familyId": "@F0342@",
+            "husband": "Person-I0927",
+            "wife": "Person-I0934",
+            "marriage": {
+                "date": "19 DEC 1908"
+            },
+            "children": [
+                "Person-I0935",
+                "Person-I0936",
+                "Person-I0937",
+                "Person-I0938",
+                "Person-I0939"
+            ]
+        },
+        {
+            "familyId": "@F0343@",
+            "husband": "Person-I0935"
+        },
+        {
+            "familyId": "@F0344@",
+            "husband": "Person-I0935"
+        },
+        {
+            "familyId": "@F0345@",
+            "husband": "Person-I0936",
+            "marriage": {
+                "date": "11 JUL 1931"
+            }
+        },
+        {
+            "familyId": "@F0351@",
+            "wife": "Person-I0937",
+            "marriage": {
+                "date": "15 DEC 1934"
+            }
+        },
+        {
+            "familyId": "@F0355@",
+            "wife": "Person-I0938"
+        },
+        {
+            "familyId": "@F0361@",
+            "wife": "Person-I0939",
+            "marriage": {
+                "date": "4 JUL 1938"
+            }
+        },
+        {
+            "familyId": "@F0363@",
+            "wife": "Person-I0930",
+            "marriage": {
+                "date": "25 OCT 1907"
+            }
+        },
+        {
+            "familyId": "@F0364@",
+            "wife": "Person-I0930"
+        },
+        {
+            "familyId": "@F0365@",
+            "husband": "Person-I0931"
+        },
+        {
+            "familyId": "@F0366@",
+            "wife": "Person-I0932"
+        },
+        {
+            "familyId": "@F0367@",
+            "husband": "Person-I0933"
+        },
+        {
+            "familyId": "@F0368@",
+            "husband": "Person-I0869"
+        },
+        {
+            "familyId": "@F0372@",
+            "husband": "Person-I0871"
+        },
+        {
+            "familyId": "@F0373@",
+            "husband": "Person-I0871"
+        },
+        {
+            "familyId": "@F0378@",
+            "husband": "Person-I0872"
+        },
+        {
+            "familyId": "@F0379@",
+            "husband": "Person-I0872",
+            "marriage": {
+                "date": "27 SEP 1903"
+            }
+        },
+        {
+            "familyId": "@F0385@",
+            "husband": "@I1021@",
+            "marriage": {
+                "date": "18 FEB 1841"
+            }
+        },
+        {
+            "familyId": "@F0386@",
+            "husband": "@I1021@"
+        },
+        {
+            "familyId": "@F0389@",
+            "husband": "Person-I0694"
+        },
+        {
+            "familyId": "@F0650@",
+            "husband": "Person-I0696"
+        },
+        {
+            "familyId": "@F0651@",
+            "wife": "Person-I0697",
+            "marriage": {
+                "date": "23 APR 1851"
+            }
+        }
+    ],
+    "places": [],
+    "sources": []
+}

@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "source": "@516576312@",
+        "lastUpdated": "2 Jan 2006",
+        "gedcomVersion": "5.5",
+        "charset": "ANSI"
+    },
+    "people": [
+        {
+            "gedcomId": "@I96551@",
+            "wikitreeId": "Person-I96551",
+            "name": {
+                "full": "Elias Monroe \/England\/",
+                "given": "Elias Monroe",
+                "surname": "England"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "29 Apr 1878"
+            },
+            "death": {
+                "date": "21 Dec 2003"
+            },
+            "familyAsSpouse": [
+                "@F37338@"
+            ],
+            "notes": "This individual was found on GenCircles at: http:\/\/www.gencircles.com\/users\/milesdavis\/12\/data\/96551"
+        },
+        {
+            "gedcomId": "@I96553@",
+            "wikitreeId": "Person-I96553",
+            "name": {
+                "full": "Virginia Ethel \/England\/",
+                "given": "Virginia Ethel",
+                "surname": "England"
+            },
+            "sex": "F",
+            "death": {
+                "date": "21 Dec 2003"
+            },
+            "familyAsChild": [
+                "@F37338@"
+            ],
+            "notes": "This individual was found on GenCircles at: http:\/\/www.gencircles.com\/users\/milesdavis\/12\/data\/96553"
+        },
+        {
+            "gedcomId": "@I96552@",
+            "wikitreeId": "Person-I96552",
+            "name": {
+                "full": "Hershel Tilman \/England\/",
+                "given": "Hershel Tilman",
+                "surname": "England"
+            },
+            "sex": "M",
+            "death": {
+                "date": "21 Dec 2003"
+            },
+            "familyAsChild": [
+                "@F37338@"
+            ],
+            "notes": "This individual was found on GenCircles at: http:\/\/www.gencircles.com\/users\/milesdavis\/12\/data\/96552"
+        }
+    ],
+    "families": [],
+    "places": [],
+    "sources": [
+        {
+            "sourceId": "@S100@",
+            "title": "Bucholz, Linda, From Adam to Me (mannesah27@cox.net; Ancest",
+            "abbreviation": "From Adam to Me"
+        },
+        {
+            "sourceId": "@S516576312@",
+            "title": "Davis Miles Watson Ketcham"
+        }
+    ]
+}

@@ -1,0 +1,666 @@
+{
+    "metadata": {
+        "source": "Legacy",
+        "lastUpdated": "19 Jun 2009",
+        "gedcomVersion": "5.5",
+        "charset": "ANSI"
+    },
+    "people": [
+        {
+            "gedcomId": "@I110404@",
+            "wikitreeId": "Person-I110404",
+            "name": {
+                "full": "Mary P. \/PETREE\/",
+                "given": "Mary P.",
+                "surname": "PETREE"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "Abt 1908"
+            },
+            "familyAsChild": [
+                "@F522358388@"
+            ],
+            "notes": "District 26, Enumerated:  January 26-27, 1920.\n@DWNLNOTE@"
+        },
+        {
+            "gedcomId": "@I110405@",
+            "wikitreeId": "Person-I110405",
+            "name": {
+                "full": "Leslie M. \/PETREE\/",
+                "given": "Leslie M.",
+                "surname": "PETREE"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "Abt 1915"
+            },
+            "familyAsChild": [
+                "@F522358388@"
+            ],
+            "notes": "District 26, Enumerated:  January 26-27, 1920.\n@DWNLNOTE@"
+        },
+        {
+            "gedcomId": "@I110406@",
+            "wikitreeId": "Person-I110406",
+            "name": {
+                "full": "A. T. \/PETREE\/",
+                "given": "A. T.",
+                "surname": "PETREE"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "Abt 1919"
+            },
+            "familyAsChild": [
+                "@F522358388@"
+            ],
+            "notes": "District 26, Enumerated:  January 26-27, 1920.\n@DWNLNOTE@"
+        },
+        {
+            "gedcomId": "@I98452@",
+            "wikitreeId": "Person-I98452",
+            "name": {
+                "full": "Moses \/DUNCAN\/",
+                "given": "Moses",
+                "surname": "DUNCAN"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1807"
+            },
+            "death": {
+                "date": "20 May 1868"
+            },
+            "familyAsSpouse": [
+                "@F522358378@"
+            ],
+            "familyAsChild": [
+                "@F522358374@"
+            ],
+            "notes": "Enumerated November 28, 1850. Family number: 389-400.\n@DWNLNOTE@"
+        },
+        {
+            "gedcomId": "@I98460@",
+            "wikitreeId": "Person-I98460",
+            "name": {
+                "full": "Sarah Tarpley \/CLARK\/",
+                "given": "Sarah Tarpley",
+                "surname": "CLARK"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "23 Feb 1806"
+            },
+            "death": {
+                "date": "6 Jun 1894"
+            },
+            "familyAsSpouse": [
+                "@F522358378@"
+            ],
+            "notes": "Enumerated November 28, 1850. Family number: 389-400.\n@DWNLNOTE@"
+        },
+        {
+            "gedcomId": "@I98461@",
+            "wikitreeId": "Person-I98461",
+            "name": {
+                "full": "George Washington \/DUNCAN\/",
+                "given": "George Washington",
+                "surname": "DUNCAN"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "29 Jan 1829"
+            },
+            "death": {
+                "date": "Abt 1914"
+            },
+            "familyAsSpouse": [
+                "@F522358379@"
+            ],
+            "familyAsChild": [
+                "@F522358378@"
+            ],
+            "notes": "Enumerated November 28, 1850. Family number: 389-400.\n@DWNLNOTE@"
+        },
+        {
+            "gedcomId": "@I98462@",
+            "wikitreeId": "Person-I98462",
+            "name": {
+                "full": "Martha Ann \/DUNCAN\/",
+                "given": "Martha Ann",
+                "surname": "DUNCAN"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "25 Jul 1832"
+            },
+            "death": {
+                "date": "Unknown"
+            },
+            "familyAsSpouse": [
+                "@F522358380@"
+            ],
+            "familyAsChild": [
+                "@F522358378@"
+            ],
+            "notes": "Enumerated November 28, 1850. Family number: 389-400.\n@DWNLNOTE@"
+        },
+        {
+            "gedcomId": "@I98463@",
+            "wikitreeId": "Person-I98463",
+            "name": {
+                "full": "Robert M. \/DUNCAN\/",
+                "given": "Robert M.",
+                "surname": "DUNCAN"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "12 Apr 1834"
+            },
+            "death": {
+                "date": "3 Jul 1863"
+            },
+            "familyAsChild": [
+                "@F522358378@"
+            ],
+            "notes": "Enumerated November 28, 1850. Family number: 389-400.\n@DWNLNOTE@"
+        },
+        {
+            "gedcomId": "@I98464@",
+            "wikitreeId": "Person-I98464",
+            "name": {
+                "full": "Mary Elizabeth \/DUNCAN\/",
+                "given": "Mary Elizabeth",
+                "surname": "DUNCAN"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "13 Mar 1836"
+            },
+            "death": {
+                "date": "29 Jun 1901"
+            },
+            "familyAsSpouse": [
+                "@F522358381@"
+            ],
+            "familyAsChild": [
+                "@F522358378@"
+            ],
+            "notes": "Enumerated November 28, 1850. Family number: 389-400.\n@DWNLNOTE@"
+        },
+        {
+            "gedcomId": "@I98465@",
+            "wikitreeId": "Person-I98465",
+            "name": {
+                "full": "Elmira Green \/DUNCAN\/",
+                "given": "Elmira Green",
+                "surname": "DUNCAN"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "26 May 1838"
+            },
+            "death": {
+                "date": "10 Mar 1880"
+            },
+            "familyAsChild": [
+                "@F522358378@"
+            ],
+            "notes": "Enumerated November 28, 1850. Family number: 389-400.\n@DWNLNOTE@"
+        },
+        {
+            "gedcomId": "@I98466@",
+            "wikitreeId": "Person-I98466",
+            "name": {
+                "full": "Thomas Jefferson \/DUNCAN\/",
+                "given": "Thomas Jefferson",
+                "surname": "DUNCAN"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "15 Aug 1840"
+            },
+            "death": {
+                "date": "29 Aug 1932"
+            },
+            "familyAsSpouse": [
+                "@F522358382@"
+            ],
+            "familyAsChild": [
+                "@F522358378@"
+            ],
+            "notes": "Enumerated November 28, 1850. Family number: 389-400.\n@DWNLNOTE@"
+        },
+        {
+            "gedcomId": "@I98467@",
+            "wikitreeId": "Person-I98467",
+            "name": {
+                "full": "James Andrew \/DUNCAN\/",
+                "given": "James Andrew",
+                "surname": "DUNCAN"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "23 May 1842"
+            },
+            "death": {
+                "date": "29 Oct 1926"
+            },
+            "familyAsSpouse": [
+                "@F522358383@",
+                "@F522358384@"
+            ],
+            "familyAsChild": [
+                "@F522358378@"
+            ],
+            "notes": "Enumerated November 28, 1850. Family number: 389-400.\n@DWNLNOTE@"
+        },
+        {
+            "gedcomId": "@I98468@",
+            "wikitreeId": "Person-I98468",
+            "name": {
+                "full": "William D. \/DUNCAN\/",
+                "given": "William D.",
+                "surname": "DUNCAN"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "22 Sep 1844"
+            },
+            "death": {
+                "date": "Unknown"
+            },
+            "familyAsChild": [
+                "@F522358378@"
+            ],
+            "notes": "@DWNLNOTE@"
+        },
+        {
+            "gedcomId": "@I98469@",
+            "wikitreeId": "Person-I98469",
+            "name": {
+                "full": "Sarah F. \/DUNCAN\/",
+                "given": "Sarah F.",
+                "surname": "DUNCAN"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "Oct 1846"
+            },
+            "death": {
+                "date": "22 Jan 1891"
+            },
+            "familyAsSpouse": [
+                "@F522358385@"
+            ],
+            "familyAsChild": [
+                "@F522358378@"
+            ],
+            "notes": "Enumerated November 28, 1850. Family number: 389-400.\n@DWNLNOTE@"
+        },
+        {
+            "gedcomId": "@I98470@",
+            "wikitreeId": "Person-I98470",
+            "name": {
+                "full": "Sarah Mariah \/SMITH\/",
+                "given": "Sarah Mariah",
+                "surname": "SMITH"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "Abt 1838"
+            },
+            "death": {
+                "date": "Abt 1870"
+            },
+            "familyAsSpouse": [
+                "@F522358379@"
+            ],
+            "notes": "@DWNLNOTE@"
+        },
+        {
+            "gedcomId": "@I98471@",
+            "wikitreeId": "Person-I98471",
+            "name": {
+                "full": "Jessie P. \/WHITTEN\/",
+                "given": "Jessie P.",
+                "surname": "WHITTEN"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "Abt 1828"
+            },
+            "death": {
+                "date": "Unknown"
+            },
+            "familyAsSpouse": [
+                "@F522358380@"
+            ],
+            "notes": "@DWNLNOTE@"
+        },
+        {
+            "gedcomId": "@I98472@",
+            "wikitreeId": "Person-I98472",
+            "name": {
+                "full": "Elias Alexander \/BROWN\/",
+                "given": "Elias Alexander",
+                "surname": "BROWN"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "Abt 1830"
+            },
+            "death": {
+                "date": "24 Feb 1910"
+            },
+            "familyAsSpouse": [
+                "@F522358381@"
+            ],
+            "notes": "@DWNLNOTE@"
+        },
+        {
+            "gedcomId": "@I98473@",
+            "wikitreeId": "Person-I98473",
+            "name": {
+                "full": "Rosa N. \/BROWN\/",
+                "given": "Rosa N.",
+                "surname": "BROWN"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "21 Nov 1851"
+            },
+            "death": {
+                "date": "23 Mar 1904"
+            },
+            "familyAsSpouse": [
+                "@F522358382@"
+            ],
+            "notes": "@DWNLNOTE@"
+        },
+        {
+            "gedcomId": "@I98474@",
+            "wikitreeId": "Person-I98474",
+            "name": {
+                "full": "Annie E. \/THOMPSON\/",
+                "given": "Annie E.",
+                "surname": "THOMPSON"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "Abt 1843"
+            },
+            "death": {
+                "date": "Bef 1881"
+            },
+            "familyAsSpouse": [
+                "@F522358383@"
+            ],
+            "notes": "@DWNLNOTE@"
+        },
+        {
+            "gedcomId": "@I98475@",
+            "wikitreeId": "Person-I98475",
+            "name": {
+                "full": "Margaret Ellen \/WHITE\/",
+                "given": "Margaret Ellen",
+                "surname": "WHITE"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "16 Feb 1859"
+            },
+            "death": {
+                "date": "7 Dec 1939"
+            },
+            "familyAsSpouse": [
+                "@F522358384@"
+            ],
+            "notes": "@DWNLNOTE@"
+        },
+        {
+            "gedcomId": "@I98476@",
+            "wikitreeId": "Person-I98476",
+            "name": {
+                "full": "John C. \/JOHNSON\/",
+                "given": "John C.",
+                "surname": "JOHNSON"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "3 Dec 1842"
+            },
+            "death": {
+                "date": "15 Aug 1922"
+            },
+            "familyAsSpouse": [
+                "@F522358385@"
+            ],
+            "notes": "@DWNLNOTE@"
+        },
+        {
+            "gedcomId": "@I98477@",
+            "wikitreeId": "Person-I98477",
+            "name": {
+                "full": "George Washington \/DUNCAN\/",
+                "given": "George Washington",
+                "surname": "DUNCAN"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "10 Oct 1864"
+            },
+            "death": {
+                "date": "9 Aug 1905"
+            },
+            "familyAsSpouse": [
+                "@F522358386@"
+            ],
+            "familyAsChild": [
+                "@F522358379@"
+            ],
+            "notes": "@DWNLNOTE@"
+        },
+        {
+            "gedcomId": "@I98478@",
+            "wikitreeId": "Person-I98478",
+            "name": {
+                "full": "Mary Lillie \/WINCHESTER\/",
+                "given": "Mary Lillie",
+                "surname": "WINCHESTER"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1869"
+            },
+            "death": {
+                "date": "Unknown"
+            },
+            "familyAsSpouse": [
+                "@F522358386@"
+            ],
+            "familyAsChild": [
+                "@F522358387@"
+            ],
+            "notes": "@DWNLNOTE@"
+        },
+        {
+            "gedcomId": "@I98481@",
+            "wikitreeId": "Person-I98481",
+            "name": {
+                "full": "Mollie \/DUNCAN\/",
+                "given": "Mollie",
+                "surname": "DUNCAN"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "11 Sep 1888"
+            },
+            "death": {
+                "date": "5 Mar 1981"
+            },
+            "familyAsSpouse": [
+                "@F522358388@"
+            ],
+            "familyAsChild": [
+                "@F522358386@"
+            ],
+            "notes": "District 26, Enumerated:  January 26-27, 1920.\n@DWNLNOTE@"
+        },
+        {
+            "gedcomId": "@I98482@",
+            "wikitreeId": "Person-I98482",
+            "name": {
+                "full": "Thomas McCrory \/DUNCAN\/",
+                "given": "Thomas McCrory",
+                "surname": "DUNCAN"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "22 Sep 1898"
+            },
+            "death": {
+                "date": "7 Jan 1988"
+            },
+            "familyAsChild": [
+                "@F522358386@"
+            ],
+            "notes": "@DWNLNOTE@"
+        }
+    ],
+    "families": [
+        {
+            "familyId": "@F522358374@",
+            "marriage": {
+                "date": "23 Mar 2007"
+            },
+            "children": [
+                "Person-I98452"
+            ]
+        },
+        {
+            "familyId": "@F522358378@",
+            "husband": "Person-I98452",
+            "wife": "Person-I98460",
+            "marriage": {
+                "date": "27 Mar 1828"
+            },
+            "children": [
+                "Person-I98461",
+                "Person-I98462",
+                "Person-I98463",
+                "Person-I98464",
+                "Person-I98465",
+                "Person-I98466",
+                "Person-I98467",
+                "Person-I98468",
+                "Person-I98469"
+            ]
+        },
+        {
+            "familyId": "@F522358379@",
+            "husband": "Person-I98461",
+            "wife": "Person-I98470",
+            "marriage": {
+                "date": "23 Mar 2007"
+            },
+            "children": [
+                "Person-I98477"
+            ]
+        },
+        {
+            "familyId": "@F522358380@",
+            "husband": "Person-I98471",
+            "wife": "Person-I98462",
+            "marriage": {
+                "date": "14 Jun 1850"
+            }
+        },
+        {
+            "familyId": "@F522358381@",
+            "husband": "Person-I98472",
+            "wife": "Person-I98464",
+            "marriage": {
+                "date": "27 Dec 1853"
+            }
+        },
+        {
+            "familyId": "@F522358382@",
+            "husband": "Person-I98466",
+            "wife": "Person-I98473",
+            "marriage": {
+                "date": "4 Feb 1873"
+            }
+        },
+        {
+            "familyId": "@F522358383@",
+            "husband": "Person-I98467",
+            "wife": "Person-I98474",
+            "marriage": {
+                "date": "23 Mar 2007"
+            }
+        },
+        {
+            "familyId": "@F522358384@",
+            "husband": "Person-I98467",
+            "wife": "Person-I98475",
+            "marriage": {
+                "date": "23 Mar 2007"
+            }
+        },
+        {
+            "familyId": "@F522358385@",
+            "husband": "Person-I98476",
+            "wife": "Person-I98469",
+            "marriage": {
+                "date": "23 Mar 2007"
+            }
+        },
+        {
+            "familyId": "@F522358386@",
+            "husband": "Person-I98477",
+            "wife": "Person-I98478",
+            "marriage": {
+                "date": "23 Mar 2007"
+            },
+            "children": [
+                "Person-I98481",
+                "Person-I98482"
+            ]
+        },
+        {
+            "familyId": "@F522358387@",
+            "marriage": {
+                "date": "23 Mar 2007"
+            },
+            "children": [
+                "Person-I98478"
+            ]
+        },
+        {
+            "familyId": "@F522358388@",
+            "husband": "@I98483@",
+            "wife": "Person-I98481",
+            "marriage": {
+                "date": "23 Mar 2007"
+            },
+            "children": [
+                "Person-I110404",
+                "Person-I110405",
+                "Person-I110406"
+            ]
+        },
+        {
+            "familyId": "@F8253@",
+            "marriage": {
+                "date": "Abt 1870"
+            },
+            "children": [
+                "@I98483@"
+            ]
+        }
+    ],
+    "places": [],
+    "sources": []
+}

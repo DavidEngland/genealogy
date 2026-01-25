@@ -1,0 +1,769 @@
+{
+    "metadata": {
+        "source": "ANCESTRY",
+        "gedcomVersion": "4.0",
+        "charset": "ANSI",
+        "lastUpdated": "26 Jan 2007"
+    },
+    "people": [
+        {
+            "gedcomId": "@I650520456@",
+            "wikitreeId": "Person-I650520456",
+            "name": {
+                "full": "Milton E. \/White\/",
+                "given": "Milton E.",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "2 Dec 1821"
+            },
+            "death": {
+                "date": "25 Aug 1908"
+            },
+            "familyAsSpouse": [
+                "@F557998629@",
+                "@F557998638@"
+            ],
+            "familyAsChild": [
+                "@F557998639@"
+            ]
+        },
+        {
+            "gedcomId": "@I650520540@",
+            "wikitreeId": "Person-I650520540",
+            "name": {
+                "full": "Harrison \/White\/",
+                "given": "Harrison",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "28 Feb 1788"
+            },
+            "death": {
+                "date": "7 Nov 1853"
+            },
+            "familyAsSpouse": [
+                "@F557998639@"
+            ],
+            "familyAsChild": [
+                "@F557998640@"
+            ]
+        },
+        {
+            "gedcomId": "@I650520541@",
+            "wikitreeId": "Person-I650520541",
+            "name": {
+                "full": "Amy \/Perkins\/",
+                "given": "Amy",
+                "surname": "Perkins"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "7 Aug 1794"
+            },
+            "death": {
+                "date": "1 Aug 1862"
+            },
+            "familyAsSpouse": [
+                "@F557998639@"
+            ],
+            "familyAsChild": [
+                "@F557998641@"
+            ]
+        },
+        {
+            "gedcomId": "@I650520542@",
+            "wikitreeId": "Person-I650520542",
+            "name": {
+                "full": "Jabez \/White\/",
+                "given": "Jabez",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "23 Apr 1817"
+            },
+            "death": {
+                "date": "27 Dec 1888"
+            },
+            "familyAsChild": [
+                "@F557998639@"
+            ]
+        },
+        {
+            "gedcomId": "@I650520543@",
+            "wikitreeId": "Person-I650520543",
+            "name": {
+                "full": "Elizabeth \/White\/",
+                "given": "Elizabeth",
+                "surname": "White"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "5 Jul 1818"
+            },
+            "death": {
+                "date": "10 Nov 1844"
+            },
+            "familyAsChild": [
+                "@F557998639@"
+            ]
+        },
+        {
+            "gedcomId": "@I650520544@",
+            "wikitreeId": "Person-I650520544",
+            "name": {
+                "full": "Nancy \/White\/",
+                "given": "Nancy",
+                "surname": "White"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "16 May 1823"
+            },
+            "death": {
+                "date": "Mar 1854"
+            },
+            "familyAsChild": [
+                "@F557998639@"
+            ]
+        },
+        {
+            "gedcomId": "@I650520545@",
+            "wikitreeId": "Person-I650520545",
+            "name": {
+                "full": "Wm. Blueford \/White\/",
+                "given": "Wm. Blueford",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "Dec 1825"
+            },
+            "death": {
+                "date": "5 Jan 1901"
+            },
+            "familyAsChild": [
+                "@F557998639@"
+            ],
+            "notes": "Captian, Co. E, 32 KY INF, Civil War."
+        },
+        {
+            "gedcomId": "@I650520546@",
+            "wikitreeId": "Person-I650520546",
+            "name": {
+                "full": "Mary Serelda \/White\/",
+                "given": "Mary Serelda",
+                "surname": "White"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "23 Mar 1828"
+            },
+            "death": {
+                "date": "29 Mar 1892"
+            },
+            "familyAsChild": [
+                "@F557998639@"
+            ]
+        },
+        {
+            "gedcomId": "@I650520547@",
+            "wikitreeId": "Person-I650520547",
+            "name": {
+                "full": "John Calvin \/White\/",
+                "given": "John Calvin",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "9 Jan 1830"
+            },
+            "death": {
+                "date": "10 Feb 1838"
+            },
+            "familyAsChild": [
+                "@F557998639@"
+            ]
+        },
+        {
+            "gedcomId": "@I650520550@",
+            "wikitreeId": "Person-I650520550",
+            "name": {
+                "full": "Jabez \/Perkins\/",
+                "given": "Jabez",
+                "surname": "Perkins"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "11 Nov 1766"
+            },
+            "death": {
+                "date": "Bef 13 Feb 1836"
+            },
+            "familyAsSpouse": [
+                "@F557998641@"
+            ],
+            "notes": "WILL of JABUS PERKINS, of Whitley Co., KY was made 27 Dec 1"
+        },
+        {
+            "gedcomId": "@I650520551@",
+            "wikitreeId": "Person-I650520551",
+            "name": {
+                "full": "Timothy \/Perkins\/",
+                "given": "Timothy",
+                "surname": "Perkins"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1784"
+            },
+            "death": {
+                "date": "Aft 1836"
+            },
+            "familyAsSpouse": [
+                "@F557999579@"
+            ],
+            "familyAsChild": [
+                "@F557998641@"
+            ]
+        },
+        {
+            "gedcomId": "@I650520552@",
+            "wikitreeId": "Person-I650520552",
+            "name": {
+                "full": "Jesse Alvin \/Perkins\/",
+                "given": "Jesse Alvin",
+                "surname": "Perkins"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "10 May 1787"
+            },
+            "death": {
+                "date": "7 Mar 1856"
+            },
+            "familyAsSpouse": [
+                "@F557999580@"
+            ],
+            "familyAsChild": [
+                "@F557998641@"
+            ]
+        },
+        {
+            "gedcomId": "@I650520553@",
+            "wikitreeId": "Person-I650520553",
+            "name": {
+                "full": "Lucy \/Perkins\/",
+                "given": "Lucy",
+                "surname": "Perkins"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "31 Mar 1792"
+            },
+            "death": {
+                "date": "Aft 1835"
+            },
+            "familyAsSpouse": [
+                "@F557999581@"
+            ],
+            "familyAsChild": [
+                "@F557998641@"
+            ]
+        },
+        {
+            "gedcomId": "@I650520554@",
+            "wikitreeId": "Person-I650520554",
+            "name": {
+                "full": "Sarah Patty \/Perkins\/",
+                "given": "Sarah Patty",
+                "surname": "Perkins"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1795"
+            },
+            "death": {
+                "date": "Aft 1835"
+            },
+            "familyAsSpouse": [
+                "@F557999583@"
+            ],
+            "familyAsChild": [
+                "@F557998641@"
+            ]
+        },
+        {
+            "gedcomId": "@I650520555@",
+            "wikitreeId": "Person-I650520555",
+            "name": {
+                "full": "Jabus \/Perkins\/",
+                "given": "Jabus",
+                "surname": "Perkins"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1796"
+            },
+            "death": {
+                "date": "13 Jan 1859"
+            },
+            "familyAsSpouse": [
+                "@F557999584@",
+                "@F557999585@"
+            ],
+            "familyAsChild": [
+                "@F557998641@"
+            ]
+        },
+        {
+            "gedcomId": "@I650520556@",
+            "wikitreeId": "Person-I650520556",
+            "name": {
+                "full": "William \/Perkins\/",
+                "given": "William",
+                "surname": "Perkins"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1801"
+            },
+            "death": {
+                "date": "Feb 1864"
+            },
+            "familyAsSpouse": [
+                "@F557999586@",
+                "@F557999587@"
+            ],
+            "familyAsChild": [
+                "@F557998641@"
+            ]
+        },
+        {
+            "gedcomId": "@I650520557@",
+            "wikitreeId": "Person-I650520557",
+            "name": {
+                "full": "Solomon \/Perkins\/",
+                "given": "Solomon",
+                "surname": "Perkins"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "27 Aug 1786"
+            },
+            "death": {
+                "date": "1824"
+            },
+            "familyAsChild": [
+                "@F557998641@"
+            ]
+        },
+        {
+            "gedcomId": "@I650520558@",
+            "wikitreeId": "Person-I650520558",
+            "name": {
+                "full": "Nancy \/Perkins\/",
+                "given": "Nancy",
+                "surname": "Perkins"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1803"
+            },
+            "death": {
+                "date": "Aft 1860"
+            },
+            "familyAsSpouse": [
+                "@F557999568@"
+            ],
+            "familyAsChild": [
+                "@F557998641@"
+            ]
+        },
+        {
+            "gedcomId": "@I650523830@",
+            "wikitreeId": "Person-I650523830",
+            "name": {
+                "full": "Nancy \/White\/",
+                "given": "Nancy",
+                "surname": "White"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "22 Nov 1838"
+            },
+            "death": {
+                "date": "1 Apr 1928"
+            },
+            "familyAsSpouse": [
+                "@F557999567@"
+            ],
+            "familyAsChild": [
+                "@F557999568@"
+            ]
+        },
+        {
+            "gedcomId": "@I650523831@",
+            "wikitreeId": "Person-I650523831",
+            "name": {
+                "full": "Dempsey \/White\/",
+                "given": "Dempsey",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1798"
+            },
+            "death": {
+                "date": "Aft 1860"
+            },
+            "familyAsSpouse": [
+                "@F557999568@"
+            ],
+            "familyAsChild": [
+                "@F557998640@"
+            ]
+        },
+        {
+            "gedcomId": "@I650523832@",
+            "wikitreeId": "Person-I650523832",
+            "name": {
+                "full": "Milton E. \/White\/",
+                "given": "Milton E.",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "31 Mar 1824"
+            },
+            "death": {
+                "date": "6 Apr 1882"
+            },
+            "familyAsChild": [
+                "@F557999568@"
+            ]
+        },
+        {
+            "gedcomId": "@I650523833@",
+            "wikitreeId": "Person-I650523833",
+            "name": {
+                "full": "Jesse Perkins \/White\/",
+                "given": "Jesse Perkins",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "Abt 1820"
+            },
+            "death": {
+                "date": "Bet 1870 and 1880"
+            },
+            "familyAsChild": [
+                "@F557999568@"
+            ]
+        },
+        {
+            "gedcomId": "@I650523858@",
+            "wikitreeId": "Person-I650523858",
+            "name": {
+                "full": "Nancy \/Ann\/",
+                "given": "Nancy",
+                "surname": "Ann"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1766"
+            },
+            "death": {
+                "place": "Kentucky"
+            },
+            "familyAsSpouse": [
+                "@F557998641@"
+            ]
+        },
+        {
+            "gedcomId": "@I650523859@",
+            "wikitreeId": "Person-I650523859",
+            "name": {
+                "full": "Mary \/Ann\/",
+                "given": "Mary",
+                "surname": "Ann"
+            },
+            "sex": "F",
+            "death": {
+                "date": "1843"
+            },
+            "familyAsSpouse": [
+                "@F557999579@"
+            ]
+        },
+        {
+            "gedcomId": "@I650523860@",
+            "wikitreeId": "Person-I650523860",
+            "name": {
+                "full": "Amy \/Girton\/",
+                "given": "Amy",
+                "surname": "Girton"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "29 Oct 1801"
+            },
+            "death": {
+                "date": "8 Nov 1882"
+            },
+            "familyAsSpouse": [
+                "@F557999580@"
+            ]
+        },
+        {
+            "gedcomId": "@I650523861@",
+            "wikitreeId": "Person-I650523861",
+            "name": {
+                "full": "Living \/UNKNOWN\/",
+                "given": "Living",
+                "surname": "UNKNOWN"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F557999581@"
+            ]
+        },
+        {
+            "gedcomId": "@I650523862@",
+            "wikitreeId": "Person-I650523862",
+            "name": {
+                "full": "Living \/UNKNOWN\/",
+                "given": "Living",
+                "surname": "UNKNOWN"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F557999583@"
+            ]
+        },
+        {
+            "gedcomId": "@I650523863@",
+            "wikitreeId": "Person-I650523863",
+            "name": {
+                "full": "Rachel \/Wright\/",
+                "given": "Rachel",
+                "surname": "Wright"
+            },
+            "sex": "F",
+            "death": {
+                "place": "Marshall County, Alabama"
+            },
+            "familyAsSpouse": [
+                "@F557999584@"
+            ]
+        },
+        {
+            "gedcomId": "@I650523864@",
+            "wikitreeId": "Person-I650523864",
+            "name": {
+                "full": "Sarah \/Kirby\/",
+                "given": "Sarah",
+                "surname": "Kirby"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "Abt 1807"
+            },
+            "death": {
+                "date": "Aft 1860"
+            },
+            "familyAsSpouse": [
+                "@F557999585@"
+            ]
+        },
+        {
+            "gedcomId": "@I650523865@",
+            "wikitreeId": "Person-I650523865",
+            "name": {
+                "full": "Margaret \/Mc Kee\/",
+                "given": "Margaret",
+                "surname": "Mc Kee"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1800"
+            },
+            "death": {
+                "date": "Abt 1831"
+            },
+            "familyAsSpouse": [
+                "@F557999586@"
+            ]
+        },
+        {
+            "gedcomId": "@I650523866@",
+            "wikitreeId": "Person-I650523866",
+            "name": {
+                "full": "Rebecca \/Shephard\/",
+                "given": "Rebecca",
+                "surname": "Shephard"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1810"
+            },
+            "death": {
+                "date": "26 Jun 1866"
+            },
+            "familyAsSpouse": [
+                "@F557999587@"
+            ]
+        },
+        {
+            "gedcomId": "@I650523867@",
+            "wikitreeId": "Person-I650523867",
+            "name": {
+                "full": "Alvin \/Perkins\/",
+                "given": "Alvin",
+                "surname": "Perkins"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "Abt 1835"
+            },
+            "familyAsChild": [
+                "@F557999580@"
+            ]
+        }
+    ],
+    "families": [
+        {
+            "familyId": "@F557998629@",
+            "husband": "Person-I650520456",
+            "marriage": {
+                "date": "20 Sep 1847"
+            }
+        },
+        {
+            "familyId": "@F557998638@",
+            "husband": "Person-I650520456",
+            "marriage": {
+                "date": "10 Nov 1864"
+            }
+        },
+        {
+            "familyId": "@F557998639@",
+            "husband": "Person-I650520540",
+            "wife": "Person-I650520541",
+            "marriage": {
+                "date": "30 Nov 1815"
+            },
+            "children": [
+                "Person-I650520456",
+                "Person-I650520542",
+                "Person-I650520543",
+                "Person-I650520544",
+                "Person-I650520545",
+                "Person-I650520546",
+                "Person-I650520547"
+            ]
+        },
+        {
+            "familyId": "@F557998640@",
+            "children": [
+                "Person-I650520540",
+                "Person-I650523831"
+            ]
+        },
+        {
+            "familyId": "@F557998641@",
+            "husband": "Person-I650520550",
+            "wife": "Person-I650523858",
+            "marriage": {
+                "date": "Abt 1783"
+            },
+            "children": [
+                "Person-I650520551",
+                "Person-I650520557",
+                "Person-I650520552",
+                "Person-I650520553",
+                "Person-I650520541",
+                "Person-I650520554",
+                "Person-I650520555",
+                "Person-I650520556",
+                "Person-I650520558"
+            ]
+        },
+        {
+            "familyId": "@F557999567@",
+            "wife": "Person-I650523830",
+            "marriage": {
+                "date": "22 Sep 1867"
+            }
+        },
+        {
+            "familyId": "@F557999568@",
+            "husband": "Person-I650523831",
+            "wife": "Person-I650520558",
+            "children": [
+                "Person-I650523830",
+                "Person-I650523832",
+                "Person-I650523833"
+            ]
+        },
+        {
+            "familyId": "@F557999579@",
+            "husband": "Person-I650520551",
+            "wife": "Person-I650523859"
+        },
+        {
+            "familyId": "@F557999580@",
+            "husband": "Person-I650520552",
+            "wife": "Person-I650523860",
+            "children": [
+                "Person-I650523867",
+                "@I650523868@"
+            ]
+        },
+        {
+            "familyId": "@F557999581@",
+            "husband": "Person-I650523861",
+            "wife": "Person-I650520553"
+        },
+        {
+            "familyId": "@F557999583@",
+            "husband": "Person-I650523862",
+            "wife": "Person-I650520554"
+        },
+        {
+            "familyId": "@F557999584@",
+            "husband": "Person-I650520555",
+            "wife": "Person-I650523863"
+        },
+        {
+            "familyId": "@F557999585@",
+            "husband": "Person-I650520555",
+            "wife": "Person-I650523864",
+            "marriage": {
+                "date": "Abt 1843"
+            }
+        },
+        {
+            "familyId": "@F557999586@",
+            "husband": "Person-I650520556",
+            "wife": "Person-I650523865",
+            "marriage": {
+                "date": "15 Mar 1821"
+            }
+        },
+        {
+            "familyId": "@F557999587@",
+            "husband": "Person-I650520556",
+            "wife": "Person-I650523866",
+            "marriage": {
+                "date": "1832"
+            }
+        }
+    ],
+    "places": [],
+    "sources": []
+}
