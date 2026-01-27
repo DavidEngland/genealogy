@@ -1,0 +1,1128 @@
+﻿0 HEAD
+1 SOUR PAF
+2 NAME Personal Ancestral File
+2 VERS 5.1.12.0
+2 CORP The Church of Jesus Christ of Latter-day Saints
+3 ADDR 50 East North Temple Street
+4 CONT Salt Lake City, UT 84150
+4 CONT USA
+1 DEST PAF
+1 DATE 17 Feb 2004
+2 TIME 09:30:06
+1 FILE MGVBvG.ged
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+1 SUBM @SUB1@
+0 @I1376@ INDI
+1 NAME Joseph Francis /Lewis/
+2 SURN Lewis
+2 GIVN Joseph Francis
+2 NPFX Col.
+1 SEX M
+1 BIRT
+2 DATE BET 1750 AND 1756
+2 PLAC , , Eng? Ire?
+1 DEAT
+2 DATE BET 1825 AND 1828
+2 PLAC Burkesville?, Cumberland ?, Ky, Usa?
+1 _UID F691C21856D4D5118A3B0008C7023ACD0E3A
+1 FAMS @F726@
+1 OCCU Brickmason
+1 NOTE War of 1812: Pvt., 7th Regt.,
+2 CONT KY Militia.
+2 CONT 1792: Appt. in KY Militia,
+2 CONT PHON: Lt. Col.
+2 CONT
+2 CONT Sketch of Samuel Lewis, St. Charles County, Missouri >From "A History of the Pioneer Familie
+2 CONC s of Missouri, with numerous sketches, anecdotes, adventures, etc., relating to Early Days i
+2 CONC n Missouri" by William S. Bryan and Robert Rose, Published by Bryan, Brand & Co., St. Louis M
+2 CONC issouri, 1876. 
+2 CONT
+2 CONT  Joseph Lewis, of England, settled in Rock Castle County, KY., and he married Sarah Whitley
+2 CONC , the sister of William Whitley, the noted Indian fighter. They had eight children: Ruth, Sar
+2 CONC ah, Isabella, Mary A., Samuel, Joseph, William and Benjamin. Samuel, who was a brick mason, m
+2 CONC arried Mary Day, and settled in St. Charles County, in 1816. His children were: Joseph F., Vi
+2 CONC ctor, Andrew, Samuel Jr., Avis, William, Mary A., Margaret J. and Adeline. Joseph, William an
+2 CONC d Benjamin, sons of Joseph Leweis, Sr., settled in Palmyra, MO. The children of Samuel Lewis
+2 CONC , with the exception of Andrew and Samuel, Jr., settled in St. Charles County. 
+2 CONT
+2 CONT  USGENWEB NOTICE: In keeping with our policy of providing free information on the Internet, d
+2 CONC ata may be used by non-commercial entities, as long as this message remains on all copied mat
+2 CONC erial. These electronic pages may NOT be reproduced in any format for profit or for presentat
+2 CONC ion by other persons or organizations.
+2 CONT
+2 CONT This file was contributed for use in the USGenWeb Archives by: Penny Harrell
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I1402@ INDI
+1 NAME Benjamin J. /Lewis/
+2 SURN Lewis
+2 GIVN Benjamin J.
+1 SEX M
+1 BIRT
+2 DATE ABT 1793
+2 PLAC , Lincoln?, Kentucky
+1 DEAT
+2 DATE 1827
+2 PLAC , Marion,Missouri
+1 _UID 2492C21856D4D5118A3B0008C7023ACD3D29
+1 FAMS @F738@
+1 FAMC @F726@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I1445@ INDI
+1 NAME Elizabeth /Lewis/
+2 SURN Lewis
+2 GIVN Elizabeth
+2 NICK Betsy
+1 SEX F
+1 BIRT
+2 DATE ABT 1784
+2 PLAC , Lincoln, Kentucky
+1 _UID 6492C21856D4D5118A3B0008C7023ACD7D29
+1 FAMS @F476@
+1 FAMS @F767@
+1 FAMC @F726@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I1481@ INDI
+1 NAME Isabella /Lewis/
+2 SURN Lewis
+2 GIVN Isabella
+1 SEX F
+1 BIRT
+2 DATE ABT 1787
+2 PLAC , , Kentucky
+1 _UID 9792C21856D4D5118A3B0008C7023ACDB059
+1 FAMC @F726@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I1489@ INDI
+1 NAME Jasper W(hitley?) /Lewis/
+2 SURN Lewis
+2 GIVN Jasper W(hitley?)
+1 SEX M
+1 BIRT
+2 DATE ABT 1785
+2 PLAC , Lincoln, Kentucky
+1 DEAT
+2 DATE 28 Aug 1843
+2 PLAC nr. Palmyra, Marion,Missouri
+1 _UID A092C21856D4D5118A3B0008C7023ACDB9E9
+1 FAMS @F732@
+1 FAMC @F726@
+1 OCCU Brickmason/farmer
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I1518@ INDI
+1 NAME Mary Ann /Lewis/
+2 SURN Lewis
+2 GIVN Mary Ann
+1 SEX F
+1 BIRT
+2 DATE 8 Dec 1795
+2 PLAC , Lincoln, Kentucky
+1 DEAT
+2 DATE 3 Dec 1874
+2 PLAC Burkesville, Cumberland, Kentucky
+1 BURI
+2 PLAC Melmont Cemetery, Burkesville, Cumberland , Kentucky
+1 _UID CC92C21856D4D5118A3B0008C7023ACDE5A9
+1 FAMS @F798@
+1 FAMC @F726@
+1 NOTE cemetery is on Columbia Rd.
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I15281@ INDI
+1 NAME ufn /Whitley/
+2 SURN Whitley
+2 GIVN ufn
+1 SEX M
+1 _UID 1D8F4E6910ED5F46AABEF57FF4C36BB9BC48
+1 FAMS @F6100@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:55
+0 @I1569@ INDI
+1 NAME Ruth Whitley /Lewis/
+2 SURN Lewis
+2 GIVN Ruth Whitley
+1 SEX F
+1 BIRT
+2 DATE ABT 1780
+2 PLAC , Lincoln?, Ky, Usa?
+1 DEAT
+2 DATE BEF 1840
+2 PLAC , Hardin,Tennessee
+1 _UID 0E93C21856D4D5118A3B0008C7023ACD28D8
+1 FAMS @F510@
+1 FAMC @F726@
+1 NOTE Witnesses at marriage: Samuel Lewis and James Hardgrove
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I1570@ INDI
+1 NAME Samuel /Lewis/
+2 SURN Lewis
+2 GIVN Samuel
+1 SEX M
+1 BIRT
+2 DATE ABT 1781
+2 PLAC , Lincoln?, Kentucky
+1 DEAT
+2 DATE Oct 1820
+2 PLAC ,St. Charles,Missouri
+1 _UID 0F93C21856D4D5118A3B0008C7023ACD29E8
+1 FAMS @F303@
+1 FAMC @F726@
+1 OCCU Brickmason
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I1571@ INDI
+1 NAME Sarah\Sally Norman /Lewis/
+2 SURN Lewis
+2 GIVN Sarah\Sally Norman
+1 SEX F
+1 BIRT
+2 DATE 23 Oct 1785
+2 PLAC , , Kentucky
+1 DEAT
+2 DATE 5 Sep 1848
+2 PLAC ,Ouichita or Clark, ,Arkansas
+1 _UID 1093C21856D4D5118A3B0008C7023ACD2AF8
+1 FAMS @F322@
+1 FAMS @F695@
+1 FAMC @F726@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I1621@ INDI
+1 NAME William W. /Lewis/
+2 SURN Lewis
+2 GIVN William W.
+1 SEX M
+1 BIRT
+2 DATE ABT 1790
+2 PLAC , Lincoln?, Kentucky
+1 DEAT
+2 DATE 1845
+2 PLAC Shelbyville, Shelby,Missouri
+1 _UID 4493C21856D4D5118A3B0008C7023ACD5E38
+1 FAMS @F414@
+1 FAMC @F726@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:53
+0 @I2131@ INDI
+1 NAME Lydia /Poole/
+2 SURN Poole
+2 GIVN Lydia
+1 SEX F
+1 BIRT
+2 DATE ABT 1829
+1 DEAT
+2 DATE ABT 1851
+1 _UID C295C21856D4D5118A3B0008C7023ACDDE36
+1 FAMS @F530@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:53
+0 @I2613@ INDI
+1 NAME Serena /Welch/
+2 SURN Welch
+2 GIVN Serena
+1 SEX F
+1 BIRT
+2 DATE ABT 1833
+1 DEAT
+2 DATE 1884
+1 _UID D397C21856D4D5118A3B0008C7023ACDF164
+1 FAMS @F527@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:53
+0 @I2634@ INDI
+1 NAME "Ervie" /White/
+2 SURN White
+2 GIVN "Ervie"
+1 SEX M
+1 _UID E997C21856D4D5118A3B0008C7023ACD07C4
+1 FAMS @F537@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:53
+0 @I2649@ INDI
+1 NAME Catherine /Whitley/
+2 SURN Whitley
+2 GIVN Catherine
+1 SEX F
+1 BIRT
+2 DATE 1760
+2 PLAC , Augusta, Virginia
+1 _UID F897C21856D4D5118A3B0008C7023ACD16B4
+1 FAMS @F775@
+1 FAMC @F57@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:53
+0 @I2669@ INDI
+1 NAME James /Whitley/
+2 SURN Whitley
+2 GIVN James
+1 SEX M
+1 BIRT
+2 DATE ABT 1752
+2 PLAC , Augusta, Virginia
+1 _UID 0C98C21856D4D5118A3B0008C7023ACD2B03
+1 FAMC @F57@
+1 OCCU Baptist Prchr
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:53
+0 @I2670@ INDI
+1 NAME Jonathan /Whitley/
+2 SURN Whitley
+2 GIVN Jonathan
+1 SEX M
+1 BIRT
+2 DATE ABT 1750
+2 PLAC , Augusta, Virginia
+1 _UID 0D98C21856D4D5118A3B0008C7023ACD2C13
+1 FAMC @F6100@
+1 NOTE probably a brother rather than son
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:53
+0 @I2676@ INDI
+1 NAME Margaret /Whitley/
+2 SURN Whitley
+2 GIVN Margaret
+1 SEX F
+1 BIRT
+2 DATE ABT 1747
+2 PLAC , Augusta?, Virginia
+1 DEAT
+2 DATE ABT May 1831
+2 PLAC , Fayette?, Ky, Usa?
+1 _UID 1498C21856D4D5118A3B0008C7023ACD3383
+1 FAMS @F224@
+1 FAMC @F57@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:53
+0 @I2678@ INDI
+1 NAME Mary /Whitley/
+2 SURN Whitley
+2 GIVN Mary
+1 SEX F
+1 _UID 1798C21856D4D5118A3B0008C7023ACD36B3
+1 FAMC @F57@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:53
+0 @I2687@ INDI
+1 NAME Paul /Whitley/
+2 SURN Whitley
+2 GIVN Paul
+1 SEX M
+1 BIRT
+2 DATE ABT 1753
+2 PLAC , Rockbridge, Virginia
+1 _UID 2098C21856D4D5118A3B0008C7023ACD3F43
+1 FAMC @F6100@
+1 NOTE probably a brother rather than son
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:53
+0 @I2688@ INDI
+1 NAME Robert /Whitley/
+2 SURN Whitley
+2 GIVN Robert
+1 SEX M
+1 BIRT
+2 DATE ABT 1745
+2 PLAC , Rockbridge, Virginia
+1 DEAT
+2 DATE 15 Jul 1802
+2 PLAC , Tazewell, Virginia
+1 AFN GX6P-HH
+1 _UID 2198C21856D4D5118A3B0008C7023ACD4053
+1 FAMS @F962@
+1 FAMC @F57@
+1 NOTE The relationship between Robert Whitley and Solomon Whitley is unclear and may be further bac
+2 CONC k than expected.
+2 CONT
+2 CONT Tazewell county information
+2 CONT
+2 CONT GINNEY WHITLEY, Widow of Robert Whitley.  Will probated July, 1812.  W. B. 1, p. 67. 
+2 CONT
+2 CONT Devises to her son, David Whitley;  to her daughters, Polly Wynn, Sally Wynn, and Jinney Broo
+2 CONC ks; to her grand-children, Nancy and William
+2 CONT Whitley.
+2 CONT
+2 CONT ROBERT WHITLEY.  Will probated July 15th, 1802.  W. B. 1, p. 16. 
+2 CONT
+2 CONT Devises his property to his wife, Jane;  his granddaughter, Nancy and grandson, William;  t
+2 CONC o his daughters, Mary Wynne, Jane Brooks, Sarah
+2 CONT Wynne;  to his son, David.  David Whitley and Josiah Wynne, his son-in-law, Executors.  Vol
+2 CONC . I, p. 272, p. 271.
+2 CONT
+2 CONT HOWARD HAVEN.  Will probated January, 1833.  W. B. 2, p, 19. 
+2 CONT
+2 CONT Devised his property as follows:  To his wife Matilda and to his children, John, Matilda Whit
+2 CONC ley, wife of David Whitley, and Nancy Bane, wife of
+2 CONT Russell Bane.  Vol. I, p. 277.
+2 CONT
+2 CONT DAVID WHITLEY.  Will probated October, 1844.  Will Book No. 2, p. 278. 
+2 CONT
+2 CONT Devises his property as follows:  To his wife Peggy, and to his six daughters:  Jane Maxwell
+2 CONC , Polly Six,  Peggy Moore, Mary Hendrick, Betsy
+2 CONT Hendrick, and Cynthia Whitley;  to his sons Andrew J., James, William and David R.  Vol. I, p
+2 CONC . 280.
+1 SOUR @S3@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:53
+0 @I2690@ INDI
+1 NAME Ruth /Whitley/
+2 SURN Whitley
+2 GIVN Ruth
+1 SEX F
+1 BIRT
+2 DATE ABT 1748
+2 PLAC , Augusta?, Virginia
+1 DEAT
+2 DATE 29 Jan 1789
+2 PLAC , Lincoln, Kentucky
+1 BURI
+2 PLAC Higgins Graveyard, Walnut Flat, Lincoln , Kentucky
+1 _UID 2398C21856D4D5118A3B0008C7023ACD4273
+1 FAMS @F256@
+1 FAMC @F57@
+1 NOTE "Mother of 9 children"
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:53
+0 @I2691@ INDI
+1 NAME Sarah /Whitley/
+2 SURN Whitley
+2 GIVN Sarah
+1 SEX F
+1 BIRT
+2 DATE ABT 1752
+2 PLAC , Augusta?, Virginia
+1 DEAT
+2 DATE 21 Apr 1837
+2 PLAC Burkesville, Cumberland, Kentucky
+1 _UID 2498C21856D4D5118A3B0008C7023ACD4383
+1 FAMS @F726@
+1 FAMC @F57@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:53
+0 @I2694@ INDI
+1 NAME Solomon /Whitley/
+2 SURN Whitley
+2 GIVN Solomon
+1 SEX M
+1 BIRT
+2 DATE ABT 1723
+2 PLAC , , Ireland
+1 DEAT
+2 DATE ABT 1782
+2 PLAC Whitley's Station, Lincoln, Kentucky
+1 _UID 2798C21856D4D5118A3B0008C7023ACD46B3
+1 FAMS @F57@
+1 FAMC @F6100@
+1 NOTE I suspect some of the children of Solomon Whitley and Elizabeth Barnett are actually Solomon'
+2 CONC s brothers.
+2 CONT
+2 CONT Draper manuscript is cited as claiming Solomon Clark, William Chapman Whitley's nephew, hear
+2 CONC d WCW saying he had 3 brothers and 5 sisters and that he was the oldest brother.
+2 CONT
+2 CONT Subj: Re: WhitleyDate: 98-06-28 09:54:53 EDTFrom: prmills@swbell.net (Paul & Robin Mills)Y
+2 CONC es, my line is directly down via Robert and Elizabeth Stephenson. I am looking for any and al
+2 CONC l info on Robert's parents. So far I haven't beenable to confirm anything. According to th
+2 CONC e info I've gathered Solomon andElizabeth Barnett Whitley were both born in Northern Ireland
+2 CONC . Solomon wasb. abt 1720. It appears that all of their children were born in theAugusta, V
+2 CONC A area. I also have most of Solomon's siblings: twins Johnathanand Paul, Moses, Ann and Mich
+2 CONC ael. I have little info on them other thantheir names except for Michael. He was b. abt 173
+2 CONC 0 in Northen Ireland anddied abt 1777 in Philadelphia. His wife's name was Martha. If you ha
+2 CONC veanything to add, I would appreciate it. Look forward to hearing from you!Robin
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:53
+0 @I2696@ INDI
+1 NAME Solomon /Whitley/ Jr.
+2 SURN Whitley
+2 GIVN Solomon
+2 NSFX Jr.
+1 SEX M
+1 BIRT
+2 DATE ABT 1758
+2 PLAC , New Kent, Virginia
+1 _UID 2998C21856D4D5118A3B0008C7023ACD48D3
+1 FAMS @F958@
+1 FAMC @F57@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:53
+0 @I2699@ INDI
+1 NAME Thomas /Whitley/
+2 SURN Whitley
+2 GIVN Thomas
+1 SEX M
+1 _UID 2D98C21856D4D5118A3B0008C7023ACD4C13
+1 FAMC @F57@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:53
+0 @I3466@ INDI
+1 NAME William Chapman /Whitley/
+2 SURN Whitley
+2 GIVN William Chapman
+2 NPFX Col.
+1 SEX M
+1 BIRT
+2 DATE 14 Aug 1749
+2 PLAC Bolivsin River,Augusta,Virginia
+1 DEAT
+2 DATE 5 Oct 1813
+2 PLAC Thamesville,Ontario,Canada
+1 BURI
+2 PLAC Battle of the Thames, , , , Canada
+1 _UID A35C62653BCAD5118A310008C7023ACD44A0
+1 FAMS @F1124@
+1 FAMC @F57@
+1 NOTE Draper ManuscripsAccount of Solomon Clark, nephew to William, says William marrieda Esthe
+2 CONC r Gill, whose father was a revolutionary soldier.Draper Manuscrips. 9cc1 Ky. pg. 1From Solo
+2 CONC mon Clark, Pontotoe Miss., June 1842, Nephew of Col. WhitleyCol. Whitley had three brother
+2 CONC s - he the oldest, and five sisters;George Clark (my informants father) married Margaret Whi
+2 CONC tley (sister ofCol. Whitley) and went with Whitley to Kentucky.Col. Whitley married Easthe
+2 CONC r Gill. Her father was in the Rev. War and onone occasion, when short of provisions and pass
+2 CONC ing by a farm house, wherethere was a fine turkey gobbler. Gill said if his companions woul
+2 CONC d keepcool, he would get the old gobbler. He baited a fish hook with corn andthrew it out
+2 CONC , the old gobbler then caught the bait. Gill started on withthe line in hand and the old gob
+2 CONC bler was dragged along with extendedwings. The attention, of the old lady of the house, wa
+2 CONC s attracted to thescene. She howled out "the turkey won't hurt you, there's no danger!" Tow
+2 CONC hich Gill promptly replied "Oh, how can I trust you", and made-off withgreat apparent fear
+2 CONC , he turning every now and then and pretending to tryto scare back the apparently pugnaciou
+2 CONC s bird. The turkey was completelyhooked and he did'nt hurt Gill in the least
+1 SOUR @S1@
+2 PAGE " From Logan's William Whitley built a station five miles west of the 'crab orchard'......S
+1 SOUR @S1@
+2 PAGE "Guardian of The Road - another Indian raid on the Wilderness Road!  A man carried the news
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:53
+0 @I82@ INDI
+1 NAME Elizabeth /Barnett/
+2 SURN Barnett
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE ABT 1723
+2 PLAC , , Ireland
+1 DEAT
+2 DATE ABT 1782
+2 PLAC Whitley's Station, Lincoln, Kentucky
+1 _UID 4B8AC21856D4D5118A3B0008C7023ACD5C21
+1 FAMS @F57@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I844@ INDI
+1 NAME Elizabeth Louisiana /Hargrove/
+2 SURN Hargrove
+2 GIVN Elizabeth Louisiana
+1 SEX F
+1 BIRT
+2 DATE 19 Jan 1804
+2 PLAC , Pulaski, Kentucky
+1 DEAT
+2 DATE Mar 1862
+2 PLAC Pineville, McDonald,Missouri
+1 _UID 0A8FC21856D4D5118A3B0008C7023ACD205C
+1 FAMS @F509@
+1 FAMC @F510@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I864@ INDI
+1 NAME Jackson /Hargrove/
+2 SURN Hargrove
+2 GIVN Jackson
+1 SEX M
+1 BIRT
+2 DATE ABT 1830
+2 PLAC , Hardin,Tennessee
+1 _UID 308FC21856D4D5118A3B0008C7023ACD46BC
+1 FAMC @F510@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I865@ INDI
+1 NAME James Alexander /Hargrove/
+2 SURN Hargrove
+2 GIVN James Alexander
+1 SEX M
+1 BIRT
+2 DATE ABT 1866
+2 PLAC , Hardin,Tennessee
+1 _UID 318FC21856D4D5118A3B0008C7023ACD47CC
+1 FAMS @F298@
+1 FAMC @F527@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I869@ INDI
+1 NAME James Monroe /Hargrove/
+2 SURN Hargrove
+2 GIVN James Monroe
+1 SEX M
+1 BIRT
+2 DATE 1818
+2 PLAC , Madison,Alabama
+1 DEAT
+2 DATE 1884
+2 PLAC , Hardin,Tennessee
+1 _UID 388FC21856D4D5118A3B0008C7023ACD4E3C
+1 FAMS @F530@
+1 FAMS @F527@
+1 FAMC @F510@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I883@ INDI
+1 NAME John Lindsey /Hargrove/
+2 SURN Hargrove
+2 GIVN John Lindsey
+1 SEX M
+1 BIRT
+2 DATE 24 Jan 1826
+2 PLAC , Madison,Alabama
+1 DEAT
+2 DATE 21 May 1902
+2 PLAC Colorado City, , Texas, USA
+1 _UID 498FC21856D4D5118A3B0008C7023ACD5F4C
+1 FAMS @F417@
+1 FAMS @F497@
+1 FAMC @F510@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I891@ INDI
+1 NAME Lorenzo Dow /Hargrove/
+2 SURN Hargrove
+2 GIVN Lorenzo Dow
+1 SEX M
+1 BIRT
+2 DATE ABT 1868
+2 PLAC , Hardin,Tennessee
+1 _UID 548FC21856D4D5118A3B0008C7023ACD6AFC
+1 FAMC @F527@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I895@ INDI
+1 NAME Lydia S. /Hargrove/
+2 SURN Hargrove
+2 GIVN Lydia S.
+1 SEX F
+1 BIRT
+2 DATE ABT 1854
+2 PLAC , Hardin,Tennessee
+1 _UID 598FC21856D4D5118A3B0008C7023ACD6F4C
+1 FAMS @F537@
+1 FAMC @F527@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I896@ INDI
+1 NAME Martha /Hargrove/
+2 SURN Hargrove
+2 GIVN Martha
+1 SEX M
+1 BIRT
+2 DATE ABT 1862
+2 PLAC , Hardin,Tennessee
+1 _UID 5B8FC21856D4D5118A3B0008C7023ACD716C
+1 FAMC @F527@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I901@ INDI
+1 NAME Margaret Alice /Hargrove/
+2 SURN Hargrove
+2 GIVN Margaret Alice
+1 SEX F
+1 BIRT
+2 DATE ABT 1864
+2 PLAC , Hardin,Tennessee
+1 _UID 628FC21856D4D5118A3B0008C7023ACD78DC
+1 FAMS @F177@
+1 FAMC @F527@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I914@ INDI
+1 NAME Mary Wright /Hargrove/
+2 SURN Hargrove
+2 GIVN Mary Wright
+1 SEX F
+1 BIRT
+2 DATE 20 Oct 1856
+2 PLAC , Hardin,Tennessee
+1 _UID 738FC21856D4D5118A3B0008C7023ACD89EC
+1 FAMS @F443@
+1 FAMC @F527@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I919@ INDI
+1 NAME Minerva Jane /Hargrove/
+2 SURN Hargrove
+2 GIVN Minerva Jane
+1 SEX F
+1 BIRT
+2 DATE ABT 1859
+2 PLAC , Hardin,Tennessee
+1 _UID 788FC21856D4D5118A3B0008C7023ACD8E3C
+1 FAMS @F251@
+1 FAMC @F527@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I925@ INDI
+1 NAME Omar Hassen /Hargrove/
+2 SURN Hargrove
+2 GIVN Omar Hassen
+1 SEX M
+1 BIRT
+2 DATE 1820
+2 PLAC , Madison,Alabama
+1 DEAT
+2 DATE 1865
+2 PLAC , Hardin,Tennessee
+1 _UID 7F8FC21856D4D5118A3B0008C7023ACD95AC
+1 FAMS @F419@
+1 FAMS @F545@
+1 FAMC @F510@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I940@ INDI
+1 NAME Ruth Elizabeth /Hargrove/
+2 SURN Hargrove
+2 GIVN Ruth Elizabeth
+1 SEX F
+1 BIRT
+2 DATE ABT 1849
+2 PLAC , Hardin,Tennessee
+1 _UID 928FC21856D4D5118A3B0008C7023ACDA8DC
+1 FAMS @F41@
+1 FAMC @F530@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I952@ INDI
+1 NAME Samuel Ball /Hargrove/
+2 SURN Hargrove
+2 GIVN Samuel Ball
+1 SEX M
+1 BIRT
+2 DATE 21 Feb 1806
+2 PLAC , Pulaski, Kentucky
+1 DEAT
+2 DATE BEF 1880
+2 PLAC , Hardin,Tennessee
+1 _UID A18FC21856D4D5118A3B0008C7023ACDB7CC
+1 FAMS @F496@
+1 FAMS @F529@
+1 FAMC @F510@
+1 OCCU Farmer
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I971@ INDI
+1 NAME Unknown female /Hargrove/
+2 SURN Hargrove
+2 GIVN Unknown female
+1 SEX F
+1 BIRT
+2 DATE ABT 1802
+1 _UID BA8FC21856D4D5118A3B0008C7023ACDD05C
+1 FAMC @F510@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I972@ INDI
+1 NAME Unknown female /Hargrove/
+2 SURN Hargrove
+2 GIVN Unknown female
+1 SEX F
+1 BIRT
+2 DATE ABT 1805
+1 _UID BB8FC21856D4D5118A3B0008C7023ACDD16C
+1 FAMC @F510@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I973@ INDI
+1 NAME Unknown female /Hargrove/
+2 SURN Hargrove
+2 GIVN Unknown female
+1 SEX F
+1 BIRT
+2 DATE ABT 1810
+1 _UID BC8FC21856D4D5118A3B0008C7023ACDD27C
+1 FAMC @F510@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I974@ INDI
+1 NAME Unknown female /Hargrove/
+2 SURN Hargrove
+2 GIVN Unknown female
+1 SEX F
+1 BIRT
+2 DATE ABT 1824
+1 _UID BD8FC21856D4D5118A3B0008C7023ACDD38C
+1 FAMC @F510@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I975@ INDI
+1 NAME Unknown female /Hargrove/
+2 SURN Hargrove
+2 GIVN Unknown female
+1 SEX F
+1 BIRT
+2 DATE ABT 1819
+1 _UID BE8FC21856D4D5118A3B0008C7023ACDD49C
+1 FAMC @F510@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I979@ INDI
+1 NAME Unknown male /Hargrove/
+2 SURN Hargrove
+2 GIVN Unknown male
+1 SEX M
+1 BIRT
+2 DATE ABT 1799
+1 _UID C28FC21856D4D5118A3B0008C7023ACDD8DC
+1 FAMC @F510@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I980@ INDI
+1 NAME Unknown male /Hargrove/
+2 SURN Hargrove
+2 GIVN Unknown male
+1 SEX M
+1 BIRT
+2 DATE ABT 1812
+1 _UID C38FC21856D4D5118A3B0008C7023ACDD9EC
+1 FAMC @F510@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I983@ INDI
+1 NAME Valentine /Hargrove/
+2 SURN Hargrove
+2 GIVN Valentine
+1 SEX M
+1 BIRT
+2 DATE ABT 1778
+2 PLAC , Amherst, Virginia
+1 DEAT
+2 DATE BET 1851 AND 1860
+2 PLAC , Hardin,Tennessee
+1 _UID C68FC21856D4D5118A3B0008C7023ACDDC1C
+1 FAMS @F510@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I992@ INDI
+1 NAME William V. /Hargrove/
+2 SURN Hargrove
+2 GIVN William V.
+1 SEX M
+1 BIRT
+2 DATE ABT 1851
+2 PLAC , Hardin,Tennessee
+1 _UID D18FC21856D4D5118A3B0008C7023ACDE7CC
+1 FAMS @F560@
+1 FAMC @F530@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @I993@ INDI
+1 NAME William Wesley /Hargrove/
+2 SURN Hargrove
+2 GIVN William Wesley
+1 SEX M
+1 BIRT
+2 DATE 4 Jan 1816
+2 PLAC , , Alabama
+1 DEAT
+2 DATE 1876
+2 PLAC , Marion,Oregon
+1 _UID D38FC21856D4D5118A3B0008C7023ACDE9EC
+1 FAMS @F275@
+1 FAMC @F510@
+1 CHAN
+2 DATE 13 Nov 2003
+3 TIME 15:52:52
+0 @F1124@ FAM
+1 _UID A45C62653BCAD5118A310008C7023ACD45B0
+1 HUSB @I3466@
+1 MARR
+2 DATE Jan 1770
+2 PLAC ,Augusta,Virginia
+0 @F177@ FAM
+1 _UID 878BC21856D4D5118A3B0008C7023ACD99F0
+1 WIFE @I901@
+1 MARR
+2 DATE 20 Nov 1895
+2 PLAC , Erath, Texas, USA
+0 @F224@ FAM
+1 _UID 078CC21856D4D5118A3B0008C7023ACD1AFF
+1 WIFE @I2676@
+1 MARR
+2 DATE ABT 1768
+2 PLAC , Augusta?, Va, Usa?
+0 @F251@ FAM
+1 _UID 4A8CC21856D4D5118A3B0008C7023ACD5D2F
+1 WIFE @I919@
+0 @F256@ FAM
+1 _UID 528CC21856D4D5118A3B0008C7023ACD65AF
+1 WIFE @I2690@
+0 @F275@ FAM
+1 _UID 848CC21856D4D5118A3B0008C7023ACD97CF
+1 HUSB @I993@
+0 @F298@ FAM
+1 _UID C38CC21856D4D5118A3B0008C7023ACDD6BF
+1 HUSB @I865@
+1 MARR
+2 DATE 20 Nov 1895
+2 PLAC , Erath, Texas, USA
+0 @F303@ FAM
+1 _UID D08CC21856D4D5118A3B0008C7023ACDE38F
+1 HUSB @I1570@
+1 MARR
+2 DATE 13 Jul 1801
+2 PLAC , Lincoln, Kentucky
+0 @F322@ FAM
+1 _UID FA8CC21856D4D5118A3B0008C7023ACD0D2F
+1 WIFE @I1571@
+1 MARR
+2 DATE 23 May 1807
+2 PLAC , Lincoln, Kentucky
+0 @F41@ FAM
+1 _UID 228AC21856D4D5118A3B0008C7023ACD3391
+1 WIFE @I940@
+0 @F414@ FAM
+1 _UID EC8DC21856D4D5118A3B0008C7023ACD005E
+1 HUSB @I1621@
+1 MARR
+2 DATE 31 Jan 1816
+2 PLAC , Cumberland, Kentucky
+0 @F417@ FAM
+1 _UID F28DC21856D4D5118A3B0008C7023ACD06BE
+1 HUSB @I883@
+1 MARR
+2 DATE ABT 1852
+0 @F419@ FAM
+1 _UID F58DC21856D4D5118A3B0008C7023ACD09EE
+1 HUSB @I925@
+1 MARR
+2 DATE 1850
+0 @F443@ FAM
+1 _UID 3F8EC21856D4D5118A3B0008C7023ACD549D
+1 WIFE @I914@
+0 @F476@ FAM
+1 _UID B08EC21856D4D5118A3B0008C7023ACDC5AD
+1 WIFE @I1445@
+1 MARR
+2 DATE 23 Mar 1803
+2 PLAC , Lincoln, Kentucky
+0 @F496@ FAM
+1 _UID E98EC21856D4D5118A3B0008C7023ACDFE3D
+1 HUSB @I952@
+1 MARR
+2 DATE 1830
+2 PLAC , Hardin,Tennessee
+0 @F497@ FAM
+1 _UID EB8EC21856D4D5118A3B0008C7023ACD005D
+1 HUSB @I883@
+1 MARR
+2 DATE 1876
+0 @F509@ FAM
+1 _UID 0B8FC21856D4D5118A3B0008C7023ACD216C
+1 WIFE @I844@
+1 MARR
+2 DATE 1834
+0 @F510@ FAM
+1 _UID 0C8FC21856D4D5118A3B0008C7023ACD227C
+1 HUSB @I983@
+1 WIFE @I1569@
+1 CHIL @I979@
+1 CHIL @I971@
+1 CHIL @I844@
+1 CHIL @I972@
+1 CHIL @I952@
+1 CHIL @I973@
+1 CHIL @I980@
+1 CHIL @I993@
+1 CHIL @I869@
+1 CHIL @I975@
+1 CHIL @I925@
+1 CHIL @I974@
+1 CHIL @I883@
+1 CHIL @I864@
+1 MARR
+2 DATE 9 Oct 1799
+2 PLAC , Lincoln, Kentucky
+0 @F527@ FAM
+1 _UID 328FC21856D4D5118A3B0008C7023ACD48DC
+1 HUSB @I869@
+1 WIFE @I2613@
+1 CHIL @I895@
+1 CHIL @I914@
+1 CHIL @I919@
+1 CHIL @I896@
+1 CHIL @I901@
+1 CHIL @I865@
+1 CHIL @I891@
+0 @F529@ FAM
+1 _UID 358FC21856D4D5118A3B0008C7023ACD4B0C
+1 HUSB @I952@
+1 MARR
+2 DATE 1860
+0 @F530@ FAM
+1 _UID 398FC21856D4D5118A3B0008C7023ACD4F4C
+1 HUSB @I869@
+1 WIFE @I2131@
+1 CHIL @I940@
+1 CHIL @I992@
+0 @F537@ FAM
+1 _UID 5A8FC21856D4D5118A3B0008C7023ACD705C
+1 HUSB @I2634@
+1 WIFE @I895@
+0 @F545@ FAM
+1 _UID 808FC21856D4D5118A3B0008C7023ACD96BC
+1 HUSB @I925@
+1 MARR
+2 DATE BEF 1861
+0 @F560@ FAM
+1 _UID D28FC21856D4D5118A3B0008C7023ACDE8DC
+1 HUSB @I992@
+0 @F57@ FAM
+1 _UID 4C8AC21856D4D5118A3B0008C7023ACD5D31
+1 HUSB @I2694@
+1 WIFE @I82@
+1 CHIL @I2688@
+1 CHIL @I2676@
+1 CHIL @I2690@
+1 CHIL @I3466@
+1 CHIL @I2669@
+1 CHIL @I2691@
+1 CHIL @I2696@
+1 CHIL @I2649@
+1 CHIL @I2678@
+1 CHIL @I2699@
+1 MARR
+2 DATE BEF 1745
+2 PLAC , , Ireland
+0 @F6100@ FAM
+1 _UID 2DA1F7669EFAAD4BAB2F2B423435D5165696
+1 HUSB @I15281@
+1 CHIL @I2694@
+1 CHIL @I2687@
+1 CHIL @I2670@
+0 @F695@ FAM
+1 _UID 8991C21856D4D5118A3B0008C7023ACDA16A
+1 WIFE @I1571@
+0 @F726@ FAM
+1 _UID F791C21856D4D5118A3B0008C7023ACD0F4A
+1 HUSB @I1376@
+1 WIFE @I2691@
+1 CHIL @I1569@
+1 CHIL @I1570@
+1 CHIL @I1445@
+1 CHIL @I1571@
+1 CHIL @I1489@
+1 CHIL @I1481@
+1 CHIL @I1621@
+1 CHIL @I1402@
+1 CHIL @I1518@
+1 MARR
+2 DATE 2 Jan 1779
+2 PLAC , Rockbridge, Virginia
+0 @F732@ FAM
+1 _UID 0A92C21856D4D5118A3B0008C7023ACD2389
+1 HUSB @I1489@
+1 MARR
+2 DATE 27 Feb 1809
+2 PLAC , Wayne, Kentucky
+0 @F738@ FAM
+1 _UID 1592C21856D4D5118A3B0008C7023ACD2E39
+1 HUSB @I1402@
+1 MARR
+2 DATE ABT 1818
+2 PLAC Ky or Mo, USA
+0 @F767@ FAM
+1 _UID 6592C21856D4D5118A3B0008C7023ACD7E39
+1 WIFE @I1445@
+1 MARR
+2 DATE 7 Apr 1818
+2 PLAC , Wayne, Kentucky
+0 @F775@ FAM
+1 _UID 8B92C21856D4D5118A3B0008C7023ACDA499
+1 WIFE @I2649@
+1 MARR
+2 DATE 1779
+2 PLAC , Woodford, Kentucky
+0 @F798@ FAM
+1 _UID CD92C21856D4D5118A3B0008C7023ACDE6B9
+1 WIFE @I1518@
+1 MARR
+2 DATE 15 Apr 1812
+2 PLAC , Lincoln, Kentucky
+0 @F958@ FAM
+1 _UID 8A96C21856D4D5118A3B0008C7023ACDA7C5
+1 HUSB @I2696@
+1 MARR
+2 DATE 1779
+0 @F962@ FAM
+1 _UID 9796C21856D4D5118A3B0008C7023ACDB495
+1 HUSB @I2688@
+1 MARR
+2 DATE ABT 1765
+2 PLAC , Rockbridge ?, Va, Usa?
+0 @S1@ SOUR
+1 TITL The path of empire in the conquest of The Great West.
+1 AUTH Robert L. Kincaid
+1 PUBL Middlesboro, KY;  Mrs. Robert L. Kincaid; 1973
+0 @S3@ SOUR
+1 REPO @REPO1@
+1 TITL Ancestral File (R)
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL Copyright (c) 1987, June 1998, data as of 5 January 1998
+0 @REPO1@ REPO
+1 NAME Family History Library
+1 ADDR 35 N West Temple Street
+2 CONT Salt Lake City, Utah 84150  USA
+0 TRLR

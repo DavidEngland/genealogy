@@ -1,0 +1,1570 @@
+0 HEAD
+1 SOUR FTW
+2 VERS Family Tree Maker (16.0.350)
+2 NAME Family Tree Maker for Windows
+2 CORP MyFamily.com, Inc.
+3 ADDR 360 W 4800 N
+4 CONT Provo, UT 84604
+3 PHON (801) 705-7000
+1 DEST FTW
+1 DATE 29 MAY 2007
+1 CHAR ANSI
+1 SUBM @SUBM@
+1 FILE F:\Documents and Settings\ArthurSB73\My Documents\CousinS\CousinS-trunk1.GED
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 _SCHEMA
+2 INDI
+3 _FA1
+4 LABL Fact 1
+3 _FA2
+4 LABL Fact 2
+3 _FA3
+4 LABL Fact 3
+3 _FA4
+4 LABL Fact 4
+3 _FA5
+4 LABL Fact 5
+3 _FA6
+4 LABL Fact 6
+3 _FA7
+4 LABL Fact 7
+3 _FA8
+4 LABL Fact 8
+3 _FA9
+4 LABL Fact 9
+3 _FA10
+4 LABL Fact 10
+3 _FA11
+4 LABL Fact 11
+3 _FA12
+4 LABL Fact 12
+3 _FA13
+4 LABL Fact 13
+3 _MREL
+4 LABL Relationship to Mother
+3 _FREL
+4 LABL Relationship to Father
+2 FAM
+3 _FA1
+4 LABL Marriage fact
+3 _FA2
+4 LABL Fact 2
+3 _MSTAT
+4 LABL Marriage Beginning Status
+3 _MEND
+4 LABL Marriage Ending Status
+0 @SUBM@ SUBM
+1 NAME Arthur Scott Bridges
+1 ADDR 80 East Dr
+2 CONT PO Box 808
+2 CONT Hartville, Ohio  44632-0808
+2 PHON 330-760-0559
+0 @I0046@ INDI
+1 NAME Living /Bishel/
+1 SEX M
+1 NAME Living /Bishel/
+1 NAME Living /Bishel/
+1 REFN 106
+1 FAMS @F0747@
+1 FAMC @F0037@
+0 @I0057@ INDI
+1 NAME Living /Bishel/
+1 SEX M
+1 NAME Living /Bishel/
+1 REFN 107
+1 FAMS @F0043@
+1 FAMC @F0037@
+0 @I0068@ INDI
+1 NAME Living /Bishel/
+1 SEX M
+1 NAME Living /Bishel/
+1 REFN 108
+1 FAMS @F0047@
+1 FAMC @F0037@
+0 @I0412@ INDI
+1 NAME Living /Kathy/
+1 SEX F
+1 REFN 1392
+1 FAMS @F0043@
+0 @I0413@ INDI
+1 NAME Geneva Quincy /Washburn/
+1 SEX F
+1 BIRT
+2 DATE 8 FEB 1920
+2 PLAC , , Oklahoma, USA
+1 BIRT
+2 DATE 8 FEB 1920
+2 PLAC Oklahoma
+1 REFN 1393
+1 FAMS @F0222@
+1 FAMS @F0223@
+1 FAMC @F0224@
+1 FAMC @F1174@
+0 @I0414@ INDI
+1 NAME Living /Bishel/
+1 SEX M
+1 REFN 1394
+1 FAMS @F0225@
+1 FAMC @F0223@
+1 FAMC @F0222@
+0 @I0415@ INDI
+1 NAME Living /Bishel/
+1 SEX F
+1 REFN 1395
+1 FAMS @F0225@
+0 @I0418@ INDI
+1 NAME Thomas Garland /White/
+2 SOUR @S044624@
+3 DATA
+4 TEXT Name:  Thomas Garland White
+5 CONT Birth Date:  7 Dec 1909
+5 CONT Birth Place:  Missouri
+5 CONT Death Date:  14 Jan 1947
+5 CONT Death Place:  Kern, California
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=cadeath1940&h=7878265&ti=0&indiv=try
+1 SEX M
+1 BIRT
+2 DATE 7 DEC 1909
+2 PLAC Bernie, Stoddard Co, Missouri, USA
+1 BIRT
+2 DATE 7 DEC 1909
+2 PLAC Bernie, Stoddard Co, Missouri
+2 SOUR @S044624@
+3 DATA
+4 TEXT Name:  Thomas Garland White
+5 CONT Birth Date:  7 Dec 1909
+5 CONT Birth Place:  Missouri
+5 CONT Death Date:  14 Jan 1947
+5 CONT Death Place:  Kern, California
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=cadeath1940&h=7878265&ti=0&indiv=try
+1 DEAT
+2 DATE 14 JAN 1947
+2 PLAC Taft, Kern, California, USA
+1 DEAT
+2 DATE 14 JAN 1947
+2 PLAC Taft, Kern, California
+2 SOUR @S044624@
+3 DATA
+4 TEXT Name:  Thomas Garland White
+5 CONT Birth Date:  7 Dec 1909
+5 CONT Birth Place:  Missouri
+5 CONT Death Date:  14 Jan 1947
+5 CONT Death Place:  Kern, California
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=cadeath1940&h=7878265&ti=0&indiv=try
+1 REFN 1397
+1 FAMS @F0223@
+1 FAMC @F0227@
+0 @I0419@ INDI
+1 NAME Bud /Bishel/
+2 SOUR @S079528@
+1 SEX M
+1 REFN 1398
+1 FAMS @F0222@
+0 @I0420@ INDI
+1 NAME Charles Burton /Washburn/
+2 SOUR @S001839@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1930 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2002.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Fifteenth Census of the United States, 1930. Washington, D.C.: National Archives and Records Administration, 1930.T626, 2,667 rolls. Yeager, Hughes, Oklahoma, ED 31, roll 1907, page , image 101.0
+5 CONC .
+1 SEX M
+1 NAME Charles /Washburn/
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002076@
+2 SOUR @S079528@
+1 NAME Charles B /Washburn/
+2 SOUR @S001839@
+3 PAGE Year: 1930; Census Place: Yeager, Hughes, Oklahoma; Roll: 1907; Page: 15A; Enumeration District: 31; Image: 101.0.
+3 DATA
+4 TEXT Name:  Charles B Washburn
+5 CONT Birth:  abt 1857
+5 CONT Tennessee
+5 CONT Residence:  1930
+5 CONT Yeager, Hughes, Oklahoma
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1930usfedcen&h=93890364&ti=0&indiv=try
+2 SOUR @S018752@
+3 PAGE Year: 1870; Census Place: , , ; Roll: M593
+3 DATA
+4 TEXT Name:  Charles B Washburn
+5 CONT Birth:  abt 1857
+5 CONT Tennessee
+5 CONT Residence:  1870
+5 CONT District 3, Jefferson, Tennessee
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1870usfedcen&h=4682822&ti=0&indiv=try
+2 SOUR @S001813@
+3 PAGE Year: 1910; Census Place: Stratford, Garvin, Oklahoma; Roll: T624_1252; Page: 2A; Enumeration District: 83; Image: 461.
+3 DATA
+4 TEXT Name:  Charles B Washburn
+5 CONT Birth:  abt 1857
+5 CONT Tennessee
+5 CONT Residence:  1910
+5 CONT Stratford, Garvin, Oklahoma
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1910uscenindex&h=22866482&ti=0&indiv=try
+2 SOUR @S001839@
+3 PAGE Year: 1930; Census Place: Yeager, Hughes, Oklahoma; Roll: 1907; Page: 15A; Enumeration District: 31; Image: 101.0.
+3 DATA
+4 TEXT Name:  Charles B Washburn
+5 CONT Birth:  abt 1857
+5 CONT Tennessee
+5 CONT Residence:  1930
+5 CONT Yeager, Hughes, Oklahoma
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1930usfedcen&h=93890364&ti=0&indiv=try
+2 SOUR @S001813@
+3 PAGE Year: 1910; Census Place: Stratford, Garvin, Oklahoma; Roll: T624_1252; Page: 2A; Enumeration District: 83; Image: 461.
+3 DATA
+4 TEXT Name:  Charles B Washburn
+5 CONT Birth:  abt 1857
+5 CONT Tennessee
+5 CONT Residence:  1910
+5 CONT Stratford, Garvin, Oklahoma
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1910uscenindex&h=22866482&ti=0&indiv=try
+2 SOUR @S018752@
+3 PAGE Year: 1870; Census Place: , , ; Roll: M593
+3 DATA
+4 TEXT Name:  Charles B Washburn
+5 CONT Birth:  abt 1857
+5 CONT Tennessee
+5 CONT Residence:  1870
+5 CONT District 3, Jefferson, Tennessee
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1870usfedcen&h=4682822&ti=0&indiv=try
+1 BIRT
+2 DATE 28 JUL 1856
+2 PLAC Tenn
+2 SOUR @S001839@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1930 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2002.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Fifteenth Census of the United States, 1930. Washington, D.C.: National Archives and Records Administration, 1930.T626, 2,667 rolls. Yeager, Hughes, Oklahoma, ED 31, roll 1907, page , image 101.0
+5 CONC .
+1 BIRT
+2 DATE 28 JUL 1856
+2 PLAC , , Tennessee, USA
+1 BIRT
+2 DATE ABT 1857
+2 PLAC , , Tennessee, USA
+2 SOUR @S001839@
+3 PAGE Year: 1930; Census Place: Yeager, Hughes, Oklahoma; Roll: 1907; Page: 15A; Enumeration District: 31; Image: 101.0.
+3 DATA
+4 TEXT Name:  Charles B Washburn
+5 CONT Birth:  abt 1857
+5 CONT Tennessee
+5 CONT Residence:  1930
+5 CONT Yeager, Hughes, Oklahoma
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1930usfedcen&h=93890364&ti=0&indiv=try
+2 SOUR @S018752@
+3 PAGE Year: 1870; Census Place: , , ; Roll: M593
+3 DATA
+4 TEXT Name:  Charles B Washburn
+5 CONT Birth:  abt 1857
+5 CONT Tennessee
+5 CONT Residence:  1870
+5 CONT District 3, Jefferson, Tennessee
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1870usfedcen&h=4682822&ti=0&indiv=try
+2 SOUR @S001813@
+3 PAGE Year: 1910; Census Place: Stratford, Garvin, Oklahoma; Roll: T624_1252; Page: 2A; Enumeration District: 83; Image: 461.
+3 DATA
+4 TEXT Name:  Charles B Washburn
+5 CONT Birth:  abt 1857
+5 CONT Tennessee
+5 CONT Residence:  1910
+5 CONT Stratford, Garvin, Oklahoma
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1910uscenindex&h=22866482&ti=0&indiv=try
+2 SOUR @S001839@
+3 PAGE Year: 1930; Census Place: Yeager, Hughes, Oklahoma; Roll: 1907; Page: 15A; Enumeration District: 31; Image: 101.0.
+3 DATA
+4 TEXT Name:  Charles B Washburn
+5 CONT Birth:  abt 1857
+5 CONT Tennessee
+5 CONT Residence:  1930
+5 CONT Yeager, Hughes, Oklahoma
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1930usfedcen&h=93890364&ti=0&indiv=try
+2 SOUR @S001813@
+3 PAGE Year: 1910; Census Place: Stratford, Garvin, Oklahoma; Roll: T624_1252; Page: 2A; Enumeration District: 83; Image: 461.
+3 DATA
+4 TEXT Name:  Charles B Washburn
+5 CONT Birth:  abt 1857
+5 CONT Tennessee
+5 CONT Residence:  1910
+5 CONT Stratford, Garvin, Oklahoma
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1910uscenindex&h=22866482&ti=0&indiv=try
+2 SOUR @S018752@
+3 PAGE Year: 1870; Census Place: , , ; Roll: M593
+3 DATA
+4 TEXT Name:  Charles B Washburn
+5 CONT Birth:  abt 1857
+5 CONT Tennessee
+5 CONT Residence:  1870
+5 CONT District 3, Jefferson, Tennessee
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1870usfedcen&h=4682822&ti=0&indiv=try
+1 DEAT
+2 DATE 26 JAN 1935
+2 PLAC Holdenville, Hughes, Oklahoma
+1 RESI
+2 DATE 1930
+2 PLAC Yeager, Hughes, Oklahoma
+2 SOUR @S001839@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1930 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2002.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Fifteenth Census of the United States, 1930. Washington, D.C.: National Archives and Records Administration, 1930.T626, 2,667 rolls. Yeager, Hughes, Oklahoma, ED 31, roll 1907, page , image 101.0
+5 CONC .
+2 SOUR @S001839@
+3 PAGE Year: 1930; Census Place: Yeager, Hughes, Oklahoma; Roll: 1907; Page: 15A; Enumeration District: 31; Image: 101.0.
+3 DATA
+4 TEXT Name:  Charles B Washburn
+5 CONT Birth:  abt 1857
+5 CONT Tennessee
+5 CONT Residence:  1930
+5 CONT Yeager, Hughes, Oklahoma
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1930usfedcen&h=93890364&ti=0&indiv=try
+2 SOUR @S001839@
+3 PAGE Year: 1930; Census Place: Yeager, Hughes, Oklahoma; Roll: 1907; Page: 15A; Enumeration District: 31; Image: 101.0.
+3 DATA
+4 TEXT Name:  Charles B Washburn
+5 CONT Birth:  abt 1857
+5 CONT Tennessee
+5 CONT Residence:  1930
+5 CONT Yeager, Hughes, Oklahoma
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1930usfedcen&h=93890364&ti=0&indiv=try
+1 RESI
+2 DATE 1870
+2 PLAC District 3, Jefferson, Tennessee
+2 SOUR @S018752@
+3 PAGE Year: 1870; Census Place: , , ; Roll: M593
+3 DATA
+4 TEXT Name:  Charles B Washburn
+5 CONT Birth:  abt 1857
+5 CONT Tennessee
+5 CONT Residence:  1870
+5 CONT District 3, Jefferson, Tennessee
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1870usfedcen&h=4682822&ti=0&indiv=try
+2 SOUR @S018752@
+3 PAGE Year: 1870; Census Place: , , ; Roll: M593
+3 DATA
+4 TEXT Name:  Charles B Washburn
+5 CONT Birth:  abt 1857
+5 CONT Tennessee
+5 CONT Residence:  1870
+5 CONT District 3, Jefferson, Tennessee
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1870usfedcen&h=4682822&ti=0&indiv=try
+1 RESI
+2 DATE 1910
+2 PLAC Stratford, Garvin, Oklahoma
+2 SOUR @S001813@
+3 PAGE Year: 1910; Census Place: Stratford, Garvin, Oklahoma; Roll: T624_1252; Page: 2A; Enumeration District: 83; Image: 461.
+3 DATA
+4 TEXT Name:  Charles B Washburn
+5 CONT Birth:  abt 1857
+5 CONT Tennessee
+5 CONT Residence:  1910
+5 CONT Stratford, Garvin, Oklahoma
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1910uscenindex&h=22866482&ti=0&indiv=try
+2 SOUR @S001813@
+3 PAGE Year: 1910; Census Place: Stratford, Garvin, Oklahoma; Roll: T624_1252; Page: 2A; Enumeration District: 83; Image: 461.
+3 DATA
+4 TEXT Name:  Charles B Washburn
+5 CONT Birth:  abt 1857
+5 CONT Tennessee
+5 CONT Residence:  1910
+5 CONT Stratford, Garvin, Oklahoma
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1910uscenindex&h=22866482&ti=0&indiv=try
+1 REFN 1399
+1 FAMS @F0224@
+1 FAMS @F1174@
+0 @I0421@ INDI
+1 NAME Druckia Amelia /Welch/
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S001839@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1930 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2002.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Fifteenth Census of the United States, 1930. Washington, D.C.: National Archives and Records Administration, 1930.T626, 2,667 rolls. Yeager, Hughes, Oklahoma, ED 31, roll 1907, page , image 101.0
+5 CONC .
+1 SEX F
+1 NAME Amelia Welch /WASHBURN/
+2 SOUR @S044624@
+3 DATA
+4 TEXT Online publication - Ancestry.com. California Death Index, 1940-1997 [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2000.Original data - State of California. California Death Index
+5 CONC , 1940-1997. Sacramento, CA, USA: State of California Department of Health Services, Center for Health Statistics.
+1 NAME Amelia /Welch/
+2 SOUR @S001800@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1900 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2004.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Twelfth Census of the United States, 1900. Washington, D.C.: National Archives and Records Administration, 1900.T623, 1854 rolls. Scott, Arkansas, ED 109, roll T623 75, page 10A.
+1 BIRT
+2 DATE 22 MAY 1889
+2 PLAC Nola, Scott, Arkansas, USA
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S001839@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1930 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2002.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Fifteenth Census of the United States, 1930. Washington, D.C.: National Archives and Records Administration, 1930.T626, 2,667 rolls. Yeager, Hughes, Oklahoma, ED 31, roll 1907, page , image 101.0
+5 CONC .
+1 BIRT
+2 DATE 1889
+2 PLAC Arkansas
+2 SOUR @S001800@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1900 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2004.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Twelfth Census of the United States, 1900. Washington, D.C.: National Archives and Records Administration, 1900.T623, 1854 rolls. Scott, Arkansas, ED 109, roll T623 75, page 10A.
+1 DEAT
+2 DATE 10 JUN 1959
+2 PLAC Ventura, Ventura, California, USA
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+1 DEAT
+2 DATE 10 JUN 1959
+2 PLAC VENTURA, California
+2 SOUR @S044624@
+3 DATA
+4 TEXT Online publication - Ancestry.com. California Death Index, 1940-1997 [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2000.Original data - State of California. California Death Index
+5 CONC , 1940-1997. Sacramento, CA, USA: State of California Department of Health Services, Center for Health Statistics.
+1 RESI
+2 DATE 1900
+2 PLAC Lafave, Scott, Arkansas
+2 SOUR @S001800@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1900 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2004.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Twelfth Census of the United States, 1900. Washington, D.C.: National Archives and Records Administration, 1900.T623, 1854 rolls. Scott, Arkansas, ED 109, roll T623 75, page 10A.
+1 RESI
+2 DATE 1930
+2 PLAC Yeager, Hughes, Oklahoma
+2 SOUR @S001839@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1930 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2002.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Fifteenth Census of the United States, 1930. Washington, D.C.: National Archives and Records Administration, 1930.T626, 2,667 rolls. Yeager, Hughes, Oklahoma, ED 31, roll 1907, page , image 101.0
+5 CONC .
+1 REFN 1400
+1 FAMS @F0224@
+1 FAMS @F1149@
+1 FAMC @F0228@
+0 @I0422@ INDI
+1 NAME John Elijah /Welch/
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002076@
+1 SEX M
+1 NAME John /Welch/
+1 NAME John E /Welch/
+2 SOUR @S001800@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1900 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2004.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Twelfth Census of the United States, 1900. Washington, D.C.: National Archives and Records Administration, 1900.T623, 1854 rolls. Scott, Arkansas, ED 109, roll T623 75, page 10A.
+1 BIRT
+2 DATE 1 MAY 1858
+2 PLAC Nola, Scott, Arkansas, USA
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002076@
+1 BIRT
+2 DATE 1858
+2 PLAC Arkansas
+2 SOUR @S001800@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1900 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2004.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Twelfth Census of the United States, 1900. Washington, D.C.: National Archives and Records Administration, 1900.T623, 1854 rolls. Scott, Arkansas, ED 109, roll T623 75, page 10A.
+1 DEAT
+2 DATE 11 OCT 1923
+2 PLAC Holdenville, Hughes, Oklahoma, USA
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002076@
+1 RESI
+2 DATE 1900
+2 PLAC Lafave, Scott, Arkansas
+2 SOUR @S001800@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1900 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2004.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Twelfth Census of the United States, 1900. Washington, D.C.: National Archives and Records Administration, 1900.T623, 1854 rolls. Scott, Arkansas, ED 109, roll T623 75, page 10A.
+1 REFN 1401
+1 FAMS @F0228@
+1 FAMC @F1175@
+0 @I0423@ INDI
+1 NAME Sarah Jane /Pettit/
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+1 SEX F
+1 NAME Sarah Jane /Pettite/
+1 NAME Sarah J /Welch/
+2 SOUR @S001800@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1900 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2004.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Twelfth Census of the United States, 1900. Washington, D.C.: National Archives and Records Administration, 1900.T623, 1854 rolls. Scott, Arkansas, ED 109, roll T623 75, page 10A.
+1 BIRT
+2 DATE 20 FEB 1856
+2 PLAC Peaks Hill, Calhoun, Alabama, USA
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+1 BIRT
+2 DATE 1856
+2 PLAC Alabama
+2 SOUR @S001800@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1900 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2004.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Twelfth Census of the United States, 1900. Washington, D.C.: National Archives and Records Administration, 1900.T623, 1854 rolls. Scott, Arkansas, ED 109, roll T623 75, page 10A.
+1 DEAT
+2 DATE 23 MAR 1924
+2 PLAC Holdenville, Hughes, Oklahoma, USA
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+1 RESI
+2 DATE 1900
+2 PLAC Lafave, Scott, Arkansas
+2 SOUR @S001800@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1900 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2004.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Twelfth Census of the United States, 1900. Washington, D.C.: National Archives and Records Administration, 1900.T623, 1854 rolls. Scott, Arkansas, ED 109, roll T623 75, page 10A.
+1 REFN 1402
+1 FAMS @F0228@
+1 FAMS @F1191@
+0 @I1038@ INDI
+1 NAME Alice Bertrande /Bridges/
+2 SOUR @S002076@
+3 DATA
+4 TEXT Ancestry.com. One World Tree (sm) [database online]. Provo, UT: MyFamily.com, Inc.
+2 SOUR @S002097@
+3 DATA
+4 TEXT Online publication - Ancestry.com. Social Security Death Index [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2006.Original data - Social Security Administration. Social Security D
+5 CONC eath Index, Master File. Social Security Administration.
+2 SOUR @S002097@
+3 PAGE Number: 560-56-0686; Issue State: California; Issue Date: 1957.
+3 DATA
+4 TEXT Name:  Bertrande A. Bishel
+5 CONT Birth:  28 Jun 1938
+5 CONT Death:  6 Mar 2001
+5 CONT Madera, Madera, California, United States of America
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=ssdi&h=4907447&ti=0&indiv=try
+2 SOUR @S002097@
+3 PAGE Number: 560-56-0686; Issue State: California; Issue Date: 1957.
+3 DATA
+4 TEXT Name:  Bertrande A. Bishel
+5 CONT Birth:  28 Jun 1938
+5 CONT Death:  6 Mar 2001
+5 CONT Madera, Madera, California, United States of America
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=ssdi&h=4907447&ti=0&indiv=try
+1 SEX F
+1 ALIA Trandy /Bishel/
+1 NAME Alice B /Bishel/
+2 SOUR @S002145@
+3 DATA
+4 TEXT Online publication - Ancestry.com. U.S. Public Records Index [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2005.Original data - Compiled from various U.S. public records.
+1 NAME Trandy /Bishel/
+1 BIRT
+2 DATE 28 JUN 1938
+2 PLAC Phenix City, Russell, Alabama, USA
+2 SOUR @S002097@
+3 DATA
+4 TEXT Online publication - Ancestry.com. Social Security Death Index [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2006.Original data - Social Security Administration. Social Security D
+5 CONC eath Index, Master File. Social Security Administration.
+2 SOUR @S002145@
+3 DATA
+4 TEXT Online publication - Ancestry.com. U.S. Public Records Index [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2005.Original data - Compiled from various U.S. public records.
+1 BIRT
+2 DATE 28 JUN 1938
+2 PLAC Phenix City, Russell, AL, USA
+2 SOUR @S002097@
+3 PAGE Number: 560-56-0686; Issue State: California; Issue Date: 1957.
+3 DATA
+4 TEXT Name:  Bertrande A. Bishel
+5 CONT Birth:  28 Jun 1938
+5 CONT Death:  6 Mar 2001
+5 CONT Madera, Madera, California, United States of America
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=ssdi&h=4907447&ti=0&indiv=try
+1 BIRT
+2 DATE 28 JUN 1938
+2 PLAC Phenix City, Russell, Alabama, USA
+2 SOUR @S002097@
+3 PAGE Number: 560-56-0686; Issue State: California; Issue Date: 1957.
+3 DATA
+4 TEXT Name:  Bertrande A. Bishel
+5 CONT Birth:  28 Jun 1938
+5 CONT Death:  6 Mar 2001
+5 CONT Madera, Madera, California, United States of America
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=ssdi&h=4907447&ti=0&indiv=try
+1 BIRT
+2 DATE 28 JUN 1938
+2 PLAC Phoenix City, Jefferson Co., AL
+2 SOUR @S002076@
+3 DATA
+4 TEXT Ancestry.com. One World Tree (sm) [database online]. Provo, UT: MyFamily.com, Inc.
+1 BIRT
+2 DATE 28 JUN 1938
+2 PLAC Phoenix City, Russell, Alabama, USA
+1 DEAT
+2 DATE 6 MAR 2001
+2 PLAC Madera, Madera, California, USA
+2 SOUR @S002097@
+3 DATA
+4 TEXT Online publication - Ancestry.com. Social Security Death Index [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2006.Original data - Social Security Administration. Social Security D
+5 CONC eath Index, Master File. Social Security Administration.
+2 CAUS Bone Cancer
+1 DEAT
+2 DATE 6 MAR 2001
+2 PLAC Madera, CA
+1 DEAT
+2 DATE 6 MAR 2001
+2 PLAC Madera, CA, USA
+1 DEAT
+2 DATE 6 MAR 2001
+2 PLAC Madera, Madera, CA, USA
+1 DEAT
+2 DATE 6 MAR 2001
+2 PLAC Madera, Madera, California, United States of America
+2 SOUR @S002097@
+3 PAGE Number: 560-56-0686; Issue State: California; Issue Date: 1957.
+3 DATA
+4 TEXT Name:  Bertrande A. Bishel
+5 CONT Birth:  28 Jun 1938
+5 CONT Death:  6 Mar 2001
+5 CONT Madera, Madera, California, United States of America
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=ssdi&h=4907447&ti=0&indiv=try
+2 SOUR @S002097@
+3 PAGE Number: 560-56-0686; Issue State: California; Issue Date: 1957.
+3 DATA
+4 TEXT Name:  Bertrande A. Bishel
+5 CONT Birth:  28 Jun 1938
+5 CONT Death:  6 Mar 2001
+5 CONT Madera, Madera, California, United States of America
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=ssdi&h=4907447&ti=0&indiv=try
+1 EVEN
+2 TYPE SSN issued
+2 PLAC California
+2 SOUR @S002097@
+3 DATA
+4 TEXT Online publication - Ancestry.com. Social Security Death Index [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2006.Original data - Social Security Administration. Social Security D
+5 CONC eath Index, Master File. Social Security Administration.
+1 SSN
+2 PLAC 560-56-0686
+2 SOUR @S002097@
+3 DATA
+4 TEXT Online publication - Ancestry.com. Social Security Death Index [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2006.Original data - Social Security Administration. Social Security D
+5 CONC eath Index, Master File. Social Security Administration.
+1 RESI
+2 PLAC Madera, Madera, California
+2 SOUR @S002145@
+3 DATA
+4 TEXT Online publication - Ancestry.com. U.S. Public Records Index [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2005.Original data - Compiled from various U.S. public records.
+1 REFN 36
+1 _MDCL Blood Pressure too low to support respiration
+1 FAMS @F0037@
+1 FAMC @F0002@
+1 NOTE @NI1038@
+0 @I1049@ INDI
+1 NAME Living /Bishel/
+1 SEX M
+1 NAME Living /Bishel/
+1 REFN 37
+1 FAMS @F0037@
+1 FAMC @F0223@
+1 FAMC @F0222@
+0 @I1114@ INDI
+1 NAME Living /Grace/
+1 SEX F
+1 REFN 43
+1 FAMS @F0047@
+0 @I3326@ INDI
+1 NAME William Clyde /Chaffin/
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+1 SEX M
+1 BIRT
+2 DATE 8 MAR 1910
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+1 DEAT
+2 DATE 8 MAR 1910
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+1 REFN 3326
+1 FAMC @F1149@
+0 @I3327@ INDI
+1 NAME Qunicy G /Washburn/
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S001839@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1930 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2002.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Fifteenth Census of the United States, 1930. Washington, D.C.: National Archives and Records Administration, 1930.T626, 2,667 rolls. Yeager, Hughes, Oklahoma, ED 31, roll 1907, page , image 101.0
+5 CONC .
+1 SEX F
+1 BIRT
+2 DATE 1919
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+1 BIRT
+2 DATE 1920
+2 SOUR @S001839@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1930 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2002.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Fifteenth Census of the United States, 1930. Washington, D.C.: National Archives and Records Administration, 1930.T626, 2,667 rolls. Yeager, Hughes, Oklahoma, ED 31, roll 1907, page , image 101.0
+5 CONC .
+1 RESI
+2 DATE 1930
+2 PLAC Yeager, Hughes, Oklahoma
+2 SOUR @S001839@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1930 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2002.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Fifteenth Census of the United States, 1930. Washington, D.C.: National Archives and Records Administration, 1930.T626, 2,667 rolls. Yeager, Hughes, Oklahoma, ED 31, roll 1907, page , image 101.0
+5 CONC .
+1 REFN 3327
+1 FAMC @F0224@
+0 @I3328@ INDI
+1 NAME Creed Boyer /Washburn/
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S001839@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1930 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2002.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Fifteenth Census of the United States, 1930. Washington, D.C.: National Archives and Records Administration, 1930.T626, 2,667 rolls. Yeager, Hughes, Oklahoma, ED 31, roll 1907, page , image 101.0
+5 CONC .
+1 SEX M
+1 BIRT
+2 DATE 8 SEP 1928
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S001839@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1930 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2002.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Fifteenth Census of the United States, 1930. Washington, D.C.: National Archives and Records Administration, 1930.T626, 2,667 rolls. Yeager, Hughes, Oklahoma, ED 31, roll 1907, page , image 101.0
+5 CONC .
+1 DEAT
+2 DATE 1 FEB 1992
+2 PLAC Bakersfield, Kern, California, USA
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+1 RESI
+2 DATE 1930
+2 PLAC Yeager, Hughes, Oklahoma
+2 SOUR @S001839@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1930 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2002.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Fifteenth Census of the United States, 1930. Washington, D.C.: National Archives and Records Administration, 1930.T626, 2,667 rolls. Yeager, Hughes, Oklahoma, ED 31, roll 1907, page , image 101.0
+5 CONC .
+1 REFN 3328
+1 FAMC @F0224@
+0 @I3329@ INDI
+1 NAME Buck Wayne /Washburn/
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S001839@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1930 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2002.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Fifteenth Census of the United States, 1930. Washington, D.C.: National Archives and Records Administration, 1930.T626, 2,667 rolls. Yeager, Hughes, Oklahoma, ED 31, roll 1907, page , image 101.0
+5 CONC .
+1 SEX M
+1 BIRT
+2 DATE 21 JUL 1921
+2 PLAC California, USA
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+1 BIRT
+2 DATE 1923
+2 SOUR @S001839@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1930 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2002.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Fifteenth Census of the United States, 1930. Washington, D.C.: National Archives and Records Administration, 1930.T626, 2,667 rolls. Yeager, Hughes, Oklahoma, ED 31, roll 1907, page , image 101.0
+5 CONC .
+1 DEAT
+2 DATE JUN 1983
+2 PLAC Santa Rosa, Sonoma, California, USA
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+1 RESI
+2 DATE 1930
+2 PLAC Yeager, Hughes, Oklahoma
+2 SOUR @S001839@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1930 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2002.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Fifteenth Census of the United States, 1930. Washington, D.C.: National Archives and Records Administration, 1930.T626, 2,667 rolls. Yeager, Hughes, Oklahoma, ED 31, roll 1907, page , image 101.0
+5 CONC .
+1 REFN 3329
+1 FAMC @F0224@
+0 @I3330@ INDI
+1 NAME Bob Taylor /Washburn/
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S001839@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1930 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2002.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Fifteenth Census of the United States, 1930. Washington, D.C.: National Archives and Records Administration, 1930.T626, 2,667 rolls. Yeager, Hughes, Oklahoma, ED 31, roll 1907, page , image 101.0
+5 CONC .
+1 SEX M
+1 BIRT
+2 DATE 19 APR 1914
+2 PLAC Oklahoma, USA
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S001839@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1930 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2002.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Fifteenth Census of the United States, 1930. Washington, D.C.: National Archives and Records Administration, 1930.T626, 2,667 rolls. Yeager, Hughes, Oklahoma, ED 31, roll 1907, page , image 101.0
+5 CONC .
+1 DEAT
+2 DATE 27 MAR 1993
+2 PLAC Norman, Cleveland, Oklahoma, USA
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+1 RESI
+2 DATE 1930
+2 PLAC Yeager, Hughes, Oklahoma
+2 SOUR @S001839@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1930 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2002.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Fifteenth Census of the United States, 1930. Washington, D.C.: National Archives and Records Administration, 1930.T626, 2,667 rolls. Yeager, Hughes, Oklahoma, ED 31, roll 1907, page , image 101.0
+5 CONC .
+1 REFN 3330
+1 FAMC @F0224@
+0 @I3331@ INDI
+1 NAME Salathiel Coy /Washburn/
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+1 SEX M
+1 BIRT
+2 DATE 12 DEC 1910
+2 PLAC Oklahoma, USA
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+1 DEAT
+2 DATE 4 AUG 1989
+2 PLAC Los Angeles, Los Angeles, California, USA
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+1 REFN 3331
+1 FAMC @F0224@
+0 @I3332@ INDI
+1 NAME Sarah Corbin /Washburn/
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S001839@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1930 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2002.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Fifteenth Census of the United States, 1930. Washington, D.C.: National Archives and Records Administration, 1930.T626, 2,667 rolls. Yeager, Hughes, Oklahoma, ED 31, roll 1907, page , image 101.0
+5 CONC .
+1 SEX F
+1 BIRT
+2 DATE 16 FEB 1918
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S001839@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1930 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2002.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Fifteenth Census of the United States, 1930. Washington, D.C.: National Archives and Records Administration, 1930.T626, 2,667 rolls. Yeager, Hughes, Oklahoma, ED 31, roll 1907, page , image 101.0
+5 CONC .
+1 RESI
+2 DATE 1930
+2 PLAC Yeager, Hughes, Oklahoma
+2 SOUR @S001839@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1930 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2002.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Fifteenth Census of the United States, 1930. Washington, D.C.: National Archives and Records Administration, 1930.T626, 2,667 rolls. Yeager, Hughes, Oklahoma, ED 31, roll 1907, page , image 101.0
+5 CONC .
+1 REFN 3332
+1 FAMC @F0224@
+0 @I3333@ INDI
+1 NAME Claude /Chaffin/
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+1 SEX M
+1 REFN 3333
+1 FAMS @F1149@
+0 @I3334@ INDI
+1 NAME Juanita F /Washburn/
+2 SOUR @S001839@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1930 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2002.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Fifteenth Census of the United States, 1930. Washington, D.C.: National Archives and Records Administration, 1930.T626, 2,667 rolls. Yeager, Hughes, Oklahoma, ED 31, roll 1907, page , image 101.0
+5 CONC .
+1 SEX F
+1 NAME Juanita /Washburn/
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+1 BIRT
+2 DATE 29 SEP 1912
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+2 SOUR @S001839@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1930 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2002.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Fifteenth Census of the United States, 1930. Washington, D.C.: National Archives and Records Administration, 1930.T626, 2,667 rolls. Yeager, Hughes, Oklahoma, ED 31, roll 1907, page , image 101.0
+5 CONC .
+1 DEAT
+2 DATE 20 JUL 1990
+2 SOUR @S002034@
+3 DATA
+4 TEXT Online publication - Ancestry.com. OneWorldTree [database on-line]. Provo, UT, USA: The Generations Network, Inc.
+1 RESI
+2 DATE 1930
+2 PLAC Yeager, Hughes, Oklahoma
+2 SOUR @S001839@
+3 DATA
+4 TEXT Online publication - Ancestry.com. 1930 United States Federal Census [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2002.Original data - United States of America, Bureau of the Cen
+5 CONC sus. Fifteenth Census of the United States, 1930. Washington, D.C.: National Archives and Records Administration, 1930.T626, 2,667 rolls. Yeager, Hughes, Oklahoma, ED 31, roll 1907, page , image 101.0
+5 CONC .
+1 REFN 3334
+1 FAMC @F0224@
+0 @I3335@ INDI
+1 NAME Living /Heidi/
+1 SEX F
+1 REFN 3335
+1 FAMS @F0747@
+0 @I3847@ INDI
+1 NAME Amelia /Welch/
+2 SOUR @S044624@
+3 DATA
+4 TEXT Name:  Amelia Welch Washburn
+5 CONT Birth Date:  22 May 1889
+5 CONT Birth Place:  Arkansas
+5 CONT Death Date:  10 Jun 1959
+5 CONT Death Place:  Ventura, California
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=cadeath1940&h=7738458&ti=0&indiv=try
+2 SOUR @S001813@
+3 PAGE Year: 1910; Census Place: Stratford, Garvin, Oklahoma; Roll: T624_1252; Page: 2A; Enumeration District: 83; Image: 461.
+3 DATA
+4 TEXT Name:  Amelia Washburn
+5 CONT Birth Date:  abt 1890
+5 CONT Birth Place:  Arkansas
+5 CONT Residence Date:  1910
+5 CONT Residence Place:  Stratford, Garvin, Oklahoma
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1910uscenindex&h=163796931&ti=0&indiv=try
+2 SOUR @S001800@
+3 PAGE Year: 1900; Census Place: Lafave, Scott, Arkansas; Roll: T623 75; Page: 10A; Enumeration District: 109.
+3 DATA
+4 TEXT Name:  Amelia Welch
+5 CONT Birth Date:  abt 1889
+5 CONT Birth Place:  Arkansas
+5 CONT Residence Date:  1900
+5 CONT Residence Place:  Lafave, Scott, Arkansas
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1900usfedcen&h=36725643&ti=0&indiv=try
+1 SEX F
+1 NAME Druckia Amelia /Welch/
+2 SOUR @S002076@
+2 SOUR @S079528@
+1 BIRT
+2 DATE 22 MAY 1889
+2 PLAC Arkansas
+2 SOUR @S044624@
+3 DATA
+4 TEXT Name:  Amelia Welch Washburn
+5 CONT Birth Date:  22 May 1889
+5 CONT Birth Place:  Arkansas
+5 CONT Death Date:  10 Jun 1959
+5 CONT Death Place:  Ventura, California
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=cadeath1940&h=7738458&ti=0&indiv=try
+2 SOUR @S001813@
+3 PAGE Year: 1910; Census Place: Stratford, Garvin, Oklahoma; Roll: T624_1252; Page: 2A; Enumeration District: 83; Image: 461.
+3 DATA
+4 TEXT Name:  Amelia Washburn
+5 CONT Birth Date:  abt 1890
+5 CONT Birth Place:  Arkansas
+5 CONT Residence Date:  1910
+5 CONT Residence Place:  Stratford, Garvin, Oklahoma
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1910uscenindex&h=163796931&ti=0&indiv=try
+2 SOUR @S001800@
+3 PAGE Year: 1900; Census Place: Lafave, Scott, Arkansas; Roll: T623 75; Page: 10A; Enumeration District: 109.
+3 DATA
+4 TEXT Name:  Amelia Welch
+5 CONT Birth Date:  abt 1889
+5 CONT Birth Place:  Arkansas
+5 CONT Residence Date:  1900
+5 CONT Residence Place:  Lafave, Scott, Arkansas
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1900usfedcen&h=36725643&ti=0&indiv=try
+1 BIRT
+2 DATE MAY 1889
+2 PLAC Scott, , Arkansas, USA
+2 SOUR @S002076@
+2 SOUR @S079528@
+1 DEAT
+2 DATE JUN 1959
+2 PLAC Santa Paula, Ventura, California
+1 DEAT
+2 DATE 10 JUN 1959
+2 PLAC Santa Paula, Ventura, California
+2 SOUR @S044624@
+3 DATA
+4 TEXT Name:  Amelia Welch Washburn
+5 CONT Birth Date:  22 May 1889
+5 CONT Birth Place:  Arkansas
+5 CONT Death Date:  10 Jun 1959
+5 CONT Death Place:  Ventura, California
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=cadeath1940&h=7738458&ti=0&indiv=try
+1 DEAT
+2 DATE 10 JUN 1959
+2 PLAC Ventura, , California, USA
+2 SOUR @S002076@
+2 SOUR @S079528@
+1 RESI
+2 DATE 1900
+2 PLAC Lafave, Scott, Arkansas
+2 SOUR @S001800@
+3 PAGE Year: 1900; Census Place: Lafave, Scott, Arkansas; Roll: T623 75; Page: 10A; Enumeration District: 109.
+3 DATA
+4 TEXT Name:  Amelia Welch
+5 CONT Birth Date:  abt 1889
+5 CONT Birth Place:  Arkansas
+5 CONT Residence Date:  1900
+5 CONT Residence Place:  Lafave, Scott, Arkansas
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1900usfedcen&h=36725643&ti=0&indiv=try
+1 RESI
+2 DATE 1910
+2 PLAC Stratford, Garvin, Oklahoma
+2 SOUR @S001813@
+3 PAGE Year: 1910; Census Place: Stratford, Garvin, Oklahoma; Roll: T624_1252; Page: 2A; Enumeration District: 83; Image: 461.
+3 DATA
+4 TEXT Name:  Amelia Washburn
+5 CONT Birth Date:  abt 1890
+5 CONT Birth Place:  Arkansas
+5 CONT Residence Date:  1910
+5 CONT Residence Place:  Stratford, Garvin, Oklahoma
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1910uscenindex&h=163796931&ti=0&indiv=try
+1 REFN 3847
+1 FAMS @F1174@
+1 FAMC @F0228@
+1 FAMC @F1191@
+0 @I5952@ INDI
+1 NAME Matilda Arminia /Jones/
+1 SEX F
+1 BIRT
+2 DATE 24 AUG 1839
+2 PLAC ,Madison, Alabama, USA
+1 DEAT
+2 DATE 2 FEB 1916
+2 PLAC Sims, Montgomery, Arkansas, USA
+1 REFN 5952
+1 FAMS @F1175@
+1 FAMC @F1285@
+0 @I5953@ INDI
+1 NAME Thomas J /Welch/
+1 SEX M
+1 BIRT
+2 DATE 3 JUN 1829
+2 PLAC ,Lauderdale, Alabama, USA
+1 DEAT
+2 DATE 1860
+2 PLAC Scott, Arkansas, USA
+1 REFN 5953
+1 FAMS @F1175@
+1 FAMC @F1286@
+0 @I5956@ INDI
+1 NAME Mary /Taylor/
+2 SOUR @S002076@
+2 SOUR @S079528@
+1 SEX F
+1 BIRT
+2 DATE 1801
+2 PLAC ,,South Carolina, USA
+2 SOUR @S002076@
+2 SOUR @S079528@
+1 DEAT
+2 DATE 1880
+2 PLAC ,Hardin, Tennessee, USA
+2 SOUR @S002076@
+2 SOUR @S079528@
+1 REFN 5956
+1 FAMS @F1286@
+0 @I5957@ INDI
+1 NAME Elijah C /Welch/
+1 SEX M
+1 BIRT
+2 DATE 1809
+2 PLAC ,Hopkins, Kentucky, USA
+1 DEAT
+2 DATE 1867
+2 PLAC ,Hardin, Tennessee, USA
+1 REFN 5957
+1 FAMS @F1286@
+1 FAMC @F1287@
+0 @I5958@ INDI
+1 NAME Lewis /Welch/
+1 SEX M
+1 BIRT
+2 DATE 1780
+2 PLAC ,,North Carolina, USA
+1 DEAT
+2 PLAC ,,Tennessee, USA
+1 REFN 5958
+1 FAMS @F1287@
+1 FAMC @F1288@
+0 @I5959@ INDI
+1 NAME Elizabeth E //
+1 SEX F
+1 BIRT
+2 DATE 1740
+2 PLAC ,,Pennsylvania, USA
+1 REFN 5959
+1 FAMS @F1288@
+0 @I5960@ INDI
+1 NAME Nicholas /Welch/
+1 SEX M
+1 BIRT
+2 DATE 1740
+2 PLAC Lancaster, Pennsylvania, USA
+1 DEAT
+2 DATE 1814
+2 PLAC Giles, Tennessee, USA
+1 REFN 5960
+1 FAMS @F1288@
+0 @I6408@ INDI
+1 NAME John Eliza /Welch/
+2 SOUR @S001826@
+3 PAGE Year: 1920; Census Place: Yeager, Hughes, Oklahoma; Roll: T625_1465; Page: 1B; Enumeration District: 78; Image: 1112.
+3 DATA
+4 TEXT Name:  John Eliza Welch
+5 CONT Birth Date:  abt 1858
+5 CONT Birth Place:  Arkansas
+5 CONT Residence Date:  1920
+5 CONT Residence Place:  Yeager, Hughes, Oklahoma
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1920usfedcen&h=98940135&ti=0&indiv=try
+2 SOUR @S001800@
+3 PAGE Year: 1900; Census Place: Lafave, Scott, Arkansas; Roll: T623 75; Page: 10A; Enumeration District: 109.
+3 DATA
+4 TEXT Name:  John E Welch
+5 CONT Birth Date:  abt 1858
+5 CONT Birth Place:  Arkansas
+5 CONT Residence Date:  1900
+5 CONT Residence Place:  Lafave, Scott, Arkansas
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1900usfedcen&h=36725637&ti=0&indiv=try
+1 SEX M
+1 NAME John Elijah /Welch/
+2 SOUR @S079528@
+1 BIRT
+2 DATE 1 MAY 1858
+2 PLAC Nola, Scott, Arkansas, USA
+2 SOUR @S079528@
+2 SOUR @S001826@
+3 PAGE Year: 1920; Census Place: Yeager, Hughes, Oklahoma; Roll: T625_1465; Page: 1B; Enumeration District: 78; Image: 1112.
+3 DATA
+4 TEXT Name:  John Eliza Welch
+5 CONT Birth Date:  abt 1858
+5 CONT Birth Place:  Arkansas
+5 CONT Residence Date:  1920
+5 CONT Residence Place:  Yeager, Hughes, Oklahoma
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1920usfedcen&h=98940135&ti=0&indiv=try
+2 SOUR @S001800@
+3 PAGE Year: 1900; Census Place: Lafave, Scott, Arkansas; Roll: T623 75; Page: 10A; Enumeration District: 109.
+3 DATA
+4 TEXT Name:  John E Welch
+5 CONT Birth Date:  abt 1858
+5 CONT Birth Place:  Arkansas
+5 CONT Residence Date:  1900
+5 CONT Residence Place:  Lafave, Scott, Arkansas
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1900usfedcen&h=36725637&ti=0&indiv=try
+1 DEAT
+2 DATE 11 OCT 1923
+2 PLAC Holdenville, Hughes, Oklahoma, USA
+2 SOUR @S079528@
+1 RESI
+2 DATE 1900
+2 PLAC Lafave, Scott, Arkansas
+2 SOUR @S001800@
+3 PAGE Year: 1900; Census Place: Lafave, Scott, Arkansas; Roll: T623 75; Page: 10A; Enumeration District: 109.
+3 DATA
+4 TEXT Name:  John E Welch
+5 CONT Birth Date:  abt 1858
+5 CONT Birth Place:  Arkansas
+5 CONT Residence Date:  1900
+5 CONT Residence Place:  Lafave, Scott, Arkansas
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1900usfedcen&h=36725637&ti=0&indiv=try
+1 RESI
+2 DATE 1920
+2 PLAC Yeager, Hughes, Oklahoma
+2 SOUR @S001826@
+3 PAGE Year: 1920; Census Place: Yeager, Hughes, Oklahoma; Roll: T625_1465; Page: 1B; Enumeration District: 78; Image: 1112.
+3 DATA
+4 TEXT Name:  John Eliza Welch
+5 CONT Birth Date:  abt 1858
+5 CONT Birth Place:  Arkansas
+5 CONT Residence Date:  1920
+5 CONT Residence Place:  Yeager, Hughes, Oklahoma
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1920usfedcen&h=98940135&ti=0&indiv=try
+1 REFN 6408
+1 FAMS @F1191@
+1 FAMC @F1175@
+0 @F0002@ FAM
+1 CHIL @I1038@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 24 MAY 1937
+2 PLAC Mount Berry; Rome, Ga
+1 MARR
+2 DATE 24 MAY 1937
+1 MARR
+2 DATE 24 MAY 1937
+2 PLAC Mount Berry; Rome, GA
+2 SOUR @S002076@
+3 DATA
+4 TEXT Ancestry.com. One World Tree (sm) [database online]. Provo, UT: MyFamily.com, Inc.
+1 REFN 2319
+0 @F0037@ FAM
+1 HUSB @I1049@
+1 WIFE @I1038@
+1 CHIL @I0068@
+1 CHIL @I0057@
+1 CHIL @I0046@
+0 @F0043@ FAM
+1 HUSB @I0057@
+1 WIFE @I0412@
+0 @F0047@ FAM
+1 HUSB @I0068@
+1 WIFE @I1114@
+0 @F0222@ FAM
+1 HUSB @I0419@
+1 WIFE @I0413@
+1 CHIL @I0414@
+2 _FREL Unknown
+2 _MREL Natural
+1 CHIL @I1049@
+2 _FREL Unknown
+2 _MREL Natural
+1 REFN F1637
+0 @F0223@ FAM
+1 HUSB @I0418@
+1 WIFE @I0413@
+1 CHIL @I0414@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I1049@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 27 DEC 1938
+1 REFN F1636
+0 @F0224@ FAM
+1 HUSB @I0420@
+1 WIFE @I0421@
+1 CHIL @I3331@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3334@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3330@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3332@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3327@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I0413@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3329@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3328@
+2 _FREL Natural
+2 _MREL Natural
+1 REFN F2152
+0 @F0225@ FAM
+1 HUSB @I0414@
+1 WIFE @I0415@
+0 @F0227@ FAM
+1 CHIL @I0418@
+2 _FREL Natural
+2 _MREL Natural
+1 REFN F2154
+0 @F0228@ FAM
+1 HUSB @I0422@
+1 WIFE @I0423@
+1 CHIL @I0421@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I3847@
+2 _FREL Natural
+2 _MREL Natural
+1 REFN 13765
+0 @F0747@ FAM
+1 HUSB @I0046@
+1 WIFE @I3335@
+0 @F1149@ FAM
+1 HUSB @I3333@
+1 WIFE @I0421@
+1 CHIL @I3326@
+2 _FREL Step
+2 _MREL Natural
+1 REFN 75200
+0 @F1174@ FAM
+1 HUSB @I0420@
+1 WIFE @I3847@
+1 CHIL @I0413@
+2 _FREL Natural
+2 _MREL Unknown
+1 REFN 89427
+0 @F1175@ FAM
+1 HUSB @I5953@
+1 WIFE @I5952@
+1 CHIL @I0422@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I6408@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1854
+2 PLAC Scott, Arkansas, USA
+1 REFN 89637
+0 @F1191@ FAM
+1 HUSB @I6408@
+1 WIFE @I0423@
+1 CHIL @I3847@
+2 _FREL Unknown
+2 _MREL Natural
+1 REFN 94702
+0 @F1285@ FAM
+1 CHIL @I5952@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 15 SEP 1815
+2 PLAC ,Madison, Alabama, USA
+1 REFN 130475
+0 @F1286@ FAM
+1 HUSB @I5957@
+1 WIFE @I5956@
+1 CHIL @I5953@
+2 _FREL Natural
+2 _MREL Natural
+1 REFN 130480
+0 @F1287@ FAM
+1 HUSB @I5958@
+1 CHIL @I5957@
+2 _FREL Natural
+2 _MREL Natural
+1 REFN 130526
+0 @F1288@ FAM
+1 HUSB @I5960@
+1 WIFE @I5959@
+1 CHIL @I5958@
+2 _FREL Natural
+2 _MREL Natural
+1 REFN 130529
+0 @NI1038@ NOTE
+1 CONC 1  _MDCL Blood Pressure too low to support respiration1  _MDCL Blood Press
+1 CONC ure too low to support respiration[CousinMain.GED]
+1 CONT
+1 CONT 1  _MDCL Blood Pressure too low to support respiration1  _MDCL Blood Press
+1 CONC ure too low to support respiration[CousinMain.GED]
+1 CONT
+1 CONT 1  _MDCL Blood Pressure too low to support respiration
+0 @S001800@ SOUR
+1 TITL 1900 United States Federal Census
+1 PUBL Online publication - Provo, UT, USA: MyFamily.com, Inc., 2004.Original data - Washington, D.C.: National Archives and Records Administration, 1900, T623, 1854 rolls.Original data: United States of Ame
+2 CONC rica, Bureau of the Census. Twelfth Census of the United
+1 NOTE @NS018001@
+1 REPO
+2 NOTE @NS018003@
+2 CALN
+3 MEDI Ancestry.com
+0 @S001813@ SOUR
+1 TITL 1910 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Provo, UT, USA: The Generations Network, Inc., 2006
+1 NOTE @NS018131@
+1 REPO
+2 NOTE @NS018133@
+2 CALN
+3 MEDI Ancestry.com
+0 @S001826@ SOUR
+1 TITL 1920 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Online publication - Provo, UT, USA: MyFamily.com, Inc., 2005. For details on the contents of the film numbers, visit the following NARA web page: NARA.  Note: Enumeration Districts 819-839 on roll 32
+2 CONC 3 (Chicago City.Original data - Washington, D.C.: Nation
+1 NOTE @NS018261@
+1 REPO
+2 NOTE @NS018263@
+2 CALN
+3 MEDI Ancestry.com
+0 @S001839@ SOUR
+1 TITL 1930 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Provo, UT, USA: The Generations Network, Inc., 2002
+1 NOTE @NS018391@
+1 REPO
+2 NOTE @NS018393@
+2 CALN
+3 MEDI Ancestry.com
+0 @S002034@ SOUR
+1 TITL One World Tree (sm)
+1 AUTH Ancestry.com
+1 PUBL Provo, UT, USA: The Generations Network, Inc., n.d.
+1 REPO
+2 NOTE @NS020343@
+2 CALN
+3 MEDI Ancestry.com
+0 @S002076@ SOUR
+1 TITL OneWorldTree
+1 REPO
+2 NOTE @NS020763@
+2 CALN
+3 MEDI Ancestry.com
+0 @S002097@ SOUR
+1 TITL Social Security Death Index
+1 AUTH Ancestry.com
+1 PUBL Provo, UT, USA: The Generations Network, Inc., 2007
+1 NOTE @NS020971@
+1 REPO
+2 NOTE @NS020973@
+2 CALN
+3 MEDI Ancestry.com
+0 @S002145@ SOUR
+1 TITL U.S. Public Records Index
+1 AUTH Ancestry.com
+1 PUBL Provo, UT, USA: The Generations Network, Inc., 2005
+1 NOTE @NS021451@
+1 REPO
+2 NOTE @NS021453@
+2 CALN
+3 MEDI Ancestry.com
+0 @S018752@ SOUR
+1 TITL 1870 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Original data - Washington, D.C.: National Archives and Records Administration, 1870.Original data: Ninth Census of the United States, 1870. Washington, D.C.: National Archives and Records Administrat
+2 CONC ion, 1870.
+1 NOTE @NS187521@
+1 REPO
+2 NOTE @NS187523@
+2 CALN
+3 MEDI Ancestry.com
+0 @S044624@ SOUR
+1 TITL California Death Index, 1940-1997
+1 AUTH Ancestry.com
+1 PUBL Online publication - Provo, UT, USA: MyFamily.com, Inc., 2000.Original data - Sacramento, CA, USA: State of California Department of Health Services, Center for Health Statistics.Original data: Stat
+2 CONC e of California. California Death Index, 1940-1997. Sacram
+1 NOTE @NS446241@
+1 REPO
+2 NOTE @NS446243@
+2 CALN
+3 MEDI Ancestry.com
+0 @S079528@ SOUR
+1 TITL OneWorldTree
+1 PUBL Online publication - Provo, UT, USA: MyFamily.com, Inc.
+1 REPO
+2 CALN
+3 MEDI Ancestry.com
+0 @NS018001@ NOTE United States of America, Bureau of the Census, Twelfth Census of the United States, 1900, Washington, D.C.: National Archives and Records Administration, 1900
+0 @NS018003@ NOTE www.ancestry.com
+0 @NS018131@ NOTE United States of America, Bureau of the Census, Thirteenth Census of the United States, 1910, Washington, D.C.: National Archives and Records Administration, 1910
+0 @NS018133@ NOTE www.ancestry.com
+0 @NS018261@ NOTE United States of America, Bureau of the Census, Fourteenth Census of the United States, 1920, Washington, D.C.: National Archives and Records Administration, 1920
+0 @NS018263@ NOTE www.ancestry.com
+0 @NS018391@ NOTE United States of America, Bureau of the Census, Fifteenth Census of the United States, 1930, Washington, D.C.: National Archives and Records Administration, 1930
+0 @NS018393@ NOTE www.ancestry.com
+0 @NS020343@ NOTE www.ancestry.com
+0 @NS020763@ NOTE www.ancestry.com
+0 @NS020971@ NOTE Social Security Administration, Social Security Death Index, Master File, : Social Security Administration
+0 @NS020973@ NOTE www.ancestry.com
+0 @NS021451@ NOTE www.ancestry.com
+0 @NS021453@ NOTE www.ancestry.com
+0 @NS187521@ NOTE 1870
+0 @NS187523@ NOTE www.ancestry.com
+0 @NS446241@ NOTE State of California, California Death Index, 1940-1997, Sacramento, CA, USA: State of California Department of Health Services, Center for Health Statistics
+0 @NS446243@ NOTE www.ancestry.com
+0 TRLR

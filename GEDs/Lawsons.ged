@@ -1,0 +1,6102 @@
+﻿0 HEAD
+1 SOUR PAF
+2 NAME Personal Ancestral File
+2 VERS 5.2.18.0
+2 CORP The Church of Jesus Christ of Latter-day Saints
+3 ADDR 50 East North Temple Street
+4 CONT Salt Lake City, UT 84150
+4 CONT USA
+1 DEST PAF
+1 DATE 7 Aug 2009
+2 TIME 18:34:51
+1 FILE byler.ged
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+1 SUBM @SUB1@
+0 @I114@ INDI
+1 NAME Will Roy /SKILLERN/
+2 SURN SKILLERN
+2 GIVN Will Roy
+1 SEX M
+1 _UID C5A2FCDCD2F1544680E8D3BCFC2382124618
+1 FAMS @F62@
+1 FAMC @F59@
+0 @I120@ INDI
+1 NAME Waymon /LAWSON/
+2 SURN LAWSON
+2 GIVN Waymon
+1 SEX F
+1 BIRT
+2 DATE 8 Jun 1907
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 11 Aug 1991
+2 PLAC Waynesboro, Wayne County, Tennessee
+1 BURI
+2 DATE 13 Aug 1991
+2 PLAC Memorial Gardens, Collinwood, Wayne County, Tennessee
+1 _UID DEAB69E471471D4EBC46764FA1738D086988
+1 FAMS @F62@
+1 FAMC @F17747@
+1 NOTE Obituary: Wayne County News, 14 Aug 1991
+2 CONT 	Funeral services for Waymon Skillern, 84, of Collinwood were conducted Tuesday, August 13 a
+2 CONC t Shackelford Funeral Home Chapel in Collinwood with Tim Hanback and Ernest Rich officiating
+2 CONC . Burial was in Memorial Gardens in Collinwood.
+2 CONT 	Mrs. Skillern died Sunday, August 11 at Wayne County Hospital
+2 CONT 	She was a native of Wayne County, a daughter of the late Walter and Laura Addie Roberson Law
+2 CONC son, a houseiwfe and a Methodist.
+2 CONT 	Survivors include two sons, Charles and Thomas Skillern both of Collinwood; one daughter, Fa
+2 CONC ye Skillern Balentin of Collinwood; three grandchildren; three step-grandchildren; five step-
+2 CONC great-grandchidlren and several nieces and nephews.
+1 CHAN
+2 DATE 24 Feb 2004
+3 TIME 16:53:43
+0 @I126@ INDI
+1 NAME Josie /GILCHRIST/
+2 SURN GILCHRIST
+2 GIVN Josie
+1 SEX F
+1 BIRT
+2 DATE 12 Jul 1885
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 4 Feb 1985
+1 _UID E115BA22D67344459C8D331130F9EC5F8563
+1 FAMS @F68@
+1 FAMC @F69@
+1 CHAN
+2 DATE 28 Jan 2004
+3 TIME 10:10:58
+0 @I127@ INDI
+1 NAME Early May /FOWLER/
+2 SURN FOWLER
+2 GIVN Early May
+1 SEX M
+1 BIRT
+2 DATE 7 Sep 1892
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 29 Jun 1979
+1 _UID 4FC7108868143942A88E3F121B2D12E86E9E
+1 FAMS @F68@
+1 FAMC @F67@
+1 NOTE Information from interview conducted 10 Jul 1974.
+1 CHAN
+2 DATE 28 Jan 2004
+3 TIME 10:10:49
+0 @I1328@ INDI
+1 NAME Sarah /STRIBLING/
+2 SURN STRIBLING
+2 GIVN Sarah
+1 SEX F
+1 BIRT
+2 DATE 1851/1852
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE ABT 1875
+2 PLAC Wayne County, Tennessee
+1 _UID 10D6F65B309A424A9844377F60C920D53DFA
+1 FAMS @F650@
+1 FAMC @F646@
+1 CHAN
+2 DATE 15 Nov 2002
+3 TIME 18:12:02
+0 @I1331@ INDI
+1 NAME John Martin /LAWSON/
+2 SURN LAWSON
+2 GIVN John Martin
+1 SEX M
+1 BIRT
+2 DATE 22 Jun 1842
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 20 Sep 1904
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC Lawson Cemetery, Bear Creek, Wayne County, Tennesse
+1 _UID E4A81D6346898D4ABEDB6B064AAB02AF6265
+1 FAMS @F650@
+1 FAMS @F11173@
+1 FAMS @F11174@
+1 FAMC @F11172@
+1 NOTE Service in Co. F, 6th Tennessee Cavalry, USA during Civil War.
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:35:32
+0 @I1332@ INDI
+1 NAME Joseph Thomas /LAWSON/
+2 SURN LAWSON
+2 GIVN Joseph Thomas
+1 SEX M
+1 BIRT
+2 DATE 6 Jan 1868
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 18 Mar 1920
+2 PLAC Lauderdale County, Alabama
+1 BURI
+2 PLAC Florence Cemetery, Florence, Lauderdale County, Alabama
+1 _UID 00D065EAA381234FBC7CA8F7771ADE605B39
+1 FAMS @F651@
+1 FAMC @F650@
+1 BIRT
+2 DATE 6 Jan 1868
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC Florence Cemetery, Florence, Lauderdale County, Alabama
+1 DEAT
+2 DATE 18 Mar 1920
+2 PLAC Lauderdale County, Alabama
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:49:49
+0 @I1333@ INDI
+1 NAME Dorothy /SIMS/
+2 SURN SIMS
+2 GIVN Dorothy
+1 SEX F
+1 BIRT
+2 DATE 18 Sep 1871
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 20 Mar 1953
+2 PLAC Florence, Lauderdale County, Alabama
+1 BURI
+2 PLAC Florence Cemetery, Florence, Lauderdale County, Alabama
+1 _UID 178BB88197372F4DB0DBCD1D0C4319DBDD10
+1 FAMS @F651@
+1 FAMC @F653@
+1 BIRT
+2 DATE 18 Sep 1871
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 20 Nov 1953
+2 PLAC Florence, Lauderdale County, Alabama
+1 BURI
+2 PLAC Florence Cemetery, Florence, Lauderdale County, Alabama
+1 CHAN
+2 DATE 15 Nov 2002
+3 TIME 16:49:59
+0 @I1334@ INDI
+1 NAME Sims /LAWSON/
+2 SURN LAWSON
+2 GIVN Sims
+1 SEX M
+1 BIRT
+2 DATE Apr 1896
+2 PLAC Wayne County, Tennessee
+1 _UID 76253C5E3C535F47A815AEFD4E09955917DD
+1 FAMC @F651@
+1 BIRT
+2 DATE Apr 1896
+2 PLAC Wayne County, Tennessee
+1 CHAN
+2 DATE 24 Jan 2003
+3 TIME 18:59:05
+0 @I1335@ INDI
+1 NAME Anna /LAWSON/
+2 SURN LAWSON
+2 GIVN Anna
+1 SEX F
+1 _UID 51C987A886835D4F8ECA3F967926C9079A60
+1 FAMC @F651@
+1 CHAN
+2 DATE 15 Nov 2002
+3 TIME 16:49:59
+0 @I1336@ INDI
+1 NAME Elsie /LAWSON/
+2 SURN LAWSON
+2 GIVN Elsie
+1 SEX F
+1 _UID 64AA06117803294EBFCAF8125F00DCDBC037
+1 FAMC @F651@
+1 CHAN
+2 DATE 15 Nov 2002
+3 TIME 16:49:59
+0 @I16950@ INDI
+1 NAME Mordicai Pinkney /HORTON/
+2 SURN HORTON
+2 GIVN Mordicai Pinkney
+1 SEX M
+1 BIRT
+2 DATE 1852/1853
+2 PLAC Wayne County, Tennessee
+1 _UID C27DD88FA621384EB5391ADD481EA7D9BE6C
+1 FAMS @F18295@
+1 FAMC @F1325@
+1 CHAN
+2 DATE 15 Nov 2002
+3 TIME 16:53:01
+0 @I19931@ INDI
+1 NAME Marion C. /Morrow/
+2 SURN Morrow
+2 GIVN Marion C.
+1 SEX F
+1 _UID DEBC9A49263F414FA5D6B039C440102B152D
+1 FAMS @F7135@
+1 FAMC @F6377@
+0 @I19937@ INDI
+1 NAME Elizabeth M. "Lizzie" /LAWSON/
+2 SURN LAWSON
+2 GIVN Elizabeth M. "Lizzie"
+1 SEX F
+1 BIRT
+2 DATE 11 Jan 1882
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 22 Nov 1911
+2 PLAC Lutts, Wayne, Tennessee
+1 BURI
+2 PLAC Pinhook Cem., Wayne, Tennessee
+1 _UID 009472E3F7366145832D18DC29EDFC4ABC68
+1 FAMS @F7139@
+1 FAMC @F12047@
+1 BIRT
+2 DATE 11 Jan 1882
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 22 Nov 1911
+2 PLAC Lutts, Wayne, Tennessee
+1 BURI
+2 PLAC Pinhook Cem., Wayne, Tennessee
+1 CHAN
+2 DATE 15 Nov 2002
+3 TIME 16:53:21
+0 @I19939@ INDI
+1 NAME Edwin E. /DOWNING/
+2 SURN DOWNING
+2 GIVN Edwin E.
+1 SEX M
+1 BIRT
+2 DATE Dec 1899/1900
+2 PLAC Lutts, Wayne, Tennessee
+1 DEAT
+2 DATE 19 Apr 1976
+1 _UID 4D88F75988767E4C9C7549CF3A92311F32CC
+1 FAMS @F7141@
+1 FAMC @F7139@
+1 BIRT
+2 DATE Dec 1899/1900
+2 PLAC Lutts, Wayne, Tennessee
+1 NOTE Edwin wa a salesman with WB Simmons Wholesale Co. for quite a while. He then was a salesman f
+2 CONC or Dabney Wholesale Company and retired from there with 56 years of service.
+1 CHAN
+2 DATE 10 Jan 2004
+3 TIME 09:55:38
+0 @I19940@ INDI
+1 NAME Elmer Charles /DOWNING/
+2 SURN DOWNING
+2 GIVN Elmer Charles
+1 SEX M
+1 BIRT
+2 DATE 22 Feb 1901
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 1 Mar 1935
+2 PLAC auto accident, Winterpock, Virginia
+1 BURI
+2 PLAC Bethia Cemetery, Winterpock, Virginia
+1 _UID 69FBE77C0B076243B609EB41246CD2CE992F
+1 FAMS @F7135@
+1 FAMC @F7139@
+1 BIRT
+2 DATE 22 Feb 1901
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 1 Mar 1935
+2 PLAC auto accident, Winterpock, Virginia
+1 BURI
+2 PLAC Bethia Cemetery, Winterpock, Virginia
+1 CHAN
+2 DATE 15 Nov 2002
+3 TIME 16:53:21
+0 @I19941@ INDI
+1 NAME Gladys /DOWNING/
+2 SURN DOWNING
+2 GIVN Gladys
+1 SEX F
+1 _UID 5EAA60174AEBDE42BCDC0C7DCD238DA214C6
+1 FAMS @F11212@
+1 FAMS @F7143@
+1 FAMS @F21770@
+1 FAMC @F7139@
+0 @I19943@ INDI
+1 NAME William Carl /GILLIS/
+2 SURN GILLIS
+2 GIVN William Carl
+1 SEX M
+1 BIRT
+2 DATE 11 Jan 1903
+2 PLAC Weatherford Ck., Wayne, Tennessee
+1 DEAT
+2 DATE BEF 1977
+1 _UID 1313365FB0005744BB64EB4191380C93B910
+1 FAMS @F7143@
+1 FAMC @F7144@
+1 CHAN
+2 DATE 15 Nov 2002
+3 TIME 16:53:21
+0 @I19945@ INDI
+1 NAME /Unknown/
+2 SURN Unknown
+1 SEX M
+1 _UID C2F3FA5D043B8441A6EDAAF070119EA70319
+1 FAMS @F7146@
+0 @I20011@ INDI
+1 NAME Elmer Carvel /DOWNING/
+2 SURN DOWNING
+2 GIVN Elmer Carvel
+1 SEX M
+1 _UID FA9DA833D00C3B4DA4F841AE4A896C4DED9D
+1 FAMS @F7190@
+1 FAMC @F7135@
+0 @I20012@ INDI
+1 NAME Winnie Elizabeth /DOWNING/
+2 SURN DOWNING
+2 GIVN Winnie Elizabeth
+1 SEX F
+1 _UID D1C33D6A17640444B888AC69F32DF2C62BAB
+1 FAMS @F7191@
+1 FAMC @F7135@
+0 @I20013@ INDI
+1 NAME Living /DOWNING/
+1 SEX F
+1 FAMS @F7192@
+1 FAMS @F7193@
+1 FAMC @F7135@
+0 @I20014@ INDI
+1 NAME Living /KERNODLE/
+1 SEX F
+1 FAMS @F7190@
+0 @I20015@ INDI
+1 NAME Living /DOWNING/
+1 SEX F
+1 FAMC @F7190@
+0 @I20016@ INDI
+1 NAME Living /DOWNING/
+1 SEX M
+1 FAMC @F7190@
+0 @I20017@ INDI
+1 NAME John Lewis /SNEED/
+2 SURN SNEED
+2 GIVN John Lewis
+1 SEX M
+1 _UID 867371FC4E533D418849D2A808ED6E72A5A3
+1 FAMS @F7191@
+1 FAMC @F13472@
+0 @I20018@ INDI
+1 NAME Living /SNEED/
+1 SEX M
+1 FAMC @F7191@
+0 @I20019@ INDI
+1 NAME Living /SNEED/
+1 SEX F
+1 FAMC @F7191@
+0 @I20020@ INDI
+1 NAME Living /SNEED/
+1 SEX M
+1 FAMC @F7191@
+0 @I20021@ INDI
+1 NAME Beverly /BELCHER/
+2 SURN BELCHER
+2 GIVN Beverly
+1 SEX M
+1 _UID 2E0D08F45C2D8B49AEFF5FEF64492F35A001
+1 FAMS @F7192@
+0 @I20022@ INDI
+1 NAME Richard Irvin /NEWBILL/
+2 SURN NEWBILL
+2 GIVN Richard Irvin
+1 SEX M
+1 _UID AA4F1809A82BB14C84081A2168BCE912D0A6
+1 FAMS @F7193@
+1 FAMC @F13473@
+0 @I2009@ INDI
+1 NAME Susie Lorine /FOWLER/
+2 SURN FOWLER
+2 GIVN Susie Lorine
+1 SEX F
+1 _UID EF457E658BA1874F8B21070284B9814FDB7B
+1 FAMS @F934@
+1 FAMC @F68@
+0 @I2010@ INDI
+1 NAME Lucy Inez /FOWLER/
+2 SURN FOWLER
+2 GIVN Lucy Inez
+1 SEX F
+1 _UID F2B2E55C6055EE4DB3A131B93C11527A2CEB
+1 FAMS @F935@
+1 FAMC @F68@
+0 @I2011@ INDI
+1 NAME John Henry /PIGG/
+2 SURN PIGG
+2 GIVN John Henry
+1 SEX M
+1 BIRT
+2 DATE 28 Aug 1911
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 12 Aug 1972
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC Mt. Hope Cemetery, Wayne County, Tennessee
+1 _UID 6D0B68248C95FA40AA06B79535643EB9EBD6
+1 FAMS @F934@
+1 FAMC @F2539@
+1 CHAN
+2 DATE 5 Feb 2004
+3 TIME 09:39:30
+0 @I2012@ INDI
+1 NAME John Henry Jr. /PIGG/
+2 SURN PIGG
+2 GIVN John Henry Jr.
+1 SEX M
+1 _UID DB25A67486DC23439A44FDA4820601E8D21A
+1 FAMS @F936@
+1 FAMS @F937@
+1 FAMC @F934@
+0 @I2013@ INDI
+1 NAME Dorothy Marie "Dot" /PIGG/
+2 SURN PIGG
+2 GIVN Dorothy Marie "Dot"
+1 SEX F
+1 _UID 9AB964B16EA81C4FB94AD233786AE1580C1C
+1 FAMS @F24188@
+1 FAMC @F934@
+0 @I2014@ INDI
+1 NAME Elpha "Effie" Josephine /PIGG/
+2 SURN PIGG
+2 GIVN Elpha "Effie" Josephine
+1 SEX F
+1 BIRT
+2 DATE 1930
+1 DEAT
+2 DATE 1970
+1 _UID C7C4C692B4E1664EB6A2098196E788A4B799
+1 FAMS @F24189@
+1 FAMS @F24190@
+1 FAMC @F934@
+1 CHAN
+2 DATE 5 Feb 2004
+3 TIME 09:40:22
+0 @I2015@ INDI
+1 NAME Living /KELSO/
+1 SEX F
+1 FAMS @F936@
+0 @I2016@ INDI
+1 NAME Living /HAMMIDGE/
+1 SEX F
+1 FAMS @F937@
+0 @I2017@ INDI
+1 NAME Clinton Frederick /WRIGHT/
+2 SURN WRIGHT
+2 GIVN Clinton Frederick
+1 SEX M
+1 BIRT
+2 DATE 14 Feb 1919
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 11 Sep 1973
+1 BURI
+2 PLAC Wright Cemetery, Wayne County, Tennessee
+1 _UID 0992D75075F6B142A90CC89D7C97F7B9FDF3
+1 FAMS @F935@
+1 FAMC @F21315@
+1 CHAN
+2 DATE 28 Jan 2004
+3 TIME 10:11:26
+0 @I2018@ INDI
+1 NAME Robert Joel /WRIGHT/
+2 SURN WRIGHT
+2 GIVN Robert Joel
+1 SEX M
+1 BIRT
+2 DATE 27 Oct 1944
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 17 Aug 1985
+1 BURI
+2 PLAC Wright Cemetery, Wayne County, Tennessee
+1 _UID 9E193BFCCA65954B833C2E8CBF75570A0B40
+1 FAMS @F23375@
+1 FAMC @F935@
+1 NOTE Robert Joel was stabbed to death by Eddie Pitts.
+1 CHAN
+2 DATE 28 Jan 2004
+3 TIME 11:16:29
+0 @I2019@ INDI
+1 NAME Living /WRIGHT/
+1 SEX F
+1 FAMS @F18481@
+1 FAMC @F935@
+0 @I2020@ INDI
+1 NAME Living /WRIGHT/
+1 SEX F
+1 FAMS @F14529@
+1 FAMC @F935@
+0 @I2021@ INDI
+1 NAME Living /WRIGHT/
+1 SEX M
+1 FAMS @F23373@
+1 FAMC @F935@
+0 @I2022@ INDI
+1 NAME Living /WRIGHT/
+1 SEX M
+1 FAMS @F23372@
+1 FAMC @F935@
+0 @I2023@ INDI
+1 NAME Living /WRIGHT/
+1 SEX M
+1 FAMS @F23370@
+1 FAMC @F935@
+0 @I2024@ INDI
+1 NAME Living /WRIGHT/
+1 SEX F
+1 FAMS @F23367@
+1 FAMS @F23368@
+1 FAMC @F935@
+0 @I2558@ INDI
+1 NAME Eliza "Liza" Ann /PIGG/
+2 SURN PIGG
+2 GIVN Eliza "Liza" Ann
+1 SEX F
+1 BIRT
+2 DATE 12 Feb 1881
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 15 Nov 1969
+2 PLAC Cherokee, Colbert County, Alabama
+1 BURI
+2 PLAC Tri-Cities Memorial Gardens, Florence, Lauderdale County, Alabama
+1 _UID 072CB9C8E4DF534BB7D58CF4A40F44EF073B
+1 FAMS @F1208@
+1 FAMC @F540@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 10:14:52
+0 @I2568@ INDI
+1 NAME George Henry /LAWSON/
+2 SURN LAWSON
+2 GIVN George Henry
+1 SEX M
+1 BIRT
+2 DATE 27 Nov 1875
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 31 Jan 1963
+2 PLAC Florence, Lauderdale County, Alabama
+1 BURI
+2 PLAC Tri-Cities Memorial Gardens, Florence, Lauderdale County, Alabama
+1 _UID BDE1C5387544714DB00C3D37DBB74FA2C54A
+1 FAMS @F1208@
+1 FAMC @F17736@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 15:55:07
+0 @I27516@ INDI
+1 NAME Sula /Thompson/
+2 SURN Thompson
+2 GIVN Sula
+1 SEX F
+1 BIRT
+2 DATE 24 Feb 1903
+2 PLAC Greenhill, Lauderdale County, Alabama
+1 DEAT
+2 DATE 17 Dec 1997
+2 PLAC Florence, Lauderdale County, Alabama
+1 BURI
+2 DATE 19 Dec 1997
+2 PLAC Greenview Mem., Florence, Alabama
+1 _UID B97F7AB4B95783438403F2C5DD90D700BE3F
+1 FAMS @F7141@
+1 FAMC @F13601@
+1 BIRT
+2 DATE 1903
+2 PLAC Lauderdale County, Alabama
+1 DEAT
+2 DATE 17 Dec 1997
+2 PLAC Florence, Lauderdale County, Alabama
+1 BURI
+2 DATE 19 Dec 1997
+2 PLAC Greeview Mem., Florence, Alabama
+1 CHAN
+2 DATE 11 Feb 2003
+3 TIME 08:10:31
+0 @I27517@ INDI
+1 NAME Branson E. /DOWNING/
+2 SURN DOWNING
+2 GIVN Branson E.
+1 SEX M
+1 _UID 27AEDFFD7ECDD446ADDA9B209AC8D98619BA
+1 FAMC @F7141@
+0 @I28196@ INDI
+1 NAME John /DOWNING/
+2 SURN DOWNING
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE Jul 1879
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 5 Aug 1963
+2 PLAC Collinwood, Wayne County, Tennessee
+1 BURI
+2 PLAC McGlamery Cemetery, Collinwood, Wayne County, Tennessee
+1 _UID E6A3FAB05CC4E945BBD6D5ECF61675C519E1
+1 FAMS @F7139@
+1 FAMS @F7140@
+1 FAMC @F9661@
+1 NOTE John and Mackie didn't have any children.
+1 CHAN
+2 DATE 15 Nov 2002
+3 TIME 16:54:30
+0 @I28220@ INDI
+1 NAME Ethel /DOWNING/
+2 SURN DOWNING
+2 GIVN Ethel
+1 SEX F
+1 _UID 3049AED042EDA14F949F06666724E783AA27
+1 FAMS @F7145@
+1 FAMS @F7146@
+1 FAMS @F9668@
+1 FAMC @F7139@
+0 @I28221@ INDI
+1 NAME /House/
+2 SURN House
+1 SEX M
+1 _UID 3D214D98269E2544BAAB1BE9B691DDA29FA8
+1 FAMS @F9668@
+0 @I30808@ INDI
+1 NAME Elsie Marie /WHITTEN/
+2 SURN WHITTEN
+2 GIVN Elsie Marie
+1 SEX F
+1 _UID E2A05B4F86D40D42869446868BDFC510FA96
+1 FAMS @F10487@
+1 FAMC @F789@
+0 @I30829@ INDI
+1 NAME Nola Alexander "Nolie" /Berry/
+2 SURN Berry
+2 GIVN Nola Alexander "Nolie"
+1 SEX M
+1 _UID 1291ECF60CA7EC4581E036C7635DC7BC0AA3
+1 FAMS @F10487@
+1 FAMC @F22733@
+0 @I30830@ INDI
+1 NAME Charles James /Berry/
+2 SURN Berry
+2 GIVN Charles James
+1 SEX M
+1 BIRT
+2 DATE 22 Jan 1943
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 23 Jan 1943
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC McGlamery Cemetery, Collinwood, Wayne County, Tennessee
+1 _UID 6B76A1571ADBAF4C8BC3CFE8D5DD5402D69A
+1 FAMC @F10487@
+1 CHAN
+2 DATE 15 Nov 2002
+3 TIME 16:54:51
+0 @I30831@ INDI
+1 NAME Living /Berry/
+1 SEX F
+1 FAMS @F10493@
+1 FAMC @F10487@
+0 @I30832@ INDI
+1 NAME Infant /Berry/
+2 SURN Berry
+2 GIVN Infant
+1 SEX M
+1 BIRT
+2 DATE 8 May 1947
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 8 May 1947
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC McGlamery Cemetery, Collinwood, Wayne County, Tennessee
+1 _UID B17ACC81FE13B84E8EB23362A08BCB5FB912
+1 FAMC @F10487@
+1 CHAN
+2 DATE 15 Nov 2002
+3 TIME 16:54:51
+0 @I30833@ INDI
+1 NAME Bobby Ray /Berry/
+2 SURN Berry
+2 GIVN Bobby Ray
+1 SEX M
+1 BIRT
+2 DATE 27 Dec 1948
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 16 Apr 1956
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC McGlamery Cemetery, Collinwood, Wayne County, Tennessee
+1 _UID EE798C9569F5BF478D168190734758863847
+1 FAMC @F10487@
+1 CHAN
+2 DATE 17 Feb 2004
+3 TIME 10:27:44
+0 @I30834@ INDI
+1 NAME Living /Berry/
+1 SEX F
+1 FAMS @F10494@
+1 FAMC @F10487@
+0 @I30835@ INDI
+1 NAME Living /Berry/
+1 SEX F
+1 FAMS @F25399@
+1 FAMC @F10487@
+0 @I30836@ INDI
+1 NAME Living /Shull/
+1 SEX M
+1 FAMS @F10493@
+0 @I30837@ INDI
+1 NAME Living /Putman/
+1 SEX M
+1 FAMS @F10494@
+1 FAMC @F17508@
+0 @I30838@ INDI
+1 NAME Living /Putman/
+1 SEX M
+1 FAMS @F17509@
+1 FAMC @F10494@
+0 @I32158@ INDI
+1 NAME Willie Marie /STULTS/
+2 SURN STULTS
+2 GIVN Willie Marie
+1 SEX F
+1 _UID C5C69609DE20EB4184494D53FEB226993051
+1 FAMS @F10851@
+1 FAMC @F10843@
+0 @I32208@ INDI
+1 NAME Athel Guy /Berry/
+2 SURN Berry
+2 GIVN Athel Guy
+1 SEX M
+1 DEAT
+2 DATE BEF 1997
+1 _UID 97BC002EAD095644A06857B2EF91D47BB1F7
+1 FAMS @F10851@
+1 FAMC @F22733@
+1 CHAN
+2 DATE 12 Mar 2003
+3 TIME 10:38:29
+0 @I32209@ INDI
+1 NAME Living /Berry/
+1 SEX F
+1 FAMC @F10851@
+0 @I32210@ INDI
+1 NAME Living /Berry/
+1 SEX F
+1 FAMC @F10851@
+0 @I32211@ INDI
+1 NAME Living /Berry/
+1 SEX F
+1 FAMC @F10851@
+0 @I32212@ INDI
+1 NAME Living /Berry/
+1 SEX M
+1 FAMC @F10851@
+0 @I32213@ INDI
+1 NAME Living /Berry/
+1 SEX M
+1 FAMC @F10851@
+0 @I32214@ INDI
+1 NAME Living /Berry/
+1 SEX F
+1 FAMS @F14424@
+1 FAMC @F10851@
+0 @I32342@ INDI
+1 NAME James /GILCHRIST/
+2 SURN GILCHRIST
+2 GIVN James
+1 SEX M
+1 BIRT
+2 DATE 1857
+1 _UID E6100149DA38E4498631FEFB0410CC4E5DB4
+1 FAMS @F69@
+1 FAMC @F10891@
+1 CHAN
+2 DATE 6 Nov 2003
+3 TIME 09:45:28
+0 @I32343@ INDI
+1 NAME Elizabeth E. "Betsy" /Reaves/
+2 SURN Reaves
+2 GIVN Elizabeth E. "Betsy"
+1 SEX F
+1 BIRT
+2 DATE Jan 1859
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 1931
+1 _UID A6306F1CC14BC74C807B0B78669EE64D35E7
+1 FAMS @F69@
+1 FAMC @F19396@
+1 NOTE See page 177, 1880, Wayne Co., TN
+1 CHAN
+2 DATE 5 Nov 2003
+3 TIME 12:58:02
+0 @I33224@ INDI
+1 NAME James A. /LAWSON/
+2 SURN LAWSON
+2 GIVN James A.
+1 SEX M
+1 BIRT
+2 DATE 23 Jul 1807
+2 PLAC South Carolina
+1 DEAT
+2 DATE 15 Jul 1882
+2 PLAC Hickman County, Tennessee
+1 _UID 2DCBFE55CE331345AFD7B41BA3615983D9EA
+1 FAMS @F11172@
+1 FAMS @F19396@
+1 NOTE According to descendant, Douglas B. Lawson of Albuqueque, New Mexico, James A. Lawson abandon
+2 CONC ed his wife and family in Wayne County, Tennessee following the Civil War, went to Hickman Co
+2 CONC unty, remarried (illegally) and raised 8 more children.  Douglas also stated that James A. La
+2 CONC wson had two sets of illegitmate children by two concubines.  Had a grand total of 26 known b
+2 CONC iological children. See the James A. Lawson Family History by Douglas B. Lawson. Copy in Wayn
+2 CONC e County Public Library.
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:30:50
+0 @I33225@ INDI
+1 NAME Mary "Polly" /Martin/
+2 SURN Martin
+2 GIVN Mary "Polly"
+1 SEX F
+1 BIRT
+2 DATE Mar 1808/1810
+1 DEAT
+2 DATE 6 Jan 1877
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC Lawson Cemetery, Bear Creek, Wayne County, Tennessee
+1 _UID 98604DEF6872014083EF7727FDE91AD5346F
+1 FAMS @F11172@
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:31:03
+0 @I33226@ INDI
+1 NAME Elizabeth /Franks/
+2 SURN Franks
+2 GIVN Elizabeth
+1 SEX F
+1 _UID 820267EB37E83B42A6DB51231CFE35904621
+1 FAMS @F11173@
+1 CHAN
+2 DATE 24 Jan 2003
+3 TIME 18:58:18
+0 @I33227@ INDI
+1 NAME Caladonia "Callie Donia" /Ayers/
+2 SURN Ayers
+2 GIVN Caladonia "Callie Donia"
+1 SEX F
+1 BIRT
+2 DATE Dec 1845/1847
+2 PLAC Lawrence County, Tennessee
+1 _UID 521463B039BB194C9910B10BC3371C89D608
+1 FAMS @F11174@
+1 FAMC @F18180@
+1 CHAN
+2 DATE 22 Oct 2003
+3 TIME 15:14:48
+0 @I35647@ INDI
+1 NAME Thomas Jefferson "Tom" /LAWSON/
+2 SURN LAWSON
+2 GIVN Thomas Jefferson "Tom"
+1 SEX M
+1 BIRT
+2 DATE 28 Aug 1839
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 5 Jul 1920
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC Lutts/Pinhook Cemetery, Lutts, Wayne County, Tennessee
+1 _UID 5A78B9E9C41A8748BFB7B0BB4C06149C047D
+1 FAMS @F12047@
+1 FAMC @F11172@
+1 NOTE Served in Co. b & D, 2nd Tennessee Mounted Infantry, USV, Civil War.
+2 CONT Photograph of family published in "Wayne County Historian" Vol. 2, No. 1, March 1989, page 02
+2 CONC 1.
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:34:47
+0 @I35648@ INDI
+1 NAME Mary C. "Dop" /White/
+2 SURN White
+2 GIVN Mary C. "Dop"
+1 SEX F
+1 BIRT
+2 DATE 3 Apr 1847
+2 PLAC Paducah, Kentucky
+1 DEAT
+2 DATE 4 Mar 1916
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC Lutts/Pinhook Cemetery, Lutts, Wayne County, Tennessee
+1 _UID C92EB1E78C1B714287112C4A58CBC1A98435
+1 FAMS @F12047@
+1 FAMC @F17760@
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:35:05
+0 @I38090@ INDI
+1 NAME Mattie Ellen /Vickery/
+2 SURN Vickery
+2 GIVN Mattie Ellen
+1 SEX F
+1 BIRT
+2 DATE 1906
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 2 Mar 1978
+2 PLAC Lawrenceburg, Lawrence County, Tennessee
+1 BURI
+2 DATE 4 Mar 1978
+2 PLAC Crossroads Cemetery, Wayne County, Tennessee
+1 _UID 1850AFAE2FA33B4F8C9BA9752CAFFDF7356C
+1 FAMS @F12928@
+1 FAMC @F11089@
+1 NOTE Obituary: Wayne County News, 10 Mar 1978, page 8
+2 CONT "Final rites for Mrs. Mattie Ellen Berry, 72, of Route 2, Collinwood, were held March 4, a
+2 CONC t 2 p.m. from Bear Creek Holiness Church with Joel Wallace, Bessie Franks and Densil Borden o
+2 CONC fficiating. Burial was in Cross Roads cemetery, Middle Tennessee Funeral Home officiating. Mr
+2 CONC s. Berry died March 2 at Scott MEmorial Hospital in Lawrenceburg. / A native of Wayne Count
+2 CONC y she was the daughter of the late Hawkins and Sara Moore Vickery. She was a member of the Fr
+2 CONC ee Holiness Church. / Survivors include her husband, Paulk Berry, a daughter, Mrs. Edith Gill
+2 CONC is of Collinwood, two brothers, George Vickery and Marvin Vickery of Savannah; a sister, Mrs
+2 CONC . Belle Brewer of Waynesboro, two grandchildren and four great-grandchildren."
+1 CHAN
+2 DATE 4 Feb 2003
+3 TIME 09:38:45
+0 @I38095@ INDI
+1 NAME Paulk /Berry/
+2 SURN Berry
+2 GIVN Paulk
+1 SEX M
+1 _UID CFF4025672420A45AD78844ABEF614D5AEC6
+1 FAMS @F12928@
+1 FAMC @F17763@
+0 @I38096@ INDI
+1 NAME Edith /Berry/
+2 SURN Berry
+2 GIVN Edith
+1 SEX F
+1 _UID CA2094C8A84D334B923C3E6E93EC88A2DC20
+1 FAMS @F22794@
+1 FAMC @F12928@
+0 @I41608@ INDI
+1 NAME Thomas "Tommy" Lawson /SKILLERN/
+2 SURN SKILLERN
+2 GIVN Thomas "Tommy" Lawson
+1 SEX M
+1 BIRT
+2 DATE 28 May 1935
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 18 Mar 1999
+2 PLAC Waynesboro, Wayne County, Tennessee
+1 BURI
+2 DATE 20 Mar 1999
+2 PLAC Memorial Gardens, Collinwood, Wayne County, Tennessee
+1 _UID 76DF9BB18C868146837F3A7B3B918F790544
+1 FAMS @F14382@
+1 FAMC @F62@
+1 NOTE Obituary: Wayne County News, 24 Mar 1999
+2 CONT "Funeral services for Thomas (Tommy) Lawson Skillern 63 of Collinwood were conducted Saturday
+2 CONC , March 20 at 3 P.M. at the Shackelford Funeral Home Chapel in Collinwood with Alfred Strai
+2 CONC t and John Hodum officiating. Burial was in Memorial Gardens in Collinwood. / Mr. Skillern di
+2 CONC ed Thursday, March 18 at Wayne Medical Center in Waynesboro. / He was a native of Wayne Count
+2 CONC y, a son of the late Will Roy and Waymon Lawson Skillern. he was a retired bus driver with Ba
+2 CONC sden Transportation Company and was of the Baptist faith. / Survivors include one son, Brya
+2 CONC n Skillern of Collinwood; one daughter Angela Holcomb of Henning; one brother, Charles E. Ski
+2 CONC llern of Collinwood; one sister, Wilda Faye Balentine of Collinwood; two grandchildren; and s
+2 CONC everal nieces and a nephew."
+1 CHAN
+2 DATE 24 Feb 2004
+3 TIME 16:51:58
+0 @I41609@ INDI
+1 NAME Living /SKILLERN/
+1 SEX M
+1 FAMC @F62@
+0 @I41610@ INDI
+1 NAME Living /SKILLERN/
+1 SEX F
+1 FAMS @F14381@
+1 FAMC @F62@
+0 @I41611@ INDI
+1 NAME Living /Balentine/
+1 SEX M
+1 FAMS @F14381@
+1 FAMC @F14548@
+0 @I41612@ INDI
+1 NAME Living /SKILLERN/
+1 SEX M
+1 FAMC @F14382@
+0 @I41613@ INDI
+1 NAME Living /SKILLERN/
+1 SEX F
+1 FAMS @F14383@
+1 FAMC @F14382@
+0 @I41614@ INDI
+1 NAME Living /Holcomb/
+1 SEX M
+1 FAMS @F14383@
+0 @I41694@ INDI
+1 NAME Living /Clark/
+1 SEX M
+1 FAMS @F14424@
+1 FAMC @F14425@
+0 @I41933@ INDI
+1 NAME Living /Lancaster/
+1 SEX F
+1 FAMS @F23376@
+1 FAMC @F14528@
+0 @I41936@ INDI
+1 NAME Living /Butler/
+1 SEX M
+1 FAMS @F14529@
+0 @I42069@ INDI
+1 NAME Grady /BERRY/
+2 SURN BERRY
+2 GIVN Grady
+1 SEX M
+1 _UID 25322130AD82AF4D80A9ED669AFF5C418542
+1 FAMS @F14584@
+1 FAMC @F22733@
+0 @I42071@ INDI
+1 NAME Sue /Weaver/
+2 SURN Weaver
+2 GIVN Sue
+1 SEX F
+1 _UID 1095BF239D2675499A56D53851F5B5929274
+1 FAMS @F14584@
+0 @I43093@ INDI
+1 NAME Terry Wade /MOORE/
+2 SURN MOORE
+2 GIVN Terry Wade
+1 SEX M
+1 BIRT
+2 DATE 1955
+1 DEAT
+2 DATE 14 Feb 1997
+2 PLAC Waynesboro, Wayne County, Tennessee
+1 BURI
+2 DATE 16 Feb 1997
+2 PLAC Memorial Gardens, Collinwood, Wayne County, Tennessee
+1 _UID ED5C503C57CD1C49B158EA59080FD52DC379
+1 FAMS @F14993@
+1 FAMC @F14090@
+1 NOTE Obituary: Wayne County News, 19 Feb 1997, Section 1, page 11
+2 CONT "Funeral services for Terry Wade Moore, 42 of Collinwood were conducted Sunday, February 16 a
+2 CONC t 1:30 P.M. at Shackelford Funeral home Chapel in Collinwood with Cyrus Quillen officiating
+2 CONC . Burial was in Memorial Gardens in Collinwood. / Mr. Moore died Friday, February 14 at Wayn
+2 CONC e Medical Ceneter in Waynesboro after an extended illness. / He was a disabled employee of Mu
+2 CONC rray Ohio Manufacturing Company, a member of the Fairview Church of Christ and the son of Ma
+2 CONC w Louis Thompson Yeoman of Orchid Hill, GA and the late Early Wayford Moore. / Survivors othe
+2 CONC r than his mother include three brothers, Larry Moore of Collinwood, ronald and Donnie Moor
+2 CONC e of Forsythe, GA; three sisters, Frankie Peskopos of Smarr, GA; Judy Diane Griffin on Anders
+2 CONC on, SC and Sandy Jackson of Juliette, GA; grandmother, Rosie Moore, two step-brothers, Jeffer
+2 CONC y and Glen Reeves, Jr.; one step-sister, Sherry melton of Waynesboro, former wife, Kathy Haye
+2 CONC s of Collinwood, fomer in-laws, Cecil and Kathleen Hayes of Iron City and nieces and nephews.
+2 CONC "
+1 CHAN
+2 DATE 23 Mar 2003
+3 TIME 13:08:42
+0 @I44212@ INDI
+1 NAME Lillie E. /RICH/
+2 SURN RICH
+2 GIVN Lillie E.
+1 SEX F
+1 BIRT
+2 DATE 9 Sep 1895
+2 PLAC Wayne County, Tennessee
+1 _UID 5A23E95A7C84D04B914D142030D3E6FED4FA
+1 FAMS @F22733@
+1 FAMC @F1775@
+1 CHAN
+2 DATE 19 Jan 2004
+3 TIME 12:39:10
+0 @I4536@ INDI
+1 NAME Living /RICH/
+1 SEX M
+1 FAMS @F1978@
+1 FAMC @F1781@
+0 @I4821@ INDI
+1 NAME Living /BERRY/
+1 SEX F
+1 FAMS @F1978@
+1 FAMC @F14584@
+0 @I4822@ INDI
+1 NAME Living /RICH/
+1 SEX M
+1 FAMS @F2020@
+1 FAMC @F1978@
+0 @I4823@ INDI
+1 NAME Living /RICH/
+1 SEX M
+1 FAMC @F1978@
+0 @I50102@ INDI
+1 NAME Living /Putman/
+1 SEX M
+1 FAMS @F17504@
+1 FAMC @F10494@
+0 @I50628@ INDI
+1 NAME Grace Aileen /FOWLER/
+2 SURN FOWLER
+2 GIVN Grace Aileen
+1 SEX F
+1 BIRT
+2 DATE 24 Jul 1918
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 27 Nov 1993
+2 PLAC Florence, Lauderdale County, Alabama
+1 BURI
+2 PLAC Greenview Memorial Gardens, Florence, Lauderdale County, Alabama
+1 _UID 36E81096FA3BF34491B11CCD0E88490E4811
+1 FAMS @F17719@
+1 FAMC @F130@
+1 NOTE Monica Russell's grandmother
+1 CHAN
+2 DATE 15 Oct 2003
+3 TIME 18:20:59
+0 @I50630@ INDI
+1 NAME Cecil /Lawson/
+2 SURN Lawson
+2 GIVN Cecil
+1 SEX M
+1 _UID A27098C9625F624998407B217549E8878054
+1 FAMS @F17719@
+1 FAMC @F1208@
+0 @I50631@ INDI
+1 NAME Floyd /Palmer/
+2 SURN Palmer
+2 GIVN Floyd
+1 SEX M
+1 _UID 9B4352344A7F85428FF3FC499A3AAF91CFA5
+1 FAMS @F17720@
+0 @I50632@ INDI
+1 NAME Cornelius /Rhodes/ ?
+2 SURN Rhodes
+2 GIVN Cornelius
+2 NSFX ?
+1 SEX F
+1 _UID 096DAB022076BD419E2AA68620FCDE07AC73
+1 FAMS @F17727@
+0 @I50633@ INDI
+1 NAME Living /Lawson/
+1 SEX M
+1 FAMS @F17721@
+1 FAMC @F17719@
+0 @I50634@ INDI
+1 NAME Living /Hendrix/
+1 SEX F
+1 FAMS @F17721@
+1 FAMC @F10779@
+0 @I50637@ INDI
+1 NAME Living /Lawson/
+1 SEX F
+1 FAMS @F17724@
+1 FAMS @F17723@
+1 FAMC @F17721@
+0 @I50638@ INDI
+1 NAME Living /Lawson/
+1 SEX M
+1 FAMC @F17721@
+0 @I50639@ INDI
+1 NAME Andrew Brian "Tad" /Russell/
+2 SURN Russell
+2 GIVN Andrew Brian "Tad"
+1 SEX M
+1 _UID 2F3E9199294B0347ACA6EE2816F91906EBC8
+1 FAMS @F17726@
+1 FAMS @F17723@
+1 FAMC @F20280@
+0 @I50640@ INDI
+1 NAME Robert Allen /Mangum/ , Jr.
+2 SURN Mangum
+2 GIVN Robert Allen
+2 NSFX , Jr.
+1 SEX M
+1 _UID 9DCFFCF3ECB87E4BB9FB92D7A8E6FFB325DE
+1 FAMS @F17725@
+1 FAMS @F17724@
+0 @I50644@ INDI
+1 NAME Ruth /Berkley/
+2 SURN Berkley
+2 GIVN Ruth
+1 SEX F
+1 _UID 0DA4C4A9F0E36E469D900A0B96C91F94F94C
+1 FAMS @F17728@
+0 @I50645@ INDI
+1 NAME Delpieha /LAWSON/
+2 SURN LAWSON
+2 GIVN Delpieha
+1 SEX F
+1 _UID 84412C0ECE8EF44789ACA7AC1DD97A9927C4
+1 FAMS @F17729@
+1 FAMC @F1208@
+0 @I50646@ INDI
+1 NAME Annie /LAWSON/
+2 SURN LAWSON
+2 GIVN Annie
+1 SEX F
+1 _UID C9231E5D75052748BDE2A4F8BE58914678E9
+1 FAMS @F17730@
+1 FAMC @F1208@
+0 @I50647@ INDI
+1 NAME Woodrow /LAWSON/
+2 SURN LAWSON
+2 GIVN Woodrow
+1 SEX M
+1 BIRT
+2 DATE 16 Jan 1916
+2 PLAC Florence, Lauderdale County, Alabama
+1 DEAT
+2 DATE 2 Sep 1916
+2 PLAC Florence, Lauderdale County, Alabama
+1 BURI
+2 PLAC Pisgah UMC Cemetery, Lauderdale County, Alabama
+1 _UID 1DB4FED5DEABF74DBF34A337A63AE7D3D85D
+1 FAMC @F1208@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 12:39:29
+0 @I50648@ INDI
+1 NAME Laura May /LAWSON/
+2 SURN LAWSON
+2 GIVN Laura May
+1 SEX F
+1 BIRT
+2 DATE 21 Apr 1922
+2 PLAC Florence, Lauderdale County, Alabama
+1 DEAT
+2 DATE 12 Dec 1922
+2 PLAC Florence, Lauderdale County, Alabama
+1 BURI
+2 PLAC Pisgah UMC Cemetery, Lauderdale County, Alabama
+1 _UID D020A6967EBCF44BBC2A9543B4EF91F0873B
+1 FAMC @F1208@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 12:39:54
+0 @I50649@ INDI
+1 NAME Elmer /Ferrel/
+2 SURN Ferrel
+2 GIVN Elmer
+1 SEX M
+1 _UID B97B9E9EF6C3384495A3AE17D5992BE41FE9
+1 FAMS @F17729@
+0 @I50650@ INDI
+1 NAME /England/
+2 SURN England
+1 SEX M
+1 _UID 47CE43BE83845742A5A390AE107ABA23A302
+1 FAMS @F17730@
+0 @I50651@ INDI
+1 NAME Raymond /LAWSON/
+2 SURN LAWSON
+2 GIVN Raymond
+1 SEX M
+1 _UID E159CD054E23674A9C2474FDC5EB08AAC19B
+1 FAMS @F17731@
+1 FAMC @F1208@
+0 @I50652@ INDI
+1 NAME Grace /McFall/
+2 SURN McFall
+2 GIVN Grace
+1 SEX F
+1 _UID BA0F913502C6F345BFF567CB32F64B927A83
+1 FAMS @F17731@
+0 @I50664@ INDI
+1 NAME George Washington /LAWSON/
+2 SURN LAWSON
+2 GIVN George Washington
+1 SEX M
+1 BIRT
+2 DATE 10 May 1841
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 17 Dec 1925
+1 BURI
+2 PLAC Cromwell Crossroads Cemetery, Wayne County, Tennessee
+1 _UID 8812B733392CE04C94EE695E83F533949D76
+1 FAMS @F17736@
+1 FAMC @F11172@
+1 NOTE Information on the family of George Washington Lawson and Sarah Jane Brewer from the record
+2 CONC s of Mrs. Lorene Caudle, Collinwood, Tennessee.
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:35:15
+0 @I50665@ INDI
+1 NAME Sarah Jane /Brewer/
+2 SURN Brewer
+2 GIVN Sarah Jane
+1 SEX F
+1 BIRT
+2 DATE 17 Feb 1847
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 3 Mar 1923
+1 BURI
+2 PLAC Cromwell Crossroads Cemetery, Wayne County, Tennessee
+1 _UID 39AEC95C7097DA4EBE918DCEDB49780384E0
+1 FAMS @F17736@
+1 FAMC @F15009@
+1 CHAN
+2 DATE 21 Oct 2003
+3 TIME 16:49:48
+0 @I50680@ INDI
+1 NAME John R. /LAWSON/
+2 SURN LAWSON
+2 GIVN John R.
+1 SEX M
+1 BIRT
+2 DATE 1 Mar 1867
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 30 Sep 1957
+2 PLAC Seminole County, Oklahoma
+1 _UID 0459D571798A73418FB646416A344CCADA3C
+1 FAMS @F17742@
+1 FAMC @F17736@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 16:46:50
+0 @I50681@ INDI
+1 NAME James Alvin "Jim" /LAWSON/
+2 SURN LAWSON
+2 GIVN James Alvin "Jim"
+1 SEX M
+1 BIRT
+2 DATE 6 Oct 1868
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 2 Aug 1951
+2 PLAC Seminole County, Oklahoma
+1 _UID 6B33A55181370A4781D5CEDE6C35157CD116
+1 FAMS @F17743@
+1 FAMC @F17736@
+1 CHAN
+2 DATE 22 Oct 2003
+3 TIME 09:17:37
+0 @I50682@ INDI
+1 NAME Thomas W. /LAWSON/
+2 SURN LAWSON
+2 GIVN Thomas W.
+1 SEX M
+1 BIRT
+2 DATE 19 Jan 1871
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 6 Apr 1938
+1 BURI
+2 PLAC Cromwell Crossroads Cemetery, Wayne County, Tennessee
+1 _UID E58DD2BE638C6A44AA9938A76F82506F7148
+1 FAMS @F17744@
+1 FAMC @F17736@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 16:58:22
+0 @I50683@ INDI
+1 NAME Luther M. /LAWSON/
+2 SURN LAWSON
+2 GIVN Luther M.
+1 SEX M
+1 BIRT
+2 DATE 13 Sep 1873
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 8 Mar 1880
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC Lawson Cemetery, Bear Creek, Wayne County, Tennessee
+1 _UID 65D211EC002A674FA38FEF99BB8B5288EE74
+1 FAMC @F17736@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 18:04:08
+0 @I50684@ INDI
+1 NAME Amos S. /LAWSON/
+2 SURN LAWSON
+2 GIVN Amos S.
+1 SEX M
+1 BIRT
+2 DATE 17 Mar 1878
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 5 Jun 1880
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC Lawson Cemetery, Bear Creek, Wayne County, Tennessee
+1 _UID 2E6BCF46091D8746B29C58E06A0509902F09
+1 FAMC @F17736@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 18:04:14
+0 @I50685@ INDI
+1 NAME Fannie E. /LAWSON/
+2 SURN LAWSON
+2 GIVN Fannie E.
+1 SEX F
+1 BIRT
+2 DATE 4 Nov 1880
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 4 Nov 1964
+1 _UID 6859C69EC9990A4F8131ABE8A6A380B7A5DC
+1 FAMS @F17745@
+1 FAMC @F17736@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 15:53:56
+0 @I50686@ INDI
+1 NAME Malisia C. /LAWSON/
+2 SURN LAWSON
+2 GIVN Malisia C.
+1 SEX F
+1 BIRT
+2 DATE 29 Jul 1883
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 27 Nov 1962
+1 _UID CBCE75A3E9ADCF429693F605DED65369ECCD
+1 FAMS @F17746@
+1 FAMC @F17736@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 15:54:11
+0 @I50687@ INDI
+1 NAME Ira Walter /LAWSON/
+2 SURN LAWSON
+2 GIVN Ira Walter
+1 SEX M
+1 BIRT
+2 DATE 29 Dec 1885
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 3 Jun 1962
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC Cromwell Crossroads Cemetery, Wayne County, Tennessee
+1 _UID 367CCC61C7CA674AB0526BE467A4DEE03B33
+1 FAMS @F17747@
+1 FAMS @F17748@
+1 FAMC @F17736@
+1 CHAN
+2 DATE 24 Feb 2004
+3 TIME 16:52:15
+0 @I50688@ INDI
+1 NAME Lewis Marshall /LAWSON/
+2 SURN LAWSON
+2 GIVN Lewis Marshall
+1 SEX M
+1 BIRT
+2 DATE 16 Jul 1888
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 15 Mar 1988
+1 _UID 50841CF56C2C1043BC26CA29CEEC05C529E2
+1 FAMS @F17749@
+1 FAMC @F17736@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 16:00:41
+0 @I50689@ INDI
+1 NAME Delvina Jane /King/
+2 SURN King
+2 GIVN Delvina Jane
+1 SEX F
+1 _UID DB6DAC0904FB33478B648555CFA784BFF839
+1 FAMS @F17742@
+1 NOTE Bud King's daughter.
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 16:59:29
+0 @I50690@ INDI
+1 NAME Mary Ella /Horton/
+2 SURN Horton
+2 GIVN Mary Ella
+1 SEX F
+1 BIRT
+2 DATE 13 Aug 1877
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 10 Jan 1927
+1 _UID F9D10D535EC8384B841FB3D4EEEB5F4C8161
+1 FAMS @F17743@
+1 FAMC @F17750@
+1 CHAN
+2 DATE 23 Oct 2003
+3 TIME 08:04:50
+0 @I50691@ INDI
+1 NAME Minnie /Roberson/
+2 SURN Roberson
+2 GIVN Minnie
+1 SEX F
+1 _UID 98D2D343C05082459F584205431201503B49
+1 FAMS @F17744@
+1 NOTE Minnie Roberson was a 1st cousin to Addie Roberson who married Walter Lawson.
+2 CONT
+2 CONT Minnie is listed as a Robertson in the marriage records.
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 16:58:06
+0 @I50692@ INDI
+1 NAME George /Campbell/
+2 SURN Campbell
+2 GIVN George
+1 SEX M
+1 _UID 0BC2200C2281D647990DBBE76AD1CB79809A
+1 FAMS @F17745@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 15:59:27
+0 @I50693@ INDI
+1 NAME Boon /Bridgers/
+2 SURN Bridgers
+2 GIVN Boon
+1 SEX M
+1 _UID 539E8A4A0030584980BB926C816BD063EEBE
+1 FAMS @F17746@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 15:59:39
+0 @I50694@ INDI
+1 NAME Laura Addie /Roberson/
+2 SURN Roberson
+2 GIVN Laura Addie
+1 SEX F
+1 BIRT
+2 DATE 29 Jan 1888
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 29 Dec 1919
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC Cromwell Crossroads Cemetery, Wayne County, Tennessee
+1 _UID 0BC7C0E27F0D2A428F196F0DB7560A802740
+1 FAMS @F17747@
+1 NOTE Addie Roberson was a first cousin to Minnie Roberson who married Walter's brother, Thomas W
+2 CONC . Lawson.
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 16:56:23
+0 @I50695@ INDI
+1 NAME Cora /Johnson/
+2 SURN Johnson
+2 GIVN Cora
+1 SEX F
+1 BIRT
+2 DATE 30 Jul 1888
+1 DEAT
+2 DATE 17 Jan 1965
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC Cromwell Crossroads Cemetery, Wayne County, Tennessee
+1 _UID D032120BFEB5684EA56EF4CCA13CD3ADB85F
+1 FAMS @F17748@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 16:51:13
+0 @I50696@ INDI
+1 NAME Roxie /Berry/
+2 SURN Berry
+2 GIVN Roxie
+1 SEX F
+1 _UID 872158728734CC4895CCF7E5351A9D4FB933
+1 FAMS @F17749@
+0 @I50699@ INDI
+1 NAME Lorene /LAWSON/
+2 SURN LAWSON
+2 GIVN Lorene
+1 SEX F
+1 _UID 0F1779D084001349BEBFE46833888BEC4AE5
+1 FAMS @F17751@
+1 FAMC @F17743@
+0 @I50700@ INDI
+1 NAME Martin Hubert /Caudle/
+2 SURN Caudle
+2 GIVN Martin Hubert
+1 SEX M
+1 _UID C60DCDE08B0CFB4F9D7B0EA679B6855A3B97
+1 FAMS @F17751@
+0 @I50725@ INDI
+1 NAME Samuel M. /LAWSON/
+2 SURN LAWSON
+2 GIVN Samuel M.
+1 SEX M
+1 BIRT
+2 DATE 13 Jun 1832
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 22 Dec 1915
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC Cromwell Crossroads Cemetery, Wayne County, Tennessee
+1 _UID 264AEF20E0FBA4409095BF1A67BDED75C20A
+1 FAMS @F17768@
+1 FAMS @F17769@
+1 FAMC @F11172@
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:31:38
+0 @I50726@ INDI
+1 NAME Elizabeth Jane /LAWSON/
+2 SURN LAWSON
+2 GIVN Elizabeth Jane
+1 SEX F
+1 BIRT
+2 DATE 15 Jan 1838
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 2 May 1922
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC Greeson Cemetery, Wayne County, Tennessee
+1 _UID CB08998329B7FE41861EC4E578D25BA0A0EA
+1 FAMS @F17767@
+1 FAMC @F11172@
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:34:12
+0 @I50729@ INDI
+1 NAME Permelia Jane /LAWSON/
+2 SURN LAWSON
+2 GIVN Permelia Jane
+1 SEX F
+1 BIRT
+2 DATE 20 Oct 1867
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 20 Oct 1943
+1 BURI
+2 PLAC Williamsburg Cemetery
+1 _UID 2DA0F191F8D31645953AC8EF5492A6E86F88
+1 FAMS @F17761@
+1 FAMC @F12047@
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:36:19
+0 @I50730@ INDI
+1 NAME Harvey "Harve" W. Penile /LAWSON/
+2 SURN LAWSON
+2 GIVN Harvey "Harve" W. Penile
+1 SEX M
+1 BIRT
+2 DATE 14 May 1869
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 16 Mar 1955
+2 PLAC Manila, Mississippi County, Arkansas
+1 BURI
+2 PLAC Manila Cemetery, Manila, Mississippi County, Arkansas
+1 _UID 7358908EE353F743B690BDF86BDFAA28704F
+1 FAMS @F17762@
+1 FAMS @F18625@
+1 FAMS @F18628@
+1 FAMC @F12047@
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:40:24
+0 @I50731@ INDI
+1 NAME Mary Catherine "Kat" /LAWSON/
+2 SURN LAWSON
+2 GIVN Mary Catherine "Kat"
+1 SEX F
+1 BIRT
+2 DATE 25 Jul 1871
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 15 Nov 1920
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC Cromwell Crossroads Cemetery, Wayne County, Tennessee
+1 _UID 49C7F9CAA90F1B428A765DD53AE34C4FD263
+1 FAMS @F17763@
+1 FAMC @F12047@
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:41:24
+0 @I50732@ INDI
+1 NAME Samuel J. "Sam" /LAWSON/
+2 SURN LAWSON
+2 GIVN Samuel J. "Sam"
+1 SEX M
+1 BIRT
+2 DATE 16 Sep 1875
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 PLAC Jonesboro, Craighead County, Arkansas
+1 BURI
+2 PLAC Jonesboro, Craighead County, Arkansas
+1 _UID 82099CE73D8F27478597647B21E3D1C7DF8E
+1 FAMS @F17764@
+1 FAMC @F12047@
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:42:18
+0 @I50733@ INDI
+1 NAME Matthew Ed /LAWSON/
+2 SURN LAWSON
+2 GIVN Matthew Ed
+1 SEX M
+1 BIRT
+2 DATE 1 May 1877
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 1889
+2 PLAC Wayne County, Tennessee
+1 _UID B9C0EE8FEAE8E3408AAB75B01A1A1BAD41E9
+1 FAMC @F12047@
+1 NOTE died of blood poisoning from a stone bruse.
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:43:36
+0 @I50734@ INDI
+1 NAME Anna Emma /LAWSON/
+2 SURN LAWSON
+2 GIVN Anna Emma
+1 SEX F
+1 BIRT
+2 DATE 17 Aug 1879
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 5 Oct 1958
+2 PLAC Lauderdale County, Alabama
+1 BURI
+2 PLAC Lauderdale County, Alabama
+1 _UID F3BFC5F607E6564CA9EC61F974ACFBD4DA60
+1 FAMS @F17765@
+1 FAMC @F12047@
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:44:03
+0 @I50735@ INDI
+1 NAME John James /LAWSON/
+2 SURN LAWSON
+2 GIVN John James
+1 SEX M
+1 BIRT
+2 DATE 11 Jun 1884
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 18 Jul 1960
+2 PLAC Marked Tree, Poinsett County, Arkansas
+1 _UID 2A3A1F65805A6342A1BF7EDC7FA393461CB9
+1 FAMS @F18626@
+1 FAMC @F12047@
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:45:07
+0 @I50736@ INDI
+1 NAME Cora B. /LAWSON/
+2 SURN LAWSON
+2 GIVN Cora B.
+1 SEX F
+1 BIRT
+2 DATE 3 Dec 1886
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 26 Mar 1926
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC Cromwell Crossroads Cemetery, Wayne County, Tennessee
+1 _UID 7AC9A55CD5ACF842BCC4C21A3C9565AE3FEC
+1 FAMS @F17766@
+1 FAMC @F12047@
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:45:47
+0 @I50737@ INDI
+1 NAME Infant /LAWSON/
+2 SURN LAWSON
+2 GIVN Infant
+1 SEX U
+1 _UID A9DAF1284AC60341B502BAB7B96F8E9B697A
+1 FAMC @F12047@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:30:39
+0 @I50738@ INDI
+1 NAME William Brown /Copeland/
+2 SURN Copeland
+2 GIVN William Brown
+1 SEX M
+1 _UID E980AAFD2A071A44AA268C122C7A0842FD4E
+1 FAMS @F17761@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:31:03
+0 @I50739@ INDI
+1 NAME Mittie /Dickson/
+2 SURN Dickson
+2 GIVN Mittie
+1 SEX F
+1 _UID 4F5E3EB0BC8D1846A3B685E3B1A161E99FFC
+1 FAMS @F17762@
+1 NOTE Died of hydrophobia. No children.
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:32:33
+0 @I50740@ INDI
+1 NAME James Hampton /Berry/
+2 SURN Berry
+2 GIVN James Hampton
+1 SEX M
+1 BIRT
+2 DATE 24 Sep 1867
+1 DEAT
+2 DATE 22 Dec 1904
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC Cromwell Crossroads Cemetery, Wayne County, Tennessee
+1 _UID AE95BB227125C34890D35BA102C7FE3D24BA
+1 FAMS @F17763@
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:46:30
+0 @I50741@ INDI
+1 NAME Sarah D. /Pool/
+2 SURN Pool
+2 GIVN Sarah D.
+1 SEX F
+1 _UID 7121B558BFBBDC4598913705BD809A118732
+1 FAMS @F17764@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:34:35
+0 @I50742@ INDI
+1 NAME George Madison /Evans/ , Sr.
+2 SURN Evans
+2 GIVN George Madison
+2 NSFX , Sr.
+1 SEX M
+1 _UID 92EF92864170954C834B99717A5B87F85734
+1 FAMS @F17765@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:35:13
+0 @I50743@ INDI
+1 NAME W. Daniel /Hall/
+2 SURN Hall
+2 GIVN W. Daniel
+1 SEX M
+1 _UID 0D7360825D25E142B088C753C0B246DAEB73
+1 FAMS @F17766@
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:45:55
+0 @I50744@ INDI
+1 NAME John L. /Greeson/
+2 SURN Greeson
+2 GIVN John L.
+1 SEX M
+1 BIRT
+2 DATE 1835
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE BEF 1880
+2 PLAC Wayne County, Tennessee
+1 _UID 61F1215F6A0F5940B7DB897DC75BDB8C05F2
+1 FAMS @F17767@
+1 FAMC @F17773@
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:34:23
+0 @I50745@ INDI
+1 NAME Amanda J. "Mandy" /Ayers/
+2 SURN Ayers
+2 GIVN Amanda J. "Mandy"
+1 SEX F
+1 BIRT
+2 DATE 1839
+1 DEAT
+2 DATE BEF 1880
+2 PLAC Wayne County, Tennessee
+1 _UID 0D9892E64034A44999B28232F2B25160D223
+1 FAMS @F17768@
+1 FAMC @F18180@
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:33:25
+0 @I50746@ INDI
+1 NAME Sarah Ann "Nancy" J. //
+2 GIVN Sarah Ann "Nancy" J.
+1 SEX F
+1 BIRT
+2 DATE ABT 1850
+1 _UID 98B56C5A5B327740AC7329DD5EF11EF5DE2D
+1 FAMS @F17769@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:39:51
+0 @I50747@ INDI
+1 NAME William J. /LAWSON/
+2 SURN LAWSON
+2 GIVN William J.
+1 SEX M
+1 BIRT
+2 DATE 1856/1857
+2 PLAC Wayne County, Tennessee
+1 _UID 064402EDC81861428CB6D7BDE5CD0499E1B6
+1 FAMC @F17768@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:41:18
+0 @I50748@ INDI
+1 NAME James M. /LAWSON/
+2 SURN LAWSON
+2 GIVN James M.
+1 SEX M
+1 BIRT
+2 DATE 1858
+2 PLAC Wayne County, Tennessee
+1 _UID B779E8660FF5864FB6EC7C23A3D8900EB1A0
+1 FAMC @F17768@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:41:24
+0 @I50749@ INDI
+1 NAME Josephine /LAWSON/
+2 SURN LAWSON
+2 GIVN Josephine
+1 SEX F
+1 BIRT
+2 DATE Jan 1860
+2 PLAC Wayne County, Tennessee
+1 _UID E43678E2065F0047973E762F2E37128C9D76
+1 FAMS @F17770@
+1 FAMC @F17768@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:41:34
+0 @I50750@ INDI
+1 NAME Thomas /LAWSON/
+2 SURN LAWSON
+2 GIVN Thomas
+1 SEX M
+1 BIRT
+2 DATE 1863
+2 PLAC Wayne County, Tennessee
+1 _UID E2666D41E0802C4493680E189D9588791A71
+1 FAMC @F17768@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:41:40
+0 @I50751@ INDI
+1 NAME Mary F. /LAWSON/
+2 SURN LAWSON
+2 GIVN Mary F.
+1 SEX F
+1 BIRT
+2 DATE 1864
+2 PLAC Wayne County, Tennessee
+1 _UID D0D6D7037698634992F377CA3C6BB4AA0526
+1 FAMC @F17768@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:41:46
+0 @I50752@ INDI
+1 NAME Margaret /LAWSON/
+2 SURN LAWSON
+2 GIVN Margaret
+1 SEX F
+1 BIRT
+2 DATE 1866
+2 PLAC Wayne County, Tennessee
+1 _UID EC4A5003996E714AB6F2F7E4CC2E7CF135B6
+1 FAMC @F17768@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:41:51
+0 @I50753@ INDI
+1 NAME Saphronia /LAWSON/
+2 SURN LAWSON
+2 GIVN Saphronia
+1 SEX F
+1 BIRT
+2 DATE 1868
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 1898
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC Lawson Cemetery, Bear Creek, Wayne County, Tennessee
+1 _UID 24DDBA88D7BA8B44A444ADA19BE8CA325844
+1 FAMC @F17768@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:58:22
+0 @I50754@ INDI
+1 NAME Samuel /LAWSON/
+2 SURN LAWSON
+2 GIVN Samuel
+1 SEX M
+1 BIRT
+2 DATE Dec 1869
+2 PLAC Wayne County, Tennessee
+1 _UID 78A6E78E86A44148A995E5D7DDB3E8530B14
+1 FAMC @F17768@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:42:04
+0 @I50755@ INDI
+1 NAME Nellie J. /LAWSON/
+2 SURN LAWSON
+2 GIVN Nellie J.
+1 SEX F
+1 BIRT
+2 DATE 1872/1874
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 1899
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC Lawson Cemetery, Bear Creek, Wayne County, Tennessee
+1 _UID 878CFCA83AE8B94C8BF1DFB32F687C080726
+1 FAMC @F17768@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:58:38
+0 @I50756@ INDI
+1 NAME Joseph L. /McDonald/
+2 SURN McDonald
+2 GIVN Joseph L.
+1 SEX M
+1 _UID B7454BD3CBBDAB408738D015BA0965C61F79
+1 FAMS @F17770@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:42:23
+0 @I50757@ INDI
+1 NAME John /LAWSON/
+2 SURN LAWSON
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE 1881
+2 PLAC Wayne County, Tennessee
+1 _UID 60939E32CC812649816B2146D84E50F941EF
+1 FAMC @F17769@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:42:36
+0 @I50758@ INDI
+1 NAME M. E. /Greeson/
+2 SURN Greeson
+2 GIVN M. E.
+1 SEX F
+1 BIRT
+2 DATE 1863
+2 PLAC Wayne County, Tennessee
+1 _UID 084A075D8A6D974FAD6CEE566A062E02907B
+1 FAMC @F17767@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:45:06
+0 @I50759@ INDI
+1 NAME J. W. /Greeson/
+2 SURN Greeson
+2 GIVN J. W.
+1 SEX M
+1 BIRT
+2 DATE 1866
+2 PLAC Wayne County, Tennessee
+1 _UID EE05E68310B5354CA0381879B4F3B1BA1DE5
+1 FAMC @F17767@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:45:12
+0 @I50760@ INDI
+1 NAME David L. /Greeson/
+2 SURN Greeson
+2 GIVN David L.
+1 SEX M
+1 BIRT
+2 DATE 1869
+2 PLAC Wayne County, Tennessee
+1 _UID FD11741214741648B9514A6BDF28B06959F0
+1 FAMC @F17767@
+1 NOTE Twin
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:45:30
+0 @I50761@ INDI
+1 NAME George M. /Greeson/
+2 SURN Greeson
+2 GIVN George M.
+1 SEX M
+1 BIRT
+2 DATE 1869
+2 PLAC Wayne County, Tennessee
+1 _UID FE7FD6271C71A54E8160FAE83B4870DA8AE5
+1 FAMC @F17767@
+1 NOTE Twin
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:45:47
+0 @I50762@ INDI
+1 NAME Sammie /Greeson/
+2 SURN Greeson
+2 GIVN Sammie
+1 SEX M
+1 BIRT
+2 DATE 1872
+2 PLAC Wayne County, Tennessee
+1 _UID 269331BED4A54942AE84ABBFC282291ED34B
+1 FAMC @F17767@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:45:54
+0 @I50763@ INDI
+1 NAME Nancy M. /Greeson/
+2 SURN Greeson
+2 GIVN Nancy M.
+1 SEX F
+1 BIRT
+2 DATE 1874
+2 PLAC Wayne County, Tennessee
+1 _UID 83B437AC320D574DB49AB112464512C26D9F
+1 FAMC @F17767@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:46:01
+0 @I50764@ INDI
+1 NAME Eliza J. /LAWSON/
+2 SURN LAWSON
+2 GIVN Eliza J.
+1 SEX F
+1 BIRT
+2 DATE Feb 1871
+2 PLAC Wayne County, Tennessee
+1 _UID 48F80891BCC67C42B7652D3D9B74503937AC
+1 FAMS @F17771@
+1 FAMC @F650@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:53:27
+0 @I50765@ INDI
+1 NAME Mary E. /LAWSON/
+2 SURN LAWSON
+2 GIVN Mary E.
+1 SEX F
+1 BIRT
+2 DATE Sep 1873
+2 PLAC Wayne County, Tennessee
+1 _UID 492B4E6A87ED8D40942237D71E5EB6E043E9
+1 FAMC @F650@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:53:36
+0 @I50766@ INDI
+1 NAME Erin /Lawson/
+2 SURN Lawson
+2 GIVN Erin
+1 SEX M
+1 BIRT
+2 DATE 23 May 1895
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 30 Aug 1925
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC Lawson Cemetery, Bear Creek, Wayne County, Tennessee
+1 _UID E2BDEAA60478C346A3FD588256DA5506B90C
+1 FAMS @F17772@
+1 FAMC @F17771@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 18:02:01
+0 @I50767@ INDI
+1 NAME Clarine //
+2 GIVN Clarine
+1 SEX F
+1 _UID AFCF30ECA069A0498B36234B24D95DFA0F6B
+1 FAMS @F17772@
+0 @I50768@ INDI
+1 NAME George /LAWSON/
+2 SURN LAWSON
+2 GIVN George
+1 SEX M
+1 BIRT
+2 DATE May 1877
+2 PLAC Wayne County, Tennessee
+1 _UID 133084CC6C0E36469954E0929CE855844554
+1 FAMC @F11173@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:55:10
+0 @I50769@ INDI
+1 NAME Nancy A. Minnie /LAWSON/
+2 SURN LAWSON
+2 GIVN Nancy A. Minnie
+1 SEX F
+1 BIRT
+2 DATE Nov 1879
+2 PLAC Wayne County, Tennessee
+1 _UID F9FBA9FC5D8951448DEC019CF75FF4E65AD1
+1 FAMC @F11173@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:55:22
+0 @I50770@ INDI
+1 NAME Alma /LAWSON/
+2 SURN LAWSON
+2 GIVN Alma
+1 SEX F
+1 BIRT
+2 DATE Jun 1888
+2 PLAC Wayne County, Tennessee
+1 _UID D319A58348522447B2008994E4738AE5AEAD
+1 FAMC @F11174@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:55:57
+0 @I50771@ INDI
+1 NAME Laura /LAWSON/
+2 SURN LAWSON
+2 GIVN Laura
+1 SEX F
+1 BIRT
+2 DATE Nov 1889
+2 PLAC Wayne County, Tennessee
+1 _UID 0766C512F30C3A43B02A6FB95D8ED33FBF81
+1 FAMC @F11174@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:56:04
+0 @I50772@ INDI
+1 NAME Erin /Lawson/ , Jr.
+2 SURN Lawson
+2 GIVN Erin
+2 NSFX , Jr.
+1 SEX M
+1 BIRT
+2 DATE 30 Jun 1923
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 6 Jul 1923
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC Lawson Cemetery, Bear Creek, Wayne County, Tennessee
+1 _UID 3B47FFC086D8AD44A323ED38FE601FC8C012
+1 FAMC @F17772@
+1 CHAN
+2 DATE 16 Oct 2003
+3 TIME 17:57:00
+0 @I52227@ INDI
+1 NAME "Louiza" Eliza Jane W. /Reaves/
+2 SURN Reaves
+2 GIVN "Louiza" Eliza Jane W.
+1 SEX F
+1 BIRT
+2 DATE 1846/1849/1851
+2 PLAC Wayne County, Tennessee
+1 _UID 4224EB62CD67A24E9A14AC9836944A7F5C2E
+1 FAMS @F18295@
+1 FAMC @F19396@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:08:47
+0 @I52295@ INDI
+1 NAME Infant /Horton/
+2 SURN Horton
+2 GIVN Infant
+1 SEX U
+1 _UID 82E3D9B51380414C83C183F626EB46264D60
+1 FAMC @F7145@
+0 @I52305@ INDI
+1 NAME George W. /Reaves/
+2 SURN Reaves
+2 GIVN George W.
+1 SEX M
+1 BIRT
+2 DATE 1875
+1 _UID 3186F37007082240A00E1FA6549E53ACEFFA
+1 FAMC @F19398@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:10:08
+0 @I52306@ INDI
+1 NAME William L. /Reaves/
+2 SURN Reaves
+2 GIVN William L.
+1 SEX M
+1 BIRT
+2 DATE 1872
+1 _UID 66A82A01B7B38E41A001C1169D225C767BAE
+1 FAMC @F19398@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:10:01
+0 @I52307@ INDI
+1 NAME Irena J. /HORTON/
+2 SURN HORTON
+2 GIVN Irena J.
+1 SEX F
+1 BIRT
+2 DATE 1872
+2 PLAC Tennessee
+1 _UID 20AFBFBDF8A21A46BBDF4A5FCB18088AFDF2
+1 FAMS @F18318@
+1 FAMC @F18295@
+1 CHAN
+2 DATE 20 Oct 2003
+3 TIME 15:32:32
+0 @I52308@ INDI
+1 NAME Perry M. /HORTON/
+2 SURN HORTON
+2 GIVN Perry M.
+1 SEX M
+1 BIRT
+2 DATE 1874
+2 PLAC Wayne County, Tennessee
+1 _UID 3CEEE8DB3BBC3F448CD0E6E4D69D660F7525
+1 FAMC @F18295@
+1 CHAN
+2 DATE 20 Oct 2003
+3 TIME 15:32:39
+0 @I52309@ INDI
+1 NAME Nancy Mandy J. /HORTON/
+2 SURN HORTON
+2 GIVN Nancy Mandy J.
+1 SEX F
+1 BIRT
+2 DATE 1876
+2 PLAC Wayne County, Tennessee
+1 _UID C6E9FD1EC7AFF2409D83FA065FEB9B59D033
+1 FAMC @F18295@
+1 CHAN
+2 DATE 20 Oct 2003
+3 TIME 15:32:51
+0 @I52310@ INDI
+1 NAME Thomas H. /HORTON/
+2 SURN HORTON
+2 GIVN Thomas H.
+1 SEX M
+1 BIRT
+2 DATE May 1874/1878
+2 PLAC Wayne County, Tennessee
+1 _UID 02F0F82BAF02144B85C6BDB575DF09DA198A
+1 FAMS @F18319@
+1 FAMC @F18295@
+1 CHAN
+2 DATE 20 Oct 2003
+3 TIME 15:33:05
+0 @I52311@ INDI
+1 NAME William E. /HORTON/
+2 SURN HORTON
+2 GIVN William E.
+1 SEX M
+1 BIRT
+2 DATE Oct 1879
+2 PLAC Wayne County, Tennessee
+1 _UID ED041D2C3E7EFA4085EFB9C873ADC6131E95
+1 FAMC @F18295@
+1 CHAN
+2 DATE 20 Oct 2003
+3 TIME 15:33:12
+0 @I52312@ INDI
+1 NAME S. T. /Ponder/ ?
+2 SURN Ponder
+2 GIVN S. T.
+2 NSFX ?
+1 SEX M
+1 _UID 0BC90628A258D847A9D752A14253629116B2
+1 FAMS @F18318@
+1 CHAN
+2 DATE 20 Oct 2003
+3 TIME 15:33:22
+0 @I52313@ INDI
+1 NAME Dicy /Morse/
+2 SURN Morse
+2 GIVN Dicy
+1 SEX F
+1 _UID 81BCD3E2FCF92D4EA4BD379E1B1CC7EE8402
+1 FAMS @F18319@
+1 CHAN
+2 DATE 20 Oct 2003
+3 TIME 15:33:33
+0 @I52624@ INDI
+1 NAME Living /Horton/
+1 SEX U
+1 FAMC @F7145@
+0 @I52682@ INDI
+1 NAME Living /Wright/
+1 SEX F
+1 FAMC @F23367@
+0 @I52686@ INDI
+1 NAME Living /Henson/
+1 SEX M
+1 FAMS @F18481@
+0 @I52921@ INDI
+1 NAME Madgie Louetta /LAWSON/
+2 SURN LAWSON
+2 GIVN Madgie Louetta
+1 SEX F
+1 BIRT
+2 DATE 18 Apr 1895
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 30 Jul 1923
+2 PLAC Oklahoma
+1 _UID 1F361D965878FB4D9B1D1302AEF4A89DD4B9
+1 FAMS @F18536@
+1 FAMC @F17743@
+1 CHAN
+2 DATE 22 Oct 2003
+3 TIME 09:19:30
+0 @I52922@ INDI
+1 NAME Melvin /Johnson/
+2 SURN Johnson
+2 GIVN Melvin
+1 SEX M
+1 DEAT
+2 DATE 17 Feb 1961
+1 _UID BEDE0CD03CEC794D9C76934576FA3A130DAF
+1 FAMS @F18536@
+1 CHAN
+2 DATE 22 Oct 2003
+3 TIME 09:20:17
+0 @I52923@ INDI
+1 NAME Alvin Wayne /Johnson/
+2 SURN Johnson
+2 GIVN Alvin Wayne
+1 SEX M
+1 _UID F5A73C7E5A1D8240BC0DE3F217DD20C809D4
+1 FAMS @F18537@
+1 FAMC @F18536@
+0 @I52924@ INDI
+1 NAME Sylvia /Caldwell/
+2 SURN Caldwell
+2 GIVN Sylvia
+1 SEX F
+1 _UID 108917AD01AEAD42925D4A1E85A62BAF5724
+1 FAMS @F18537@
+0 @I52925@ INDI
+1 NAME Living /Johnson/
+1 SEX M
+1 FAMC @F18537@
+0 @I52926@ INDI
+1 NAME Living /Johnson/
+1 SEX M
+1 FAMC @F18537@
+0 @I52927@ INDI
+1 NAME Myrtle /LAWSON/
+2 SURN LAWSON
+2 GIVN Myrtle
+1 SEX F
+1 BIRT
+2 DATE 22 Jun 1897
+2 PLAC Wayne County, Tennessee
+1 _UID 4A1CBF1406C00042867944453DEA18F0F8D6
+1 FAMS @F18538@
+1 FAMC @F17743@
+1 CHAN
+2 DATE 22 Oct 2003
+3 TIME 09:22:13
+0 @I52928@ INDI
+1 NAME Arthur Hamilton /Parrot/
+2 SURN Parrot
+2 GIVN Arthur Hamilton
+1 SEX M
+1 BIRT
+2 DATE 7 Apr 1892
+2 PLAC Georgia
+1 DEAT
+2 DATE 8 Dec 1968
+2 PLAC Delano, Kern County, California
+1 _UID BD31B1911CA93E4590BC11BE0BB91DE05457
+1 FAMS @F18538@
+1 CHAN
+2 DATE 22 Oct 2003
+3 TIME 09:22:59
+0 @I52929@ INDI
+1 NAME Ralph /Parrot/
+2 SURN Parrot
+2 GIVN Ralph
+1 SEX M
+1 _UID 2E37BE6E7DDF1647A52CC93E0AAF2CFE05B2
+1 FAMS @F18539@
+1 FAMC @F18538@
+0 @I52930@ INDI
+1 NAME Ray /Parrot/
+2 SURN Parrot
+2 GIVN Ray
+1 SEX M
+1 _UID 49DE466263770C429218CA3A68FA841FAAB6
+1 FAMS @F18541@
+1 FAMC @F18538@
+0 @I52931@ INDI
+1 NAME Arnold /Parrot/
+2 SURN Parrot
+2 GIVN Arnold
+1 SEX M
+1 _UID 4CB8C628C084E54F9D8CF382356CB3429E81
+1 FAMS @F18543@
+1 FAMC @F18538@
+0 @I52932@ INDI
+1 NAME Allen Lee /Parrot/
+2 SURN Parrot
+2 GIVN Allen Lee
+1 SEX M
+1 BIRT
+2 DATE 6 Apr 1927
+2 PLAC Seminole, Seminole County, Oklahoma
+1 DEAT
+2 DATE 2 Nov 1969
+1 BURI
+2 PLAC VA Cemetery, West Los Angeles, California
+1 _UID 811E610BB0E9DD4D9D433ADA3FC4D4B44D48
+1 FAMS @F18544@
+1 FAMC @F18538@
+1 CHAN
+2 DATE 22 Oct 2003
+3 TIME 09:24:49
+0 @I52933@ INDI
+1 NAME Living /Parrot/
+1 SEX F
+1 FAMS @F18545@
+1 FAMS @F18546@
+1 FAMS @F18547@
+1 FAMC @F18538@
+0 @I52934@ INDI
+1 NAME Bobby Dean /Parrot/
+2 SURN Parrot
+2 GIVN Bobby Dean
+1 SEX M
+1 BIRT
+2 DATE 1 Mar 1932
+1 DEAT
+2 DATE 5 Dec 1971
+1 BURI
+2 PLAC VA Cemetery, West Los Angeles, California
+1 _UID DAA1F8D3946CBD49A2CD2CE24EBA9BE24E78
+1 FAMC @F18538@
+1 CHAN
+2 DATE 22 Oct 2003
+3 TIME 09:25:20
+0 @I52935@ INDI
+1 NAME Living /Parrot/
+1 SEX F
+1 FAMS @F18548@
+1 FAMC @F18538@
+0 @I52936@ INDI
+1 NAME Reba /Morphis/
+2 SURN Morphis
+2 GIVN Reba
+1 SEX F
+1 _UID 9136EF2A4BFDEE4AA1BDE3C82D7F752EB86D
+1 FAMS @F18539@
+0 @I52937@ INDI
+1 NAME Living /Parrot/
+1 SEX M
+1 FAMS @F18540@
+1 FAMC @F18539@
+0 @I52938@ INDI
+1 NAME Living /Killen/
+1 SEX F
+1 FAMS @F18540@
+0 @I52939@ INDI
+1 NAME Living /Parrot/
+1 SEX F
+1 FAMC @F18540@
+0 @I52940@ INDI
+1 NAME Lola //
+2 GIVN Lola
+1 SEX F
+1 _UID 0531ED118D211D4ABD51A4ABB8C53DF959B5
+1 FAMS @F18541@
+0 @I52941@ INDI
+1 NAME Living /Parrot/
+1 SEX F
+1 FAMC @F18541@
+0 @I52942@ INDI
+1 NAME Living /Parrot/
+1 SEX F
+1 FAMS @F18542@
+1 FAMC @F18541@
+0 @I52943@ INDI
+1 NAME Living /Parker/
+1 SEX M
+1 FAMS @F18542@
+0 @I52944@ INDI
+1 NAME Living /Pearson/
+1 SEX F
+1 FAMS @F18543@
+0 @I52945@ INDI
+1 NAME Living /Parrot/
+1 SEX F
+1 FAMC @F18543@
+0 @I52946@ INDI
+1 NAME Living /Parrot/
+1 SEX M
+1 FAMC @F18543@
+0 @I52947@ INDI
+1 NAME Living /Parrot/
+1 SEX F
+1 FAMC @F18543@
+0 @I52948@ INDI
+1 NAME Living //
+1 SEX F
+1 FAMS @F18544@
+0 @I52949@ INDI
+1 NAME Living /Parrot/
+1 SEX F
+1 FAMC @F18544@
+0 @I52950@ INDI
+1 NAME Living /Parrot/
+1 SEX F
+1 FAMC @F18544@
+0 @I52951@ INDI
+1 NAME Living /Parrot/
+1 SEX F
+1 FAMC @F18544@
+0 @I52952@ INDI
+1 NAME /unknown/
+2 SURN unknown
+1 SEX M
+1 _UID AE84F554D081DC45AA23F95DAB9AC07F94FB
+1 FAMS @F18545@
+0 @I52953@ INDI
+1 NAME Living /unknown/
+1 SEX U
+1 FAMC @F18545@
+0 @I52954@ INDI
+1 NAME Living /unknown/
+1 SEX U
+1 FAMC @F18545@
+0 @I52955@ INDI
+1 NAME John /McIntire/
+2 SURN McIntire
+2 GIVN John
+1 SEX M
+1 _UID BB9BD88BDF9B2F4AA0BEB7EF11DF738295A1
+1 FAMS @F18546@
+0 @I52956@ INDI
+1 NAME Living /McIntire/
+1 SEX M
+1 FAMC @F18546@
+0 @I52957@ INDI
+1 NAME Living /McIntire/
+1 SEX M
+1 FAMC @F18546@
+0 @I52958@ INDI
+1 NAME Lreoy /Sinclair/
+2 SURN Sinclair
+2 GIVN Lreoy
+1 SEX M
+1 _UID 0B2AEE25DC6FAA43AE66ECF922545DAEFAAA
+1 FAMS @F18547@
+0 @I52959@ INDI
+1 NAME Living /Dudley/
+1 SEX M
+1 FAMS @F18548@
+0 @I52960@ INDI
+1 NAME Living /Dudley/
+1 SEX M
+1 FAMC @F18548@
+0 @I52961@ INDI
+1 NAME Living /Dudley/
+1 SEX F
+1 FAMC @F18548@
+0 @I52962@ INDI
+1 NAME Roscoe /LAWSON/
+2 SURN LAWSON
+2 GIVN Roscoe
+1 SEX M
+1 BIRT
+2 DATE 30 Apr 1899
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 31 Aug 1966
+1 _UID 814A0053AE898C4583DBF704754B1ABD1626
+1 FAMS @F18549@
+1 FAMC @F17743@
+1 CHAN
+2 DATE 22 Oct 2003
+3 TIME 09:34:52
+0 @I52963@ INDI
+1 NAME Faye /Brown/
+2 SURN Brown
+2 GIVN Faye
+1 SEX F
+1 _UID CCE7073C344DF04CA87D510001CCA4E680A9
+1 FAMS @F18549@
+0 @I52964@ INDI
+1 NAME Norma June /LAWSON/
+2 SURN LAWSON
+2 GIVN Norma June
+1 SEX F
+1 _UID 498AB62708A7AC44B16064E082E82C96D0CC
+1 FAMS @F18550@
+1 FAMC @F18549@
+0 @I52965@ INDI
+1 NAME Jimmy edward /LAWSON/
+2 SURN LAWSON
+2 GIVN Jimmy edward
+1 SEX M
+1 _UID 5E7B00702BEEEB40AB6298663B62AFE7CB5C
+1 FAMS @F18551@
+1 FAMC @F18549@
+0 @I52966@ INDI
+1 NAME Gayle /Pair/
+2 SURN Pair
+2 GIVN Gayle
+1 SEX M
+1 _UID DF40AE78E9327D4880B233A3B93488AF5146
+1 FAMS @F18550@
+0 @I52967@ INDI
+1 NAME Living /Pair/
+1 SEX M
+1 FAMC @F18550@
+0 @I52968@ INDI
+1 NAME Living /Pair/
+1 SEX M
+1 FAMC @F18550@
+0 @I52969@ INDI
+1 NAME Living /Pair/
+1 SEX M
+1 FAMC @F18550@
+0 @I52970@ INDI
+1 NAME Living /Malone/
+1 SEX F
+1 FAMS @F18551@
+0 @I52971@ INDI
+1 NAME Living /LAWSON/
+1 SEX M
+1 FAMC @F18551@
+0 @I52972@ INDI
+1 NAME Living /LAWSON/
+1 SEX F
+1 FAMC @F18551@
+0 @I52973@ INDI
+1 NAME Horton /LAWSON/
+2 SURN LAWSON
+2 GIVN Horton
+1 SEX M
+1 BIRT
+2 DATE 6 Jul 1902
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 31 Jul 1957
+1 _UID 1E82A4901794604599F62376EAE3F4717EAF
+1 FAMS @F18552@
+1 FAMS @F18553@
+1 FAMC @F17743@
+1 CHAN
+2 DATE 22 Oct 2003
+3 TIME 09:37:09
+0 @I52974@ INDI
+1 NAME Zona /Garrison/
+2 SURN Garrison
+2 GIVN Zona
+1 SEX F
+1 DEAT
+2 DATE 25 Aug 1930
+2 PLAC Carlsbad, Arizona
+1 BURI
+2 PLAC Seminole County, Oklahoma
+1 _UID C85577126E6517439E773FD474108B5660E2
+1 FAMS @F18552@
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 14:11:33
+0 @I52975@ INDI
+1 NAME Maud /North/
+2 SURN North
+2 GIVN Maud
+1 SEX F
+1 _UID 800F44AAFBFE3146BB393AA81A46AA410E23
+1 FAMS @F18553@
+0 @I52976@ INDI
+1 NAME Lynn Nell /LAWSON/
+2 SURN LAWSON
+2 GIVN Lynn Nell
+1 SEX F
+1 _UID 9545E757431BA84D866E77D8BDA4E9C8C0A8
+1 FAMC @F18552@
+0 @I52977@ INDI
+1 NAME Living /LAWSON/
+1 SEX F
+1 FAMC @F18553@
+0 @I52978@ INDI
+1 NAME Living /LAWSON/
+1 SEX F
+1 FAMC @F18553@
+0 @I52979@ INDI
+1 NAME Helen /LAWSON/
+2 SURN LAWSON
+2 GIVN Helen
+1 SEX F
+1 BIRT
+2 DATE 12 Aug 1901
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 21 Sep 1901
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC Horton Cemetery, Three Churches, Wayne County, Tennessee
+1 _UID D5BA145012E7CA478FA763CAADE627E6006D
+1 FAMC @F17743@
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 14:11:57
+0 @I52980@ INDI
+1 NAME Luther Martin /LAWSON/
+2 SURN LAWSON
+2 GIVN Luther Martin
+1 SEX M
+1 BIRT
+2 DATE 23 Oct 1904
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 27 Mar 1970
+1 _UID 9B056D4ECF140C41857AB7BFA0093FBFA793
+1 FAMS @F18554@
+1 FAMC @F17743@
+1 NOTE No children.
+1 CHAN
+2 DATE 22 Oct 2003
+3 TIME 09:40:11
+0 @I52981@ INDI
+1 NAME Alta /Beshears/
+2 SURN Beshears
+2 GIVN Alta
+1 SEX F
+1 _UID 5DD3F3F0AB621A41B4AA7A76A414E0DD3E07
+1 FAMS @F18554@
+0 @I52982@ INDI
+1 NAME Florence Reatherford /LAWSON/
+2 SURN LAWSON
+2 GIVN Florence Reatherford
+1 SEX F
+1 _UID 2E69C7E9988F12459CE2E48B2B23750B804B
+1 FAMS @F18555@
+1 FAMC @F17743@
+0 @I52983@ INDI
+1 NAME Bernice /Graham/
+2 SURN Graham
+2 GIVN Bernice
+1 SEX M
+1 _UID DEF898E2A989954493C60306172F7CEA6934
+1 FAMS @F18555@
+0 @I52984@ INDI
+1 NAME Pauline /Graham/
+2 SURN Graham
+2 GIVN Pauline
+1 SEX F
+1 _UID 7642C1B9D523F6429CEDC63E0A92488F62CE
+1 FAMS @F18556@
+1 FAMC @F18555@
+0 @I52985@ INDI
+1 NAME Living /Graham/
+1 SEX M
+1 FAMS @F18557@
+1 FAMC @F18555@
+0 @I52986@ INDI
+1 NAME Living /Graham/
+1 SEX F
+1 FAMC @F18555@
+0 @I52987@ INDI
+1 NAME G. B. /Jeffry/ , Jr.
+2 SURN Jeffry
+2 GIVN G. B.
+2 NSFX , Jr.
+1 SEX M
+1 _UID 0DC885640722A64C90B8BF9C6B5FDB375898
+1 FAMS @F18556@
+0 @I52988@ INDI
+1 NAME Living /Jeffry/
+1 SEX F
+1 FAMC @F18556@
+0 @I52989@ INDI
+1 NAME Living /Jeffry/
+1 SEX M
+1 FAMC @F18556@
+0 @I52990@ INDI
+1 NAME Living /Lutz/
+1 SEX F
+1 FAMS @F18557@
+0 @I52991@ INDI
+1 NAME Cecil Jay /LAWSON/
+2 SURN LAWSON
+2 GIVN Cecil Jay
+1 SEX M
+1 BIRT
+2 DATE 21 Feb 1912
+2 PLAC Pottawattomie County, Oklahoma
+1 DEAT
+2 DATE 12 May 1976
+1 _UID 9317126E8FEDED48AD3FE4122AC8824778E6
+1 FAMS @F18558@
+1 FAMS @F18559@
+1 FAMS @F18561@
+1 FAMC @F17743@
+1 CHAN
+2 DATE 22 Oct 2003
+3 TIME 09:44:10
+0 @I52992@ INDI
+1 NAME Grace /Renshaw/
+2 SURN Renshaw
+2 GIVN Grace
+1 SEX F
+1 _UID F39859F63A47924E8917D95B245190798D8D
+1 FAMS @F18558@
+0 @I52993@ INDI
+1 NAME Living /LAWSON/
+1 SEX F
+1 FAMC @F18558@
+0 @I52994@ INDI
+1 NAME Opal /Gann/
+2 SURN Gann
+2 GIVN Opal
+1 SEX F
+1 _UID ADBAF424301A364AB679E98FD23346D8137B
+1 FAMS @F18559@
+0 @I52995@ INDI
+1 NAME Living /LAWSON/
+1 SEX F
+1 FAMS @F18560@
+1 FAMC @F18559@
+0 @I52996@ INDI
+1 NAME Living /Chase/
+1 SEX M
+1 FAMS @F18560@
+0 @I52997@ INDI
+1 NAME LaVada /Fisher/
+2 SURN Fisher
+2 GIVN LaVada
+1 SEX F
+1 _UID 76ECB4957206B0489FED4FD7F8A6ED389003
+1 FAMS @F18561@
+0 @I53047@ INDI
+1 NAME Rebecca Jane /Melson/
+2 SURN Melson
+2 GIVN Rebecca Jane
+1 SEX F
+1 BIRT
+2 DATE 7 Jun 1872
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 4 Nov 1909
+2 PLAC Hookers Bend, Hardin County, Tennessee
+1 _UID C5C0B2683309EE41A8198D10C18F7A487A6A
+1 FAMS @F18625@
+1 FAMC @F17738@
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:51:04
+0 @I53200@ INDI
+1 NAME Nannie /LAWSON/
+2 SURN LAWSON
+2 GIVN Nannie
+1 SEX F
+1 BIRT
+2 DATE 16 Sep 1874
+2 PLAC Wayne County, Tennessee
+1 _UID 712B78233EFAC842A7A0447706DF93F1E403
+1 FAMC @F12047@
+1 NOTE Died young.
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:42:42
+0 @I53201@ INDI
+1 NAME Artie Lou Ella /White/
+2 SURN White
+2 GIVN Artie Lou Ella
+1 SEX F
+1 _UID 91DCEFBE7CBA9A4E9E95F6B3F8C8B5D861FC
+1 FAMS @F18626@
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:45:18
+0 @I53202@ INDI
+1 NAME Harvey Clarence /Berry/
+2 SURN Berry
+2 GIVN Harvey Clarence
+1 SEX M
+1 _UID 749EE824480A4E44B7D44A36311C130875D8
+1 FAMS @F21884@
+1 FAMC @F17763@
+0 @I53203@ INDI
+1 NAME Oscar /Berry/
+2 SURN Berry
+2 GIVN Oscar
+1 SEX M
+1 BIRT
+2 DATE 17 Nov 1892
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 11 Jan 1969
+1 BURI
+2 PLAC McGlamery Cemetery, Collinwood, Wayne County, Tennessee
+1 _UID 538CA4BEC2594649A0E2E526D3282ACC6968
+1 FAMS @F22733@
+1 FAMC @F17763@
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:47:19
+0 @I53204@ INDI
+1 NAME Dora B. /Berry/
+2 SURN Berry
+2 GIVN Dora B.
+1 SEX F
+1 BIRT
+2 DATE 7 May 1894
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 20 Mar 1952
+1 BURI
+2 PLAC Cromwell Crossroads Cemetery, Wayne County, Tennessee
+1 _UID 10A2A389B64EF847B4E9DBBFCC171156A237
+1 FAMC @F17763@
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:47:37
+0 @I53205@ INDI
+1 NAME Elihue /Berry/
+2 SURN Berry
+2 GIVN Elihue
+1 SEX M
+1 BIRT
+2 DATE 1896
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 1974
+1 BURI
+2 PLAC Cromwell Crossroads Cemetery, Wayne County, Tennessee
+1 _UID 1E41C5578E201F42B1895ACBAE9861A838B4
+1 FAMC @F17763@
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:48:09
+0 @I53206@ INDI
+1 NAME Roy Alfred /LAWSON/
+2 SURN LAWSON
+2 GIVN Roy Alfred
+1 SEX M
+1 BIRT
+2 DATE 26 Feb 1898
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 24 May 1955
+2 PLAC Lake Wales, Polk County, Florida
+1 _UID 3EC11AC5BA3D4B4F8CABFF12EE120DFEC20F
+1 FAMS @F18627@
+1 FAMC @F18625@
+1 NOTE Information from Douglas Lawson of Albuqueque, New Mexico
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:52:08
+0 @I53207@ INDI
+1 NAME Annie Laura /Stutts/
+2 SURN Stutts
+2 GIVN Annie Laura
+1 SEX F
+1 _UID 3BD38DB4DB42A24C85AD3A7D006DD256D8F2
+1 FAMS @F18627@
+0 @I53208@ INDI
+1 NAME Infant /LAWSON/
+2 SURN LAWSON
+2 GIVN Infant
+1 SEX M
+1 _UID 7F89B31B9D01A74F967E2B87314A6EA0B9B9
+1 FAMC @F18625@
+0 @I53209@ INDI
+1 NAME Myrtle Cleo /LAWSON/
+2 SURN LAWSON
+2 GIVN Myrtle Cleo
+1 SEX F
+1 _UID 709491A0AA5837469095BC7FCFBBDD29A4DC
+1 FAMS @F18633@
+1 FAMC @F18625@
+0 @I53210@ INDI
+1 NAME Mary Ina /LAWSON/
+2 SURN LAWSON
+2 GIVN Mary Ina
+1 SEX F
+1 _UID 5F058E590C706640BF786F256D5C8357DBD8
+1 FAMS @F18634@
+1 FAMC @F18625@
+0 @I53211@ INDI
+1 NAME Willie Claris /LAWSON/
+2 SURN LAWSON
+2 GIVN Willie Claris
+1 SEX F
+1 _UID EE2FC00F0ED10C4EA06A83BE9E125C5AD62B
+1 FAMC @F18625@
+0 @I53212@ INDI
+1 NAME Infant /LAWSON/
+2 SURN LAWSON
+2 GIVN Infant
+1 SEX M
+1 _UID E6F16BF6EC37AA4EAB8544057099CCA8491D
+1 FAMC @F18625@
+0 @I53213@ INDI
+1 NAME Mary /Burns/
+2 SURN Burns
+2 GIVN Mary
+1 SEX F
+1 _UID 23CA463C862E85429FA27771DE6AE9F83C91
+1 FAMS @F18628@
+1 CHAN
+2 DATE 25 Oct 2003
+3 TIME 13:55:10
+0 @I53214@ INDI
+1 NAME Bell /LAWSON/
+2 SURN LAWSON
+2 GIVN Bell
+1 SEX F
+1 _UID 74F3AE69A8D92249BA30206353ECFF475C92
+1 FAMS @F18629@
+1 FAMC @F18628@
+0 @I53215@ INDI
+1 NAME Tom /LAWSON/
+2 SURN LAWSON
+2 GIVN Tom
+1 SEX M
+1 _UID 3131CA839C123940A0F0DD8E179DE8B3206C
+1 FAMC @F18628@
+0 @I53216@ INDI
+1 NAME Maude /LAWSON/
+2 SURN LAWSON
+2 GIVN Maude
+1 SEX F
+1 _UID 214455AB0DA4644BAAAE4860E70A381B097B
+1 FAMS @F18630@
+1 FAMC @F18628@
+0 @I53217@ INDI
+1 NAME Lolla /LAWSON/
+2 SURN LAWSON
+2 GIVN Lolla
+1 SEX F
+1 _UID EF18CEFBAB173F49B3F1C89656AB7F2BC7B2
+1 FAMS @F18631@
+1 FAMC @F18628@
+0 @I53218@ INDI
+1 NAME Lela /LAWSON/
+2 SURN LAWSON
+2 GIVN Lela
+1 SEX F
+1 _UID 85D20BCB81E1AC4899C88FE38E54D83848A3
+1 FAMS @F18632@
+1 FAMC @F18628@
+0 @I53219@ INDI
+1 NAME Warren /LAWSON/
+2 SURN LAWSON
+2 GIVN Warren
+1 SEX M
+1 _UID 777379521503394FB48516CCC9FB1C1A6A3D
+1 FAMC @F18628@
+0 @I53220@ INDI
+1 NAME Luther /LAWSON/
+2 SURN LAWSON
+2 GIVN Luther
+1 SEX M
+1 _UID 69F9021C08B6F04A9CCC2C27134656927476
+1 FAMC @F18628@
+0 @I53221@ INDI
+1 NAME Jewel /Gray/
+2 SURN Gray
+2 GIVN Jewel
+1 SEX M
+1 _UID 541CF7851762724C995AA7113D3CCC051853
+1 FAMS @F18629@
+0 @I53222@ INDI
+1 NAME Eldridge /Bowen/
+2 SURN Bowen
+2 GIVN Eldridge
+1 SEX M
+1 _UID 413A566D3AC8FE4E8149C6D53A0A17C00C75
+1 FAMS @F18630@
+0 @I53223@ INDI
+1 NAME Raymond /Davidson/
+2 SURN Davidson
+2 GIVN Raymond
+1 SEX M
+1 _UID B232CE2848E04F43B3CB8F8DFB8475F41661
+1 FAMS @F18631@
+0 @I53224@ INDI
+1 NAME E. L. /Parks/
+2 SURN Parks
+2 GIVN E. L.
+1 SEX M
+1 _UID B835A2B326325F4C95CA74CFBF6695F09117
+1 FAMS @F18632@
+0 @I53225@ INDI
+1 NAME Wiley M. /Bingham/
+2 SURN Bingham
+2 GIVN Wiley M.
+1 SEX M
+1 _UID D9728D6402BC454DAE99FEC1EA579D95056F
+1 FAMS @F18633@
+0 @I53226@ INDI
+1 NAME Claude R. /Clement/
+2 SURN Clement
+2 GIVN Claude R.
+1 SEX M
+1 _UID A2D26B96E982A745A3BDD52FA77E140069C5
+1 FAMS @F18634@
+0 @I55300@ INDI
+1 NAME Sarah "Sally" /Reaves/
+2 SURN Reaves
+2 GIVN Sarah "Sally"
+1 SEX F
+1 BIRT
+2 DATE 1825/1830
+2 PLAC Wayne County, Tennessee
+1 _UID A5BFF2664BFAD6498A851163452B702CAF03
+1 FAMS @F19396@
+1 FAMC @F18205@
+1 NOTE Information on the children of Sarah Reaves from Theda Schutt, 504 S. McFarland, Stillwater
+2 CONC , OK 74074.
+1 CHAN
+2 DATE 5 Nov 2003
+3 TIME 12:44:40
+0 @I55301@ INDI
+1 NAME Elihugh /Reaves/
+2 SURN Reaves
+2 GIVN Elihugh
+1 SEX M
+1 BIRT
+2 DATE 8 Jul 1846
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 26 Oct 1936
+1 _UID BA3AF3B376783E449A6D9905E0FB19842788
+1 FAMS @F19397@
+1 FAMC @F19396@
+1 CHAN
+2 DATE 6 Nov 2003
+3 TIME 09:52:05
+0 @I55302@ INDI
+1 NAME James Barton /Reaves/
+2 SURN Reaves
+2 GIVN James Barton
+1 SEX M
+1 BIRT
+2 DATE 1849
+2 PLAC Wayne County, Tennessee
+1 _UID 2332C15750E91149B5ED525F9D9F60655475
+1 FAMS @F19398@
+1 FAMC @F19396@
+1 CHAN
+2 DATE 6 Nov 2003
+3 TIME 09:40:22
+0 @I55303@ INDI
+1 NAME Sarah C. /Reaves/
+2 SURN Reaves
+2 GIVN Sarah C.
+1 SEX F
+1 BIRT
+2 DATE 1868
+1 _UID C73BBE6B2F5F7F4EBA5CC6A7D6B41CA75643
+1 FAMC @F19398@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:09:53
+0 @I55304@ INDI
+1 NAME Sarah /Reaves/
+2 SURN Reaves
+2 GIVN Sarah
+1 SEX F
+1 BIRT
+2 DATE 12 Dec 1852
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 4 Feb 1929
+1 _UID A6B08CD641DA7840AD2775241AA12A664380
+1 FAMC @F19396@
+1 CHAN
+2 DATE 5 Nov 2003
+3 TIME 12:52:34
+0 @I55305@ INDI
+1 NAME Henry Clay /Reaves/
+2 SURN Reaves
+2 GIVN Henry Clay
+1 SEX M
+1 BIRT
+2 DATE 5 Apr 1855
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 3 Jan 1928
+2 PLAC Glencoe, Payne County, Oklahoma
+1 BURI
+2 PLAC Union Cemetery, Glencoe, Payne County, Oklahoma
+1 _UID E26A7BDBEB9EA34CA7428C792DD10B364725
+1 FAMS @F19399@
+1 FAMC @F19396@
+1 CHAN
+2 DATE 5 Nov 2003
+3 TIME 12:53:26
+0 @I55306@ INDI
+1 NAME Neal S. B. /Reaves/
+2 SURN Reaves
+2 GIVN Neal S. B.
+1 SEX M
+1 BIRT
+2 DATE Jan 1857
+1 _UID 9CB322CD0E3BD74DA250C0DDA5E35BD2EFA4
+1 FAMS @F19400@
+1 FAMC @F19396@
+1 CHAN
+2 DATE 5 Nov 2003
+3 TIME 12:53:42
+0 @I55307@ INDI
+1 NAME David /Reaves/
+2 SURN Reaves
+2 GIVN David
+1 SEX M
+1 BIRT
+2 DATE 1858
+2 PLAC Wayne County, Tennessee
+1 _UID CEF4E68A2B839545873BADC228FB50AD0B31
+1 FAMS @F19401@
+1 FAMC @F19396@
+1 CHAN
+2 DATE 5 Nov 2003
+3 TIME 12:54:00
+0 @I55309@ INDI
+1 NAME Martha C. /Victory/
+2 SURN Victory
+2 GIVN Martha C.
+1 SEX F
+1 BIRT
+2 DATE Mar 1848
+1 _UID 4F6158F27D6B2E4CB901A55F1586C264DBFC
+1 FAMS @F19397@
+1 CHAN
+2 DATE 6 Nov 2003
+3 TIME 09:52:15
+0 @I55310@ INDI
+1 NAME Margaret M. /Shepard/
+2 SURN Shepard
+2 GIVN Margaret M.
+1 SEX F
+1 BIRT
+2 DATE 1849
+2 PLAC Wayne County, Tennessee
+1 _UID EC7429E8FDB4B54EB65B7D218E15D1559D28
+1 FAMS @F19398@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:09:45
+0 @I55311@ INDI
+1 NAME Amanda Catherine /Hayes/
+2 SURN Hayes
+2 GIVN Amanda Catherine
+1 SEX F
+1 BIRT
+2 DATE 18 Apr 1858
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 4 Nov 1940
+2 PLAC Morrison, Noble County, Oklahoma
+1 _UID FC541D35E89E0D4EB0FA54B628D69305CD06
+1 FAMS @F19399@
+1 FAMC @F19788@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:11:06
+0 @I55312@ INDI
+1 NAME Nancy J. //
+2 GIVN Nancy J.
+1 SEX F
+1 BIRT
+2 DATE Dec 1857
+1 _UID 710FC63BC798964C9CB1B0CB2C852877DAFC
+1 FAMS @F19400@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:15:49
+0 @I55313@ INDI
+1 NAME Ida /Deavers/
+2 SURN Deavers
+2 GIVN Ida
+1 SEX F
+1 _UID 07562833EC44864CBF0893DA85BC229FF034
+1 FAMS @F19401@
+1 CHAN
+2 DATE 5 Nov 2003
+3 TIME 12:56:16
+0 @I55414@ INDI
+1 NAME G. W. /GILCHRIST/
+2 SURN GILCHRIST
+2 GIVN G. W.
+1 SEX M
+1 BIRT
+2 DATE 1878
+2 PLAC Wayne County, Tennessee
+1 _UID 96623D8C04C3FC4CB04E0EB6060BDB7EFC96
+1 FAMC @F69@
+1 CHAN
+2 DATE 6 Nov 2003
+3 TIME 09:44:48
+0 @I55415@ INDI
+1 NAME E. J. /GILCHRIST/
+2 SURN GILCHRIST
+2 GIVN E. J.
+1 SEX M
+1 BIRT
+2 DATE Feb 1880
+2 PLAC Wayne County, Tennessee
+1 _UID 5987A0716C0A044EADF62D220B770158861F
+1 FAMC @F69@
+1 CHAN
+2 DATE 6 Nov 2003
+3 TIME 09:44:59
+0 @I55416@ INDI
+1 NAME James William /Reaves/
+2 SURN Reaves
+2 GIVN James William
+1 SEX M
+1 BIRT
+2 DATE 1868/1869
+2 PLAC Wayne County, Tennessee
+1 _UID 23C8F9B5AF6D424FBDD1F0CD08F3A75C8FD8
+1 FAMC @F19397@
+1 CHAN
+2 DATE 6 Nov 2003
+3 TIME 09:52:34
+0 @I55417@ INDI
+1 NAME Sarah J. C. /Reaves/
+2 SURN Reaves
+2 GIVN Sarah J. C.
+1 SEX F
+1 BIRT
+2 DATE Apr 1860
+2 PLAC Wayne County, Tennessee
+1 _UID DB9FFE0DB3074C49A36B9CBD5506A9C302A1
+1 FAMC @F19397@
+1 CHAN
+2 DATE 6 Nov 2003
+3 TIME 09:52:47
+0 @I55418@ INDI
+1 NAME John T. /Reaves/
+2 SURN Reaves
+2 GIVN John T.
+1 SEX M
+1 BIRT
+2 DATE 1873
+2 PLAC Wayne County, Tennessee
+1 _UID A9FD33A8C8751343A5032046DE7AE9319479
+1 FAMC @F19397@
+1 CHAN
+2 DATE 6 Nov 2003
+3 TIME 09:52:59
+0 @I55419@ INDI
+1 NAME Mary J. /Reaves/
+2 SURN Reaves
+2 GIVN Mary J.
+1 SEX F
+1 BIRT
+2 DATE Oct 1874
+2 PLAC Wayne County, Tennessee
+1 _UID 52FD70272D0FA745B51F2A546346AC681D01
+1 FAMC @F19397@
+1 CHAN
+2 DATE 6 Nov 2003
+3 TIME 09:53:06
+0 @I55420@ INDI
+1 NAME Salena F. Battie /Reaves/
+2 SURN Reaves
+2 GIVN Salena F. Battie
+1 SEX F
+1 BIRT
+2 DATE Oct 1878
+2 PLAC Wayne County, Tennessee
+1 _UID 093F5624D334404C9A4F704BDABAEF69E502
+1 FAMC @F19397@
+1 CHAN
+2 DATE 6 Nov 2003
+3 TIME 09:53:28
+0 @I55421@ INDI
+1 NAME Julia O. /Reaves/
+2 SURN Reaves
+2 GIVN Julia O.
+1 SEX F
+1 BIRT
+2 DATE 1879
+2 PLAC Wayne County, Tennessee
+1 _UID 63E83B634F5B7F4A89D49BCE2DCD5D45BE0C
+1 FAMC @F19397@
+1 CHAN
+2 DATE 6 Nov 2003
+3 TIME 09:53:43
+0 @I55422@ INDI
+1 NAME Harper /Reaves/
+2 SURN Reaves
+2 GIVN Harper
+1 SEX M
+1 BIRT
+2 DATE May 1880
+2 PLAC Wayne County, Tennessee
+1 _UID 6A9BAA746BE4D545A03F7F1E12C76BADF9DD
+1 FAMC @F19397@
+1 CHAN
+2 DATE 6 Nov 2003
+3 TIME 09:53:50
+0 @I55423@ INDI
+1 NAME George H. /Reaves/
+2 SURN Reaves
+2 GIVN George H.
+1 SEX M
+1 BIRT
+2 DATE Sep 1882
+2 PLAC Wayne County, Tennessee
+1 _UID 21A1796DFE63BA43A738D24D0D293BE055A0
+1 FAMC @F19397@
+1 CHAN
+2 DATE 6 Nov 2003
+3 TIME 09:54:01
+0 @I55424@ INDI
+1 NAME Flora B. /Reaves/
+2 SURN Reaves
+2 GIVN Flora B.
+1 SEX F
+1 BIRT
+2 DATE Nov 1886
+2 PLAC Wayne County, Tennessee
+1 _UID 95897F5DDE8B5F4CBA3B13D4659A25C4D238
+1 FAMC @F19397@
+1 CHAN
+2 DATE 6 Nov 2003
+3 TIME 09:54:07
+0 @I55425@ INDI
+1 NAME Ellen M. /Reaves/
+2 SURN Reaves
+2 GIVN Ellen M.
+1 SEX F
+1 BIRT
+2 DATE Mar 1888
+2 PLAC Wayne County, Tennessee
+1 _UID 27FE808A345A9B4EAFC059A2AAB0450CBBB4
+1 FAMC @F19397@
+1 CHAN
+2 DATE 6 Nov 2003
+3 TIME 09:54:15
+0 @I55426@ INDI
+1 NAME Roxsy V. /Reaves/
+2 SURN Reaves
+2 GIVN Roxsy V.
+1 SEX F
+1 BIRT
+2 DATE Jun 1890
+2 PLAC Wayne County, Tennessee
+1 _UID 86110430F2B40448A259C3780866BA9EB998
+1 FAMC @F19397@
+1 CHAN
+2 DATE 6 Nov 2003
+3 TIME 09:54:29
+0 @I55427@ INDI
+1 NAME infant /Reaves/
+2 SURN Reaves
+2 GIVN infant
+1 SEX U
+1 DEAT
+2 DATE BEF 1900
+1 _UID 14AA856E1F14F84A9759DC1ADD0481F563F4
+1 FAMC @F19397@
+1 CHAN
+2 DATE 6 Nov 2003
+3 TIME 09:54:52
+0 @I55428@ INDI
+1 NAME Infant /Reaves/
+2 SURN Reaves
+2 GIVN Infant
+1 SEX U
+1 DEAT
+2 DATE BEF 1900
+1 _UID E8233B3F7C7CFE41BC620A8FA08311D980EC
+1 FAMC @F19397@
+1 CHAN
+2 DATE 6 Nov 2003
+3 TIME 09:54:59
+0 @I56388@ INDI
+1 NAME Amanda A. /Reaves/
+2 SURN Reaves
+2 GIVN Amanda A.
+1 SEX F
+1 BIRT
+2 DATE 1877
+1 _UID 4C47E2AA3CEE014B83753C73C3498119E292
+1 FAMC @F19398@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:10:13
+0 @I56389@ INDI
+1 NAME Mary F. /Reaves/
+2 SURN Reaves
+2 GIVN Mary F.
+1 SEX F
+1 BIRT
+2 DATE 1879
+1 _UID 01C8D8B4BC50A34C8D96683D5F05B8457969
+1 FAMC @F19398@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:10:19
+0 @I56390@ INDI
+1 NAME Mary Ellen /Reaves/
+2 SURN Reaves
+2 GIVN Mary Ellen
+1 SEX F
+1 BIRT
+2 DATE 11 Aug 1875
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 1944
+1 _UID 805C1B3BB641CB49ADEA753A9E93FEF2A47C
+1 FAMS @F18317@
+1 FAMC @F19399@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:11:55
+0 @I56391@ INDI
+1 NAME John Harley /Reaves/
+2 SURN Reaves
+2 GIVN John Harley
+1 SEX M
+1 BIRT
+2 DATE 24 Jan 1878
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 29 Oct 1937
+1 BURI
+2 PLAC Glencoe, Payne County, Oklahoma
+1 _UID B569ABE06980F44CA248C7A2DB300C0A46CB
+1 FAMS @F19773@
+1 FAMC @F19399@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:12:24
+0 @I56392@ INDI
+1 NAME Charles /Reaves/
+2 SURN Reaves
+2 GIVN Charles
+1 SEX M
+1 BIRT
+2 DATE 1879
+1 DEAT
+2 DATE 1882
+1 _UID 4CCB2A89094DF84C81531D6B93480920C465
+1 FAMC @F19399@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:12:35
+0 @I56393@ INDI
+1 NAME James David /Reaves/
+2 SURN Reaves
+2 GIVN James David
+1 SEX M
+1 BIRT
+2 DATE 29 Dec 1881
+2 PLAC Searcy County, Arkansas
+1 DEAT
+2 DATE 24 Aug 1947
+1 BURI
+2 PLAC Glencoe, Payne County, Oklahoma
+1 _UID 3C385507E2087444A367BFADD2FB85558F41
+1 FAMS @F19775@
+1 FAMC @F19399@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:12:55
+0 @I56394@ INDI
+1 NAME Elizabeth /Reaves/
+2 SURN Reaves
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 1883
+2 PLAC Searcy County, Arkansas
+1 DEAT
+2 DATE 1883
+2 PLAC Searcy County, Arkansas
+1 _UID 06D8D9B496F1EA4C9D13C6DD70F57E1C7A56
+1 FAMC @F19399@
+1 NOTE Stillborn
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:13:05
+0 @I56395@ INDI
+1 NAME Oscar Wallace /Reaves/
+2 SURN Reaves
+2 GIVN Oscar Wallace
+1 SEX M
+1 BIRT
+2 DATE 23 Jul 1885
+2 PLAC Arkansas
+1 DEAT
+2 DATE 1930
+1 _UID E279B59BA0CCE94BA3DF77120752D429AC35
+1 FAMS @F19780@
+1 FAMC @F19399@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:13:22
+0 @I56396@ INDI
+1 NAME Ida Sarah /Reaves/
+2 SURN Reaves
+2 GIVN Ida Sarah
+1 SEX F
+1 BIRT
+2 DATE Nov 1887
+2 PLAC Missouri
+1 DEAT
+2 DATE ABT 1960
+1 _UID 37A0320D1CFA8E46876BD7D47F03F8C9E056
+1 FAMS @F19783@
+1 FAMC @F19399@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:13:40
+0 @I56397@ INDI
+1 NAME Albert Harvey /Reaves/
+2 SURN Reaves
+2 GIVN Albert Harvey
+1 SEX M
+1 BIRT
+2 DATE 27 Jan 1889
+2 PLAC Missouri
+1 DEAT
+2 DATE 1946
+1 _UID BBA6890BF65267498219B7AB22CB8888E7FD
+1 FAMS @F19784@
+1 FAMC @F19399@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:13:53
+0 @I56398@ INDI
+1 NAME Henry Lincoln /Reaves/
+2 SURN Reaves
+2 GIVN Henry Lincoln
+1 SEX M
+1 BIRT
+2 DATE 2 Sep 1891
+2 PLAC Arkansas
+1 DEAT
+2 DATE 1968
+2 PLAC California
+1 _UID B12F7FB4453F974D80CC296368B68D8C8A54
+1 FAMS @F19785@
+1 FAMC @F19399@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:14:11
+0 @I56399@ INDI
+1 NAME William Roy "Willie" /Reaves/
+2 SURN Reaves
+2 GIVN William Roy "Willie"
+1 SEX M
+1 BIRT
+2 DATE 10 Aug 1894
+2 PLAC Vialo, Missouri
+1 DEAT
+2 DATE 6 Jan 1910
+1 BURI
+2 PLAC Glencoe, Payne County, Oklahoma
+1 _UID B09E14E521165C4780251DFBF6E88E2C7600
+1 FAMC @F19399@
+1 NOTE Died of Typhoid Fever
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:15:08
+0 @I56400@ INDI
+1 NAME Maggie L. /Reaves/
+2 SURN Reaves
+2 GIVN Maggie L.
+1 SEX F
+1 BIRT
+2 DATE Jun 1886
+1 _UID 075259AC49799B49A41B8D2B7B1A0A91ABF7
+1 FAMC @F19400@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:15:58
+0 @I56401@ INDI
+1 NAME John M. /Reaves/
+2 SURN Reaves
+2 GIVN John M.
+1 SEX M
+1 BIRT
+2 DATE Oct 1889
+1 _UID F42A065697997E45B4B71D120BDF72D63994
+1 FAMC @F19400@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:16:04
+0 @I56402@ INDI
+1 NAME Sarah S. /Reaves/
+2 SURN Reaves
+2 GIVN Sarah S.
+1 SEX F
+1 BIRT
+2 DATE May 1894
+1 _UID 7C948C2349723A48B949A121E0D5DB86D666
+1 FAMC @F19400@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:16:10
+0 @I56403@ INDI
+1 NAME John /Turner/
+2 SURN Turner
+2 GIVN John
+1 SEX M
+1 _UID 19289B60FD90ED44A4A658D833BA81452727
+1 FAMS @F18317@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:17:33
+0 @I56404@ INDI
+1 NAME Harley Laverne /Turner/
+2 SURN Turner
+2 GIVN Harley Laverne
+1 SEX M
+1 DEAT
+2 DATE 1950
+1 _UID 83A5A77FC002AA4498CE5A75BFFFF400E536
+1 FAMC @F18317@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:17:44
+0 @I56405@ INDI
+1 NAME Elbert /Turner/
+2 SURN Turner
+2 GIVN Elbert
+1 SEX M
+1 _UID AC90AF27C104244FBE4A97B348134EA9EEC1
+1 FAMC @F18317@
+0 @I56406@ INDI
+1 NAME Naomi /Turner/
+2 SURN Turner
+2 GIVN Naomi
+1 SEX F
+1 BIRT
+2 DATE 1898
+1 DEAT
+2 DATE 1903
+1 _UID BEAD33864033B9498A47178E87130CBC7151
+1 FAMC @F18317@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:17:55
+0 @I56407@ INDI
+1 NAME James Luther /Turner/
+2 SURN Turner
+2 GIVN James Luther
+1 SEX M
+1 _UID 146CAC9626113E41A93CCE461917ECDE6B4F
+1 FAMC @F18317@
+0 @I56408@ INDI
+1 NAME Roy H. /Turner/
+2 SURN Turner
+2 GIVN Roy H.
+1 SEX M
+1 BIRT
+2 DATE 11 Aug 1901
+2 PLAC Liberal, Seward County, Kansas
+1 DEAT
+2 DATE 21 Nov 1968
+2 PLAC Pampa, Gray County, Texas
+1 BURI
+2 PLAC Mobeetie, Wheeler County, Texas
+1 _UID 7AD2CC2BC1222C41A71C0D46F374CF46257C
+1 FAMC @F18317@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:19:10
+0 @I56409@ INDI
+1 NAME Martha Leona /Turner/
+2 SURN Turner
+2 GIVN Martha Leona
+1 SEX F
+1 _UID 011132E7BA79C244B0E98EF02BA09EFADE0E
+1 FAMC @F18317@
+0 @I56410@ INDI
+1 NAME Ida Pearl /Turner/
+2 SURN Turner
+2 GIVN Ida Pearl
+1 SEX F
+1 BIRT
+2 DATE 1907
+1 DEAT
+2 DATE 1920
+1 _UID 3340C6DE0F369448B1D155177D569DBB51FB
+1 FAMC @F18317@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:19:24
+0 @I56411@ INDI
+1 NAME Allie /Divine/
+2 SURN Divine
+2 GIVN Allie
+1 SEX F
+1 BIRT
+2 DATE 13 Apr 1883
+1 DEAT
+2 DATE 3 Dec 1972
+1 _UID AB8998D89B4F814B9585EF4E0A60698C1066
+1 FAMS @F19773@
+1 FAMC @F19774@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:21:47
+0 @I56413@ INDI
+1 NAME Amanda /Divine/
+2 SURN Divine
+2 GIVN Amanda
+1 SEX F
+1 BIRT
+2 DATE 20 Dec 1884
+1 DEAT
+2 DATE 28 Jun 1960
+1 _UID FE94FD9F4A92ED4D96DA636B169A25E43B8D
+1 FAMS @F19775@
+1 FAMC @F19774@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:22:15
+0 @I56414@ INDI
+1 NAME Daisy Amanda /Reaves/
+2 SURN Reaves
+2 GIVN Daisy Amanda
+1 SEX F
+1 BIRT
+2 DATE 5 Sep 1903
+2 PLAC Fallis, Lincoln County, Oklahoma
+1 DEAT
+2 DATE 14 Sep 1978
+1 BURI
+2 PLAC Glencoe, Payne County, Oklahoma
+1 _UID A9FBBA647098204E84C9B7962134AC996C33
+1 FAMC @F19773@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:23:14
+0 @I56415@ INDI
+1 NAME Harley Anthony /Reaves/
+2 SURN Reaves
+2 GIVN Harley Anthony
+1 SEX M
+1 BIRT
+2 DATE 6 Feb 1905
+1 DEAT
+2 DATE 2 Feb 1927
+2 PLAC Borger, Hutchinson County, Texas
+1 BURI
+2 PLAC Glencoe, Payne County, Oklahoma
+1 _UID 856A2574F967654FB9E52746B843E20B8F0D
+1 FAMC @F19773@
+1 NOTE Killed in an oilwell fire.
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:24:42
+0 @I56416@ INDI
+1 NAME Henry Jerome /Reaves/
+2 SURN Reaves
+2 GIVN Henry Jerome
+1 SEX M
+1 _UID 79A9BB0B614A1149AEDFC78D49EE7A1E9D29
+1 FAMS @F19776@
+1 FAMC @F19773@
+0 @I56417@ INDI
+1 NAME Orville Mason /Reaves/
+2 SURN Reaves
+2 GIVN Orville Mason
+1 SEX M
+1 BIRT
+2 DATE 19 Mar 1911
+2 PLAC Glencoe, Payne County, Oklahoma
+1 DEAT
+2 DATE 3 Feb 1988
+1 BURI
+2 PLAC Yale, Payne County, Oklahoma
+1 _UID 108918094B6EA84EAB2200CAFAA6A6AAF060
+1 FAMC @F19773@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:25:36
+0 @I56418@ INDI
+1 NAME Dorothy Ina /Reaves/
+2 SURN Reaves
+2 GIVN Dorothy Ina
+1 SEX F
+1 BIRT
+2 DATE 27 Jul 1913
+2 PLAC Glencoe, Payne County, Oklahoma
+1 DEAT
+2 DATE 30 Apr 1990
+1 BURI
+2 PLAC Cushing, Payne County, Oklahoma
+1 _UID 23BD65A5A343D04DABEEB7C4F9D153607ED9
+1 FAMS @F19777@
+1 FAMC @F19773@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:26:09
+0 @I56419@ INDI
+1 NAME Wanda Lee /Reaves/
+2 SURN Reaves
+2 GIVN Wanda Lee
+1 SEX F
+1 _UID D30FE70529B4BE4189E2F472AD87FFFAA8FA
+1 FAMC @F19773@
+0 @I56420@ INDI
+1 NAME Hattie Pauline /Tannahill/
+2 SURN Tannahill
+2 GIVN Hattie Pauline
+1 SEX F
+1 DEAT
+2 DATE 14 Jan 1964
+1 BURI
+2 PLAC Cushing, Payne County, Oklahoma
+1 _UID 0E63F915CCA2634CA6476949134944A47FC3
+1 FAMS @F19776@
+1 FAMC @F19778@
+1 NOTE No children.
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:27:00
+0 @I56421@ INDI
+1 NAME Charlie /Tannahill/
+2 SURN Tannahill
+2 GIVN Charlie
+1 SEX M
+1 _UID 70ACB25B9C68814EA4711AEAFAAF7B437C92
+1 FAMS @F19777@
+1 FAMC @F19778@
+0 @I56423@ INDI
+1 NAME Lincoln Ralph /Reaves/
+2 SURN Reaves
+2 GIVN Lincoln Ralph
+1 SEX M
+1 BIRT
+2 DATE 26 Feb 1904
+1 DEAT
+2 DATE 11 Mar 1991
+1 BURI
+2 PLAC Stillwater, Payne County, Oklahoma
+1 _UID 4DA6A2361483EF448BC4CB7DE614C0F0D69A
+1 FAMC @F19775@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:28:32
+0 @I56424@ INDI
+1 NAME Thomas Lee "Jelly" /Reaves/
+2 SURN Reaves
+2 GIVN Thomas Lee "Jelly"
+1 SEX M
+1 _UID F5014C32D018DF4981CC142CC13533F02A09
+1 FAMC @F19775@
+0 @I56425@ INDI
+1 NAME Clarence Emmet "Shorty" /Reaves/
+2 SURN Reaves
+2 GIVN Clarence Emmet "Shorty"
+1 SEX M
+1 _UID A6E4E7224AD4564881B511BE2BFC3F06C0CB
+1 FAMS @F19779@
+1 FAMC @F19775@
+0 @I56426@ INDI
+1 NAME Opal Elvaria /Reaves/
+2 SURN Reaves
+2 GIVN Opal Elvaria
+1 SEX F
+1 _UID 012719A2A07D764EBB8742D299CEA07394DA
+1 FAMC @F19775@
+0 @I56427@ INDI
+1 NAME James Maynard "Peck" /Reaves/
+2 SURN Reaves
+2 GIVN James Maynard "Peck"
+1 SEX M
+1 BIRT
+2 DATE 9 May 1913
+1 DEAT
+2 DATE Apr 1975
+1 BURI
+2 PLAC Midland, Midland County, Texas
+1 _UID 1817349B5A51C1429583E7917BC1F537A4EB
+1 FAMC @F19775@
+1 NOTE Killed in an oil well accident.
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:29:49
+0 @I56428@ INDI
+1 NAME Sylvia Geraldine /Reaves/
+2 SURN Reaves
+2 GIVN Sylvia Geraldine
+1 SEX F
+1 _UID E1CA8DE3AC2FB948B67ECAD5DCFC23CA8F75
+1 FAMC @F19775@
+0 @I56429@ INDI
+1 NAME Warren Virgil /Reaves/
+2 SURN Reaves
+2 GIVN Warren Virgil
+1 SEX M
+1 BIRT
+2 DATE 11 Jun 1921
+1 DEAT
+2 DATE 20 Oct 1952
+1 BURI
+2 PLAC Glencoe, Payne County, Oklahoma
+1 _UID 13DBAB9002330C47935A73AF52A0E5740B80
+1 FAMC @F19775@
+1 NOTE Killed in an oil well accident
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:30:30
+0 @I56430@ INDI
+1 NAME Clyde Laverne /Reaves/
+2 SURN Reaves
+2 GIVN Clyde Laverne
+1 SEX M
+1 BIRT
+2 DATE 5 Jul 1923
+1 DEAT
+2 DATE 10 Oct 1978
+1 _UID 0B0879432E9AF94AAB7E36AE73950D181478
+1 FAMC @F19775@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:30:45
+0 @I56431@ INDI
+1 NAME Juania Euphanell /Reaves/
+2 SURN Reaves
+2 GIVN Juania Euphanell
+1 SEX F
+1 _UID 733E4A217F9E7C46A6A4C184907783F408FC
+1 FAMC @F19775@
+0 @I56432@ INDI
+1 NAME Marguerite "Marg" Bernie /Polson/
+2 SURN Polson
+2 GIVN Marguerite "Marg" Bernie
+1 SEX F
+1 _UID 87668130A9D2B2429F59A891173B249B4F3C
+1 FAMS @F19779@
+0 @I56433@ INDI
+1 NAME Beulah Dell /Lewis/
+2 SURN Lewis
+2 GIVN Beulah Dell
+1 SEX F
+1 BIRT
+2 DATE 1888
+1 DEAT
+2 DATE 1961
+1 _UID D1B0DE10013A1147B845AD29240CB5E49E87
+1 FAMS @F19780@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:31:57
+0 @I56434@ INDI
+1 NAME James Russell /Reaves/
+2 SURN Reaves
+2 GIVN James Russell
+1 SEX M
+1 _UID E4135567CB4DA84980063249AA1EE9FA68C3
+1 FAMS @F19781@
+1 FAMC @F19780@
+0 @I56435@ INDI
+1 NAME Leo /Reaves/
+2 SURN Reaves
+2 GIVN Leo
+1 SEX M
+1 _UID 65FE122D0FD0BD4598B7CD1C65916A708B90
+1 FAMC @F19780@
+0 @I56436@ INDI
+1 NAME Kenneth Arthell /Reaves/
+2 SURN Reaves
+2 GIVN Kenneth Arthell
+1 SEX M
+1 _UID 4B19A8017047144F86133FFF503C808E98EC
+1 FAMC @F19780@
+0 @I56437@ INDI
+1 NAME Lewis Henry "Tooter" /Reaves/
+2 SURN Reaves
+2 GIVN Lewis Henry "Tooter"
+1 SEX M
+1 _UID A0E30B05CED797439D2E27B31633EAD1BB77
+1 FAMC @F19780@
+0 @I56438@ INDI
+1 NAME Ulala Adalaide /Reaves/
+2 SURN Reaves
+2 GIVN Ulala Adalaide
+1 SEX F
+1 _UID EA295D1A69E4BC448013D17536EDD13CE014
+1 FAMS @F19786@
+1 FAMC @F19780@
+0 @I56439@ INDI
+1 NAME Laura Mae "Mert" /Reaves/
+2 SURN Reaves
+2 GIVN Laura Mae "Mert"
+1 SEX F
+1 _UID BE9824A01D269347BD26CACB2C87B5CAE139
+1 FAMS @F19782@
+1 FAMC @F19780@
+0 @I56440@ INDI
+1 NAME Floyd Oscar "Buster" /Reaves/
+2 SURN Reaves
+2 GIVN Floyd Oscar "Buster"
+1 SEX M
+1 _UID 434B1C22CC27FF4FAB0F84938D719EE45E30
+1 FAMC @F19780@
+0 @I56441@ INDI
+1 NAME Irene B. //
+2 GIVN Irene B.
+1 SEX F
+1 BIRT
+2 DATE 11 Apr 1913
+1 DEAT
+2 DATE 13 Jan 1962
+1 _UID B1FE0232392CA74CBF5CC32AD6896641493A
+1 FAMS @F19781@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:33:59
+0 @I56442@ INDI
+1 NAME H. L. "Hoot" /Hurst/
+2 SURN Hurst
+2 GIVN H. L. "Hoot"
+1 SEX M
+1 DEAT
+2 DATE 25 Jul 1989
+1 _UID B29453C12544BA4FA97D23B9066AE711362D
+1 FAMS @F19782@
+1 NOTE No children.
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 11:34:27
+0 @I56443@ INDI
+1 NAME Ernest Hugh /Cross/
+2 SURN Cross
+2 GIVN Ernest Hugh
+1 SEX M
+1 _UID 9F8548EDDAB7DB4E87C20C4A9271D13EC4D0
+1 FAMS @F19783@
+1 FAMC @F19840@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 12:08:00
+0 @I56444@ INDI
+1 NAME Hobert Lovell /Cross/
+2 SURN Cross
+2 GIVN Hobert Lovell
+1 SEX M
+1 DEAT
+2 DATE 18 Apr 1988
+1 _UID F4A65F97CCB41C4498476167A60BBB6AED32
+1 FAMC @F19783@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 12:08:13
+0 @I56445@ INDI
+1 NAME Raymond Harold /Cross/
+2 SURN Cross
+2 GIVN Raymond Harold
+1 SEX M
+1 BIRT
+2 DATE 1915
+1 DEAT
+2 DATE 4 Apr 1984
+1 _UID 3CB0A2AB07EE68419D831E032C500401996B
+1 FAMC @F19783@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 12:08:26
+0 @I56446@ INDI
+1 NAME Merle Hugh /Cross/
+2 SURN Cross
+2 GIVN Merle Hugh
+1 SEX U
+1 DEAT
+2 DATE 1940
+1 _UID EC1FEEB2AC273A4EB855513EBA5FAEAE179C
+1 FAMC @F19783@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 12:08:39
+0 @I56447@ INDI
+1 NAME Carrie /Rice/
+2 SURN Rice
+2 GIVN Carrie
+1 SEX F
+1 _UID 5F4DF5E9B477A04A8A438BFAE09BCBA0D7E5
+1 FAMS @F19784@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 12:08:51
+0 @I56448@ INDI
+1 NAME Donna Rice /Reaves/
+2 SURN Reaves
+2 GIVN Donna Rice
+1 SEX F
+1 _UID F053EA58AB347343B642C627B8D40CEC837F
+1 FAMC @F19784@
+0 @I56449@ INDI
+1 NAME Pearle Lucille /Reaves/
+2 SURN Reaves
+2 GIVN Pearle Lucille
+1 SEX F
+1 _UID 0D111B7E4ACD644E82834AC8ED7C1C3E5A83
+1 FAMC @F19784@
+0 @I56450@ INDI
+1 NAME Gilbert Alvin /Reaves/
+2 SURN Reaves
+2 GIVN Gilbert Alvin
+1 SEX M
+1 _UID 3CFF571ABD85CC4C8112F4B676A9EBF44165
+1 FAMC @F19784@
+0 @I56451@ INDI
+1 NAME Mary Emma /Reaves/
+2 SURN Reaves
+2 GIVN Mary Emma
+1 SEX F
+1 _UID DD33FCA725D18C4493DA0BC67574327A4C5F
+1 FAMC @F19784@
+0 @I56452@ INDI
+1 NAME Ane /Starrett/
+2 SURN Starrett
+2 GIVN Ane
+1 SEX F
+1 _UID 180892A515AC764B9B1385CC6B919737A22F
+1 FAMS @F19785@
+0 @I56453@ INDI
+1 NAME William Starrett /Reaves/
+2 SURN Reaves
+2 GIVN William Starrett
+1 SEX M
+1 _UID 4A9BA938850A204593E53B33C1FAE9BE02E0
+1 FAMC @F19785@
+0 @I56454@ INDI
+1 NAME Nina Catherine /Reaves/
+2 SURN Reaves
+2 GIVN Nina Catherine
+1 SEX F
+1 _UID C0F8C05C98056D4098B3617636BF640BA4AE
+1 FAMC @F19785@
+0 @I56455@ INDI
+1 NAME Johnnie L. /Ridgeway/
+2 SURN Ridgeway
+2 GIVN Johnnie L.
+1 SEX M
+1 BIRT
+2 DATE 7 Feb 1914
+1 DEAT
+2 DATE 15 Aug 1985
+1 BURI
+2 PLAC Ponca City, Kay County, Oklahoma
+1 _UID 22CE628778348B4690AE8CA3385A9C998AA1
+1 FAMS @F19786@
+1 CHAN
+2 DATE 12 Nov 2003
+3 TIME 12:11:43
+0 @I56456@ INDI
+1 NAME Living /Ridgeway/
+1 SEX F
+1 FAMC @F19786@
+0 @I56457@ INDI
+1 NAME Living /Ridgeway/
+1 SEX M
+1 FAMC @F19786@
+0 @I56458@ INDI
+1 NAME Living /Ridgeway/
+1 SEX F
+1 FAMC @F19786@
+0 @I56459@ INDI
+1 NAME Living /Ridgeway/
+1 SEX F
+1 FAMC @F19786@
+0 @I56460@ INDI
+1 NAME Living /Ridgeway/
+1 SEX F
+1 FAMC @F19786@
+0 @I56461@ INDI
+1 NAME Living /Ridgeway/
+1 SEX F
+1 FAMC @F19786@
+0 @I56462@ INDI
+1 NAME Living /Ridgeway/
+1 SEX F
+1 FAMC @F19786@
+0 @I61583@ INDI
+1 NAME /Horton/
+2 SURN Horton
+1 SEX M
+1 _UID 5B5AD777CDD1FB4CB2428DD457F68690A07E
+1 FAMS @F21770@
+0 @I61584@ INDI
+1 NAME Bessie M. /DOWNING/
+2 SURN DOWNING
+2 GIVN Bessie M.
+1 SEX F
+1 BIRT
+2 DATE 5 Aug 1902
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 22 Mar 1911
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC Lutts Cemetery, Wayne County, Tennessee
+1 _UID 09B0C9AF5C9D604BAB93330C8760E90F311B
+1 FAMC @F7139@
+1 CHAN
+2 DATE 10 Jan 2004
+3 TIME 10:04:15
+0 @I61839@ INDI
+1 NAME Maude /Miller/
+2 SURN Miller
+2 GIVN Maude
+1 SEX F
+1 _UID CE145CB7A579FA458705B116B6D32FB00DCD
+1 FAMS @F21884@
+1 FAMS @F21889@
+0 @I61840@ INDI
+1 NAME Freddy Ray /Berry/
+2 SURN Berry
+2 GIVN Freddy Ray
+1 SEX M
+1 BIRT
+2 DATE 1932
+2 PLAC Steele, Pemiscot County, Missouri
+1 DEAT
+2 DATE 4 Nov 2000
+2 PLAC Waynesboro, Wayne County, Tennessee
+1 BURI
+2 DATE 7 Nov 2000
+2 PLAC Highland Cemetery, Waynesboro, Wayne County, Tennessee
+1 _UID FD46B7FBD6C3FB4FBA3DEB14D96538468A53
+1 FAMS @F21886@
+1 FAMC @F21884@
+1 NOTE Obituary: Wayne County News, 8 Nov 2000
+2 CONT Freddy Ray Berry
+2 CONT 	Funeral services for Freddy Ray Berry, 62 of Tuesday, November 7 at 1 P.M. at Shackelford Fu
+2 CONC nral home Chapel in Waynesboro with Ed Lopp officiating. Burial was in Highland Cemetery, Way
+2 CONC nesboro.
+2 CONT 	Mr. Berry died Saturday, November 4 at Wayne Medical Center in Waynesboro.
+2 CONT 	He was a native of Steele, MO, a son of the late Harvey Clarence Berry and Madue Miller Berr
+2 CONC y Dicus. he was a disabled factory worker and of the Baptist Faith.
+2 CONT 	Survivors include his wife, Mildred Bunch Berry; two son, Ronny and Travis Berry; two daught
+2 CONC ers, Hilda Potete and Joanie warren all of Waynesboro; one sister, Mary Ayers of Waynesboro
+2 CONC , three half-sisters, Nell White of Waynesboro, Myrtle Bassett of Cape Giriardead, MO, and Ru
+2 CONC by Dilldine of Patterson, MO; one half-brothers, Jess Dicus of Waynesboro; one step-brother
+2 CONC , Billy Clarence Dicus of Clifton and nieces and nephews.
+1 CHAN
+2 DATE 12 Jan 2004
+3 TIME 10:02:46
+0 @I61841@ INDI
+1 NAME Living /Berry/
+1 SEX F
+1 FAMS @F21885@
+1 FAMC @F21884@
+0 @I61842@ INDI
+1 NAME Living /Ayers/
+1 SEX M
+1 FAMS @F21885@
+0 @I61843@ INDI
+1 NAME Living /Bunch/
+1 SEX F
+1 FAMS @F21886@
+0 @I61844@ INDI
+1 NAME Living /Berry/
+1 SEX M
+1 FAMC @F21886@
+0 @I61845@ INDI
+1 NAME Living /Berry/
+1 SEX M
+1 FAMC @F21886@
+0 @I61846@ INDI
+1 NAME Living /Berry/
+1 SEX F
+1 FAMS @F21888@
+1 FAMC @F21886@
+0 @I61847@ INDI
+1 NAME Living /Berry/
+1 SEX F
+1 FAMS @F21887@
+1 FAMC @F21886@
+0 @I61848@ INDI
+1 NAME Living /Warren/
+1 SEX M
+1 FAMS @F21887@
+0 @I61849@ INDI
+1 NAME Living /Potete/
+1 SEX M
+1 FAMS @F21888@
+0 @I6255@ INDI
+1 NAME Maggie Lou Ellen /KEETON/
+2 SURN KEETON
+2 GIVN Maggie Lou Ellen
+1 SEX F
+1 BIRT
+2 DATE 5 Dec 1912
+2 PLAC Wayne County, Tennessee
+1 DEAT
+2 DATE 8 Dec 1993
+2 PLAC Waynesboro, Wayne County, Tennessee
+1 _UID 8D80DD7B525D1F44B953BED4802ADBA53F94
+1 FAMS @F2485@
+1 FAMC @F2459@
+1 CHAN
+2 DATE 2 Mar 2003
+3 TIME 15:34:17
+0 @I6262@ INDI
+1 NAME Cecil /BERRY/
+2 SURN BERRY
+2 GIVN Cecil
+1 SEX M
+1 _UID 76BF9ECDD6589649A483710E8D6D7E5B264E
+1 FAMS @F2485@
+1 FAMC @F22733@
+0 @I64451@ INDI
+1 NAME Coy Hershell /Gillis/
+2 SURN Gillis
+2 GIVN Coy Hershell
+1 SEX M
+1 _UID 3FD02A003CC2E34E97741D1090E0CEE2C06E
+1 FAMS @F22794@
+1 FAMC @F22727@
+0 @I64476@ INDI
+1 NAME Raymond /Berry/
+2 SURN Berry
+2 GIVN Raymond
+1 SEX M
+1 _UID 5E6D78BF33A71F4E9A9D8EB9F74446FC4447
+1 FAMC @F22733@
+0 @I64477@ INDI
+1 NAME Living /Berry/
+1 SEX F
+1 FAMC @F22733@
+0 @I65071@ INDI
+1 NAME Gloria /GILLIS/
+2 SURN GILLIS
+2 GIVN Gloria
+1 SEX F
+1 _UID 8000B90EE18B404E9B28BA028CBE1E709803
+1 FAMS @F23009@
+1 FAMC @F7143@
+0 @I65072@ INDI
+1 NAME /Danley/
+2 SURN Danley
+1 SEX M
+1 _UID 87A3931DDD896A4D940EAF995705423DBCDD
+1 FAMS @F23009@
+0 @I66239@ INDI
+1 NAME Waymond Lee /Thompson/
+2 SURN Thompson
+2 GIVN Waymond Lee
+1 SEX M
+1 _UID 97EC3D7B65894E4B807DA227B4D8CE402255
+1 FAMS @F23369@
+1 FAMS @F23368@
+0 @I66244@ INDI
+1 NAME Living /Graham/
+1 SEX F
+1 FAMS @F23370@
+1 FAMC @F23371@
+0 @I66247@ INDI
+1 NAME Living /WRIGHT/
+1 SEX M
+1 FAMC @F23370@
+0 @I66248@ INDI
+1 NAME Living /Oakley/
+1 SEX F
+1 FAMS @F23372@
+0 @I66249@ INDI
+1 NAME Living /WRIGHT/
+1 SEX F
+1 FAMC @F23372@
+0 @I66250@ INDI
+1 NAME Living /WRIGHT/
+1 SEX M
+1 FAMC @F23372@
+0 @I66251@ INDI
+1 NAME Living /Varner/
+1 SEX F
+1 FAMS @F23373@
+1 FAMC @F23374@
+0 @I66252@ INDI
+1 NAME Living /WRIGHT/
+1 SEX M
+1 FAMC @F23373@
+0 @I66253@ INDI
+1 NAME Living /WRIGHT/
+1 SEX M
+1 FAMC @F23373@
+0 @I66254@ INDI
+1 NAME Living /WRIGHT/
+1 SEX M
+1 FAMC @F23373@
+0 @I66255@ INDI
+1 NAME Living /WRIGHT/
+1 SEX M
+1 FAMC @F23373@
+0 @I66258@ INDI
+1 NAME Living /Turner/
+1 SEX F
+1 FAMS @F23375@
+0 @I66259@ INDI
+1 NAME Living /WRIGHT/
+1 SEX M
+1 FAMS @F23376@
+1 FAMC @F23375@
+0 @I66260@ INDI
+1 NAME Living /WRIGHT/
+1 SEX F
+1 FAMC @F23375@
+0 @I66261@ INDI
+1 NAME Living /WRIGHT/
+1 SEX F
+1 FAMC @F23375@
+0 @I66262@ INDI
+1 NAME Living /Butler/
+1 SEX M
+1 FAMS @F23377@
+1 FAMC @F14529@
+0 @I66263@ INDI
+1 NAME Living /Butler/
+1 SEX F
+1 FAMS @F23378@
+1 FAMC @F14529@
+0 @I66264@ INDI
+1 NAME Living /Butler/
+1 SEX F
+1 FAMS @F23379@
+1 FAMC @F14529@
+0 @I66265@ INDI
+1 NAME Living /Talley/
+1 SEX F
+1 FAMS @F23377@
+0 @I66266@ INDI
+1 NAME Living /Austin/
+1 SEX M
+1 FAMS @F23378@
+0 @I66267@ INDI
+1 NAME Living /Austin/
+1 SEX F
+1 FAMC @F23378@
+0 @I66268@ INDI
+1 NAME Living /Austin/
+1 SEX F
+1 FAMC @F23378@
+0 @I66269@ INDI
+1 NAME Living /Austin/
+1 SEX F
+1 FAMC @F23378@
+0 @I66270@ INDI
+1 NAME Living /Burns/
+1 SEX M
+1 FAMS @F23379@
+0 @I66271@ INDI
+1 NAME Living /Burns/
+1 SEX M
+1 FAMC @F23379@
+0 @I66272@ INDI
+1 NAME Living /Burns/
+1 SEX F
+1 FAMC @F23379@
+0 @I68603@ INDI
+1 NAME /McFall/
+2 SURN McFall
+1 SEX M
+1 _UID 216ACC247493BC41B48E963ABB65D141C3CA
+1 FAMS @F24188@
+0 @I68604@ INDI
+1 NAME A. J. /Long/
+2 SURN Long
+2 GIVN A. J.
+1 SEX M
+1 _UID 5DA707B60F3E6C41942A996164306E44B999
+1 FAMS @F24189@
+0 @I68605@ INDI
+1 NAME Gerald R. /Spangler/
+2 SURN Spangler
+2 GIVN Gerald R.
+1 SEX M
+1 _UID 8208F9F484753548AEEC7319C4DAB9B82246
+1 FAMS @F24190@
+0 @I7130@ INDI
+1 NAME Charley /BERRY/
+2 SURN BERRY
+2 GIVN Charley
+1 SEX M
+1 BIRT
+2 DATE May 1894
+2 PLAC Wayne County, Tennessee
+1 _UID CF97878D1424F445AB977EB02D7FA4E38EFE
+1 FAMS @F11212@
+1 FAMC @F722@
+1 CHAN
+2 DATE 25 Jan 2003
+3 TIME 11:36:53
+0 @I72180@ INDI
+1 NAME Living /Franks/
+1 SEX M
+1 FAMS @F25399@
+0 @I72269@ INDI
+1 NAME Living /Putman/
+1 SEX F
+1 FAMC @F10494@
+0 @I74977@ INDI
+1 NAME Living /Balentine/
+1 SEX M
+1 FAMS @F26290@
+1 FAMC @F14381@
+0 @I74978@ INDI
+1 NAME Living /Eaton/
+1 SEX F
+1 FAMS @F26290@
+0 @I7866@ INDI
+1 NAME Jewel /LAWSON/
+2 SURN LAWSON
+2 GIVN Jewel
+1 SEX F
+1 _UID 199232FF97272C4D91B0140D8BD38098EB49
+1 FAMS @F17720@
+1 FAMC @F1208@
+0 @I7867@ INDI
+1 NAME Elmer /LAWSON/
+2 SURN LAWSON
+2 GIVN Elmer
+1 SEX M
+1 _UID A83012718835B0499F67E27768447CA84095
+1 FAMS @F17727@
+1 FAMC @F1208@
+0 @I7868@ INDI
+1 NAME Ardmore /LAWSON/
+2 SURN LAWSON
+2 GIVN Ardmore
+1 SEX M
+1 _UID 032B6FC98CBC3E4B8B02A0CEF1F8ADA66E87
+1 FAMS @F17728@
+1 FAMC @F1208@
+0 @I7891@ INDI
+1 NAME George Robert /Horton/
+2 SURN Horton
+2 GIVN George Robert
+1 SEX M
+1 _UID 1F3E0FC08549864FA16F4037F328F9BD271D
+1 FAMS @F7145@
+1 FAMS @F2914@
+1 FAMC @F18306@
+0 @I9221@ INDI
+1 NAME Living /HAYES/
+1 SEX M
+1 FAMS @F3343@
+1 FAMC @F168@
+0 @I9234@ INDI
+1 NAME Kathleen /BERRY/
+2 SURN BERRY
+2 GIVN Kathleen
+1 SEX F
+1 _UID 26CD76A0E7816D4F8D08259683EF30C5E4C9
+1 FAMS @F3343@
+1 FAMC @F22733@
+0 @I9235@ INDI
+1 NAME Living /HAYES/
+1 SEX M
+1 FAMS @F3350@
+1 FAMC @F3343@
+0 @I9236@ INDI
+1 NAME Living /HAYES/
+1 SEX F
+1 FAMS @F3351@
+1 FAMC @F3343@
+0 @I9237@ INDI
+1 NAME Living /HAYES/
+1 SEX F
+1 FAMS @F14993@
+1 FAMC @F3343@
+0 @I9246@ INDI
+1 NAME Living /DIXON/
+1 SEX M
+1 FAMS @F3351@
+0 @I9247@ INDI
+1 NAME Living /WEEKS/
+1 SEX F
+1 FAMS @F3350@
+1 FAMC @F23423@
+0 @I9248@ INDI
+1 NAME Living /HAYES/
+1 SEX M
+1 FAMC @F3350@
+0 @I9249@ INDI
+1 NAME Living /HAYES/
+1 SEX M
+1 FAMC @F3350@
+0 @F10487@ FAM
+1 _UID A2697F7150F58C499CD5A1C525A04C66630A
+1 HUSB @I30829@
+1 WIFE @I30808@
+1 CHIL @I30830@
+1 CHIL @I30831@
+1 CHIL @I30832@
+1 CHIL @I30833@
+1 CHIL @I30834@
+1 CHIL @I30835@
+0 @F10493@ FAM
+1 HUSB @I30836@
+1 WIFE @I30831@
+0 @F10494@ FAM
+1 HUSB @I30837@
+1 WIFE @I30834@
+1 CHIL @I30838@
+1 CHIL @I50102@
+1 CHIL @I72269@
+0 @F10779@ FAM
+1 _UID 4D72C748DC4C7C4B9A5C9C01425F93D95D3C
+1 CHIL @I50634@
+1 MARR
+2 DATE 20 Oct 1934
+2 PLAC Florence, Lauderdale County, Alabama
+0 @F10843@ FAM
+1 _UID C80485326500C24BAAC1C206A76C3F2EA84C
+1 CHIL @I32158@
+1 MARR
+2 DATE 7 Apr 1905
+2 PLAC Wayne County, Tennessee
+0 @F10851@ FAM
+1 _UID BD5ADE173CBC2848AF895137F7155DBE5B24
+1 HUSB @I32208@
+1 WIFE @I32158@
+1 CHIL @I32209@
+1 CHIL @I32210@
+1 CHIL @I32211@
+1 CHIL @I32212@
+1 CHIL @I32213@
+1 CHIL @I32214@
+0 @F10891@ FAM
+1 _UID A8369A667630174EBDC0371A76306611D4B9
+1 CHIL @I32342@
+0 @F11089@ FAM
+1 _UID B0B4C9CCE477904BB3FE74A2C496167BE1DB
+1 CHIL @I38090@
+0 @F11172@ FAM
+1 _UID AF498FAA5D571C4985BDEEA848D9D1364A1F
+1 HUSB @I33224@
+1 WIFE @I33225@
+1 CHIL @I50725@
+1 CHIL @I50726@
+1 CHIL @I35647@
+1 CHIL @I50664@
+1 CHIL @I1331@
+0 @F11173@ FAM
+1 _UID FBADB9BB5B5B854FA22A1DC14934D903A9B4
+1 HUSB @I1331@
+1 WIFE @I33226@
+1 CHIL @I50768@
+1 CHIL @I50769@
+1 MARR
+2 DATE 2 Jan 1876
+2 PLAC Wayne County, Tennessee
+0 @F11174@ FAM
+1 _UID 0F0DC37B8E1CE84598B2C7AD506B4503F2AC
+1 HUSB @I1331@
+1 WIFE @I33227@
+1 CHIL @I50770@
+1 CHIL @I50771@
+1 MARR
+2 DATE 12 Dec 1884
+2 PLAC Wayne County, Tennessee
+0 @F11212@ FAM
+1 _UID C1D2B11BDB03314FB3BC51441EB6677F7B5E
+1 HUSB @I7130@
+1 WIFE @I19941@
+0 @F12047@ FAM
+1 _UID DCA8B145380D3B4BBB7779FEE9029966D80E
+1 HUSB @I35647@
+1 WIFE @I35648@
+1 CHIL @I50729@
+1 CHIL @I50730@
+1 CHIL @I50731@
+1 CHIL @I53200@
+1 CHIL @I50732@
+1 CHIL @I50733@
+1 CHIL @I50734@
+1 CHIL @I19937@
+1 CHIL @I50735@
+1 CHIL @I50736@
+1 CHIL @I50737@
+1 MARR
+2 DATE 25 Nov 1866
+2 PLAC Wayne County, Tennessee
+0 @F1208@ FAM
+1 _UID 51D085D634482740B3E6113C77E1AE91DC92
+1 HUSB @I2568@
+1 WIFE @I2558@
+1 CHIL @I7866@
+1 CHIL @I7867@
+1 CHIL @I7868@
+1 CHIL @I50645@
+1 CHIL @I50646@
+1 CHIL @I50647@
+1 CHIL @I50630@
+1 CHIL @I50651@
+1 CHIL @I50648@
+1 MARR
+2 DATE 21 Dec 1902
+2 PLAC Wayne County, Tennessee
+0 @F12928@ FAM
+1 _UID AF9308476387C64494FF820A73A521AB88A8
+1 HUSB @I38095@
+1 WIFE @I38090@
+1 CHIL @I38096@
+0 @F130@ FAM
+1 _UID EEC58B224482A24291993D58FDFB74CC01A1
+1 CHIL @I50628@
+1 MARR
+2 DATE 21 Dec 1914
+2 PLAC Wayne County, Tennessee
+0 @F1325@ FAM
+1 _UID 5D9554476280BD42A3515A876C76084572FF
+1 CHIL @I16950@
+1 MARR
+2 DATE ABT 1850
+2 PLAC Wayne County, Tennessee
+0 @F13472@ FAM
+1 _UID A09CB19CAE955D4BB017BD3508F7C9D1C692
+1 CHIL @I20017@
+0 @F13473@ FAM
+1 _UID C9C9435D0AE6954FAA3C82A4AD1CE954180F
+1 CHIL @I20022@
+0 @F13601@ FAM
+1 _UID 599D071BA83CF64DA64AAD6CBBE35EB8FCB2
+1 CHIL @I27516@
+0 @F14090@ FAM
+1 _UID 46E8C3E4600896458820133A46693AEBE1BD
+1 CHIL @I43093@
+0 @F14381@ FAM
+1 HUSB @I41611@
+1 WIFE @I41610@
+1 CHIL @I74977@
+0 @F14382@ FAM
+1 _UID 4FE0434163C36C41A6CC2E8E0C94EDEB2CDC
+1 HUSB @I41608@
+1 CHIL @I41612@
+1 CHIL @I41613@
+0 @F14383@ FAM
+1 HUSB @I41614@
+1 WIFE @I41613@
+0 @F14424@ FAM
+1 HUSB @I41694@
+1 WIFE @I32214@
+0 @F14425@ FAM
+1 _UID 26D65074FBC2A24F8920214438AE88A58F44
+1 CHIL @I41694@
+0 @F14528@ FAM
+1 CHIL @I41933@
+0 @F14529@ FAM
+1 HUSB @I41936@
+1 WIFE @I2020@
+1 CHIL @I66262@
+1 CHIL @I66263@
+1 CHIL @I66264@
+0 @F14548@ FAM
+1 _UID 0D871ACF5011D64AB4DE10A4064F68898ABD
+1 CHIL @I41611@
+0 @F14584@ FAM
+1 _UID 7586F6A0142CC7498E052DCDF20007076E68
+1 HUSB @I42069@
+1 WIFE @I42071@
+1 CHIL @I4821@
+0 @F14993@ FAM
+1 HUSB @I43093@
+1 WIFE @I9237@
+0 @F15009@ FAM
+1 _UID 72BCBBAB7E1A194AA7853343548CE7ECE4B1
+1 CHIL @I50665@
+1 MARR
+2 DATE ABT 1844
+0 @F168@ FAM
+1 _UID 7BC8DA988E7F05409BC970A309A80C1F5A14
+1 CHIL @I9221@
+0 @F17504@ FAM
+1 HUSB @I50102@
+0 @F17508@ FAM
+1 _UID C066F8D751BC3D45B4D1284821A894EDC364
+1 CHIL @I30837@
+0 @F17509@ FAM
+1 HUSB @I30838@
+0 @F17719@ FAM
+1 _UID 3E36244A47E73746A6F4B74039B94C85E133
+1 HUSB @I50630@
+1 WIFE @I50628@
+1 CHIL @I50633@
+0 @F17720@ FAM
+1 _UID 2F9B19C330DD234886D1320D19DFD0B8349C
+1 HUSB @I50631@
+1 WIFE @I7866@
+0 @F17721@ FAM
+1 HUSB @I50633@
+1 WIFE @I50634@
+1 CHIL @I50637@
+1 CHIL @I50638@
+0 @F17723@ FAM
+1 HUSB @I50639@
+1 WIFE @I50637@
+0 @F17724@ FAM
+1 HUSB @I50640@
+1 WIFE @I50637@
+0 @F17725@ FAM
+1 _UID 451D3D552E087B4E98B3044BCCB17DCD54F4
+1 HUSB @I50640@
+0 @F17726@ FAM
+1 _UID AC3293C5DDE62F4BB41B2F62668FEE702662
+1 DIV Y
+1 HUSB @I50639@
+0 @F17727@ FAM
+1 _UID EA03436CEB3FDF4DABABFA4A33FF7E316D60
+1 HUSB @I7867@
+1 WIFE @I50632@
+0 @F17728@ FAM
+1 _UID A17407C89655DC49A2DC0708CF3B66D5C632
+1 HUSB @I7868@
+1 WIFE @I50644@
+0 @F17729@ FAM
+1 _UID 2DF51428682DD14991D1A01B0ABFC4560D9E
+1 HUSB @I50649@
+1 WIFE @I50645@
+0 @F17730@ FAM
+1 _UID 60BBF9D33A4419478CD7C8FAB723C2870D8A
+1 HUSB @I50650@
+1 WIFE @I50646@
+0 @F17731@ FAM
+1 _UID 88912A430708864289884008539CBBF2521C
+1 HUSB @I50651@
+1 WIFE @I50652@
+0 @F17736@ FAM
+1 _UID ABEF4981E569874DAB00CB8C058D431B78A8
+1 HUSB @I50664@
+1 WIFE @I50665@
+1 CHIL @I50680@
+1 CHIL @I50681@
+1 CHIL @I50682@
+1 CHIL @I50683@
+1 CHIL @I2568@
+1 CHIL @I50684@
+1 CHIL @I50685@
+1 CHIL @I50686@
+1 CHIL @I50687@
+1 CHIL @I50688@
+1 MARR
+2 DATE 26 Jul 1866
+2 PLAC Wayne County, Tennessee
+0 @F17738@ FAM
+1 _UID 523895BB60E3EF49A1EFB90FF9E71A640B98
+1 CHIL @I53047@
+0 @F17742@ FAM
+1 _UID 519C6E9345728646A529B00D675CA1A909C6
+1 HUSB @I50680@
+1 WIFE @I50689@
+1 MARR
+2 DATE 2 Mar 1890
+2 PLAC Wayne County, Tennessee
+0 @F17743@ FAM
+1 _UID B6F4AAE0A9562B48956C45E63AE7A7CD679C
+1 HUSB @I50681@
+1 WIFE @I50690@
+1 CHIL @I52921@
+1 CHIL @I52927@
+1 CHIL @I52962@
+1 CHIL @I52979@
+1 CHIL @I52973@
+1 CHIL @I52980@
+1 CHIL @I52982@
+1 CHIL @I50699@
+1 CHIL @I52991@
+1 MARR
+2 DATE 15 Jul 1894
+2 PLAC Wayne County, Tennessee
+0 @F17744@ FAM
+1 _UID AA78C0881F03BF478AFC986802640C42CCF4
+1 HUSB @I50682@
+1 WIFE @I50691@
+1 MARR
+2 DATE 1 Oct 1896
+2 PLAC Wayne County, Tennessee
+0 @F17745@ FAM
+1 _UID 15EC2DF776BC0A40BD104D6BCEE13082875F
+1 HUSB @I50692@
+1 WIFE @I50685@
+0 @F17746@ FAM
+1 _UID 71DD884E19DFF44F830829FF587C4EF4281E
+1 HUSB @I50693@
+1 WIFE @I50686@
+0 @F17747@ FAM
+1 _UID 0BF14ADC9F169D4D9074D37C9E7364F57EDC
+1 HUSB @I50687@
+1 WIFE @I50694@
+1 CHIL @I120@
+1 MARR
+2 DATE 1 Aug 1906
+2 PLAC Wayne County, Tennessee
+0 @F17748@ FAM
+1 _UID 3369E7B2B5ABD34193F3F48629B7823E49FD
+1 HUSB @I50687@
+1 WIFE @I50695@
+1 MARR
+2 DATE 10 Jan 1921
+2 PLAC Wayne County, Tennessee
+0 @F17749@ FAM
+1 _UID FA7B97A06689EE47B803DDE9933B7EBB58F1
+1 HUSB @I50688@
+1 WIFE @I50696@
+0 @F1775@ FAM
+1 _UID C39D18D7D2F7604DA956F1E5527D9DEFF531
+1 CHIL @I44212@
+1 MARR
+2 DATE 9 Nov 1890
+2 PLAC Wayne County, Tennessee
+0 @F17750@ FAM
+1 _UID 1C95441731C4114FB5C862A7A188330245BA
+1 CHIL @I50690@
+1 MARR
+2 DATE 3 Nov 1874
+2 PLAC Wayne County, Tennessee
+0 @F17751@ FAM
+1 _UID 944778D57025D347BFB67255517C1902FB91
+1 HUSB @I50700@
+1 WIFE @I50699@
+0 @F17760@ FAM
+1 _UID 5CB9C45FB4315B44A984E3935125C3EF87DC
+1 CHIL @I35648@
+0 @F17761@ FAM
+1 _UID 71C6327988D50E47829354F032447E4122AB
+1 HUSB @I50738@
+1 WIFE @I50729@
+0 @F17762@ FAM
+1 _UID 4B6550E90BFD7641BF2FEC9612C7222134D1
+1 HUSB @I50730@
+1 WIFE @I50739@
+1 MARR
+2 DATE 1 Jan 1893
+2 PLAC Wayne County, Tennessee
+0 @F17763@ FAM
+1 _UID 9D4C51980422094FB3F1DA3B2D98E74E033B
+1 HUSB @I50740@
+1 WIFE @I50731@
+1 CHIL @I53202@
+1 CHIL @I53203@
+1 CHIL @I53204@
+1 CHIL @I53205@
+1 CHIL @I38095@
+1 MARR
+2 DATE 12 Aug 1888
+2 PLAC Wayne County, Tennessee
+0 @F17764@ FAM
+1 _UID 2FE477F5573407408915157C5057C96B5B1C
+1 HUSB @I50732@
+1 WIFE @I50741@
+1 MARR
+2 DATE 1 Oct 1896
+2 PLAC Wayne County, Tennessee
+0 @F17765@ FAM
+1 _UID F9BA3EF501F8434E8DA6EC2AAC0A398E3675
+1 HUSB @I50742@
+1 WIFE @I50734@
+1 MARR
+2 DATE 29 Nov 1897
+2 PLAC Wayne County, Tennessee
+0 @F17766@ FAM
+1 _UID 3D4042A5C3216F498F2BEB28EDBC1A4BDB59
+1 HUSB @I50743@
+1 WIFE @I50736@
+1 MARR
+2 DATE 26 Sep 1907
+2 PLAC Wayne County, Tennessee
+0 @F17767@ FAM
+1 _UID FF4F66B2AB7EE545AC9875A7C4B95B7364E9
+1 HUSB @I50744@
+1 WIFE @I50726@
+1 CHIL @I50758@
+1 CHIL @I50759@
+1 CHIL @I50760@
+1 CHIL @I50761@
+1 CHIL @I50762@
+1 CHIL @I50763@
+1 MARR
+2 DATE 15 Nov 1859
+2 PLAC Wayne County, Tennessee
+0 @F17768@ FAM
+1 _UID F50CB562B4306A449A8E29A8C64585DE11AB
+1 HUSB @I50725@
+1 WIFE @I50745@
+1 CHIL @I50747@
+1 CHIL @I50748@
+1 CHIL @I50749@
+1 CHIL @I50750@
+1 CHIL @I50751@
+1 CHIL @I50752@
+1 CHIL @I50753@
+1 CHIL @I50754@
+1 CHIL @I50755@
+0 @F17769@ FAM
+1 _UID BA44204A67E2784198B84EB27E6B90AEE1BE
+1 HUSB @I50725@
+1 WIFE @I50746@
+1 CHIL @I50757@
+1 MARR
+2 DATE 20 May 1878
+2 PLAC Wayne County, Tennessee
+0 @F17770@ FAM
+1 _UID 2CB671E17D06024793EF0B2DEF52EEA08928
+1 HUSB @I50756@
+1 WIFE @I50749@
+1 MARR
+2 DATE 30 May 1882
+2 PLAC Wayne County, Tennessee
+0 @F17771@ FAM
+1 _UID 3C82EDEB5D325E4D8C6F6BF452E5D974AEF2
+1 WIFE @I50764@
+1 CHIL @I50766@
+0 @F17772@ FAM
+1 _UID 7DCD9F168DECBD4C968E4C2F3BD44F28A6E4
+1 HUSB @I50766@
+1 WIFE @I50767@
+1 CHIL @I50772@
+0 @F17773@ FAM
+1 _UID 4B1BF48A1ACCEB4B951B9B5CF35FE1DCB6C6
+1 CHIL @I50744@
+1 MARR
+2 DATE 13 Nov 1813
+0 @F1781@ FAM
+1 _UID B36ABCBEEF94E14E8C88909C6A99B7D71AA8
+1 CHIL @I4536@
+0 @F18180@ FAM
+1 _UID D145CD0470D9A24D86EC948598849D50B34C
+1 CHIL @I50745@
+1 CHIL @I33227@
+0 @F18205@ FAM
+1 _UID 9D073D699F843D43AF797841AA057DFEF84C
+1 CHIL @I55300@
+1 MARR
+2 DATE 5 May 1812
+2 PLAC Williamson County, Tennessee
+0 @F18295@ FAM
+1 _UID 71385BD3AA5670409689330E21D979D22C0D
+1 HUSB @I16950@
+1 WIFE @I52227@
+1 CHIL @I52307@
+1 CHIL @I52308@
+1 CHIL @I52309@
+1 CHIL @I52310@
+1 CHIL @I52311@
+1 MARR
+2 DATE 7 Jul 1871
+2 PLAC Wayne County, Tennessee
+0 @F18306@ FAM
+1 _UID A4FF6E68721D284E82F5A3FCB07C588CA453
+1 CHIL @I7891@
+1 MARR
+2 DATE 24 Aug 1902
+2 PLAC Wayne County, Tennessee
+1 NOTE Joseph Alonzo and Martha Jane were married at the home of J. R. Southerland by Wm. Johnson. F
+2 CONC ate Hall and Leonard Reaves were witnesses.
+0 @F18317@ FAM
+1 _UID 382EC0CF69DE0047AD12A91F7253163A1FC8
+1 HUSB @I56403@
+1 WIFE @I56390@
+1 CHIL @I56404@
+1 CHIL @I56405@
+1 CHIL @I56406@
+1 CHIL @I56407@
+1 CHIL @I56408@
+1 CHIL @I56409@
+1 CHIL @I56410@
+0 @F18318@ FAM
+1 _UID 5C653AE05AD9F74FA68BA2A121601235901A
+1 HUSB @I52312@
+1 WIFE @I52307@
+1 MARR
+2 DATE 5 Sep 1896
+2 PLAC Wayne County, Tennessee
+0 @F18319@ FAM
+1 _UID 3BAEB0A0C59959498DA2D43FBBCFD520FAA8
+1 HUSB @I52310@
+1 WIFE @I52313@
+1 MARR
+2 DATE 1892
+0 @F18481@ FAM
+1 HUSB @I52686@
+1 WIFE @I2019@
+0 @F18536@ FAM
+1 _UID 1680143C4557124E9175EE6F51906669F512
+1 HUSB @I52922@
+1 WIFE @I52921@
+1 CHIL @I52923@
+1 MARR
+2 DATE 4 Jul 1914
+2 PLAC Maud, Seminole County, Oklahoma
+0 @F18537@ FAM
+1 _UID 2AB61F6F16F5544C872B6F277FC47CBBDBDF
+1 HUSB @I52923@
+1 WIFE @I52924@
+1 CHIL @I52925@
+1 CHIL @I52926@
+0 @F18538@ FAM
+1 _UID ADB1EC4C340CFA4A945E1C21C17EFB06893E
+1 HUSB @I52928@
+1 WIFE @I52927@
+1 CHIL @I52929@
+1 CHIL @I52930@
+1 CHIL @I52931@
+1 CHIL @I52932@
+1 CHIL @I52933@
+1 CHIL @I52934@
+1 CHIL @I52935@
+1 MARR
+2 DATE 10 Aug 1919
+2 PLAC Oklahoma
+0 @F18539@ FAM
+1 _UID FC6444DF9D11384AA9F36B48D1F22BF4E4C3
+1 HUSB @I52929@
+1 WIFE @I52936@
+1 CHIL @I52937@
+0 @F18540@ FAM
+1 HUSB @I52937@
+1 WIFE @I52938@
+1 CHIL @I52939@
+0 @F18541@ FAM
+1 _UID 99BCDF6CDDD9E645990476F879E26E308570
+1 HUSB @I52930@
+1 WIFE @I52940@
+1 CHIL @I52941@
+1 CHIL @I52942@
+0 @F18542@ FAM
+1 HUSB @I52943@
+1 WIFE @I52942@
+0 @F18543@ FAM
+1 HUSB @I52931@
+1 WIFE @I52944@
+1 CHIL @I52945@
+1 CHIL @I52946@
+1 CHIL @I52947@
+0 @F18544@ FAM
+1 HUSB @I52932@
+1 WIFE @I52948@
+1 CHIL @I52949@
+1 CHIL @I52950@
+1 CHIL @I52951@
+0 @F18545@ FAM
+1 HUSB @I52952@
+1 WIFE @I52933@
+1 CHIL @I52953@
+1 CHIL @I52954@
+0 @F18546@ FAM
+1 HUSB @I52955@
+1 WIFE @I52933@
+1 CHIL @I52956@
+1 CHIL @I52957@
+0 @F18547@ FAM
+1 HUSB @I52958@
+1 WIFE @I52933@
+0 @F18548@ FAM
+1 HUSB @I52959@
+1 WIFE @I52935@
+1 CHIL @I52960@
+1 CHIL @I52961@
+0 @F18549@ FAM
+1 _UID ED1408F8D1BA7E4382365CC34CB40E2A5C28
+1 HUSB @I52962@
+1 WIFE @I52963@
+1 CHIL @I52964@
+1 CHIL @I52965@
+0 @F18550@ FAM
+1 _UID C757D3B2A3CB7140828DAA510FB5EB81FC52
+1 HUSB @I52966@
+1 WIFE @I52964@
+1 CHIL @I52967@
+1 CHIL @I52968@
+1 CHIL @I52969@
+0 @F18551@ FAM
+1 HUSB @I52965@
+1 WIFE @I52970@
+1 CHIL @I52971@
+1 CHIL @I52972@
+0 @F18552@ FAM
+1 _UID 9C10C6792C50974CB60327E48515E5BF4CBA
+1 HUSB @I52973@
+1 WIFE @I52974@
+1 CHIL @I52976@
+0 @F18553@ FAM
+1 _UID B4535C8B898B4A4DB34AF31086F4E5ADA53D
+1 DIV Y
+1 HUSB @I52973@
+1 WIFE @I52975@
+1 CHIL @I52977@
+1 CHIL @I52978@
+0 @F18554@ FAM
+1 _UID E1A8DDD6EC7CBF43B7636C2E3BE296566300
+1 HUSB @I52980@
+1 WIFE @I52981@
+0 @F18555@ FAM
+1 _UID BB40817E2B22414C9326E958F65B676DF388
+1 HUSB @I52983@
+1 WIFE @I52982@
+1 CHIL @I52984@
+1 CHIL @I52985@
+1 CHIL @I52986@
+0 @F18556@ FAM
+1 _UID 7970385665E6384BA7025321493ED05B14B5
+1 HUSB @I52987@
+1 WIFE @I52984@
+1 CHIL @I52988@
+1 CHIL @I52989@
+0 @F18557@ FAM
+1 HUSB @I52985@
+1 WIFE @I52990@
+0 @F18558@ FAM
+1 _UID BA037410F489EF4585096A41C323207CAD64
+1 DIV Y
+1 HUSB @I52991@
+1 WIFE @I52992@
+1 CHIL @I52993@
+0 @F18559@ FAM
+1 _UID 632D454D36F8244BB1060772AD84D7D2C993
+1 HUSB @I52991@
+1 WIFE @I52994@
+1 CHIL @I52995@
+0 @F18560@ FAM
+1 HUSB @I52996@
+1 WIFE @I52995@
+0 @F18561@ FAM
+1 _UID C83BA0F28134A044955CEC911EC390808DD5
+1 HUSB @I52991@
+1 WIFE @I52997@
+0 @F18625@ FAM
+1 _UID DED90DAA92D19B40871E5888ED64D9AE0912
+1 HUSB @I50730@
+1 WIFE @I53047@
+1 CHIL @I53206@
+1 CHIL @I53208@
+1 CHIL @I53209@
+1 CHIL @I53210@
+1 CHIL @I53211@
+1 CHIL @I53212@
+0 @F18626@ FAM
+1 _UID B985407D86C0BA4BB4C45161987193E6F229
+1 HUSB @I50735@
+1 WIFE @I53201@
+1 MARR
+2 DATE 1901
+0 @F18627@ FAM
+1 _UID 5FA0787A0755054BA850F1EE82EEA16AEF1C
+1 HUSB @I53206@
+1 WIFE @I53207@
+0 @F18628@ FAM
+1 _UID E539C12771AF9247956D88C9F7862DCECA8A
+1 HUSB @I50730@
+1 WIFE @I53213@
+1 CHIL @I53214@
+1 CHIL @I53215@
+1 CHIL @I53216@
+1 CHIL @I53217@
+1 CHIL @I53218@
+1 CHIL @I53219@
+1 CHIL @I53220@
+0 @F18629@ FAM
+1 _UID 8CC7AB596D8745408BB6F319DADE54668FB4
+1 HUSB @I53221@
+1 WIFE @I53214@
+0 @F18630@ FAM
+1 _UID EA56CE209FCC0F4799E2F8413B648CEEBC04
+1 HUSB @I53222@
+1 WIFE @I53216@
+0 @F18631@ FAM
+1 _UID A0D405BDDB294E418836568C565428A9E46E
+1 HUSB @I53223@
+1 WIFE @I53217@
+0 @F18632@ FAM
+1 _UID D85B8B81A1F0E244810EA666B0CBA5B7687E
+1 HUSB @I53224@
+1 WIFE @I53218@
+0 @F18633@ FAM
+1 _UID FCE4A607B4694F488EA0D63074422CF047BE
+1 HUSB @I53225@
+1 WIFE @I53209@
+0 @F18634@ FAM
+1 _UID 7B92089D75923E4F98D1480BDEA3C35AA03B
+1 HUSB @I53226@
+1 WIFE @I53210@
+0 @F19396@ FAM
+1 _UID F81E43E3D175014898582AA47A1145E23BB7
+1 HUSB @I33224@
+1 WIFE @I55300@
+1 CHIL @I55301@
+1 CHIL @I55302@
+1 CHIL @I52227@
+1 CHIL @I55304@
+1 CHIL @I55305@
+1 CHIL @I55306@
+1 CHIL @I55307@
+1 CHIL @I32343@
+1 NOTE Sarah was one of James A. Lawson's concubines. Her children were recognized personally as bei
+2 CONC ng half-siblings of the legitimate chlidren of James A. Lawson and his wife, Mary White, bu
+2 CONC t are not recognized in any legal way.
+2 CONT James A. Lawson had another concubine in Wayne County TN during same period he was married t
+2 CONC o Mary White and fathering children by Sarah Reaves.  I don't have her name.  He abandoned al
+2 CONC l his Wayne County family following the Civil War and moved to Hickman County, Tennessee wher
+2 CONC e he married in bigamy another woman and fathered another 6 or 8 children. While he did hav
+2 CONC e a marriage license for this last woman, it was declared invalid by the courts following hi
+2 CONC s death and his children by her were disinherited.
+0 @F19397@ FAM
+1 _UID EF1FE1AC4484F74EB6EFEB4BDE5B74639311
+1 HUSB @I55301@
+1 WIFE @I55309@
+1 CHIL @I55416@
+1 CHIL @I55417@
+1 CHIL @I55418@
+1 CHIL @I55419@
+1 CHIL @I55420@
+1 CHIL @I55421@
+1 CHIL @I55422@
+1 CHIL @I55423@
+1 CHIL @I55424@
+1 CHIL @I55425@
+1 CHIL @I55426@
+1 CHIL @I55427@
+1 CHIL @I55428@
+1 MARR
+2 DATE 28 Dec 1866
+2 PLAC Wayne County, Tennessee
+0 @F19398@ FAM
+1 _UID C1A7AEC54745FE4F9D1968452716AA706E5E
+1 HUSB @I55302@
+1 WIFE @I55310@
+1 CHIL @I55303@
+1 CHIL @I52306@
+1 CHIL @I52305@
+1 CHIL @I56388@
+1 CHIL @I56389@
+1 MARR
+2 DATE 24 Aug 1866
+2 PLAC Wayne County, Tennessee
+0 @F19399@ FAM
+1 _UID 73A20B3590A25A43943756FCCF8EC299F9A2
+1 HUSB @I55305@
+1 WIFE @I55311@
+1 CHIL @I56390@
+1 CHIL @I56391@
+1 CHIL @I56392@
+1 CHIL @I56393@
+1 CHIL @I56394@
+1 CHIL @I56395@
+1 CHIL @I56396@
+1 CHIL @I56397@
+1 CHIL @I56398@
+1 CHIL @I56399@
+1 MARR
+2 DATE 12 Nov 1874
+2 PLAC Wayne County, Tennessee
+0 @F19400@ FAM
+1 _UID 1519AA8CE8BEDC428772424079C5680D5655
+1 HUSB @I55306@
+1 WIFE @I55312@
+1 CHIL @I56400@
+1 CHIL @I56401@
+1 CHIL @I56402@
+1 MARR
+2 DATE 1885
+0 @F19401@ FAM
+1 _UID F9B463B65DBCD040A03825D0BB477B235CE4
+1 HUSB @I55307@
+1 WIFE @I55313@
+1 MARR
+2 DATE 30 Mar 1890
+0 @F19773@ FAM
+1 _UID 50092F89E08C3F4D92FF0504309464E5B0A1
+1 HUSB @I56391@
+1 WIFE @I56411@
+1 CHIL @I56414@
+1 CHIL @I56415@
+1 CHIL @I56416@
+1 CHIL @I56417@
+1 CHIL @I56418@
+1 CHIL @I56419@
+1 MARR
+2 DATE 30 Nov 1902
+0 @F19774@ FAM
+1 _UID 0E01BAAD431A1841A28B1C2384BD0BF2D6E2
+1 CHIL @I56411@
+1 CHIL @I56413@
+0 @F19775@ FAM
+1 _UID AAED40371983D543876E091E71EA8EF0B7DC
+1 HUSB @I56393@
+1 WIFE @I56413@
+1 CHIL @I56423@
+1 CHIL @I56424@
+1 CHIL @I56425@
+1 CHIL @I56426@
+1 CHIL @I56427@
+1 CHIL @I56428@
+1 CHIL @I56429@
+1 CHIL @I56430@
+1 CHIL @I56431@
+1 MARR
+2 DATE 1903
+0 @F19776@ FAM
+1 _UID C251736FDD9AFE44800DE46A12C38F8C7916
+1 HUSB @I56416@
+1 WIFE @I56420@
+0 @F19777@ FAM
+1 _UID C1215AF75FEB3A4A838EA2651844FCCF4093
+1 HUSB @I56421@
+1 WIFE @I56418@
+0 @F19778@ FAM
+1 _UID 8068FC3ED20F0048914CECE5E890AAA4BFF0
+1 CHIL @I56420@
+1 CHIL @I56421@
+0 @F19779@ FAM
+1 _UID 89CE7EAB7C67094E83D69149019F2F823E10
+1 DIV Y
+1 HUSB @I56425@
+1 WIFE @I56432@
+0 @F1978@ FAM
+1 HUSB @I4536@
+1 WIFE @I4821@
+1 CHIL @I4822@
+1 CHIL @I4823@
+0 @F19780@ FAM
+1 _UID 1C6F95B065B26649842893E76672DB9706AE
+1 HUSB @I56395@
+1 WIFE @I56433@
+1 CHIL @I56434@
+1 CHIL @I56435@
+1 CHIL @I56436@
+1 CHIL @I56437@
+1 CHIL @I56438@
+1 CHIL @I56439@
+1 CHIL @I56440@
+0 @F19781@ FAM
+1 _UID 600986F8A95A4C42869860CEC888582591B2
+1 HUSB @I56434@
+1 WIFE @I56441@
+0 @F19782@ FAM
+1 _UID 96FF6403B8C7CD45B5643954BEF3251D2622
+1 HUSB @I56442@
+1 WIFE @I56439@
+0 @F19783@ FAM
+1 _UID 8FC0E27C45A4544AA41E7B5D8C8844719768
+1 HUSB @I56443@
+1 WIFE @I56396@
+1 CHIL @I56444@
+1 CHIL @I56445@
+1 CHIL @I56446@
+1 MARR
+2 DATE 1904/1905
+0 @F19784@ FAM
+1 _UID AE54CA12721B1C47AF034CE56CF94DCF32AC
+1 HUSB @I56397@
+1 WIFE @I56447@
+1 CHIL @I56448@
+1 CHIL @I56449@
+1 CHIL @I56450@
+1 CHIL @I56451@
+1 MARR
+2 DATE 1913/1914
+0 @F19785@ FAM
+1 _UID B2BED6D80F9E3A49B6A1D0647388E72AE588
+1 HUSB @I56398@
+1 WIFE @I56452@
+1 CHIL @I56453@
+1 CHIL @I56454@
+0 @F19786@ FAM
+1 _UID F02EBC3D1CD9AB45881E457F3D59CDA26B37
+1 HUSB @I56455@
+1 WIFE @I56438@
+1 CHIL @I56456@
+1 CHIL @I56457@
+1 CHIL @I56458@
+1 CHIL @I56459@
+1 CHIL @I56460@
+1 CHIL @I56461@
+1 CHIL @I56462@
+0 @F19788@ FAM
+1 _UID F72769ECFAEA69478A62D6D1947DEE6801F4
+1 CHIL @I55311@
+1 MARR
+2 DATE ABT 1856/1857
+0 @F19840@ FAM
+1 _UID AA1173FB8283124EA51AEAF05540D03ECACF
+1 CHIL @I56443@
+0 @F2020@ FAM
+1 HUSB @I4822@
+0 @F20280@ FAM
+1 _UID 36416BBF50B6BE45A73E340BE5A348C56352
+1 CHIL @I50639@
+0 @F21315@ FAM
+1 _UID AA932387EB181C4BA408CE1E14A4AAFF4A1A
+1 CHIL @I2017@
+1 MARR
+2 DATE 4 Aug 1910
+2 PLAC Wayne County, Tennessee
+0 @F21770@ FAM
+1 _UID 06D7572467FFCA42B5B7BC89A73E3DCE6BEA
+1 HUSB @I61583@
+1 WIFE @I19941@
+0 @F21884@ FAM
+1 _UID 7FC905EE14D78D499DC6942AFC355ED68210
+1 HUSB @I53202@
+1 WIFE @I61839@
+1 CHIL @I61840@
+1 CHIL @I61841@
+0 @F21885@ FAM
+1 HUSB @I61842@
+1 WIFE @I61841@
+0 @F21886@ FAM
+1 HUSB @I61840@
+1 WIFE @I61843@
+1 CHIL @I61844@
+1 CHIL @I61845@
+1 CHIL @I61846@
+1 CHIL @I61847@
+0 @F21887@ FAM
+1 HUSB @I61848@
+1 WIFE @I61847@
+0 @F21888@ FAM
+1 HUSB @I61849@
+1 WIFE @I61846@
+0 @F21889@ FAM
+1 _UID 2E72859DBC52D4478C963070FBB7C5ACD0FB
+1 WIFE @I61839@
+0 @F22727@ FAM
+1 _UID BBB2E5AB7D74CC40B0DF6A1DE753EEFE3678
+1 CHIL @I64451@
+0 @F22733@ FAM
+1 _UID 496BEA9B3633B643B0E6BEA063CF70194A00
+1 HUSB @I53203@
+1 WIFE @I44212@
+1 CHIL @I30829@
+1 CHIL @I6262@
+1 CHIL @I32208@
+1 CHIL @I42069@
+1 CHIL @I9234@
+1 CHIL @I64476@
+1 CHIL @I64477@
+0 @F22794@ FAM
+1 _UID DE691F8034956748A4FBDCA531D61F1EC29E
+1 HUSB @I64451@
+1 WIFE @I38096@
+0 @F23009@ FAM
+1 _UID 1C63433850166342B14A5BA171258EBCDCD1
+1 HUSB @I65072@
+1 WIFE @I65071@
+0 @F23367@ FAM
+1 WIFE @I2024@
+1 CHIL @I52682@
+0 @F23368@ FAM
+1 HUSB @I66239@
+1 WIFE @I2024@
+0 @F23369@ FAM
+1 _UID 65CF752B3E004846B550728246D5968ED893
+1 HUSB @I66239@
+0 @F23370@ FAM
+1 HUSB @I2023@
+1 WIFE @I66244@
+1 CHIL @I66247@
+0 @F23371@ FAM
+1 CHIL @I66244@
+0 @F23372@ FAM
+1 HUSB @I2022@
+1 WIFE @I66248@
+1 CHIL @I66249@
+1 CHIL @I66250@
+0 @F23373@ FAM
+1 HUSB @I2021@
+1 WIFE @I66251@
+1 CHIL @I66252@
+1 CHIL @I66253@
+1 CHIL @I66254@
+1 CHIL @I66255@
+0 @F23374@ FAM
+1 _UID 6FCA176E8FA9AC40A8FD0122F29057D75A65
+1 CHIL @I66251@
+0 @F23375@ FAM
+1 HUSB @I2018@
+1 WIFE @I66258@
+1 CHIL @I66259@
+1 CHIL @I66260@
+1 CHIL @I66261@
+0 @F23376@ FAM
+1 HUSB @I66259@
+1 WIFE @I41933@
+0 @F23377@ FAM
+1 HUSB @I66262@
+1 WIFE @I66265@
+0 @F23378@ FAM
+1 HUSB @I66266@
+1 WIFE @I66263@
+1 CHIL @I66267@
+1 CHIL @I66268@
+1 CHIL @I66269@
+0 @F23379@ FAM
+1 HUSB @I66270@
+1 WIFE @I66264@
+1 CHIL @I66271@
+1 CHIL @I66272@
+0 @F23423@ FAM
+1 _UID 6FDB68BF761CF6408411AB9CE554398007E7
+1 CHIL @I9247@
+1 MARR
+2 DATE Sep 1937
+0 @F24188@ FAM
+1 _UID 7527E9CB74F4B04A94459A164FF5616242D8
+1 HUSB @I68603@
+1 WIFE @I2013@
+0 @F24189@ FAM
+1 _UID 5E6F142550EE8E4C931F8BB4B7EBEA26C15A
+1 HUSB @I68604@
+1 WIFE @I2014@
+0 @F24190@ FAM
+1 _UID 3C8D32A924F49F4EBDBB04420537F542DAC0
+1 HUSB @I68605@
+1 WIFE @I2014@
+0 @F2459@ FAM
+1 _UID A8A3BB57DF5B5C428E495C5915099EF26FEA
+1 CHIL @I6255@
+1 MARR
+2 DATE 29 Jan 1911
+2 PLAC Wayne County, Tennessee
+0 @F2485@ FAM
+1 _UID DDD100E10D400E44B377B7C2A3E7279214D6
+1 HUSB @I6262@
+1 WIFE @I6255@
+0 @F2539@ FAM
+1 _UID 584652D8389F0C4AB9DC1B948C8F0BF554CF
+1 CHIL @I2011@
+1 MARR
+2 DATE 19 Aug 1902
+2 PLAC Wayne County, Tennessee
+0 @F25399@ FAM
+1 HUSB @I72180@
+1 WIFE @I30835@
+0 @F26290@ FAM
+1 HUSB @I74977@
+1 WIFE @I74978@
+0 @F2914@ FAM
+1 _UID F782C438A0EBEE45AF72B38C921269F191B5
+1 HUSB @I7891@
+0 @F3343@ FAM
+1 HUSB @I9221@
+1 WIFE @I9234@
+1 CHIL @I9235@
+1 CHIL @I9236@
+1 CHIL @I9237@
+0 @F3350@ FAM
+1 HUSB @I9235@
+1 WIFE @I9247@
+1 CHIL @I9248@
+1 CHIL @I9249@
+0 @F3351@ FAM
+1 HUSB @I9246@
+1 WIFE @I9236@
+0 @F540@ FAM
+1 _UID D6D02C416D707A4CA0D5AAA5FCECB3CEE391
+1 CHIL @I2558@
+1 MARR
+2 DATE 31 Oct 1861
+2 PLAC Wayne County, Tennessee
+0 @F59@ FAM
+1 _UID EF1AE24DECA52A4B8F5FB3A77B61D9508BC0
+1 CHIL @I114@
+1 MARR
+2 DATE 16 Sep 1900
+2 PLAC Wayne County, Tennessee
+0 @F62@ FAM
+1 _UID 319DCF40A65544408463F6D9308EC8CD65C9
+1 HUSB @I114@
+1 WIFE @I120@
+1 CHIL @I41608@
+1 CHIL @I41610@
+1 CHIL @I41609@
+0 @F6377@ FAM
+1 _UID 11C5D59A4D2C1840883F305DB1FD6C59DD99
+1 CHIL @I19931@
+1 MARR
+2 DATE 18 Dec 1900
+2 PLAC Flatwoods, Wayne(Perry), Tennessee
+0 @F646@ FAM
+1 _UID B6C802FA31E85240B392EC8FFB5DF7114589
+1 CHIL @I1328@
+1 MARR
+2 DATE 1849
+2 PLAC Wayne County, Tennessee
+0 @F650@ FAM
+1 _UID EC02E0FACC6D1C42B0964276026AF5450362
+1 HUSB @I1331@
+1 WIFE @I1328@
+1 CHIL @I1332@
+1 CHIL @I50764@
+1 CHIL @I50765@
+1 MARR
+2 DATE 18 Nov 1866
+2 PLAC Wayne County, Tennessee
+0 @F651@ FAM
+1 _UID F87A8DCA3A82814F95BDCB73DF185D96CFA5
+1 HUSB @I1332@
+1 WIFE @I1333@
+1 CHIL @I1334@
+1 CHIL @I1335@
+1 CHIL @I1336@
+1 MARR
+2 DATE 15 Jun 1893
+2 PLAC Wayne County, Tennessee
+0 @F653@ FAM
+1 _UID C3B2F9BA95D0F24392548A0AC3D6BABF4E74
+1 CHIL @I1333@
+1 MARR
+2 DATE 3 Aug 1865
+2 PLAC Wayne County, Tennessee
+0 @F67@ FAM
+1 _UID E1AF0354CCA50C44B1AF86D8835DF22F6725
+1 CHIL @I127@
+1 MARR
+2 DATE 8 Feb 1891
+2 PLAC Wayne County, Tennessee
+0 @F68@ FAM
+1 _UID 143F9E2A56434947AB15A59B41D263A35DAC
+1 HUSB @I127@
+1 WIFE @I126@
+1 CHIL @I2009@
+1 CHIL @I2010@
+1 MARR
+2 DATE 22 Feb 1913
+2 PLAC Wayne County, Tennessee
+0 @F69@ FAM
+1 _UID BFF8D8DE6E23AC478247466E54D4CCC52762
+1 HUSB @I32342@
+1 WIFE @I32343@
+1 CHIL @I55414@
+1 CHIL @I55415@
+1 CHIL @I126@
+1 MARR
+2 DATE 1874
+2 PLAC Wayne County, Tennessee
+0 @F7135@ FAM
+1 _UID DBA4CCDF2974304D81BF98E0F7A0093FDB82
+1 HUSB @I19940@
+1 WIFE @I19931@
+1 CHIL @I20011@
+1 CHIL @I20012@
+1 CHIL @I20013@
+0 @F7139@ FAM
+1 _UID BEFEE6036813304A854B4CDBE7A3820BA880
+1 HUSB @I28196@
+1 WIFE @I19937@
+1 CHIL @I19939@
+1 CHIL @I19940@
+1 CHIL @I61584@
+1 CHIL @I19941@
+1 CHIL @I28220@
+1 MARR
+2 DATE 23 Nov 1899
+2 PLAC Wayne County, Tennessee
+0 @F7140@ FAM
+1 _UID F5B9870045AB4349892A38BE42DC8E171D90
+1 HUSB @I28196@
+1 MARR
+2 DATE 15 Sep 1912
+2 PLAC Wayne County, Tennessee
+0 @F7141@ FAM
+1 _UID 41BE2156BF24D74E8803582BA55054DEB348
+1 HUSB @I19939@
+1 WIFE @I27516@
+1 CHIL @I27517@
+1 MARR
+2 DATE 31 Jan 1926
+0 @F7143@ FAM
+1 _UID C92522C075B5D0409682C31015F8CBAA7796
+1 HUSB @I19943@
+1 WIFE @I19941@
+1 CHIL @I65071@
+0 @F7144@ FAM
+1 _UID 26C06A899479FF4885B1E72A6086A34441D9
+1 CHIL @I19943@
+1 MARR
+2 DATE 13 Nov 1892
+2 PLAC Wayne County, Tennessee
+0 @F7145@ FAM
+1 _UID 65F2453333131649B40E31D04CBDECED19E1
+1 HUSB @I7891@
+1 WIFE @I28220@
+1 CHIL @I52295@
+1 CHIL @I52624@
+0 @F7146@ FAM
+1 _UID 8F88A3C55919CF4399F5C3D515C7022E3594
+1 HUSB @I19945@
+1 WIFE @I28220@
+0 @F7190@ FAM
+1 HUSB @I20011@
+1 WIFE @I20014@
+1 CHIL @I20015@
+1 CHIL @I20016@
+0 @F7191@ FAM
+1 _UID 3CD5D07F6970914A8FAF7689A400A08E231E
+1 HUSB @I20017@
+1 WIFE @I20012@
+1 CHIL @I20018@
+1 CHIL @I20019@
+1 CHIL @I20020@
+0 @F7192@ FAM
+1 HUSB @I20021@
+1 WIFE @I20013@
+0 @F7193@ FAM
+1 HUSB @I20022@
+1 WIFE @I20013@
+0 @F722@ FAM
+1 _UID 9913915A460232408ECE64275A57AD16ACC9
+1 CHIL @I7130@
+1 MARR
+2 DATE 24 Nov 1889
+2 PLAC Wayne County, Tennessee
+0 @F789@ FAM
+1 _UID 7924D6F81B5FC04C8121C57F154C836A252D
+1 CHIL @I30808@
+1 MARR
+2 DATE 27 Jul 1919
+2 PLAC Wayne County, Tennessee
+0 @F934@ FAM
+1 _UID 2AB2EC081F832146BD6D2A033DD5B9F3EEF9
+1 HUSB @I2011@
+1 WIFE @I2009@
+1 CHIL @I2012@
+1 CHIL @I2013@
+1 CHIL @I2014@
+0 @F935@ FAM
+1 _UID 037A6D36ACF17F4AB7D8B6AAB814DD9BB9AC
+1 HUSB @I2017@
+1 WIFE @I2010@
+1 CHIL @I2019@
+1 CHIL @I2020@
+1 CHIL @I2018@
+1 CHIL @I2021@
+1 CHIL @I2022@
+1 CHIL @I2023@
+1 CHIL @I2024@
+0 @F936@ FAM
+1 HUSB @I2012@
+1 WIFE @I2015@
+0 @F937@ FAM
+1 HUSB @I2012@
+1 WIFE @I2016@
+0 @F9661@ FAM
+1 _UID 61DFC121E7D21949A00911FA3000B3F6CA64
+1 CHIL @I28196@
+1 MARR
+2 DATE 5 Oct 1871
+2 PLAC Wayne County, Tennessee
+0 @F9668@ FAM
+1 _UID 072B8483AAE3BD4DA40258924BC6FE19884F
+1 HUSB @I28221@
+1 WIFE @I28220@
+0 TRLR

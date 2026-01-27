@@ -1,0 +1,993 @@
+0 HEAD
+1 SOUR Legacy
+2 VERS 6.0
+2 NAME Legacy (R)
+2 CORP Millennia Corp.
+3 ADDR PO Box 9410
+4 CONT Surprise, AZ 85374
+1 DEST Legacy
+1 DATE 19 Jun 2009
+1 SUBM @S0@
+1 FILE C:\Users\Ann\Documents\Anns Files\WorldConnect\Database\LW-6-19-09.ged
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR ANSI
+0 @I119907@ INDI
+1 NAME Whitmore /JONES/
+2 GIVN Whitmore
+2 SURN JONES
+1 SEX M
+1 BIRT
+2 DATE 1760-1770
+2 PLAC South Carolina
+1 DEAT
+2 DATE Bef 1850
+2 PLAC Lauderdale County, Alabama
+1 _UID 9B6F9ED58CC4472A96A9A26973812B49F0F8
+1 CHAN
+2 DATE 9 Jul 2008
+3 TIME 23:23
+1 FAMS @F522361342@
+1 FAMC @F522358199@
+1 NOTE @DWNLNOTE@
+0 @I119908@ INDI
+1 NAME Elizabeth /DUNCAN/
+2 GIVN Elizabeth
+2 SURN DUNCAN
+1 SEX F
+1 BIRT
+2 DATE 1777
+1 DEAT
+2 DATE Bef 1850
+2 PLAC Lauderdale County, Alabama
+1 _UID 3625192A64A84D8281FF844F147CB095A1E4
+1 CHAN
+2 DATE 10 Jul 2008
+3 TIME 04:55
+1 FAMS @F522361342@
+1 FAMC @F522361343@
+1 NOTE @DWNLNOTE@
+0 @I119909@ INDI
+1 NAME James /DUNCAN/
+2 GIVN James
+2 SURN DUNCAN
+1 SEX M
+1 BIRT
+2 DATE 1745-1747
+2 PLAC Duncan Creek, South Carolina
+1 DEAT
+2 DATE 20 May 1820-1 Sep 1828
+2 PLAC Laurens County, South Carolina
+1 _UID EB4D0715DBCF4A2EA349AD987170A28CB652
+1 CHAN
+2 DATE 9 Jul 2008
+3 TIME 23:03
+1 FAMS @F522361343@
+1 NOTE @DWNLNOTE@
+0 @I119910@ INDI
+1 NAME Sara /DUNCAN/
+2 GIVN Sara
+2 SURN DUNCAN
+1 SEX F
+1 DEAT
+2 DATE Unknown
+1 _UID FA01D27EB10645CE86143AAC3DE37938664A
+1 CHAN
+2 DATE 9 Jul 2008
+3 TIME 23:04
+1 FAMS @F522361343@
+1 NOTE @DWNLNOTE@
+0 @I119918@ INDI
+1 NAME Benjamin /JONES/
+2 GIVN Benjamin
+2 SURN JONES
+1 SEX M
+1 DEAT
+2 DATE Unknown
+1 _UID 9AE78A9BA110460687FD202CCD99D1762098
+1 CHAN
+2 DATE 9 Jul 2008
+3 TIME 23:14
+1 FAMC @F522358199@
+1 NOTE @DWNLNOTE@
+0 @I119919@ INDI
+1 NAME Miles /JONES/
+2 GIVN Miles
+2 SURN JONES
+1 SEX M
+1 DEAT
+2 DATE Unknown
+1 _UID 9B1D874D80DA40C0A5D34E2256A7CAF4898C
+1 CHAN
+2 DATE 9 Jul 2008
+3 TIME 23:15
+1 FAMC @F522358199@
+1 NOTE @DWNLNOTE@
+0 @I119920@ INDI
+1 NAME Jesse /JONES/
+2 GIVN Jesse
+2 SURN JONES
+1 SEX M
+1 DEAT
+2 DATE Unknown
+1 _UID 6DBDB3D628A6445687B1474C6C4413CD76DF
+1 CHAN
+2 DATE 9 Jul 2008
+3 TIME 23:14
+1 FAMC @F522358199@
+1 NOTE @DWNLNOTE@
+0 @I119921@ INDI
+1 NAME Joseph /JONES/
+2 GIVN Joseph
+2 SURN JONES
+1 SEX M
+1 DEAT
+2 DATE Unknown
+1 _UID 9368E9B5666E4290B76607666138D6E119C0
+1 CHAN
+2 DATE 9 Jul 2008
+3 TIME 23:15
+1 FAMC @F522358199@
+1 NOTE @DWNLNOTE@
+0 @I119922@ INDI
+1 NAME David Dred /JONES/
+2 GIVN David Dred
+2 SURN JONES
+1 SEX M
+1 DEAT
+2 DATE Unknown
+1 _UID E168D51C692D4E1C96A46E80C4E0C9643303
+1 CHAN
+2 DATE 9 Jul 2008
+3 TIME 23:15
+1 FAMC @F522358199@
+1 NOTE @DWNLNOTE@
+0 @I119923@ INDI
+1 NAME Sarah Ann /JONES/
+2 GIVN Sarah Ann
+2 SURN JONES
+1 SEX F
+1 BIRT
+2 DATE Bef 1790
+1 DEAT
+2 DATE 1831-1832
+2 PLAC Laurens County, South Carolina
+1 _UID 2DD1FB260AA84608931FEDC402B4BA837559
+1 CHAN
+2 DATE 9 Jul 2008
+3 TIME 23:16
+1 FAMS @F522361346@
+1 FAMC @F522358199@
+1 NOTE @DWNLNOTE@
+0 @I119926@ INDI
+1 NAME Angelica /JONES/
+2 GIVN Angelica
+2 SURN JONES
+1 SEX F
+1 DEAT
+2 DATE Unknown
+2 PLAC Lauderdale County, Alabama
+1 _UID A4AD6E7C906A4A9FAF08D4A3769DC9DB036F
+1 CHAN
+2 DATE 9 Jul 2008
+3 TIME 23:18
+1 FAMS @F522361348@
+1 FAMC @F522358199@
+1 NOTE @DWNLNOTE@
+0 @I122138@ INDI
+1 NAME Joseph /DUNCAN/
+2 GIVN Joseph
+2 SURN DUNCAN
+1 SEX M
+1 BIRT
+2 DATE Abt 1774
+2 PLAC South Carolina
+1 DEAT
+2 DATE Abt 1864
+2 PLAC South Carolina
+1 BURI
+2 PLAC South Carolina
+1 _UID 1F0F984F81744618B5443A8DEB58BD5E86ED
+1 CHAN
+2 DATE 28 Oct 2008
+3 TIME 16:59
+1 FAMS @F522361979@
+1 FAMC @F522361343@
+1 NOTE @DWNLNOTE@
+0 @I122139@ INDI
+1 NAME David /DUNCAN/
+2 GIVN David
+2 SURN DUNCAN
+1 SEX M
+1 BIRT
+2 DATE Abt 1779
+1 DEAT
+2 DATE Unknown
+1 _UID 63349857213E4AD1ABB6D790B7673E769A99
+1 CHAN
+2 DATE 28 Oct 2008
+3 TIME 16:59
+1 FAMS @F522361980@
+1 FAMC @F522361343@
+1 NOTE @DWNLNOTE@
+0 @I122140@ INDI
+1 NAME Sarah /DUNCAN/
+2 GIVN Sarah
+2 SURN DUNCAN
+1 SEX F
+1 BIRT
+2 DATE 4 Oct 1781-1787
+2 PLAC South Carolina
+1 DEAT
+2 DATE 16 Jun 1868
+2 PLAC Tennessee
+1 _UID 61504ED842C54245BC43CB7A9996FC14E897
+1 CHAN
+2 DATE 28 Oct 2008
+3 TIME 17:00
+1 FAMS @F522361981@
+1 FAMC @F522361343@
+1 NOTE @DWNLNOTE@
+0 @I122141@ INDI
+1 NAME Margaret /DUNCAN/
+2 GIVN Margaret
+2 SURN DUNCAN
+1 SEX F
+1 BIRT
+2 DATE 8 Jun 1783-1788
+2 PLAC South Carolina
+1 DEAT
+2 DATE 18 Jul 1883
+1 _UID FEF09B642CE842A195125779F2E4EB6D8907
+1 CHAN
+2 DATE 28 Oct 2008
+3 TIME 17:01
+1 FAMS @F522361982@
+1 FAMC @F522361343@
+1 NOTE @DWNLNOTE@
+0 @I122143@ INDI
+1 NAME Mary /DUNCAN/
+2 GIVN Mary
+2 SURN DUNCAN
+1 SEX F
+1 DEAT
+2 DATE Unknown
+1 _UID 18ED6E4609B54265AEF2C80B655EDBF42396
+1 CHAN
+2 DATE 28 Oct 2008
+3 TIME 16:59
+1 FAMC @F522361343@
+1 NOTE @DWNLNOTE@
+0 @I97919@ INDI
+1 NAME James /JONES/
+2 GIVN James
+2 SURN JONES
+1 SEX M
+1 DEAT
+2 DATE Unknown
+1 _UID B8E0CEC2974A4A22A37AFE8BEE9288E1048E
+1 CHAN
+2 DATE 9 Jul 2008
+3 TIME 23:06
+1 FAMS @F522358199@
+1 NOTE @DWNLNOTE@
+0 @I97920@ INDI
+1 NAME Lucy /WHITMORE/
+2 GIVN Lucy
+2 SURN WHITMORE
+1 SEX F
+1 DEAT
+2 DATE Unknown
+1 _UID 2616868E0AEF4838AD7C50932CD7DEF6AC2B
+1 CHAN
+2 DATE 9 Jul 2008
+3 TIME 23:06
+1 FAMS @F522358199@
+1 NOTE @DWNLNOTE@
+0 @I98438@ INDI
+1 NAME George Eugene /DUNCAN/
+2 GIVN George Eugene
+2 SURN DUNCAN
+1 SEX M
+1 BIRT
+2 DATE 1810
+2 PLAC South Carolina
+1 DEAT
+2 DATE Apr 1857
+2 PLAC Lauderdale County, Alabama
+1 CENS 7th U. S.
+2 DATE 1850
+2 PLAC District 1, Lauderdale County, Alabama
+2 NOTE Enumerated November 28, 1850.  Family number:  382-399.  
+3 CONT <u><b>George Duncan 40 M, Farmer, 800 real estate, SC</u></
+3 CONC b>.  
+3 CONT Jane Duncan 37 F, TN.  
+3 CONT John Duncan 16 M, Student, TN.   
+3 CONT Nancy Duncan 12 F, AL.  
+3 CONT William Duncan 8 M, AL.  
+3 CONT Leander Duncan (twin) 5 M, AL. 
+3 CONT Ebineser Duncan (twin) 5 M, AL.   
+3 CONT Anner Duncan 38 F, SC. 
+3 CONT Lusinda Duncan 13 F, AL.
+1 _UID 883C0AE45AEA42DA833727EE9086C44C0777
+1 CHAN
+2 DATE 8 Jul 2008
+3 TIME 19:31
+1 FAMS @F522358372@
+1 FAMC @F522358374@
+1 NOTE @DWNLNOTE@
+0 @I98446@ INDI
+1 NAME Jonathan /DUNCAN/
+2 GIVN Jonathan
+2 SURN DUNCAN
+1 SEX M
+1 BIRT
+2 DATE Abt 1765
+2 PLAC Laurens County, South Carolina
+1 DEAT
+2 DATE Abt 1845
+2 PLAC Lauderdale County, Alabama
+1 _UID A01C31245A5649E1AFFCBE47DE9C092E4C92
+1 CHAN
+2 DATE 28 Oct 2008
+3 TIME 16:57
+1 FAMS @F522358374@
+1 FAMC @F522361343@
+1 NOTE @DWNLNOTE@
+0 @I98447@ INDI
+1 NAME Jane "Jincy" /JONES/
+2 GIVN Jane "Jincy"
+2 SURN JONES
+2 NICK Jincy
+1 SEX F
+1 BIRT
+2 DATE Abt 1775
+1 DEAT
+2 DATE Unknown
+1 _UID 9A98C2B630424EE69883A3E574CC86CE8748
+1 CHAN
+2 DATE 9 Jul 2008
+3 TIME 23:14
+1 FAMS @F522358374@
+1 FAMC @F522358199@
+1 NOTE @DWNLNOTE@
+0 @I98450@ INDI
+1 NAME James /DUNCAN/
+2 GIVN James
+2 SURN DUNCAN
+1 SEX M
+1 BIRT
+2 DATE 1794
+2 PLAC South Carolina
+1 DEAT
+2 DATE Abt 1865
+2 PLAC Lauderdale County, Alabama
+1 EVEN 7th U. S.
+2 TYPE Alt. Birth
+2 DATE 1850
+2 PLAC District 1, Lauderdale County, Alabama
+2 NOTE Enumerated November 27, 1850.  
+3 CONT Family number: 561-577.   
+3 CONT <u><b>Jas Duncan 56 M, Watchman, SC</u></b>.   
+3 CONT Eliza Duncan 27 F, TN. 
+3 CONT Nancy Duncan 1 F, AL.
+1 CENS 8th U. S.
+2 DATE 1860
+2 PLAC District 2 Factory, Florence, Lauderdale County, Alabama
+2 NOTE Enumerted June 18, 1860. Family number:  335-335.  
+3 CONT <u><b>James Duncan 65 M, Match Factory, 150 personal estate
+3 CONC , SC</u></b>.   
+3 CONT Elizabeth Duncan 37 F, TN.  
+3 CONT Nancy J Duncan 11 F, AL.  
+3 CONT Sarah A Duncan 9 F, AL.  
+3 CONT James Duncan 6 M, AL.  
+3 CONT Elmira E Duncan 3 F, AL.  
+3 CONT John Simpson 54 M, Book Keeper, England.  
+3 CONT Robert Scott 28 M, Machinist, Scotland.   
+3 CONT James Kennedy 21 M, Machinist,  
+3 CONT Thomas Kennedy 15 M,
+1 _UID 5E9E188AC1954223AA741D5603E8D2ED94E3
+1 CHAN
+2 DATE 8 Jul 2008
+3 TIME 19:44
+1 FAMS @F522358376@
+1 FAMC @F522358374@
+1 NOTE @DWNLNOTE@
+0 @I98451@ INDI
+1 NAME Mary Polly /DUNCAN/
+2 GIVN Mary Polly
+2 SURN DUNCAN
+1 SEX F
+1 BIRT
+2 DATE 7 Feb 1797
+2 PLAC Laurens County, South Carolina
+1 DEAT
+2 DATE 31 Dec 1832
+2 PLAC Wayne County, Tennessee
+1 _UID 59D39FEA9A894A0DAA40C0CEC5C8D85D6904
+1 CHAN
+2 DATE 23 Mar 2007
+3 TIME 00:04
+1 FAMS @F522358377@
+1 FAMC @F522358374@
+1 NOTE @DWNLNOTE@
+0 @I98452@ INDI
+1 NAME Moses /DUNCAN/
+2 GIVN Moses
+2 SURN DUNCAN
+1 SEX M
+1 BIRT
+2 DATE 1807
+2 PLAC South Carolina
+1 DEAT
+2 DATE 20 May 1868
+2 PLAC Lauderdale County, Alabama
+1 CENS 7th U. S.
+2 DATE 1850
+2 PLAC District 1, Lauderdale County, Alabama
+2 NOTE Enumerated November 28, 1850. Family number: 389-400.  
+3 CONT <u><b>Moses Duncan, 43 M, Farmer, 1,300 real estae, SC</u><
+3 CONC /b>.  
+3 CONT Sarah Duncan, 44 F, SC.  
+3 CONT George Duncan, 22 M, Asst. AL.  
+3 CONT Martha Duncan, 18 F, AL.  
+3 CONT Robert Duncan, 16 M, Student, AL.  
+3 CONT Mary Duncan, 15 F, AL.  
+3 CONT Elmira Duncan, 12 F, AL.  
+3 CONT Thomas Duncan, 11 M, AL.  
+3 CONT James Duncan, 8 M, AL.  
+3 CONT Sarah Duncan 3 F, AL.  
+3 CONT Jesse White, 21 M, Asst. Farm, AL.
+1 _UID 84895A146429436CA016C6A20CEF2053430C
+1 CHAN
+2 DATE 8 Jul 2008
+3 TIME 19:36
+1 FAMS @F522358378@
+1 FAMC @F522358374@
+1 NOTE @DWNLNOTE@
+0 @I98453@ INDI
+1 NAME Annie /DUNCAN/
+2 GIVN Annie
+2 SURN DUNCAN
+1 SEX F
+1 BIRT
+2 DATE 1812
+2 PLAC South Carolina
+1 DEAT
+2 DATE Unknown
+1 CENS 7th U. S.
+2 DATE 1850
+2 PLAC District 1, Lauderdale County, Alabama
+2 NOTE Enumerated November 28, 1850.  Family number:  382-399.  
+3 CONT George Duncan 40 M, Farmer, 800 real estate, SC.  
+3 CONT Jane Duncan 37 F, TN.  
+3 CONT John Duncan 16 M, Student, TN.   
+3 CONT Nancy Duncan 12 F, AL.  
+3 CONT William Duncan 8 M, AL.  
+3 CONT Leander Duncan (twin) 5 M, AL. 
+3 CONT Ebineser Duncan (twin) 5 M, AL.   
+3 CONT <u><b>Anner Duncan 38 F, SC.</u></b> 
+3 CONT Lusinda Duncan 13 F, AL.
+1 _UID AAE64731D05148AA92F9114CADAF0F2F9DCD
+1 CHAN
+2 DATE 8 Jul 2008
+3 TIME 19:34
+1 FAMC @F522358374@
+1 NOTE @DWNLNOTE@
+0 @I98460@ INDI
+1 NAME Sarah Tarpley /CLARK/
+2 GIVN Sarah Tarpley
+2 SURN CLARK
+1 SEX F
+1 BIRT
+2 DATE 23 Feb 1806
+2 PLAC South Carolina
+1 DEAT
+2 DATE 6 Jun 1894
+2 PLAC Lauderdale County, Alabama
+1 CENS 7th U. S.
+2 DATE 1850
+2 PLAC District 1, Lauderdale County, Alabama
+2 NOTE Enumerated November 28, 1850. Family number: 389-400.  
+3 CONT Moses Duncan, 43 M, Farmer, 1,300 real estae, SC.  
+3 CONT <u><b>Sarah Duncan, 44 F, SC.</u></b>  
+3 CONT George Duncan, 22 M, Asst. AL.  
+3 CONT Martha Duncan, 18 F, AL.  
+3 CONT Robert Duncan, 16 M, Student, AL.  
+3 CONT Mary Duncan, 15 F, AL.  
+3 CONT Elmira Duncan, 12 F, AL.  
+3 CONT Thomas Duncan, 11 M, AL.  
+3 CONT James Duncan, 8 M, AL.  
+3 CONT Sarah Duncan 3 F, AL.  
+3 CONT Jesse White, 21 M, Asst. Farm, AL.
+1 _UID A4AD42B6B4BC42D6924A2956BACAB7C1288A
+1 CHAN
+2 DATE 8 Jul 2008
+3 TIME 19:36
+1 FAMS @F522358378@
+1 NOTE @DWNLNOTE@
+0 @I98461@ INDI
+1 NAME George Washington /DUNCAN/
+2 GIVN George Washington
+2 SURN DUNCAN
+2 NSFX Sr.
+1 SEX M
+1 BIRT
+2 DATE 29 Jan 1829
+2 PLAC Lauderdale County, Alabama
+1 DEAT
+2 DATE Abt 1914
+2 PLAC Pogo, Franklin County, Alabama
+1 CENS 7th U. S.
+2 DATE 1850
+2 PLAC District 1, Lauderdale County, Alabama
+2 NOTE Enumerated November 28, 1850. Family number: 389-400.  
+3 CONT Moses Duncan, 43 M, Farmer, 1,300 real estae, SC.  
+3 CONT Sarah Duncan, 44 F, SC.  
+3 CONT <u><b>George Duncan, 22 M, Asst. AL</u></b>.  
+3 CONT Martha Duncan, 18 F, AL.  
+3 CONT Robert Duncan, 16 M, Student, AL.  
+3 CONT Mary Duncan, 15 F, AL.  
+3 CONT Elmira Duncan, 12 F, AL.  
+3 CONT Thomas Duncan, 11 M, AL.  
+3 CONT James Duncan, 8 M, AL.  
+3 CONT Sarah Duncan 3 F, AL.  
+3 CONT Jesse White, 21 M, Asst. Farm, AL.
+1 _UID 15D49E55DBD34A1CA973387EEBAF456B0CC7
+1 CHAN
+2 DATE 8 Jul 2008
+3 TIME 19:36
+1 FAMS @F522358379@
+1 FAMC @F522358378@
+1 NOTE @DWNLNOTE@
+0 @I98462@ INDI
+1 NAME Martha Ann /DUNCAN/
+2 GIVN Martha Ann
+2 SURN DUNCAN
+1 SEX F
+1 BIRT
+2 DATE 25 Jul 1832
+2 PLAC Lauderdale County, Alabama
+1 DEAT
+2 DATE Unknown
+1 CENS 7th U. S.
+2 DATE 1850
+2 PLAC District 1, Lauderdale County, Alabama
+2 NOTE Enumerated November 28, 1850. Family number: 389-400.  
+3 CONT Moses Duncan, 43 M, Farmer, 1,300 real estae, SC.  
+3 CONT Sarah Duncan, 44 F, SC.  
+3 CONT George Duncan, 22 M, Asst. AL.  
+3 CONT <u><b>Martha Duncan, 18 F, AL</u></b>.  
+3 CONT Robert Duncan, 16 M, Student, AL.  
+3 CONT Mary Duncan, 15 F, AL.  
+3 CONT Elmira Duncan, 12 F, AL.  
+3 CONT Thomas Duncan, 11 M, AL.  
+3 CONT James Duncan, 8 M, AL.  
+3 CONT Sarah Duncan 3 F, AL.  
+3 CONT Jesse White, 21 M, Asst. Farm, AL.
+1 _UID C030D5F849764A4F9CDDB41A17A6284788C1
+1 CHAN
+2 DATE 8 Jul 2008
+3 TIME 19:37
+1 FAMS @F522358380@
+1 FAMC @F522358378@
+1 NOTE @DWNLNOTE@
+0 @I98463@ INDI
+1 NAME Robert M. /DUNCAN/
+2 GIVN Robert M.
+2 SURN DUNCAN
+1 SEX M
+1 BIRT
+2 DATE 12 Apr 1834
+2 PLAC Lauderdale County, Alabama
+1 DEAT
+2 DATE 3 Jul 1863
+2 PLAC Gettysburg, Pennsylvania
+1 CENS 7th U. S.
+2 DATE 1850
+2 PLAC District 1, Lauderdale County, Alabama
+2 NOTE Enumerated November 28, 1850. Family number: 389-400.  
+3 CONT Moses Duncan, 43 M, Farmer, 1,300 real estae, SC.  
+3 CONT Sarah Duncan, 44 F, SC.  
+3 CONT George Duncan, 22 M, Asst. AL.  
+3 CONT Martha Duncan, 18 F, AL.  
+3 CONT <u><b>Robert Duncan, 16 M, Student, AL</u></b>.  
+3 CONT Mary Duncan, 15 F, AL.  
+3 CONT Elmira Duncan, 12 F, AL.  
+3 CONT Thomas Duncan, 11 M, AL.  
+3 CONT James Duncan, 8 M, AL.  
+3 CONT Sarah Duncan 3 F, AL.  
+3 CONT Jesse White, 21 M, Asst. Farm, AL.
+1 _UID 2D0E99E51A9F4CE6B75573D7D51334253BC6
+1 CHAN
+2 DATE 8 Jul 2008
+3 TIME 19:37
+1 FAMC @F522358378@
+1 NOTE @DWNLNOTE@
+0 @I98464@ INDI
+1 NAME Mary Elizabeth /DUNCAN/
+2 GIVN Mary Elizabeth
+2 SURN DUNCAN
+1 SEX F
+1 BIRT
+2 DATE 13 Mar 1836
+2 PLAC Lauderdale County, Alabama
+1 DEAT
+2 DATE 29 Jun 1901
+1 CENS 7th U. S.
+2 DATE 1850
+2 PLAC District 1, Lauderdale County, Alabama
+2 NOTE Enumerated November 28, 1850. Family number: 389-400.  
+3 CONT Moses Duncan, 43 M, Farmer, 1,300 real estae, SC.  
+3 CONT Sarah Duncan, 44 F, SC.  
+3 CONT George Duncan, 22 M, Asst. AL.  
+3 CONT Martha Duncan, 18 F, AL.  
+3 CONT Robert Duncan, 16 M, Student, AL.  
+3 CONT <u><b>Mary Duncan, 15 F, AL</u></b>.  
+3 CONT Elmira Duncan, 12 F, AL.  
+3 CONT Thomas Duncan, 11 M, AL.  
+3 CONT James Duncan, 8 M, AL.  
+3 CONT Sarah Duncan 3 F, AL.  
+3 CONT Jesse White, 21 M, Asst. Farm, AL.
+1 _UID 74C9BD3A3EFA4F5BA161BD86CDAB144F36A5
+1 CHAN
+2 DATE 8 Jul 2008
+3 TIME 19:37
+1 FAMS @F522358381@
+1 FAMC @F522358378@
+1 NOTE @DWNLNOTE@
+0 @I98465@ INDI
+1 NAME Elmira Green /DUNCAN/
+2 GIVN Elmira Green
+2 SURN DUNCAN
+1 SEX F
+1 BIRT
+2 DATE 26 May 1838
+2 PLAC Lauderdale County, Alabama
+1 DEAT
+2 DATE 10 Mar 1880
+2 PLAC Farmington, Marshall County, Tennessee
+1 CENS 7th U. S.
+2 DATE 1850
+2 PLAC District 1, Lauderdale County, Alabama
+2 NOTE Enumerated November 28, 1850. Family number: 389-400.  
+3 CONT Moses Duncan, 43 M, Farmer, 1,300 real estae, SC.  
+3 CONT Sarah Duncan, 44 F, SC.  
+3 CONT George Duncan, 22 M, Asst. AL.  
+3 CONT Martha Duncan, 18 F, AL.  
+3 CONT Robert Duncan, 16 M, Student, AL.  
+3 CONT Mary Duncan, 15 F, AL.  
+3 CONT <u><b>Elmira Duncan, 12 F, AL</u></b>.  
+3 CONT Thomas Duncan, 11 M, AL.  
+3 CONT James Duncan, 8 M, AL.  
+3 CONT Sarah Duncan 3 F, AL.  
+3 CONT Jesse White, 21 M, Asst. Farm, AL.
+1 _UID BF6C95F085E9407D9DAC759AF72BA40D06CC
+1 CHAN
+2 DATE 8 Jul 2008
+3 TIME 19:38
+1 FAMC @F522358378@
+1 NOTE @DWNLNOTE@
+0 @I98466@ INDI
+1 NAME Thomas Jefferson /DUNCAN/
+2 GIVN Thomas Jefferson
+2 SURN DUNCAN
+1 SEX M
+1 BIRT
+2 DATE 15 Aug 1840
+2 PLAC Lauderdale County, Alabama
+1 DEAT
+2 DATE 29 Aug 1932
+2 PLAC Lauderdale County, Alabama
+1 BURI
+2 PLAC Duncan Cemetery, Lauderdale County, Alabama
+1 CENS 7th U. S.
+2 DATE 1850
+2 PLAC District 1, Lauderdale County, Alabama
+2 NOTE Enumerated November 28, 1850. Family number: 389-400.  
+3 CONT Moses Duncan, 43 M, Farmer, 1,300 real estae, SC.  
+3 CONT Sarah Duncan, 44 F, SC.  
+3 CONT George Duncan, 22 M, Asst. AL.  
+3 CONT Martha Duncan, 18 F, AL.  
+3 CONT Robert Duncan, 16 M, Student, AL.  
+3 CONT Mary Duncan, 15 F, AL.  
+3 CONT Elmira Duncan, 12 F, AL.  
+3 CONT <u><b>Thomas Duncan, 11 M, AL</u></b>.  
+3 CONT James Duncan, 8 M, AL.  
+3 CONT Sarah Duncan 3 F, AL.  
+3 CONT Jesse White, 21 M, Asst. Farm, AL.
+1 _UID E60AE009BC12493BB2ACB17A62F55549A954
+1 CHAN
+2 DATE 8 Jul 2008
+3 TIME 19:38
+1 FAMS @F522358382@
+1 FAMC @F522358378@
+1 NOTE @DWNLNOTE@
+0 @I98467@ INDI
+1 NAME James Andrew /DUNCAN/
+2 GIVN James Andrew
+2 SURN DUNCAN
+1 SEX M
+1 BIRT
+2 DATE 23 May 1842
+2 PLAC Lauderdale County, Alabama
+1 DEAT
+2 DATE 29 Oct 1926
+2 PLAC Lauderdale County, Alabama
+1 CENS 7th U. S.
+2 DATE 1850
+2 PLAC District 1, Lauderdale County, Alabama
+2 NOTE Enumerated November 28, 1850. Family number: 389-400.  
+3 CONT Moses Duncan, 43 M, Farmer, 1,300 real estae, SC.  
+3 CONT Sarah Duncan, 44 F, SC.  
+3 CONT George Duncan, 22 M, Asst. AL.  
+3 CONT Martha Duncan, 18 F, AL.  
+3 CONT Robert Duncan, 16 M, Student, AL.  
+3 CONT Mary Duncan, 15 F, AL.  
+3 CONT Elmira Duncan, 12 F, AL.  
+3 CONT Thomas Duncan, 11 M, AL.  
+3 CONT <u><b>James Duncan, 8 M, AL</u></b>.  
+3 CONT Sarah Duncan 3 F, AL.  
+3 CONT Jesse White, 21 M, Asst. Farm, AL.
+1 _UID AF6B5FA6770C4E0A89CDBAAC982F95B5C7BA
+1 CHAN
+2 DATE 8 Jul 2008
+3 TIME 19:38
+1 FAMS @F522358383@
+1 FAMS @F522358384@
+1 FAMC @F522358378@
+1 NOTE @DWNLNOTE@
+0 @I98468@ INDI
+1 NAME William D. /DUNCAN/
+2 GIVN William D.
+2 SURN DUNCAN
+1 SEX M
+1 BIRT
+2 DATE 22 Sep 1844
+2 PLAC Lauderdale County, Alabama
+1 DEAT
+2 DATE Unknown
+1 _UID D9286D7448CA486BAEFF49AEA0E312FADA2F
+1 CHAN
+2 DATE 23 Mar 2007
+3 TIME 00:14
+1 FAMC @F522358378@
+1 NOTE @DWNLNOTE@
+0 @I98469@ INDI
+1 NAME Sarah F. /DUNCAN/
+2 GIVN Sarah F.
+2 SURN DUNCAN
+1 SEX F
+1 BIRT
+2 DATE Oct 1846
+2 PLAC Lauderdale County, Alabama
+1 DEAT
+2 DATE 22 Jan 1891
+2 PLAC Lauderdale County, Alabama
+1 CENS 7th U. S.
+2 DATE 1850
+2 PLAC District 1, Lauderdale County, Alabama
+2 NOTE Enumerated November 28, 1850. Family number: 389-400.  
+3 CONT Moses Duncan, 43 M, Farmer, 1,300 real estae, SC.  
+3 CONT Sarah Duncan, 44 F, SC.  
+3 CONT George Duncan, 22 M, Asst. AL.  
+3 CONT Martha Duncan, 18 F, AL.  
+3 CONT Robert Duncan, 16 M, Student, AL.  
+3 CONT Mary Duncan, 15 F, AL.  
+3 CONT Elmira Duncan, 12 F, AL.  
+3 CONT Thomas Duncan, 11 M, AL.  
+3 CONT James Duncan, 8 M, AL.  
+3 CONT <u><b>Sarah Duncan 3 F, AL</u></b>.  
+3 CONT Jesse White, 21 M, Asst. Farm, AL.
+1 _UID 7F16DA4715234352AE680AE58F5C989FAADA
+1 CHAN
+2 DATE 8 Jul 2008
+3 TIME 19:38
+1 FAMS @F522358385@
+1 FAMC @F522358378@
+1 NOTE @DWNLNOTE@
+0 @F522358199@ FAM
+1 HUSB @I97919@
+2 _PREF Y
+1 WIFE @I97920@
+2 _PREF Y
+1 MARR
+1 CHIL @I119907@
+1 CHIL @I98447@
+2 _PREF Y
+1 CHIL @I119918@
+1 CHIL @I119919@
+1 CHIL @I119920@
+1 CHIL @I119921@
+1 CHIL @I119922@
+1 CHIL @I119923@
+1 CHIL @I119926@
+1 CHAN
+2 DATE 9 Jul 2008
+3 TIME 23:06
+0 @F522358372@ FAM
+1 HUSB @I98438@
+2 _PREF Y
+1 MARR
+2 DATE 12 Dec 1833
+2 PLAC Lauderdale County, Alabama
+1 CHAN
+2 DATE 22 Mar 2007
+3 TIME 23:59
+0 @F522358374@ FAM
+1 HUSB @I98446@
+2 _PREF Y
+1 WIFE @I98447@
+2 _PREF Y
+1 MARR
+1 CHIL @I98450@
+1 CHIL @I98451@
+1 CHIL @I98452@
+1 CHIL @I98438@
+2 _PREF Y
+1 CHIL @I98453@
+1 CHAN
+2 DATE 23 Mar 2007
+3 TIME 00:02
+0 @F522358376@ FAM
+1 HUSB @I98450@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 23 Mar 2007
+3 TIME 00:06
+0 @F522358377@ FAM
+1 WIFE @I98451@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 23 Mar 2007
+3 TIME 00:08
+0 @F522358378@ FAM
+1 HUSB @I98452@
+2 _PREF Y
+1 WIFE @I98460@
+2 _PREF Y
+1 MARR
+2 DATE 27 Mar 1828
+2 PLAC Lauderdale County, Alabama
+1 CHIL @I98461@
+2 _PREF Y
+1 CHIL @I98462@
+1 CHIL @I98463@
+1 CHIL @I98464@
+1 CHIL @I98465@
+1 CHIL @I98466@
+1 CHIL @I98467@
+1 CHIL @I98468@
+1 CHIL @I98469@
+1 CHAN
+2 DATE 23 Mar 2007
+3 TIME 00:10
+0 @F522358379@ FAM
+1 HUSB @I98461@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 23 Mar 2007
+3 TIME 00:15
+0 @F522358380@ FAM
+1 WIFE @I98462@
+2 _PREF Y
+1 MARR
+2 DATE 14 Jun 1850
+2 PLAC Lauderdale County, Alabama
+1 CHAN
+2 DATE 23 Mar 2007
+3 TIME 00:17
+0 @F522358381@ FAM
+1 WIFE @I98464@
+2 _PREF Y
+1 MARR
+2 DATE 27 Dec 1853
+2 PLAC Lauderdale County, Alabama
+1 CHAN
+2 DATE 23 Mar 2007
+3 TIME 00:18
+0 @F522358382@ FAM
+1 HUSB @I98466@
+2 _PREF Y
+1 MARR
+2 DATE 4 Feb 1873
+2 PLAC Lauderdale County, Alabama
+1 CHAN
+2 DATE 23 Mar 2007
+3 TIME 00:19
+0 @F522358383@ FAM
+1 HUSB @I98467@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 23 Mar 2007
+3 TIME 00:20
+0 @F522358384@ FAM
+1 HUSB @I98467@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 23 Mar 2007
+3 TIME 00:20
+0 @F522358385@ FAM
+1 WIFE @I98469@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 23 Mar 2007
+3 TIME 00:21
+0 @F522361342@ FAM
+1 HUSB @I119907@
+2 _PREF Y
+1 WIFE @I119908@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 9 Jul 2008
+3 TIME 23:01
+0 @F522361343@ FAM
+1 HUSB @I119909@
+2 _PREF Y
+1 WIFE @I119910@
+2 _PREF Y
+1 MARR
+1 CHIL @I98446@
+1 CHIL @I122138@
+1 CHIL @I119908@
+2 _PREF Y
+1 CHIL @I122139@
+1 CHIL @I122140@
+1 CHIL @I122141@
+1 CHIL @I122143@
+1 CHAN
+2 DATE 9 Jul 2008
+3 TIME 23:03
+0 @F522361346@ FAM
+1 WIFE @I119923@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 9 Jul 2008
+3 TIME 23:16
+0 @F522361348@ FAM
+1 WIFE @I119926@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 9 Jul 2008
+3 TIME 23:18
+0 @F522361979@ FAM
+1 HUSB @I122138@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 28 Oct 2008
+3 TIME 16:58
+0 @F522361980@ FAM
+1 HUSB @I122139@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 28 Oct 2008
+3 TIME 16:59
+0 @F522361981@ FAM
+1 WIFE @I122140@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 28 Oct 2008
+3 TIME 16:59
+0 @F522361982@ FAM
+1 WIFE @I122141@
+2 _PREF Y
+1 MARR
+1 CHAN
+2 DATE 28 Oct 2008
+3 TIME 17:00
+0 @DWNLNOTE@ NOTE
+1 CONT Through the lack of perfection in this world, you will find errors.  Read and/or copy at your own risk of repeating any errors that I may have unknowingly made and PLEASE verify your own data.  Downloaded from lifesweaving database at RootsWeb WorldConnect.
+0 TRLR

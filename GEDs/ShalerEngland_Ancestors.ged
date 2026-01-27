@@ -1,0 +1,770 @@
+0 HEAD
+1 SOUR BROSKEEP
+2 VERS 5.2 WINDOWS
+1 DEST BROSKEEP
+1 DATE 01 NOV 1998
+1 CHAR ANSI
+1 FILE C:\PROGRA~1\BK5\RB4.GED
+0 @I1056@ INDI
+1 NAME John  /England/
+1 SEX M
+1 BIRT
+2 DATE 1788
+2 PLAC South Carolina
+2 SOUR England Genealogies
+3 PAGE 167
+2 QUAY 3
+1 DEAT
+2 DATE 1858
+2 PLAC Bedford Co., Tenn.
+2 SOUR England Genealogies
+3 PAGE 167
+2 QUAY 3
+1 FAMS @F326@
+0 @I1057@ INDI
+1 NAME Elizabeth  /Roberts/
+1 SEX F
+1 BIRT
+2 DATE 1792
+2 PLAC South Carolina
+2 SOUR England Genealogies
+3 PAGE 167
+2 QUAY 3
+1 FAMS @F326@
+1 FAMC @F332@
+0 @I1058@ INDI
+1 NAME Jonathan  /England/
+1 SEX M
+1 BIRT
+2 DATE CIRCA 1814
+2 PLAC Bedford Co., Tenn.
+2 SOUR England Genealogies
+3 PAGE 167
+2 QUAY 3
+1 DEAT
+2 DATE CIRCA 1853
+2 PLAC Bedford Co., Tenn.
+2 SOUR England Genealogies
+3 PAGE 167
+2 QUAY 3
+1 FAMS @F327@
+1 FAMC @F326@
+0 @I1059@ INDI
+1 NAME Tillman  /England/
+1 SEX M
+1 OCCU Farmer
+1 BIRT
+2 DATE CIRCA 1817
+2 PLAC Bedford Co., Tenn.
+2 SOUR England Genealogies
+3 PAGE 167
+2 QUAY 3
+1 DEAT
+2 DATE EARLY 1900'S
+2 PLAC Florence, Lauderdale Co., Ala.
+2 SOUR England Genealogies
+3 PAGE 167
+2 QUAY 3
+1 NOTE He lived in Tennessee until the 1840's, then he moved to a river farm just
+2 CONT west of Florence, Lauderdale Co., Ala.
+1 FAMS @F328@
+1 FAMC @F326@
+0 @I1060@ INDI
+1 NAME Martin  /England/
+1 SEX M
+1 BIRT
+2 DATE CIRCA 1819
+2 PLAC Bedford Co., Tenn.
+2 SOUR England Genealogies
+3 PAGE 167
+2 QUAY 3
+1 DEAT
+2 DATE AFTER 1880
+2 PLAC Ashley Co., Ark. (probably)
+2 SOUR England Genealogies
+3 PAGE 167
+2 QUAY 3
+1 NOTE Martin was living in Bedford Co. in 1850; in Lauderdale Co., Ala. in 1860,
+2 CONT and in Ashley Co., Ark. in 1880.
+1 FAMS @F329@
+1 FAMC @F326@
+0 @I1061@ INDI
+1 NAME Resin  /England/
+1 SEX U
+1 BIRT
+2 DATE 1824
+2 PLAC Bedford Co., Tenn.
+2 SOUR England Genealogies
+3 PAGE 168
+2 QUAY 3
+1 DEAT
+2 DATE 1903
+2 SOUR England Genealogies
+3 PAGE 168
+2 QUAY 3
+1 NOTE Died unmarried.  Resin's will was recorded in Bedford County.
+1 FAMC @F326@
+0 @I1062@ INDI
+1 NAME ?  /England/
+1 SEX F
+1 NOTE Died in childhood.
+1 FAMC @F326@
+0 @I1063@ INDI
+1 NAME Mary  /England/
+1 SEX F
+1 BIRT
+2 DATE 1830
+2 PLAC Bedford Co., Tenn.
+2 SOUR England Genealogies
+3 PAGE 168
+2 QUAY 3
+1 NOTE Called "Polly."
+1 FAMS @F330@
+1 FAMC @F326@
+0 @I1064@ INDI
+1 NAME Eliza Jane /England/
+1 SEX F
+1 BIRT
+2 DATE 1834
+2 PLAC Bedford Co., Tenn.
+2 SOUR England Genealogies
+3 PAGE 168
+2 QUAY 3
+1 NOTE Married late in life.
+1 FAMC @F326@
+0 @I1065@ INDI
+1 NAME John  /England/
+1 SEX M
+1 BIRT
+2 DATE 1836
+2 PLAC Bedford Co., Tenn.
+2 SOUR England Genealogies
+3 PAGE 168
+2 QUAY 3
+1 NOTE Served as a private in Co. B, 41st Inf., Tenn. Regt., CSA Army.
+1 FAMS @F331@
+1 FAMC @F326@
+0 @I1071@ INDI
+1 NAME Eliza Jane /?/
+1 SEX F
+1 BIRT
+2 DATE CIRCA 1816
+2 PLAC Tennessee
+2 SOUR England Genealogies
+3 PAGE 167
+2 QUAY 3
+1 FAMS @F328@
+0 @I1072@ INDI
+1 NAME John  /England/
+1 SEX M
+1 BIRT
+2 DATE CIRCA 1839
+2 PLAC Bedford Co., Tenn.
+2 SOUR England Genealogies
+3 PAGE 169
+2 QUAY 3
+1 FAMC @F328@
+0 @I1073@ INDI
+1 NAME Matilda  /England/
+1 SEX F
+1 BIRT
+2 DATE CIRCA 1840
+2 PLAC Bedford Co., Tenn.
+2 SOUR England Genealogies
+3 PAGE 169
+2 QUAY 3
+1 NOTE Or "Malissa England."
+1 FAMC @F328@
+0 @I1074@ INDI
+1 NAME Martha F. /England/
+1 SEX F
+1 BIRT
+2 DATE 1842
+2 PLAC Bedford Co., Tenn.
+2 SOUR England Genealogies
+3 PAGE 169
+2 QUAY 3
+1 DEAT
+2 DATE 17 MAR 1887
+2 PLAC Georgetown, White Co., Ark.
+2 SOUR England Genealogies
+3 PAGE 169
+2 QUAY 3
+1 BURI
+2 DATE 1887
+2 PLAC Nelson Cemetery, Georgetown, Ark.
+2 SOUR England Genealogies
+3 PAGE 169
+2 QUAY 3
+1 FAMS @F340@
+1 FAMC @F328@
+0 @I1075@ INDI
+1 NAME George D. /England/
+1 SEX M
+1 BIRT
+2 DATE CIRCA 1844
+2 PLAC Bedford Co., Tenn.
+2 SOUR England Genealogies
+3 PAGE 169
+2 QUAY 3
+1 NOTE Lived in Alabama.
+1 FAMC @F328@
+0 @I1076@ INDI
+1 NAME James M. /England/
+1 SEX M
+1 BIRT
+2 DATE 1847
+2 PLAC Alabama
+2 SOUR England Genealogies
+3 PAGE 169
+2 QUAY 3
+1 FAMC @F328@
+0 @I1077@ INDI
+1 NAME Margaret E. /England/
+1 SEX F
+1 BIRT
+2 DATE 1849
+2 PLAC Alabama
+2 SOUR England Genealogies
+3 PAGE 169
+2 QUAY 3
+1 FAMS @F341@
+1 FAMC @F328@
+0 @I1078@ INDI
+1 NAME William M. /England/
+1 SEX M
+1 OCCU Farmer
+1 BIRT
+2 DATE 1 MAR 1853
+2 PLAC Lauderdale Co., Ala.
+2 SOUR England Genealogies
+3 PAGE 169
+2 QUAY 3
+1 DEAT
+2 DATE 6 MAR 1908
+2 PLAC Lauderdale Co., Ala.
+2 SOUR England Genealogies
+3 PAGE 169
+2 QUAY 3
+1 BURI
+2 DATE 1908
+2 PLAC Lauderdale Co., Ala.
+2 SOUR England Genealogies
+3 PAGE 169
+2 QUAY 3
+1 FAMS @F342@
+1 FAMC @F328@
+0 @I1079@ INDI
+1 NAME Richard A. /England/
+1 SEX M
+1 BIRT
+2 DATE 1855
+2 PLAC Alabama
+2 SOUR England Genealogies
+3 PAGE 169
+2 QUAY 3
+1 FAMS @F343@
+1 FAMC @F328@
+0 @I1080@ INDI
+1 NAME Benjamin Franklin /England/
+1 SEX M
+1 BIRT
+2 DATE MAR 1858
+2 PLAC Lauderdale Co., Ala.
+2 SOUR England Genealogies
+3 PAGE 170
+2 QUAY 3
+1 DEAT
+2 DATE 23 DEC 1928
+2 PLAC Alabama
+2 SOUR England Genealogies
+3 PAGE 170
+2 QUAY 3
+1 FAMS @F344@
+1 FAMS @F345@
+1 FAMC @F328@
+0 @I1094@ INDI
+1 NAME John  /Roberts/
+1 SEX M
+1 FAMS @F332@
+0 @I1095@ INDI
+1 NAME Sarah  /Phillips/
+1 SEX F
+1 BIRT
+2 DATE 1776
+2 SOUR England Genealogies
+3 PAGE 167
+2 QUAY 3
+1 FAMS @F332@
+0 @I1156@ INDI
+1 NAME Mary Bell /Jones/
+1 SEX F
+1 DEAT
+2 DATE CIRCA 1895
+2 SOUR England Genealogies
+3 PAGE 170
+2 QUAY 3
+1 FAMS @F344@
+0 @I1157@ INDI
+1 NAME Shaler A. /England/
+1 SEX M
+1 BIRT
+2 DATE 1 OCT 1881
+2 PLAC Florence, Lauderdale Co., Ala.
+2 SOUR England Genealogies
+3 PAGE 200
+2 QUAY 3
+1 DEAT
+2 DATE 18 NOV 1959
+2 SOUR England Genealogies
+3 PAGE 200
+2 QUAY 3
+1 FAMS @F346@
+1 FAMC @F344@
+0 @I1158@ INDI
+1 NAME James Austin /England/
+1 SEX M
+1 BIRT
+2 DATE 2 NOV 1883
+2 PLAC Florence, Lauderdale Co., Ala.
+2 SOUR England Genealogies
+3 PAGE 200
+2 QUAY 3
+1 DEAT
+2 DATE 23 MAY 1951
+2 PLAC Florence, Lauderdale Co., Ala.
+2 SOUR England Genealogies
+3 PAGE 200
+2 QUAY 3
+1 BURI
+2 DATE 1951
+2 PLAC Florence, Lauderdale Co., Ala.
+2 SOUR England Genealogies
+3 PAGE 200
+2 QUAY 3
+1 NOTE Called "Jim."
+1 FAMS @F347@
+1 FAMC @F344@
+0 @I1159@ INDI
+1 NAME Robert  /England/
+1 SEX M
+1 BIRT
+2 DATE 16 NOV 1885
+2 PLAC Florence, Lauderdale Co., Ala.
+2 SOUR England Genealogies
+3 PAGE 200
+2 QUAY 3
+1 DEAT
+2 DATE 3 FEB 1959
+2 SOUR England Genealogies
+3 PAGE 200
+2 QUAY 3
+1 NOTE Called "Bob."
+1 FAMS @F348@
+1 FAMC @F344@
+0 @I1160@ INDI
+1 NAME Jossie  /England/
+1 SEX F
+1 BIRT
+2 DATE 3 AUG 1888
+2 PLAC Florence, Lauderdale Co., Ala.
+2 SOUR England Genealogies
+3 PAGE 200
+2 QUAY 3
+1 DEAT
+2 DATE 20 DEC 1968
+2 PLAC Lauderdale Co., Ala.
+2 SOUR England Genealogies
+3 PAGE 200
+2 QUAY 3
+1 BURI
+2 DATE 1968
+2 PLAC Lauderdale Co., Ala.
+2 SOUR England Genealogies
+3 PAGE 200
+2 QUAY 3
+1 FAMS @F349@
+1 FAMC @F344@
+0 @I1161@ INDI
+1 NAME Fannie Beatrice /England/
+1 SEX F
+1 BIRT
+2 DATE 26 MAR 1892
+2 PLAC Florence, Lauderdale Co., Ala.
+2 SOUR England Genealogies
+3 PAGE 200
+2 QUAY 3
+1 DEAT
+2 DATE OCT 1951
+2 SOUR England Genealogies
+3 PAGE 200
+2 QUAY 3
+1 FAMS @F350@
+1 FAMC @F344@
+0 @I1162@ INDI
+1 NAME Almira Lucindy /Whitten/
+1 SEX F
+1 BIRT
+2 DATE APR 1863
+2 SOUR England Genealogies
+3 PAGE 170
+2 QUAY 3
+1 DEAT
+2 DATE 1914
+2 SOUR England Genealogies
+3 PAGE 170
+2 QUAY 3
+1 FAMS @F345@
+0 @I1163@ INDI
+1 NAME Sarah Elizabeth /England/
+1 SEX F
+1 BIRT
+2 DATE 1 SEP 1899
+2 PLAC Florence, Lauderdale Co., Ala.
+2 SOUR England Genealogies
+3 PAGE 200
+2 QUAY 3
+1 DEAT
+2 DATE BEFORE 1981
+2 SOUR England Genealogies
+3 PAGE 200
+2 QUAY 3
+1 BURI
+2 PLAC Decatur, Ala.
+2 SOUR England Genealogies
+3 PAGE 200
+2 QUAY 3
+1 NOTE Lived in and buried in Decatur, Ala.  (England Genealogies, p. 200)
+1 FAMC @F345@
+0 @I1164@ INDI
+1 NAME Mae  /England/
+1 SEX F
+1 BIRT
+2 DATE 1 OCT 1901
+2 PLAC Lauderdale Co., Ala.
+2 SOUR England Genealogies
+3 PAGE 200
+2 QUAY 3
+1 DEAT
+2 DATE BEFORE 1981
+2 PLAC Decatur, Ala.
+2 SOUR England Genealogies
+3 PAGE 200
+2 QUAY 3
+1 NOTE Lived in and died in Decatur, Ala.  (England Genealogies, p. 200)
+1 FAMC @F345@
+0 @I1165@ INDI
+1 NAME Benjamin  /England/
+1 SEX M
+1 NOTE still living - details excluded
+1 FAMC @F345@
+0 @I1166@ INDI
+1 NAME Ida  /England/
+1 SEX F
+1 NOTE still living - details excluded
+1 FAMS @F351@
+1 FAMC @F345@
+0 @I1167@ INDI
+1 NAME Jennette  /Lovelace/
+1 SEX F
+1 BIRT
+2 DATE 6 JUL 1884
+2 SOUR England Genealogies
+3 PAGE 200
+2 QUAY 3
+1 DEAT
+2 DATE 15 FEB 1960
+2 SOUR England Genealogies
+3 PAGE 200
+2 QUAY 3
+1 FAMS @F346@
+0 @I1168@ INDI
+1 NAME Pearl  /England/
+1 SEX F
+1 NOTE still living - details excluded
+1 FAMS @F516@
+1 FAMC @F346@
+0 @I1169@ INDI
+1 NAME Vertie Neoma /England/
+1 SEX F
+1 NOTE still living - details excluded
+1 FAMS @F517@
+1 FAMS @F518@
+1 FAMC @F346@
+0 @I1170@ INDI
+1 NAME Homer Lenadus /England/
+1 SEX M
+1 NOTE still living - details excluded
+1 FAMS @F519@
+1 FAMC @F346@
+0 @I1171@ INDI
+1 NAME Willowdean  /England/
+1 SEX F
+1 NOTE still living - details excluded
+1 FAMS @F520@
+1 FAMC @F346@
+0 @I1172@ INDI
+1 NAME Benjamin Franklin /England/
+1 SEX M
+1 NOTE still living - details excluded
+1 FAMS @F521@
+1 FAMC @F346@
+0 @I1173@ INDI
+1 NAME Myrtle Louise /England/
+1 SEX F
+1 NOTE still living - details excluded
+1 FAMS @F522@
+1 FAMC @F346@
+0 @I1174@ INDI
+1 NAME Onela  /England/
+1 SEX F
+1 NOTE still living - details excluded
+1 FAMS @F524@
+1 FAMS @F525@
+1 FAMS @F526@
+1 FAMC @F346@
+0 @I1175@ INDI
+1 NAME Oleta  /England/
+1 SEX F
+1 BIRT
+2 DATE 11 JUL 1926
+2 PLAC Lauderdale Co., Ala.
+2 SOUR England Genealogies
+3 PAGE 201
+2 QUAY 3
+1 DEAT
+2 DATE CIRCA 1927
+2 SOUR "d. age six months" - England Genealogies
+3 PAGE 201
+2 QUAY 2
+1 NOTE Twin of Onela.  Died at 6 months.  (England Genealogies, p. 201)
+1 FAMC @F346@
+0 @I1176@ INDI
+1 NAME Gertrude Fannie /England/
+1 SEX F
+1 NOTE still living - details excluded
+1 FAMS @F523@
+1 FAMC @F346@
+0 @I956@ INDI
+1 NAME Newell  /England/
+1 SEX M
+1 OCCU Farmer
+1 BIRT
+2 DATE 4 FEB 1826
+2 PLAC Bedford Co., Tenn.
+2 SOUR England Genealogies
+3 PAGE 168
+2 QUAY 3
+1 DEAT
+2 DATE 14 AUG 1909
+2 PLAC Elm Store, Randolph Co., Ark.
+2 SOUR England Genealogies
+3 PAGE 168
+2 QUAY 3
+1 BURI
+2 DATE 1909
+2 PLAC Elm Store, Randolph Co., Ark.
+2 SOUR England Genealogies
+3 PAGE 168
+2 QUAY 3
+1 NOTE Newell's marriage displeased his parents, so he accompanied his in-laws, the
+2 CONT Glidewells, on their westward trek ending in Randolph Co., Ark. in 1854.
+2 CONT Several of their children were born enroute.  (England Genealogies, p. 168)
+1 FAMS @F303@
+1 FAMC @F326@
+0 @F303@ FAM
+1 HUSB @I956@
+1 MARR
+2 DATE 1844
+2 PLAC Bedford Co., Tenn.
+2 SOUR England Genealogies
+3 PAGE 168
+2 QUAY 3
+0 @F326@ FAM
+1 HUSB @I1056@
+1 WIFE @I1057@
+1 CHIL @I1058@
+1 CHIL @I1059@
+1 CHIL @I1060@
+1 CHIL @I1061@
+1 CHIL @I956@
+1 CHIL @I1062@
+1 CHIL @I1063@
+1 CHIL @I1064@
+1 CHIL @I1065@
+1 MARR
+2 DATE 1810
+2 PLAC South Carolina (probably)
+2 SOUR England Genealogies
+3 PAGE 167
+2 QUAY 3
+0 @F327@ FAM
+1 HUSB @I1058@
+1 MARR
+2 DATE CIRCA 1835
+2 PLAC Bedford Co., Tenn.
+2 SOUR England Genealogies
+3 PAGE 167
+2 QUAY 3
+0 @F328@ FAM
+1 HUSB @I1059@
+1 WIFE @I1071@
+1 CHIL @I1072@
+1 CHIL @I1073@
+1 CHIL @I1074@
+1 CHIL @I1075@
+1 CHIL @I1076@
+1 CHIL @I1077@
+1 CHIL @I1078@
+1 CHIL @I1079@
+1 CHIL @I1080@
+1 MARR
+2 PLAC Bedford Co., Tenn.
+2 SOUR England Genealogies
+3 PAGE 167
+2 QUAY 3
+0 @F329@ FAM
+1 HUSB @I1060@
+1 MARR
+2 DATE 18 DEC 1841
+2 PLAC Marshall Co., Tenn.
+2 SOUR England Genealogies
+3 PAGE 167
+2 QUAY 3
+0 @F330@ FAM
+1 WIFE @I1063@
+1 MARR
+2 DATE 5 DEC 1878
+2 SOUR England Genealogies
+3 PAGE 168
+2 QUAY 3
+0 @F331@ FAM
+1 HUSB @I1065@
+1 MARR
+2 DATE EARLY 1870'S
+2 SOUR "Probably" - England Genealogies
+3 PAGE 168
+2 QUAY 1
+0 @F332@ FAM
+1 HUSB @I1094@
+1 WIFE @I1095@
+1 CHIL @I1057@
+0 @F340@ FAM
+1 WIFE @I1074@
+1 MARR
+2 DATE 7 APR 1868
+2 PLAC Lauderdale Co., Ala. (?)
+2 SOUR England Genealogies
+3 PAGE 169
+2 QUAY 3
+0 @F341@ FAM
+1 WIFE @I1077@
+1 MARR
+2 DATE 26 OCT 1870
+2 PLAC Lauderdale Co., Ala.
+2 SOUR England Genealogies
+3 PAGE 169
+2 QUAY 3
+0 @F342@ FAM
+1 HUSB @I1078@
+1 MARR
+2 DATE 29 NOV 1876
+2 PLAC Lauderdale Co., Ala.
+2 SOUR England Genealogies
+3 PAGE 169
+2 QUAY 3
+0 @F343@ FAM
+1 HUSB @I1079@
+1 MARR
+2 DATE 16 SEP 1875
+2 PLAC Lauderdale Co., Ala.
+2 SOUR England Genealogies
+3 PAGE 169
+2 QUAY 3
+0 @F344@ FAM
+1 HUSB @I1080@
+1 WIFE @I1156@
+1 CHIL @I1157@
+1 CHIL @I1158@
+1 CHIL @I1159@
+1 CHIL @I1160@
+1 CHIL @I1161@
+1 MARR
+2 DATE 2 DEC 1880
+2 PLAC Florence, Lauderdale Co., Ala.
+2 SOUR England Genealogies
+3 PAGE 170
+2 QUAY 3
+0 @F345@ FAM
+1 HUSB @I1080@
+1 WIFE @I1162@
+1 CHIL @I1163@
+1 CHIL @I1164@
+1 CHIL @I1165@
+1 CHIL @I1166@
+0 @F346@ FAM
+1 HUSB @I1157@
+1 WIFE @I1167@
+1 CHIL @I1168@
+1 CHIL @I1169@
+1 CHIL @I1170@
+1 CHIL @I1171@
+1 CHIL @I1172@
+1 CHIL @I1173@
+1 CHIL @I1174@
+1 CHIL @I1175@
+1 CHIL @I1176@
+1 MARR
+2 DATE 20 DEC 1903
+2 SOUR England Genealogies
+3 PAGE 200
+2 QUAY 3
+0 @F347@ FAM
+1 HUSB @I1158@
+1 MARR
+2 DATE 21 MAY 1906
+2 PLAC Waynesboro, Wayne Co., Tenn.
+2 SOUR England Genealogies
+3 PAGE 200
+2 QUAY 3
+0 @F348@ FAM
+1 HUSB @I1159@
+1 MARR
+2 DATE 1915
+2 SOUR England Genealogies
+3 PAGE 200
+2 QUAY 3
+0 @F349@ FAM
+1 WIFE @I1160@
+1 MARR
+2 DATE 31 AUG 1907
+2 SOUR England Genealogies
+3 PAGE 200
+2 QUAY 3
+0 @F350@ FAM
+1 WIFE @I1161@
+0 @F351@ FAM
+1 WIFE @I1166@
+0 @F516@ FAM
+1 WIFE @I1168@
+0 @F517@ FAM
+1 WIFE @I1169@
+0 @F518@ FAM
+1 WIFE @I1169@
+0 @F519@ FAM
+1 HUSB @I1170@
+0 @F520@ FAM
+1 WIFE @I1171@
+0 @F521@ FAM
+1 HUSB @I1172@
+0 @F522@ FAM
+1 WIFE @I1173@
+0 @F523@ FAM
+1 WIFE @I1176@
+0 @F524@ FAM
+1 WIFE @I1174@
+0 @F525@ FAM
+1 WIFE @I1174@
+0 @F526@ FAM
+1 WIFE @I1174@
+0 TRLR

@@ -1,0 +1,2203 @@
+0 HEAD
+1 SOUR Gramps
+2 VERS 3.4.5-1
+2 NAME Gramps
+1 DATE 1 SEP 2013
+2 TIME 17:10:48
+1 SUBM @SUBM@
+1 FILE D:\Documents\test.ged
+1 COPR Copyright (c) 2013 David /England/.
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+0 @SUBM@ SUBM
+1 NAME David /England/
+1 ADDR
+0 @I0001@ INDI
+1 NAME Bessie /Whitten/
+2 GIVN Bessie
+2 SURN Whitten
+1 NAME Bessie /England/
+2 TYPE married
+2 GIVN Bessie
+2 SURN England
+1 SEX F
+1 BIRT
+2 DATE ABT 27 DEC 1933
+2 PLAC Florence AL, USA
+1 EVEN
+2 TYPE
+2 NOTE Description: http://www.WikiTree.com/wiki/Whitten-495 
+1 REFN 6359750
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN 6560412
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 REFN 20
+1 FACT wikitree.privacy
+2 TYPE TYPE
+1 FAMC @F0001@
+1 FAMS @F0005@
+1 NOTE @N0000@
+1 NOTE @N0001@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @I0002@ INDI
+1 NAME Early /Whitten/
+2 GIVN Early
+2 SURN Whitten
+1 SEX M
+1 BIRT
+2 DATE 9 JUN 1888
+1 DEAT
+2 DATE 27 FEB 1957
+2 PLAC Central Heights, Lauderdale, Alabama, USA
+1 EVEN
+2 TYPE
+2 NOTE Description: http://www.WikiTree.com/wiki/Whitten-498 
+1 REFN 6374983
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN 6576577
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 REFN 40
+1 FACT wikitree.privacy
+2 TYPE TYPE
+1 FAMC @F0002@
+1 FAMS @F0001@
+1 NOTE @N0002@
+1 NOTE @N0003@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @I0003@ INDI
+1 NAME Myrtle /White/
+2 GIVN Myrtle
+2 SURN White
+1 SEX F
+1 BIRT
+2 PLAC Hardin County, TN USA
+1 EVEN
+2 TYPE
+2 NOTE Description: http://www.WikiTree.com/wiki/White-14146 
+1 REFN 6375033
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN 6576638
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 REFN 40
+1 FACT wikitree.privacy
+2 TYPE TYPE
+1 FAMC @F0003@
+1 FAMS @F0001@
+1 NOTE @N0004@
+1 NOTE @N0005@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @I0004@ INDI
+1 NAME William /England/ Sr.
+2 GIVN William
+2 SURN England
+2 NSFX Sr.
+1 SEX M
+1 BIRT
+2 DATE 13 MAR 1934
+1 DEAT
+2 DATE 10 AUG 2013
+1 EVEN
+2 TYPE
+2 NOTE Description: http://www.WikiTree.com/wiki/England-1358 
+1 REFN 6359743
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN 6560405
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 REFN 40
+1 FACT wikitree.privacy
+2 TYPE TYPE
+1 FAMC @F0004@
+1 FAMS @F0005@
+1 NOTE @N0006@
+1 NOTE @N0007@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @I0005@ INDI
+1 NAME David /England/
+2 GIVN David
+2 SURN England
+1 BIRT Y
+1 EVEN
+2 TYPE
+2 NOTE Description: http://www.WikiTree.com/wiki/England-1357 
+1 REFN 6359689
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN 6560339
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 REFN 40
+1 FACT wikitree.privacy
+2 TYPE TYPE
+1 FAMC @F0005@
+1 OBJE
+2 FORM URL
+2 FILE davidengland@hotmail.com
+1 NOTE @N0008@
+1 NOTE @N0009@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @I0006@ INDI
+1 NAME Robert /Whitten/
+2 GIVN Robert
+2 SURN Whitten
+1 SEX M
+1 BIRT
+2 DATE 7 FEB 1861
+2 PLAC Lauderdale County, ALabama, USA
+1 DEAT
+2 DATE 8 FEB 1937
+2 PLAC Lauderdale County, ALabama, USA
+1 EVEN
+2 TYPE
+2 NOTE Description: http://www.WikiTree.com/wiki/Whitten-499 
+1 REFN 6375004
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN 6576598
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 REFN 50
+1 FACT wikitree.privacy
+2 TYPE TYPE
+1 FAMC @F0006@
+1 FAMS @F0002@
+1 NOTE @N0010@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:45:27
+0 @I0007@ INDI
+1 NAME Laroca /Parish/
+2 GIVN Laroca
+2 SURN Parish
+2 NICK Lark
+1 SEX F
+1 BIRT
+2 DATE 17 OCT 1855
+2 PLAC Wayne County TN
+1 DEAT
+2 DATE 11 DEC 1927
+1 EVEN
+2 TYPE
+2 NOTE Description: http://www.WikiTree.com/wiki/Parish-378 
+1 REFN 6375012
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN 6576610
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 REFN 50
+1 FACT wikitree.privacy
+2 TYPE TYPE
+1 FAMC @F0007@
+1 FAMS @F0002@
+1 FAMS @F0015@
+1 NOTE @N0011@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @I0008@ INDI
+1 NAME Jessie /Whitten/
+2 GIVN Jessie
+2 SURN Whitten
+1 SEX M
+1 BIRT Y
+1 EVEN
+2 TYPE
+2 NOTE Description: http://www.WikiTree.com/wiki/Whitten-500 
+1 REFN 6375008
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN 6576603
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 REFN 50
+1 FACT wikitree.privacy
+2 TYPE TYPE
+1 FAMS @F0015@
+1 FAMS @F0006@
+1 NOTE @N0012@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @I0009@ INDI
+1 NAME Martha /Duncan/
+2 GIVN Martha
+2 SURN Duncan
+1 SEX F
+1 BIRT
+2 DATE 25 JUL 1832
+2 PLAC Lauderdale County, ALabama
+1 EVEN
+2 TYPE
+2 NOTE Description: http://www.WikiTree.com/wiki/Duncan-3524 
+1 REFN 6384291
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN 6587018
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 REFN 50
+1 FACT wikitree.privacy
+2 TYPE TYPE
+1 FAMS @F0006@
+1 NOTE @N0013@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @I0010@ INDI
+1 NAME William /Parrish/
+2 GIVN William
+2 SURN Parrish
+2 NPFX Captain
+1 SEX M
+1 BIRT
+2 DATE 27 APR 1833
+2 PLAC TN
+1 DEAT
+2 DATE 5 DEC 1883
+1 EVEN
+2 TYPE
+2 NOTE Description: http://www.WikiTree.com/wiki/Parrish-892 
+1 REFN 6374606
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN 6576171
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 REFN 50
+1 FACT wikitree.privacy
+2 TYPE TYPE
+1 FAMC @F0008@
+1 FAMS @F0007@
+1 NOTE @N0014@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @I0011@ INDI
+1 NAME Rachael /Haddock/
+2 GIVN Rachael
+2 SURN Haddock
+1 SEX F
+1 BIRT
+2 DATE 1838
+2 PLAC Wayne County, Tennessee, USA
+1 DEAT
+2 DATE 19 FEB 1908
+2 PLAC Lauderdale, AL
+1 EVEN
+2 TYPE
+2 NOTE Description: http://www.WikiTree.com/wiki/Haddock-207 
+1 REFN 6364663
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN 6565659
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 REFN 50
+1 FACT wikitree.privacy
+2 TYPE TYPE
+1 FAMC @F0009@
+1 FAMS @F0007@
+1 NOTE @N0015@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @I0012@ INDI
+1 NAME James /Parish/
+2 GIVN James
+2 SURN Parish
+1 SEX M
+1 BIRT
+2 DATE 12 APR 1860
+2 PLAC Wayne County, TN, USA
+1 DEAT
+2 DATE 11 JUN 1917
+1 EVEN
+2 TYPE
+2 NOTE Description: http://www.WikiTree.com/wiki/Parish-379 
+1 REFN 6379408
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN 6581579
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 REFN 50
+1 FACT wikitree.privacy
+2 TYPE TYPE
+1 FAMC @F0007@
+1 NOTE @N0016@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @I0013@ INDI
+1 NAME William /Parish/
+2 GIVN William
+2 SURN Parish
+2 NICK Squire
+1 SEX M
+1 BIRT
+2 DATE 11 NOV 1861
+2 PLAC Wayne, , Tennessee, USA
+1 DEAT
+2 DATE 5 MAR 1957
+2 PLAC Lauderdale, , Alabama, USA
+1 EVEN
+2 TYPE
+2 NOTE Description: http://www.WikiTree.com/wiki/Parish-371 
+1 REFN 6364659
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN 6565653
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 REFN 50
+1 FACT wikitree.privacy
+2 TYPE TYPE
+1 FAMC @F0007@
+1 FAMS @F0016@
+1 NOTE @N0017@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @I0014@ INDI
+1 NAME Spencer M /Parrish/
+2 GIVN Spencer M
+2 SURN Parrish
+1 SEX M
+1 BIRT
+2 DATE 1830
+1 DEAT
+2 DATE 1907
+1 EVEN
+2 TYPE
+2 NOTE Description: http://www.WikiTree.com/wiki/Parrish-891 
+1 REFN 6374602
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN 6576167
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 REFN 50
+1 FACT wikitree.privacy
+2 TYPE TYPE
+1 FAMC @F0010@
+1 FAMS @F0008@
+1 NOTE @N0018@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @I0015@ INDI
+1 NAME Tabitha /Martin/
+2 GIVN Tabitha
+2 SURN Martin
+1 SEX F
+1 BIRT
+2 DATE 25 SEP 1830
+2 PLAC Harrison, , Virginia, USA
+1 DEAT
+2 DATE 1907
+1 EVEN
+2 TYPE
+2 NOTE Description: http://www.WikiTree.com/wiki/Martin-13854 
+1 REFN 6374603
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN 6576168
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 REFN 50
+1 FACT wikitree.privacy
+2 TYPE TYPE
+1 FAMC @F0011@
+1 FAMS @F0008@
+1 NOTE @N0019@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @I0016@ INDI
+1 NAME Michael /Parrish/
+2 GIVN Michael
+2 SURN Parrish
+1 SEX M
+1 BIRT
+2 DATE 1804
+2 PLAC Marion, , West Virginia, USA
+1 DEAT
+2 DATE 1855
+1 EVEN
+2 TYPE
+2 NOTE Description: http://www.WikiTree.com/wiki/Parrish-890 
+1 REFN 6374595
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN 6576160
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 REFN 60
+1 FACT wikitree.privacy
+2 TYPE TYPE
+1 FAMS @F0010@
+1 NOTE @N0020@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @I0017@ INDI
+1 NAME Mary /Bainbridge/
+2 GIVN Mary
+2 SURN Bainbridge
+1 SEX F
+1 BIRT
+2 DATE 1808
+1 DEAT
+2 DATE 2 JAN 1845
+1 EVEN
+2 TYPE
+2 NOTE Description: http://www.WikiTree.com/wiki/Bainbridge-108 
+1 REFN 6374596
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN 6576161
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 REFN 60
+1 FACT wikitree.privacy
+2 TYPE TYPE
+1 FAMS @F0010@
+1 NOTE @N0021@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @I0018@ INDI
+1 NAME John H /Martin/
+2 GIVN John H
+2 SURN Martin
+1 SEX M
+1 BIRT
+2 DATE 24 APR 1802
+2 PLAC Wyatt, Harrison, Virginia, USA
+1 DEAT
+2 DATE 22 SEP 1846
+2 PLAC Harrison, Virginia, USA
+1 EVEN
+2 TYPE
+2 NOTE Description: http://www.WikiTree.com/wiki/Martin-13853 
+1 REFN 6374597
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN 6576162
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 REFN 60
+1 FACT wikitree.privacy
+2 TYPE TYPE
+1 FAMS @F0011@
+1 NOTE @N0022@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @I0019@ INDI
+1 NAME Sarah /Crim/
+2 GIVN Sarah
+2 SURN Crim
+1 SEX F
+1 BIRT
+2 DATE 24 MAR 1801
+2 PLAC Harrison, , Virginia, USA
+1 DEAT
+2 DATE 12 MAY 1849
+2 PLAC Harrison, , Virginia, USA
+1 EVEN
+2 TYPE
+2 NOTE Description: http://www.WikiTree.com/wiki/Crim-122 
+1 REFN 6374598
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN 6576163
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 REFN 60
+1 FACT wikitree.privacy
+2 TYPE TYPE
+1 FAMS @F0011@
+1 NOTE @N0023@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @I0020@ INDI
+1 NAME James /Haddock/ Jr
+2 GIVN James
+2 SURN Haddock
+2 NSFX Jr
+1 SEX M
+1 BIRT
+2 DATE 2 FEB 1795
+2 PLAC North Carolina, USA
+1 DEAT
+2 DATE 13 JUL 1876
+2 PLAC Wayne, Tennessee, USA
+1 EVEN
+2 TYPE
+2 NOTE Description: http://www.WikiTree.com/wiki/Haddock-209 
+1 REFN 6374604
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN 6576169
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 REFN 60
+1 FACT wikitree.privacy
+2 TYPE TYPE
+1 FAMC @F0012@
+1 FAMS @F0009@
+1 FAMS @F0017@
+1 NOTE @N0024@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @I0021@ INDI
+1 NAME Acenah /Paulk/
+2 GIVN Acenah
+2 SURN Paulk
+1 SEX F
+1 BIRT
+2 DATE 21 NOV 1798
+2 PLAC Union, South Carolina, USA
+1 DEAT
+2 DATE 28 JAN 1862
+2 PLAC Wayne County, Tennessee USA
+1 EVEN
+2 TYPE
+2 NOTE Description: http://www.WikiTree.com/wiki/Paulk-199 
+1 REFN 6374605
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN 6576170
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 REFN 60
+1 FACT wikitree.privacy
+2 TYPE TYPE
+1 FAMC @F0013@
+1 FAMS @F0009@
+1 NOTE @N0025@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @I0022@ INDI
+1 NAME James /Haddock/
+2 GIVN James
+2 SURN Haddock
+1 SEX M
+1 BIRT
+2 DATE 1765
+2 PLAC North Carolina, USA
+1 DEAT
+2 DATE 1810
+2 PLAC Union, South Carolina, United States
+1 EVEN
+2 TYPE
+2 NOTE Description: http://www.WikiTree.com/wiki/Haddock-208 
+1 REFN 6374599
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN 6576164
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 REFN 60
+1 FACT wikitree.privacy
+2 TYPE TYPE
+1 FAMC @F0014@
+1 FAMS @F0012@
+1 NOTE @N0026@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @I0023@ INDI
+1 NAME Elizabeth /Lyles/
+2 GIVN Elizabeth
+2 SURN Lyles
+1 SEX F
+1 BIRT
+2 DATE 1765
+2 PLAC Maryland, USA
+1 DEAT
+2 PLAC Union Districk, , South Dakota, USA
+1 EVEN
+2 TYPE
+2 NOTE Description: http://www.WikiTree.com/wiki/Lyles-136 
+1 REFN 6374600
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN 6576165
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 REFN 60
+1 FACT wikitree.privacy
+2 TYPE TYPE
+1 FAMS @F0012@
+1 NOTE @N0027@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @I0024@ INDI
+1 NAME Elizabeth /Phillips/
+2 GIVN Elizabeth
+2 SURN Phillips
+1 NAME Elizabeth /Haddock/
+2 TYPE married
+2 GIVN Elizabeth
+2 SURN Haddock
+1 SEX F
+1 BIRT Y
+1 EVEN
+2 TYPE
+2 NOTE Description: http://www.WikiTree.com/wiki/Phillips-7361 
+1 REFN 6374756
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN 6576334
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 REFN 50
+1 FACT wikitree.privacy
+2 TYPE TYPE
+1 FAMS @F0017@
+1 NOTE @N0028@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @I0025@ INDI
+1 NAME Joshua /Paulk/
+2 GIVN Joshua
+2 SURN Paulk
+1 SEX M
+1 BIRT
+2 DATE 1772
+2 PLAC Union, , South Carolina, USA
+1 DEAT
+2 DATE 15 JAN 1813
+2 PLAC Cloverdale, , Alabama, USA
+1 EVEN
+2 TYPE
+2 NOTE Description: http://www.WikiTree.com/wiki/Paulk-198 
+1 REFN 6374601
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN 6576166
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 REFN 60
+1 FACT wikitree.privacy
+2 TYPE TYPE
+1 FAMS @F0013@
+1 NOTE @N0029@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @I0026@ INDI
+1 NAME James /White/
+2 GIVN James
+2 SURN White
+1 SEX M
+1 BIRT
+2 DATE 1838
+2 PLAC KY, USA
+1 EVEN
+2 TYPE
+2 NOTE Description: http://www.WikiTree.com/wiki/White-14147 
+1 REFN 6375240
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN 6576884
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 REFN 50
+1 FACT wikitree.privacy
+2 TYPE TYPE
+1 FAMS @F0003@
+1 NOTE @N0030@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @I0028@ INDI
+1 NAME William B. /England/
+2 GIVN William B.
+2 SURN England
+1 REFN 6359759
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 FAMS @F0004@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:48
+0 @I0029@ INDI
+1 NAME Annie /Lawson/
+2 GIVN Annie
+2 SURN Lawson
+1 REFN 6364621
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 FAMS @F0004@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:48
+0 @I0030@ INDI
+1 NAME Andrew /Haddock/
+2 GIVN Andrew
+2 SURN Haddock
+1 REFN 6374809
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 FAMS @F0014@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:48
+0 @I0031@ INDI
+1 NAME Mollie L. /Gresham/
+2 GIVN Mollie L.
+2 SURN Gresham
+1 REFN 6364672
+1 FACT wikitree.user_id
+2 TYPE TYPE
+1 REFN
+1 FACT wikitree.page_id
+2 TYPE TYPE
+1 FAMS @F0016@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:48
+0 @F0001@ FAM
+1 HUSB @I0002@
+1 WIFE @I0003@
+1 MARR
+2 DATE 17 MAR 1922
+2 PLAC Lauderdale County, ALabama
+1 CHIL @I0001@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @F0002@ FAM
+1 HUSB @I0006@
+1 WIFE @I0007@
+1 MARR
+2 DATE 19 DEC 1883
+2 PLAC Lauderdale County AL USA
+1 CHIL @I0002@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @F0003@ FAM
+1 HUSB @I0026@
+1 CHIL @I0003@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @F0004@ FAM
+1 HUSB @I0028@
+1 WIFE @I0029@
+1 CHIL @I0004@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @F0005@ FAM
+1 HUSB @I0004@
+1 WIFE @I0001@
+1 MARR
+2 PLAC Iuka, MS
+1 CHIL @I0005@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @F0006@ FAM
+1 HUSB @I0008@
+1 WIFE @I0009@
+1 MARR
+2 DATE 14 JUN 1850
+2 PLAC Lauderdale County AL
+1 CHIL @I0006@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @F0007@ FAM
+1 HUSB @I0010@
+1 WIFE @I0011@
+1 MARR Y
+1 CHIL @I0007@
+1 CHIL @I0012@
+1 CHIL @I0013@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @F0008@ FAM
+1 HUSB @I0014@
+1 WIFE @I0015@
+1 MARR Y
+1 CHIL @I0010@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @F0009@ FAM
+1 HUSB @I0020@
+1 WIFE @I0021@
+1 MARR
+2 DATE 21 NOV 1816
+2 PLAC ,Wayne,New York,USA
+1 CHIL @I0011@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @F0010@ FAM
+1 HUSB @I0016@
+1 WIFE @I0017@
+1 MARR Y
+1 CHIL @I0014@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @F0011@ FAM
+1 HUSB @I0018@
+1 WIFE @I0019@
+1 MARR Y
+1 CHIL @I0015@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @F0012@ FAM
+1 HUSB @I0022@
+1 WIFE @I0023@
+1 MARR
+2 DATE 1785
+2 PLAC ,,North Carolina,USA
+1 CHIL @I0020@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @F0013@ FAM
+1 HUSB @I0025@
+1 CHIL @I0021@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @F0014@ FAM
+1 HUSB @I0030@
+1 CHIL @I0022@
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @F0015@ FAM
+1 HUSB @I0008@
+1 WIFE @I0007@
+1 MARR Y
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @F0016@ FAM
+1 HUSB @I0013@
+1 WIFE @I0031@
+1 MARR
+2 DATE 15 JAN 1890
+2 PLAC Lauderdale County AL
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @F0017@ FAM
+1 HUSB @I0020@
+1 WIFE @I0024@
+1 MARR
+2 DATE 3 MAR 1864
+2 PLAC Her Father's house, Lauderdale County, ALabama, USA
+1 CHAN
+2 DATE 1 SEP 2013
+3 TIME 09:42:47
+0 @N0000@ NOTE This person is privacy-protected on WikiTree. If you did not add th
+1 CONC eir information, do not share it with anyone.
+0 @N0001@ NOTE Records not imported into INDI (individual) Gramps ID I0001:
+1 CONT 
+1 CONT Line ignored as not understood                                      Lin
+1 CONC e    20: 2 _MIDN Mae
+1 CONT Empty note ignored                                                  Lin
+1 CONC e    30: 1 NOTE 
+1 CONT Skipped subordinate line                                            Lin
+1 CONC e    31: 2 TEXT CONT 
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                ----
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Biography ==
+1 CONT                                                                         
+1 CONC                Bessie was born about 1933. Bessie Whittn ...  <ref>Enter
+1 CONC ed by David England, Wednesday, August 28, 2013.</ref>
+1 CONT                                                                         
+1 CONC                ''Can you add any information on Bessie Whittn? Please he
+1 CONC lp grow her WikiTree profile. Everything you see here is a collaborativ
+1 CONC e work-in-progress.''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Sources ==
+1 CONT                                                                         
+1 CONC                ''No sources. The events of Bessie's life were either wit
+1 CONC nessed by [[England-1357 | David England]] or David plans to add [[sourc
+1 CONC es]] here later.''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Footnotes ===
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <references />
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Acknowledgments ===
+1 CONT                                                                         
+1 CONC                Thank you to [[England-1357 | David England]] for [http:/
+1 CONC /www.wikitree.com/index.php?title=Special:NetworkFeed&who=Whittn-1 creat
+1 CONC ing] Whittn-1 on 28 Aug 13. Click the Changes tab for the details on con
+1 CONC tributions by David and others.
+1 CONT                                                                         
+1 CONC                <!-- Please edit or improve on anything you see on this p
+1 CONC age. Thank you! -->
+1 CONT 
+0 @N0002@ NOTE This person is privacy-protected on WikiTree. If you did not add th
+1 CONC eir information, do not share it with anyone.
+0 @N0003@ NOTE Records not imported into INDI (individual) Gramps ID I0002:
+1 CONT 
+1 CONT Line ignored as not understood                                      Lin
+1 CONC e    73: 2 _MIDN Virgil
+1 CONT Empty note ignored                                                  Lin
+1 CONC e    84: 1 NOTE 
+1 CONT Skipped subordinate line                                            Lin
+1 CONC e    85: 2 TEXT CONT == Biography ==
+1 CONT                                                                         
+1 CONC                Early was born in 1888. Early Whitten ...  He passed awa
+1 CONC y in 1957. <ref>Entered by David England, Friday, August 30, 2013.</ref>
+1 CONT                                                                         
+1 CONC                ''Can you add any information on Early Whitten? Please he
+1 CONC lp grow his WikiTree profile. Everything you see here is a collaborativ
+1 CONC e work-in-progress.''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Sources ==
+1 CONT                                                                         
+1 CONC                ''No sources. The events of Early's life were either witn
+1 CONC essed by [[England-1357 | David England]] or David plans to add [[source
+1 CONC s]] here later.''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Footnotes ===
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <references />
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Acknowledgments ===
+1 CONT                                                                         
+1 CONC                Thank you to [[England-1357 | David England]] for [http:/
+1 CONC /www.wikitree.com/index.php?title=Special:NetworkFeed&who=Whitten-498 cr
+1 CONC eating] Whitten-498 on 30 Aug 13. Click the Changes tab for the detail
+1 CONC s on contributions by David and others.
+1 CONT                                                                         
+1 CONC                <!-- Please edit or improve on anything you see on this p
+1 CONC age. Thank you! -->
+1 CONT 
+0 @N0004@ NOTE This person is privacy-protected on WikiTree. If you did not add th
+1 CONC eir information, do not share it with anyone.
+0 @N0005@ NOTE Records not imported into INDI (individual) Gramps ID I0003:
+1 CONT 
+1 CONT Line ignored as not understood                                      Lin
+1 CONC e   123: 2 _MIDN Blanche
+1 CONT Empty note ignored                                                  Lin
+1 CONC e   131: 1 NOTE 
+1 CONT Skipped subordinate line                                            Lin
+1 CONC e   132: 2 TEXT CONT == Biography ==
+1 CONT                                                                         
+1 CONC                Myrtle White ...  <ref>Entered by David England, Friday
+1 CONC , August 30, 2013.</ref>
+1 CONT                                                                         
+1 CONC                ''Can you add any information on Myrtle White? Please hel
+1 CONC p grow her WikiTree profile. Everything you see here is a collaborativ
+1 CONC e work-in-progress.''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Sources ==
+1 CONT                                                                         
+1 CONC                ''No sources. The events of Myrtle's life were either wit
+1 CONC nessed by [[England-1357 | David England]] or David plans to add [[sourc
+1 CONC es]] here later.''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Footnotes ===
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <references />
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Acknowledgments ===
+1 CONT                                                                         
+1 CONC                Thank you to [[England-1357 | David England]] for [http:/
+1 CONC /www.wikitree.com/index.php?title=Special:NetworkFeed&who=White-14146 cr
+1 CONC eating] White-14146 on 30 Aug 13. Click the Changes tab for the detail
+1 CONC s on contributions by David and others.
+1 CONT                                                                         
+1 CONC                <!-- Please edit or improve on anything you see on this p
+1 CONC age. Thank you! -->
+1 CONT 
+0 @N0006@ NOTE This person is privacy-protected on WikiTree. If you did not add th
+1 CONC eir information, do not share it with anyone.
+0 @N0007@ NOTE Records not imported into INDI (individual) Gramps ID I0004:
+1 CONT 
+1 CONT Line ignored as not understood                                      Lin
+1 CONC e   170: 2 _PGVN Bill
+1 CONT Line ignored as not understood                                      Lin
+1 CONC e   171: 2 _MIDN Glennis
+1 CONT Empty note ignored                                                  Lin
+1 CONC e   182: 1 NOTE 
+1 CONT Skipped subordinate line                                            Lin
+1 CONC e   183: 2 TEXT CONT == Biography ==
+1 CONT                                                                         
+1 CONC                William was born in 1934. William England ...  <ref>Enter
+1 CONC ed by David England, Wednesday, August 28, 2013.</ref>
+1 CONT                                                                         
+1 CONC                ''Can you add any information on William England? Pleas
+1 CONC e help grow his WikiTree profile. Everything you see here is a collabora
+1 CONC tive work-in-progress.''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Sources ==
+1 CONT                                                                         
+1 CONC                ''No sources. The events of William's life were either wi
+1 CONC tnessed by [[England-1357 | David England]] or David plans to add [[sour
+1 CONC ces]] here later.''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Footnotes ===
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <references />
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Acknowledgments ===
+1 CONT                                                                         
+1 CONC                Thank you to [[England-1357 | David England]] for [http:/
+1 CONC /www.wikitree.com/index.php?title=Special:NetworkFeed&who=England-1358 c
+1 CONC reating] England-1358 on 28 Aug 13. Click the Changes tab for the detail
+1 CONC s on contributions by David and others.
+1 CONT                                                                         
+1 CONC                <!-- Please edit or improve on anything you see on this p
+1 CONC age. Thank you! -->
+1 CONT 
+0 @N0008@ NOTE This person is privacy-protected on WikiTree. If you did not add th
+1 CONC eir information, do not share it with anyone.
+0 @N0009@ NOTE Records not imported into INDI (individual) Gramps ID I0005:
+1 CONT 
+1 CONT Line ignored as not understood                                      Lin
+1 CONC e   225: 2 _MIDN Edward
+1 CONT Empty note ignored                                                  Lin
+1 CONC e   231: 1 NOTE 
+1 CONT Skipped subordinate line                                            Lin
+1 CONC e   232: 2 TEXT CONT == Biography ==
+1 CONT                                                                         
+1 CONC                The biography for David England is empty. What can you ad
+1 CONC d?
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Sources ==
+1 CONT                                                                         
+1 CONC                * First-hand information. Entered by David England at reg
+1 CONC istration.
+1 CONT Tag recognised but not supported                                    Lin
+1 CONC e   246: 2 DATE 2013-08-28
+1 CONT Tag recognised but not supported                                    Lin
+1 CONC e   247: 2 AUTH Debby Black
+1 CONT Tag recognised but not supported                                    Lin
+1 CONC e   248: 2 TEXT CONC Thank you, David, for volunteering to help grow ou
+1 CONC r worldwide family tree.
+1 CONT                                                                         
+1 CONC                <br>
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <br>Our Honor Code, G2G message forum, help pages, searc
+1 CONC h features, and other useful links can be accessed from the drop-down bo
+1 CONC xes on the upper right corner of most pages.
+1 CONT                                                                         
+1 CONC                <br>
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <br>
+1 CONT                                                                         
+1 CONC                VERY IMPORTANT:
+1 CONT                                                                         
+1 CONC                <br>The more documents, <a href="http://www.wikitree.com/
+1 CONC wiki/Space:Sources_Resources"> sources</a>, dates, and locations you pro
+1 CONC vide on the profiles you create, the stronger your branches and our mutu
+1 CONC al global tree will be. If you don't know the correct date, please estim
+1 CONC ate using before or after.
+1 CONT                                                                         
+1 CONC                <br>
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <br>
+1 CONT                                                                         
+1 CONC                Hope you enjoy WikiTree!
+1 CONT Filename omitted                                                    Lin
+1 CONC e   244: 1 OBJE 
+1 CONT Tag recognised but not supported                                    Lin
+1 CONC e   272: 2 DATE 2013-08-28
+1 CONT Tag recognised but not supported                                    Lin
+1 CONC e   273: 2 AUTH Michelle Hartley
+1 CONT Tag recognised but not supported                                    Lin
+1 CONC e   274: 2 TEXT CONT Hello David,
+1 CONT                                                                         
+1 CONC                <br>Thanks for stopping by our site.  Lots of great thing
+1 CONC s are happening on WikiTree. We're growing a worldwide collaborative tre
+1 CONC e with new growth everyday.
+1 CONT                                                                         
+1 CONC                <br>
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <br>Our Honor Code is a very important part of our commun
+1 CONC ity. It's what helps keep our community friendly.  Please take the tim
+1 CONC e to 
+1 CONT                                                                         
+1 CONC                <br>read <a href=http://www.wikitree.com/wiki/Special:Hon
+1 CONC or_Code/> Honor Code.</a> and make sure 
+1 CONT                                                                         
+1 CONC                <br>you agree with our mission. If you would like to hel
+1 CONC p please click the volunteer link and leave us a message telling us so.
+1 CONT                                                                         
+1 CONC                <br>
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <br>In the meantime,  you can check out the help section(
+1 CONC located upper right hand corner)  
+1 CONT                                                                         
+1 CONC                <br>
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <br>You can ask questions in the G2G Q&A section<a href=h
+1 CONC ttp://www.wikitree.com/g2g/> G2G help.</a>
+1 CONT                                                                         
+1 CONC                <br>
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <br>
+1 CONT                                                                         
+1 CONC                Hope you will join us!
+1 CONT                                                                         
+1 CONC                <br>
+1 CONT                                                                         
+1 CONC                Thanks, Michelle
+1 CONT                                                                         
+1 CONC                <br>
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <br>
+1 CONT                                                                         
+1 CONC                Whoever said "seek and ye shall find" was NOT a genealogi
+1 CONC st!
+1 CONT                                                                         
+1 CONC                <br>
+1 CONT                                                                         
+1 CONC                
+1 CONT Filename omitted                                                    Lin
+1 CONC e   270: 1 OBJE 
+1 CONT Tag recognised but not supported                                    Lin
+1 CONC e   314: 2 DATE 2013-08-28
+1 CONT Tag recognised but not supported                                    Lin
+1 CONC e   315: 2 AUTH David England
+1 CONT Tag recognised but not supported                                    Lin
+1 CONC e   316: 2 TEXT CONT Willing to help in any way that I can as time permi
+1 CONC ts.
+1 CONT Filename omitted                                                    Lin
+1 CONC e   312: 1 OBJE 
+1 CONT Tag recognised but not supported                                    Lin
+1 CONC e   319: 2 DATE 2013-08-28
+1 CONT Tag recognised but not supported                                    Lin
+1 CONC e   320: 2 AUTH Michelle Hartley
+1 CONT Tag recognised but not supported                                    Lin
+1 CONC e   321: 2 TEXT CONT Hi David,
+1 CONT                                                                         
+1 CONC                <br>Thanks for stopping by our site.  Lots of great thing
+1 CONC s are happening on WikiTree. We're growing a worldwide collaborative tre
+1 CONC e with new growth everyday.
+1 CONT                                                                         
+1 CONC                <br>
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <br>Our Honor Code is a very important part of our commun
+1 CONC ity. It's what helps keep our community friendly.  Please take the tim
+1 CONC e to 
+1 CONT                                                                         
+1 CONC                <br>read <a href=http://www.wikitree.com/wiki/Special:Hon
+1 CONC or_Code/> Honor Code.</a> and make sure 
+1 CONT                                                                         
+1 CONC                <br>you agree with our mission. If you would like to hel
+1 CONC p please click the volunteer link and leave us a message telling us so.
+1 CONT                                                                         
+1 CONC                <br>
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <br>In the meantime,  you can check out the help section(
+1 CONC located upper right hand corner)  
+1 CONT                                                                         
+1 CONC                <br>
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <br>You can ask questions in the G2G Q&A section<a href=h
+1 CONC ttp://www.wikitree.com/g2g/> G2G help.</a>
+1 CONT                                                                         
+1 CONC                <br>
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <br>
+1 CONT                                                                         
+1 CONC                Hope you will join us!
+1 CONT                                                                         
+1 CONC                <br>
+1 CONT                                                                         
+1 CONC                Thanks, Michelle
+1 CONT                                                                         
+1 CONC                <br>
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <br>
+1 CONT                                                                         
+1 CONC                Whoever said "seek and ye shall find" was NOT a genealogi
+1 CONC st!
+1 CONT Filename omitted                                                    Lin
+1 CONC e   317: 1 OBJE 
+1 CONT 
+0 @N0010@ NOTE Records not imported into INDI (individual) Gramps ID I0006:
+1 CONT 
+1 CONT Line ignored as not understood                                      Lin
+1 CONC e   360: 2 _MIDN Duncan
+1 CONT Empty note ignored                                                  Lin
+1 CONC e   372: 1 NOTE 
+1 CONT Skipped subordinate line                                            Lin
+1 CONC e   373: 2 TEXT CONT == Biography ==
+1 CONT                                                                         
+1 CONC                Robert was born in 1861. Robert Whitten ...  He passed aw
+1 CONC ay in 1937. <ref>Entered by David England, Friday, August 30, 2013.</ref
+1 CONC >
+1 CONT                                                                         
+1 CONC                ''Can you add any information on Robert Whitten? Please h
+1 CONC elp grow his WikiTree profile. Everything you see here is a collaborativ
+1 CONC e work-in-progress.''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Sources ==
+1 CONT                                                                         
+1 CONC                ''No sources. The events of Robert's life were either wit
+1 CONC nessed by [[England-1357 | David England]] or David plans to add [[sourc
+1 CONC es]] here later.''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Footnotes ===
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <references />
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Acknowledgments ===
+1 CONT                                                                         
+1 CONC                Thank you to [[England-1357 | David England]] for [http:/
+1 CONC /www.wikitree.com/index.php?title=Special:NetworkFeed&who=Whitten-499 cr
+1 CONC eating] Whitten-499 on 30 Aug 13. Click the Changes tab for the detail
+1 CONC s on contributions by David and others.
+1 CONT                                                                         
+1 CONC                <!-- Please edit or improve on anything you see on this p
+1 CONC age. Thank you! -->
+1 CONT 
+0 @N0011@ NOTE Records not imported into INDI (individual) Gramps ID I0007:
+1 CONT 
+1 CONT Line ignored as not understood                                      Lin
+1 CONC e   410: 2 _MIDN Francis
+1 CONT Empty note ignored                                                  Lin
+1 CONC e   423: 1 NOTE 
+1 CONT Skipped subordinate line                                            Lin
+1 CONC e   424: 2 TEXT CONT == Biography ==
+1 CONT                                                                         
+1 CONC                Laroca Parish ...  <ref>Entered by David England, Friday
+1 CONC , August 30, 2013.</ref>
+1 CONT                                                                         
+1 CONC                ''Can you add any information on Laroca Parish? Please he
+1 CONC lp grow her WikiTree profile. Everything you see here is a collaborativ
+1 CONC e work-in-progress.''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Sources ==
+1 CONT                                                                         
+1 CONC                ''No sources. The events of Laroca's life were either wit
+1 CONC nessed by [[England-1357 | David England]] or David plans to add [[sourc
+1 CONC es]] here later.''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Footnotes ===
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <references />
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Acknowledgments ===
+1 CONT                                                                         
+1 CONC                Thank you to [[England-1357 | David England]] for [http:/
+1 CONC /www.wikitree.com/index.php?title=Special:NetworkFeed&who=Parish-378 cre
+1 CONC ating] Parish-378 on 30 Aug 13. Click the Changes tab for the details o
+1 CONC n contributions by David and others.
+1 CONT                                                                         
+1 CONC                <!-- Please edit or improve on anything you see on this p
+1 CONC age. Thank you! -->
+1 CONT 
+0 @N0012@ NOTE Records not imported into INDI (individual) Gramps ID I0008:
+1 CONT 
+1 CONT Line ignored as not understood                                      Lin
+1 CONC e   461: 2 _MIDN P
+1 CONT Empty note ignored                                                  Lin
+1 CONC e   468: 1 NOTE 
+1 CONT Skipped subordinate line                                            Lin
+1 CONC e   469: 2 TEXT CONT == Biography ==
+1 CONT                                                                         
+1 CONC                Jessie Whitten ...  <ref>Entered by David England, Friday
+1 CONC , August 30, 2013.</ref>
+1 CONT                                                                         
+1 CONC                ''Can you add any information on Jessie Whitten? Please h
+1 CONC elp grow his WikiTree profile. Everything you see here is a collaborativ
+1 CONC e work-in-progress.''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Sources ==
+1 CONT                                                                         
+1 CONC                ''No sources. The events of Jessie's life were either wit
+1 CONC nessed by [[England-1357 | David England]] or David plans to add [[sourc
+1 CONC es]] here later.''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Footnotes ===
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <references />
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Acknowledgments ===
+1 CONT                                                                         
+1 CONC                Thank you to [[England-1357 | David England]] for [http:/
+1 CONC /www.wikitree.com/index.php?title=Special:NetworkFeed&who=Whitten-500 cr
+1 CONC eating] Whitten-500 on 30 Aug 13. Click the Changes tab for the detail
+1 CONC s on contributions by David and others.
+1 CONT                                                                         
+1 CONC                <!-- Please edit or improve on anything you see on this p
+1 CONC age. Thank you! -->
+1 CONT 
+0 @N0013@ NOTE Records not imported into INDI (individual) Gramps ID I0009:
+1 CONT 
+1 CONT Line ignored as not understood                                      Lin
+1 CONC e   506: 2 _MIDN E.
+1 CONT Empty note ignored                                                  Lin
+1 CONC e   514: 1 NOTE 
+1 CONT Skipped subordinate line                                            Lin
+1 CONC e   515: 2 TEXT CONT == Biography ==
+1 CONT                                                                         
+1 CONC                Martha was born in 1832. Martha Duncan ...  <ref>Entere
+1 CONC d by David England, Sunday, September  1, 2013.</ref>
+1 CONT                                                                         
+1 CONC                ''Can you add any information on Martha Duncan? Please he
+1 CONC lp grow her WikiTree profile. Everything you see here is a collaborativ
+1 CONC e work-in-progress.''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Sources ==
+1 CONT                                                                         
+1 CONC                ''No sources. The events of Martha's life were either wit
+1 CONC nessed by [[England-1357 | David England]] or David plans to add [[sourc
+1 CONC es]] here later.''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Footnotes ===
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <references />
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Acknowledgments ===
+1 CONT                                                                         
+1 CONC                Thank you to [[England-1357 | David England]] for [http:/
+1 CONC /www.wikitree.com/index.php?title=Special:NetworkFeed&who=Duncan-3524 cr
+1 CONC eating] Duncan-3524 on  1 Sep 13. Click the Changes tab for the detail
+1 CONC s on contributions by David and others.
+1 CONT                                                                         
+1 CONC                <!-- Please edit or improve on anything you see on this p
+1 CONC age. Thank you! -->
+1 CONT 
+0 @N0014@ NOTE Records not imported into INDI (individual) Gramps ID I0010:
+1 CONT 
+1 CONT Line ignored as not understood                                      Lin
+1 CONC e   553: 2 _PGVN Brown
+1 CONT Line ignored as not understood                                      Lin
+1 CONC e   554: 2 _MIDN John Brown
+1 CONT Empty note ignored                                                  Lin
+1 CONC e   565: 1 NOTE 
+1 CONT Skipped subordinate line                                            Lin
+1 CONC e   566: 2 TEXT CONT == Biography ==
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                ''No additional information is available. Can you add som
+1 CONC ething?''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Sources ==
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <references />
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Acknowledgments ===
+1 CONT                                                                         
+1 CONC                Thank you to [[England-1357 | David England]] for creatin
+1 CONC g WikiTree profile Parrish-892 through the import of WA Parish Ancestors
+1 CONC .ged on Aug 28, 2013. Click to the Changes page for the details of edit
+1 CONC s by David and others.
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <!-- Please edit, add, or delete anything in this text. T
+1 CONC hank you! -->
+1 CONT 
+0 @N0015@ NOTE Records not imported into INDI (individual) Gramps ID I0011:
+1 CONT 
+1 CONT Line ignored as not understood                                      Lin
+1 CONC e   591: 2 _MIDN Emily
+1 CONT Empty note ignored                                                  Lin
+1 CONC e   603: 1 NOTE 
+1 CONT Skipped subordinate line                                            Lin
+1 CONC e   604: 2 TEXT CONT == Biography ==
+1 CONT                                                                         
+1 CONC                Rachael was born about 1838. Rachael Haddock ...  She pas
+1 CONC sed away in 1908. <ref>Entered by David England, Thursday, August 29, 20
+1 CONC 13.</ref>
+1 CONT                                                                         
+1 CONC                ''Can you add any information on Rachael Haddock? Pleas
+1 CONC e help grow her WikiTree profile. Everything you see here is a collabora
+1 CONC tive work-in-progress.''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Sources ==
+1 CONT                                                                         
+1 CONC                ''No sources. The events of Rachael's life were either wi
+1 CONC tnessed by [[England-1357 | David England]] or David plans to add [[sour
+1 CONC ces]] here later.''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Footnotes ===
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <references />
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Acknowledgments ===
+1 CONT                                                                         
+1 CONC                Thank you to [[England-1357 | David England]] for [http:/
+1 CONC /www.wikitree.com/index.php?title=Special:NetworkFeed&who=Haddock-207 cr
+1 CONC eating] Haddock-207 on 29 Aug 13. Click the Changes tab for the detail
+1 CONC s on contributions by David and others.
+1 CONT                                                                         
+1 CONC                <!-- Please edit or improve on anything you see on this p
+1 CONC age. Thank you! -->
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                ----
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Biography ==
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                ''No additional information is available. Can you add som
+1 CONC ething?''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Sources ==
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <references />
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Acknowledgments ===
+1 CONT                                                                         
+1 CONC                Thank you to [[England-1357 | David England]] for creatin
+1 CONC g WikiTree profile Haddock-210 through the import of WA Parish Ancestors
+1 CONC .ged on Aug 28, 2013. Click to the Changes page for the details of edit
+1 CONC s by David and others.
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <!-- Please edit, add, or delete anything in this text. T
+1 CONC hank you! -->
+1 CONT 
+0 @N0016@ NOTE Records not imported into INDI (individual) Gramps ID I0012:
+1 CONT 
+1 CONT Line ignored as not understood                                      Lin
+1 CONC e   660: 2 _MIDN Issac
+1 CONT Empty note ignored                                                  Lin
+1 CONC e   670: 1 NOTE 
+1 CONT Skipped subordinate line                                            Lin
+1 CONC e   671: 2 TEXT CONT == Biography ==
+1 CONT                                                                         
+1 CONC                James was born in 1860. He was the son of [[Parrish-892|B
+1 CONC rown Parrish]] and [[Haddock-207|Rachael Haddock]].  He passed away in 1
+1 CONC 917. <ref>Entered by David England, Saturday, August 31, 2013.</ref>
+1 CONT                                                                         
+1 CONC                ''Can you add any information on James Parish? Please hel
+1 CONC p grow his WikiTree profile. Everything you see here is a collaborativ
+1 CONC e work-in-progress.''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Sources ==
+1 CONT                                                                         
+1 CONC                ''No sources. The events of James's life were either witn
+1 CONC essed by [[England-1357 | David England]] or David plans to add [[source
+1 CONC s]] here later.''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Footnotes ===
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <references />
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Acknowledgments ===
+1 CONT                                                                         
+1 CONC                Thank you to [[England-1357 | David England]] for [http:/
+1 CONC /www.wikitree.com/index.php?title=Special:NetworkFeed&who=Parish-379 cre
+1 CONC ating] Parish-379 on 31 Aug 13. Click the Changes tab for the details o
+1 CONC n contributions by David and others.
+1 CONT                                                                         
+1 CONC                <!-- Please edit or improve on anything you see on this p
+1 CONC age. Thank you! -->
+1 CONT 
+0 @N0017@ NOTE Records not imported into INDI (individual) Gramps ID I0013:
+1 CONT 
+1 CONT Line ignored as not understood                                      Lin
+1 CONC e   709: 2 _MIDN Archabald
+1 CONT Empty note ignored                                                  Lin
+1 CONC e   722: 1 NOTE 
+1 CONT Skipped subordinate line                                            Lin
+1 CONC e   723: 2 TEXT CONT == Biography ==
+1 CONT                                                                         
+1 CONC                William was born in 1861. William Parish ...  He passed a
+1 CONC way in 1957. <ref>Entered by David England, Thursday, August 29, 2013.</
+1 CONC ref>
+1 CONT                                                                         
+1 CONC                ''Can you add any information on William Parish? Please h
+1 CONC elp grow his WikiTree profile. Everything you see here is a collaborativ
+1 CONC e work-in-progress.''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Sources ==
+1 CONT                                                                         
+1 CONC                ''No sources. The events of William's life were either wi
+1 CONC tnessed by [[England-1357 | David England]] or David plans to add [[sour
+1 CONC ces]] here later.''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Footnotes ===
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <references />
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Acknowledgments ===
+1 CONT                                                                         
+1 CONC                Thank you to [[England-1357 | David England]] for [http:/
+1 CONC /www.wikitree.com/index.php?title=Special:NetworkFeed&who=Parish-371 cre
+1 CONC ating] Parish-371 on 29 Aug 13. Click the Changes tab for the details o
+1 CONC n contributions by David and others.
+1 CONT                                                                         
+1 CONC                <!-- Please edit or improve on anything you see on this p
+1 CONC age. Thank you! -->
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                ----
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Biography ==
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                ''No additional information is available. Can you add som
+1 CONC ething?''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Sources ==
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <references />
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Acknowledgments ===
+1 CONT                                                                         
+1 CONC                Thank you to [[England-1357 | David England]] for creatin
+1 CONC g WikiTree profile Parish-376 through the import of WA Parish Ancestors.
+1 CONC ged on Aug 28, 2013. Click to the Changes page for the details of edit
+1 CONC s by David and others.
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <!-- Please edit, add, or delete anything in this text. T
+1 CONC hank you! -->
+1 CONT 
+0 @N0018@ NOTE Records not imported into INDI (individual) Gramps ID I0014:
+1 CONT 
+1 CONT Empty note ignored                                                  Lin
+1 CONC e   788: 1 NOTE 
+1 CONT Skipped subordinate line                                            Lin
+1 CONC e   789: 2 TEXT CONT == Biography ==
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                ''No additional information is available. Can you add som
+1 CONC ething?''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Sources ==
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <references />
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Acknowledgments ===
+1 CONT                                                                         
+1 CONC                Thank you to [[England-1357 | David England]] for creatin
+1 CONC g WikiTree profile Parrish-891 through the import of WA Parish Ancestors
+1 CONC .ged on Aug 28, 2013. Click to the Changes page for the details of edit
+1 CONC s by David and others.
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <!-- Please edit, add, or delete anything in this text. T
+1 CONC hank you! -->
+1 CONT 
+0 @N0019@ NOTE Records not imported into INDI (individual) Gramps ID I0015:
+1 CONT 
+1 CONT Empty note ignored                                                  Lin
+1 CONC e   824: 1 NOTE 
+1 CONT Skipped subordinate line                                            Lin
+1 CONC e   825: 2 TEXT CONT == Biography ==
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                ''No additional information is available. Can you add som
+1 CONC ething?''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Sources ==
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <references />
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Acknowledgments ===
+1 CONT                                                                         
+1 CONC                Thank you to [[England-1357 | David England]] for creatin
+1 CONC g WikiTree profile Martin-13854 through the import of WA Parish Ancestor
+1 CONC s.ged on Aug 28, 2013. Click to the Changes page for the details of edit
+1 CONC s by David and others.
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <!-- Please edit, add, or delete anything in this text. T
+1 CONC hank you! -->
+1 CONT 
+0 @N0020@ NOTE Records not imported into INDI (individual) Gramps ID I0016:
+1 CONT 
+1 CONT Empty note ignored                                                  Lin
+1 CONC e   859: 1 NOTE 
+1 CONT Skipped subordinate line                                            Lin
+1 CONC e   860: 2 TEXT CONT == Biography ==
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                ''No additional information is available. Can you add som
+1 CONC ething?''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Sources ==
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <references />
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Acknowledgments ===
+1 CONT                                                                         
+1 CONC                Thank you to [[England-1357 | David England]] for creatin
+1 CONC g WikiTree profile Parrish-890 through the import of WA Parish Ancestors
+1 CONC .ged on Aug 28, 2013. Click to the Changes page for the details of edit
+1 CONC s by David and others.
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <!-- Please edit, add, or delete anything in this text. T
+1 CONC hank you! -->
+1 CONT 
+0 @N0021@ NOTE Records not imported into INDI (individual) Gramps ID I0017:
+1 CONT 
+1 CONT Empty note ignored                                                  Lin
+1 CONC e   893: 1 NOTE 
+1 CONT Skipped subordinate line                                            Lin
+1 CONC e   894: 2 TEXT CONT == Biography ==
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                ''No additional information is available. Can you add som
+1 CONC ething?''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Sources ==
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <references />
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Acknowledgments ===
+1 CONT                                                                         
+1 CONC                Thank you to [[England-1357 | David England]] for creatin
+1 CONC g WikiTree profile Bainbridge-108 through the import of WA Parish Ancest
+1 CONC ors.ged on Aug 28, 2013. Click to the Changes page for the details of ed
+1 CONC its by David and others.
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <!-- Please edit, add, or delete anything in this text. T
+1 CONC hank you! -->
+1 CONT 
+0 @N0022@ NOTE Records not imported into INDI (individual) Gramps ID I0018:
+1 CONT 
+1 CONT Empty note ignored                                                  Lin
+1 CONC e   929: 1 NOTE 
+1 CONT Skipped subordinate line                                            Lin
+1 CONC e   930: 2 TEXT CONT == Biography ==
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                ''No additional information is available. Can you add som
+1 CONC ething?''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Sources ==
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <references />
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Acknowledgments ===
+1 CONT                                                                         
+1 CONC                Thank you to [[England-1357 | David England]] for creatin
+1 CONC g WikiTree profile Martin-13853 through the import of WA Parish Ancestor
+1 CONC s.ged on Aug 28, 2013. Click to the Changes page for the details of edit
+1 CONC s by David and others.
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <!-- Please edit, add, or delete anything in this text. T
+1 CONC hank you! -->
+1 CONT 
+0 @N0023@ NOTE Records not imported into INDI (individual) Gramps ID I0019:
+1 CONT 
+1 CONT Line ignored as not understood                                      Lin
+1 CONC e   955: 2 _MIDN A
+1 CONT Empty note ignored                                                  Lin
+1 CONC e   966: 1 NOTE 
+1 CONT Skipped subordinate line                                            Lin
+1 CONC e   967: 2 TEXT CONT == Biography ==
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                ''No additional information is available. Can you add som
+1 CONC ething?''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Sources ==
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <references />
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Acknowledgments ===
+1 CONT                                                                         
+1 CONC                Thank you to [[England-1357 | David England]] for creatin
+1 CONC g WikiTree profile Crim-122 through the import of WA Parish Ancestors.ge
+1 CONC d on Aug 28, 2013. Click to the Changes page for the details of edits b
+1 CONC y David and others.
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <!-- Please edit, add, or delete anything in this text. T
+1 CONC hank you! -->
+1 CONT 
+0 @N0024@ NOTE Records not imported into INDI (individual) Gramps ID I0020:
+1 CONT 
+1 CONT Line ignored as not understood                                      Lin
+1 CONC e   992: 2 _MIDN W
+1 CONT Empty note ignored                                                  Lin
+1 CONC e  1006: 1 NOTE 
+1 CONT Skipped subordinate line                                            Lin
+1 CONC e  1007: 2 TEXT CONC Private, served in Capt. Thomas WHITE’s company, So
+1 CONC uth Carolina Militia from 1 October 1814 till discharge on 7 March 1815
+1 CONC . Soldier volunteered 1 Sep 1814 at Sipses Old Field, Union District, So
+1 CONC uth Carolina and was discharged at Charleston SC. Soldier was substitut
+1 CONC e for James JACKSON, draftee. Soldier was 55 years old in 1850, 60 in 18
+1 CONC 55 and 76 in 1870. Soldier married second wife, Elizabeth Ann PHILLIPS o
+1 CONC n 3 March 1864 "at her father’s house in Lauderdale Co., AL". Soldier re
+1 CONC sided in 1850 in Wayne Co., TN, and had received two bounty land warrant
+1 CONC s, one No. 12.763 for 80 acres in 1850 and another on 7 Apr 1856. Pensio
+1 CONC n no. 20.482 (12.284). Soldier stated he served as a private and that "m
+1 CONC y command first marched to Charleston, SC then to Headrells Point near C
+1 CONC harleston, then to Bull’s Island. My command returned to Charleston an
+1 CONC d we were marched to St. John’s Island, and returned to Charleston and w
+1 CONC ere discharged." <ref>Submitted by Geraldine KELLEY, 201 N. Pine St., Ap
+1 CONC t 711, Florence, AL 35630</ref>.
+1 CONT 
+0 @N0025@ NOTE Records not imported into INDI (individual) Gramps ID I0021:
+1 CONT 
+1 CONT Empty note ignored                                                  Lin
+1 CONC e  1042: 1 NOTE 
+1 CONT Skipped subordinate line                                            Lin
+1 CONC e  1043: 2 TEXT CONT == Biography ==
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                ''No additional information is available. Can you add som
+1 CONC ething?''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Sources ==
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <references />
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Acknowledgments ===
+1 CONT                                                                         
+1 CONC                Thank you to [[England-1357 | David England]] for creatin
+1 CONC g WikiTree profile Paulk-199 through the import of WA Parish Ancestors.g
+1 CONC ed on Aug 28, 2013. Click to the Changes page for the details of edits b
+1 CONC y David and others.
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <!-- Please edit, add, or delete anything in this text. T
+1 CONC hank you! -->
+1 CONT 
+0 @N0026@ NOTE Records not imported into INDI (individual) Gramps ID I0022:
+1 CONT 
+1 CONT Empty note ignored                                                  Lin
+1 CONC e  1079: 1 NOTE 
+1 CONT Skipped subordinate line                                            Lin
+1 CONC e  1080: 2 TEXT CONT == Biography ==
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                ''No additional information is available. Can you add som
+1 CONC ething?''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Sources ==
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <references />
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Acknowledgments ===
+1 CONT                                                                         
+1 CONC                Thank you to [[England-1357 | David England]] for creatin
+1 CONC g WikiTree profile Haddock-208 through the import of WA Parish Ancestors
+1 CONC .ged on Aug 28, 2013. Click to the Changes page for the details of edit
+1 CONC s by David and others.
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <!-- Please edit, add, or delete anything in this text. T
+1 CONC hank you! -->
+1 CONT 
+0 @N0027@ NOTE Records not imported into INDI (individual) Gramps ID I0023:
+1 CONT 
+1 CONT Empty note ignored                                                  Lin
+1 CONC e  1114: 1 NOTE 
+1 CONT Skipped subordinate line                                            Lin
+1 CONC e  1115: 2 TEXT CONT == Biography ==
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                ''No additional information is available. Can you add som
+1 CONC ething?''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Sources ==
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <references />
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Acknowledgments ===
+1 CONT                                                                         
+1 CONC                Thank you to [[England-1357 | David England]] for creatin
+1 CONC g WikiTree profile Lyles-136 through the import of WA Parish Ancestors.g
+1 CONC ed on Aug 28, 2013. Click to the Changes page for the details of edits b
+1 CONC y David and others.
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <!-- Please edit, add, or delete anything in this text. T
+1 CONC hank you! -->
+1 CONT 
+0 @N0028@ NOTE Records not imported into INDI (individual) Gramps ID I0024:
+1 CONT 
+1 CONT Line ignored as not understood                                      Lin
+1 CONC e  1140: 2 _MIDN Ann
+1 CONT Empty note ignored                                                  Lin
+1 CONC e  1147: 1 NOTE 
+1 CONT Skipped subordinate line                                            Lin
+1 CONC e  1148: 2 TEXT CONT == Biography ==
+1 CONT                                                                         
+1 CONC                Elizabeth Phillips ...  <ref>Entered by David England, Fr
+1 CONC iday, August 30, 2013.</ref>
+1 CONT                                                                         
+1 CONC                ''Can you add any information on Elizabeth Phillips? Plea
+1 CONC se help grow her WikiTree profile. Everything you see here is a collabor
+1 CONC ative work-in-progress.''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Sources ==
+1 CONT                                                                         
+1 CONC                ''No sources. The events of Elizabeth's life were eithe
+1 CONC r witnessed by [[England-1357 | David England]] or David plans to add [[
+1 CONC sources]] here later.''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Footnotes ===
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <references />
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Acknowledgments ===
+1 CONT                                                                         
+1 CONC                Thank you to [[England-1357 | David England]] for [http:/
+1 CONC /www.wikitree.com/index.php?title=Special:NetworkFeed&who=Phillips-736
+1 CONC 1 creating] Phillips-7361 on 30 Aug 13. Click the Changes tab for the de
+1 CONC tails on contributions by David and others.
+1 CONT                                                                         
+1 CONC                <!-- Please edit or improve on anything you see on this p
+1 CONC age. Thank you! -->
+1 CONT 
+0 @N0029@ NOTE Records not imported into INDI (individual) Gramps ID I0025:
+1 CONT 
+1 CONT Empty note ignored                                                  Lin
+1 CONC e  1195: 1 NOTE 
+1 CONT Skipped subordinate line                                            Lin
+1 CONC e  1196: 2 TEXT CONT == Biography ==
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                ''No additional information is available. Can you add som
+1 CONC ething?''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Sources ==
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <references />
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Acknowledgments ===
+1 CONT                                                                         
+1 CONC                Thank you to [[England-1357 | David England]] for creatin
+1 CONC g WikiTree profile Paulk-198 through the import of WA Parish Ancestors.g
+1 CONC ed on Aug 28, 2013. Click to the Changes page for the details of edits b
+1 CONC y David and others.
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <!-- Please edit, add, or delete anything in this text. T
+1 CONC hank you! -->
+1 CONT 
+0 @N0030@ NOTE Records not imported into INDI (individual) Gramps ID I0026:
+1 CONT 
+1 CONT Line ignored as not understood                                      Lin
+1 CONC e  1221: 2 _MIDN Erwin
+1 CONT Empty note ignored                                                  Lin
+1 CONC e  1229: 1 NOTE 
+1 CONT Skipped subordinate line                                            Lin
+1 CONC e  1230: 2 TEXT CONT == Biography ==
+1 CONT                                                                         
+1 CONC                James was born in 1838. James White ...  <ref>Entered b
+1 CONC y David England, Friday, August 30, 2013.</ref>
+1 CONT                                                                         
+1 CONC                ''Can you add any information on James White? Please hel
+1 CONC p grow his WikiTree profile. Everything you see here is a collaborativ
+1 CONC e work-in-progress.''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                == Sources ==
+1 CONT                                                                         
+1 CONC                ''No sources. The events of James's life were either witn
+1 CONC essed by [[England-1357 | David England]] or David plans to add [[source
+1 CONC s]] here later.''
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Footnotes ===
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                <references />
+1 CONT                                                                         
+1 CONC                
+1 CONT                                                                         
+1 CONC                === Acknowledgments ===
+1 CONT                                                                         
+1 CONC                Thank you to [[England-1357 | David England]] for [http:/
+1 CONC /www.wikitree.com/index.php?title=Special:NetworkFeed&who=White-14147 cr
+1 CONC eating] White-14147 on 30 Aug 13. Click the Changes tab for the detail
+1 CONC s on contributions by David and others.
+1 CONT                                                                         
+1 CONC                <!-- Please edit or improve on anything you see on this p
+1 CONC age. Thank you! -->
+1 CONT 
+0 TRLR

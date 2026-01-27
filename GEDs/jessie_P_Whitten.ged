@@ -1,0 +1,854 @@
+﻿0 HEAD
+1 SOUR PAF
+2 NAME Personal Ancestral File
+2 VERS 5.2.18.0
+2 CORP The Church of Jesus Christ of Latter-day Saints
+3 ADDR 50 East North Temple Street
+4 CONT Salt Lake City, UT 84150
+4 CONT USA
+1 DEST PAF
+1 DATE 7 Aug 2009
+2 TIME 18:34:51
+1 FILE byler.ged
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+1 SUBM @SUB1@
+0 @I1741@ INDI
+1 NAME Mason /WHITTEN/
+2 SURN WHITTEN
+2 GIVN Mason
+1 SEX M
+1 BIRT
+2 DATE 1798
+2 PLAC Newberry District, South Carolina
+1 DEAT
+2 DATE BET 1864 AND 1866
+2 PLAC Texas
+1 _UID 61E968939D754F4193A6300D143A665D6E4A
+1 FAMS @F818@
+1 FAMS @F20553@
+1 FAMC @F110@
+1 NOTE Whitten, D.C. et al, vs Mason Whitten et al, page 393 Chancery Court Book II
+2 CONT David C. Whitten, adm et al, Simon P. Whitten, Joll W. Whitten, and others. versus Mason Whit
+2 CONC ten et all, OB.
+2 CONT publication having been made in teh Nashville Union and Ameircan, on teh 4 Oct 1870, a notic
+2 CONC e to appear in court to Daniel Phillips, Eliza Phillips, Tennessee Phillips, Fannie Ann Phill
+2 CONC ips, and Mason Whitten and Nancy Whitten minor heirs and defendants, Z. M. Cypert appointed g
+2 CONC uardian to heirs.
+2 CONT Page 394-5, 5 Oct 1870, appearing to the satisfaction of the court that Mason Whitten ancesto
+2 CONC r of complainanats died in Texas leaving as heir at law only heirs the complainents and defen
+2 CONC dants. David Whitten adm of estate.
+2 CONT page 475. Mason's land was sold to G. W. Simmons and the homepleace sold to J. C. Paulk.
+2 CONT
+2 CONT Some question about the second marriage. Could be another Mason.
+1 CHAN
+2 DATE 11 Dec 2003
+3 TIME 14:29:17
+0 @I208@ INDI
+1 NAME George /WHITTEN/
+2 SURN WHITTEN
+2 GIVN George
+1 SEX M
+1 BIRT
+2 DATE 22 Jan 1787
+2 PLAC South Carolina
+1 DEAT
+2 DATE 26 Apr 1856
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC Whitten's Chapel Cemetery, Wayne County, Tennessee
+1 _UID 12CD8BF95DA4FF43A29197E0472C0E4F2017
+1 FAMS @F79@
+1 FAMC @F110@
+1 NOTE I'm going to include this will here, but I'm not certain if this is the same George. There ar
+2 CONC e too many coincidences for it to be someone else, yet later records indicate that George die
+2 CONC d without a will.  The original of the recorded will has not been found, so a comparison of t
+2 CONC he signatures cannot be made.  I have a suspicion that George married a second time after Eli
+2 CONC zabeth died in 1853. The second wife would have been Amanda Bratcher. Since there were no chi
+2 CONC ldren, Amanda did not come into the lawsuit of 1899. Amanda Bratcher Whitten remarried 17 Se
+2 CONC p 1862 Wayne Co., TN to Mark Bradley.  They are in Wayne County in 1870 but moved to Arkansa
+2 CONC s (later to Texas) before 1880.
+2 CONT
+2 CONT Wayne County, Tennessee
+2 CONT Inventories, Wills and Settlements 1848-1856, page 393
+2 CONT G Whittens Will
+2 CONT In the name of God amen. I George Whitten of the county of Wayne & State of Tennessee do thi
+2 CONC s day make & publish this my Last will & Testament. First I appoint and direct my executor th
+2 CONC at my funeral expneses be paid out of any moneys that I may be possessed of or the first tha
+2 CONC t may come to his hands.
+2 CONT Secondly that all my Lawfull Debts be paid &c
+2 CONT Thirdly. That Tract of Land I now own bounded as follows Bounded on the East by a Tract in th
+2 CONC e name Thos. Hare on the South by John Philips west by A. G. McDougal north by D C Whitten th
+2 CONC e same be sold to the best advantage and fifty Dollars of the proceeds taken into the hands o
+2 CONC f my Executor & applied to the mentainance of my Wife Amanda Whitten during her Lifetime or w
+2 CONC idow hood  Fourthly I also direct that my wife Amanda have one half of my Personal property d
+2 CONC uring her life time or widow hood
+2 CONT Fifthly I appoint David Clay Whitten my Executor to this my Last will & Testament to whic
+2 CONC h I set my hand & seal this 6th day of March 1856 in the presents of
+2 CONT (I am very unwell & have no witness present but this most solemn Requests that the above be c
+2 CONC arried our according to the above March 6th 1856) //s// G Whitten {seal}
+2 CONT //s// G Whitten F M Whitten N J Whitten
+2 CONT
+2 CONT Duly proven in open Court by the oaths of F M Whitten & N J Whitten May 5th 1856 //s// Wm. Jo
+2 CONC nes Clerk.
+2 CONT
+2 CONT Obituary of George Whitten, "Nashville Christian Advocate" 22 May 1856. Obituary says that h
+2 CONC e died 27 April 1856 and was born in South Carolina 1787.
+2 CONT
+2 CONT The following deed agreement was found among the papers of David Clay Whitten and was sent b
+2 CONC y Jo Anne Norwood.
+2 CONT The deed was no recorded.
+2 CONT "Know all men by these presents that I Francis Marion Whitten am held and bound unto George W
+2 CONC hitten his heirs and assigns in the penal sum of Two thousand Dollars to be levied of my good
+2 CONC s and chatles Land & Tenements to be conditioned as herein after mention to wit to which I se
+2 CONC t my hand & seal this 5th March 1852 //s// F. M. Whitten. Test: H. T. Hays, George W. Whitten
+2 CONC .
+2 CONT The conditions of the above obligation is such where as the said George Whitten hath on the _
+2 CONC ___day of February 1852 made a deed to said Francis M. Whitten to a tract of Land containin
+2 CONC g 200 acres more or les and for the specified sum of $500 & further consideration to wit __th
+2 CONC e said F. M. Whitten binds himself by this presents to let the said George Whitten live on th
+2 CONC e said Land & his kufetime & his wife Elizabeth Whitten her life time & to provide and take c
+2 CONC ar that neither of them sufer for support & for thei annual sustenance now if the said F M Wh
+2 CONC itten doth well & truly comply on his part with the above obligation then the said obligatio
+2 CONC n to be void & if not to remain in full force & efect in laws & Equity sid & seal the day & d
+2 CONC ate above written in the presents of us"
+1 CHAN
+2 DATE 15 Nov 2002
+3 TIME 16:49:47
+0 @I217@ INDI
+1 NAME Charles /WHITTEN/
+2 SURN WHITTEN
+2 GIVN Charles
+1 SEX M
+1 BIRT
+2 DATE ABT 1760
+1 DEAT
+2 DATE ABT 1845
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC Whitten's Chapel Cemetery, Wayne County, Tennessee
+1 _UID D23EA4895090B64CAC3BFF4CD1BC9278E8EE
+1 FAMS @F110@
+1 NOTE Whitten to Whitten
+2 CONT State of Alabama, Lauderdale County, December 3rd, 1827
+2 CONT Know all men by these presents That I Charles Whitten, Senr. of the State and County aforesai
+2 CONC d do this day give to my granddaughter Harriet Meranday Whitten. Six head of Cattle. vis. on
+2 CONC e red cow & calf marked with two crops & Two slits in teh right ear. One brindle cow & calf
+2 CONC . Two red heifers marked with a crop on the left ear and a upper bit & a hunder bit of the ri
+2 CONC ght. Also one feather bed and furniture. The sd. property I give to the said Harriet M. Whitt
+2 CONC en my granddaughter as my last will and testament
+2 CONT
+2 CONT To have and to hold from this time forever with their increase from the date above written wh
+2 CONC ich I warrant & defend from the claim of all other persons whatsoever my executor, administra
+2 CONC tor or assigns forever To which I set my hand and seal the day and date above written. //s/
+2 CONC / Charles Whitten {seal}
+2 CONT Signed and sealed in the presense of us
+2 CONT Test. John X(his mark) Welch. George Whitten
+2 CONT
+2 CONT The State of Alabama, Lauderdale County.
+2 CONT Be it remembered that George Whitten one of teh subscribing witnesses to the foregoing instru
+2 CONC ment this day personally appeared before me William W. Garrard Clerk of the County Court fo
+2 CONC r said County and made oath in due form of law that he heard Charles Whiten the marker thereo
+2 CONC f acknowledge the signing, sealing & delivery of the same to be his act and deed for the purp
+2 CONC oses therein contained.
+2 CONT
+2 CONT Lauderdale County, Alabama Deed Book 4, page 158
+1 CHAN
+2 DATE 15 Nov 2002
+3 TIME 16:49:47
+0 @I3788@ INDI
+1 NAME Jonathan /WHITTEN/
+2 SURN WHITTEN
+2 GIVN Jonathan
+1 SEX M
+1 BIRT
+2 DATE ABT 1795
+2 PLAC South Carolina (, , South Carolina
+1 CHR
+2 DATE 1812/1813
+2 PLAC Alabama (Creek W
+1 DEAT
+2 DATE AFT 1872
+2 PLAC Lauderdale County, Alabama
+1 _UID D4086899CF174745988FB7C12F1F07377A27
+1 FAMS @F1656@
+1 FAMS @F1657@
+1 FAMC @F110@
+1 CHAN
+2 DATE 15 Nov 2002
+3 TIME 16:50:20
+0 @I44506@ INDI
+1 NAME Robert "Bob" Duncan /Whitten/
+2 SURN Whitten
+2 GIVN Robert "Bob" Duncan
+1 SEX M
+1 BIRT
+2 DATE 7 Feb 1861
+2 PLAC Lauderdale County, Alabama
+1 DEAT
+2 DATE 8 Feb 1937
+2 PLAC Lauderdale County, Alabama
+1 BURI
+2 PLAC Pleasant Hill Cemetery, Lauderdale County, Alabama
+1 _UID 1247B32F01FE3C43A0422516266B04CE39E8
+1 FAMS @F15467@
+1 FAMC @F15468@
+1 NOTE 1900 Lauderdale County, Alabama
+1 CHAN
+2 DATE 15 Dec 2003
+3 TIME 10:33:20
+0 @I44507@ INDI
+1 NAME Jessie P. /Whitten/
+2 SURN Whitten
+2 GIVN Jessie P.
+1 SEX M
+1 BIRT
+2 DATE 1828
+2 PLAC Alabama
+1 _UID 1C1A3537701C824894F63B6BA8E3CF2AACEB
+1 FAMS @F15468@
+1 FAMC @F2250@
+1 NOTE I do not have proof that Jesse was a son of John and Lucinda, however, Lucinda was living i
+2 CONC n Jesse's household in 1860 and 1870 in Lauderdale County, AL.
+1 CHAN
+2 DATE 11 Dec 2003
+3 TIME 12:55:01
+0 @I44508@ INDI
+1 NAME Martha Ann /Duncan/
+2 SURN Duncan
+2 GIVN Martha Ann
+1 SEX F
+1 BIRT
+2 DATE 1831
+2 PLAC Alabama
+1 _UID A3DF7E627EC4584392DAD5E83AA6D0354DF9
+1 FAMS @F15468@
+1 FAMC @F20554@
+1 CHAN
+2 DATE 11 Dec 2003
+3 TIME 12:55:10
+0 @I4593@ INDI
+1 NAME Nicholas /WHITTEN/
+2 SURN WHITTEN
+2 GIVN Nicholas
+1 SEX M
+1 BIRT
+2 PLAC South Carolina
+1 DEAT
+2 DATE BEF 1860
+2 PLAC Wayne County, Tennessee
+1 _UID ECEC6779A8D1B6418AF8755314A30C487DA9
+1 FAMS @F1977@
+1 FAMC @F110@
+1 CHAN
+2 DATE 15 Nov 2002
+3 TIME 16:50:26
+0 @I5562@ INDI
+1 NAME Joel /WHITTEN/
+2 SURN WHITTEN
+2 GIVN Joel
+1 SEX M
+1 BIRT
+2 DATE 31 Jan 1792
+2 PLAC Newberry District, South Carolina
+1 DEAT
+2 DATE 12 Dec 1860
+2 PLAC Mississippi
+1 BURI
+2 PLAC Coffey Cemetery, Pontotoc County, Mississippi
+1 _UID 0F6B1AA089DF21469D9678E65005685AAB4B
+1 FAMS @F2249@
+1 FAMC @F110@
+1 NOTE In 1830 there is a female in the household born between 1810-1820. This is possibly Eliza Hay
+2 CONC s, the later wife of Milton Whitten.  It is my belief that Joel's wife, Mary had been marrie
+2 CONC d to a man by the name of Hays and that Henry T. and Eliza were her children by this first ma
+2 CONC rriage.
+2 CONT
+2 CONT According to Joel's tombstone in Coffey Cemetery, Pontotoc Co., Ms, he was born 14 Jan 1793 a
+2 CONC nd died 15 May 1857 abd was a veteran of the War of 1812.
+1 CHAN
+2 DATE 3 Feb 2004
+3 TIME 17:34:15
+0 @I5563@ INDI
+1 NAME John /WHITTEN/
+2 SURN WHITTEN
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE ABT 1790
+2 PLAC South Carolina
+1 DEAT
+2 DATE BEF 1840
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC Whitten's Chapel Cemetery, Wayne County, Tennessee
+1 _UID B6614C8A89200D4F937AF4BE6A740F3BD907
+1 FAMS @F2250@
+1 FAMC @F110@
+1 NOTE 1820 Warren Co., TN Census
+1 CHAN
+2 DATE 15 Nov 2002
+3 TIME 16:50:34
+0 @I5564@ INDI
+1 NAME Charles /WHITTEN/
+2 SURN WHITTEN
+2 GIVN Charles
+1 SEX M
+1 BIRT
+2 DATE 1790/1800
+2 PLAC South Carolina
+1 DEAT
+2 DATE Mar 1850
+2 PLAC Morgan County, Alabama
+1 _UID 5342DA42528AED478C3A4687567024F533FD
+1 FAMS @F20537@
+1 FAMC @F110@
+1 NOTE This information is taken from the 2nd Edition of the Whitten Family in America.  I had foun
+2 CONC d some of the information earlier, but did not make the connection.
+2 CONT
+2 CONT Living in Madison Co., AL in 1830
+2 CONT 200001-00001
+2 CONT
+2 CONT Living Morgan Co., AL in 1840
+2 CONT
+2 CONT 1850 census for Morgan Co. AL
+2 CONT Elizabeth Whitten, 52, VA
+2 CONT David, 23, AL
+2 CONT Solon, 21, AL
+2 CONT Thomas 19, AL
+2 CONT Hillery, 16, AL 
+2 CONT Marion, 13, AL
+2 CONT
+2 CONT 1850 Mortality Schedule Morgan Co., AL
+2 CONT Solon Whitten, age 21, AL, d July of chronic disease
+2 CONT Hillary Whitten, age 16, b. AL, d. July of chronic disease
+2 CONT Thomas Whitten, age 19, b. AL, d. July of chronic disease
+2 CONT Charles Whitten, age 50, married, b. SC, d. March of cancer. Farmer
+1 CHAN
+2 DATE 16 Feb 2004
+3 TIME 16:56:10
+0 @I5582@ INDI
+1 NAME /unknown/
+2 SURN unknown
+1 SEX F
+1 BIRT
+2 DATE ABT 1760
+1 DEAT
+2 DATE AFT 1850
+2 PLAC Wayne County, Tennessee
+1 BURI
+2 PLAC Whitten's Chapel Cemetery, Wayne County, Tennessee
+1 _UID 17BC15859592974E8AE0B32F25C95CB8C72D
+1 FAMS @F110@
+1 CHAN
+2 DATE 15 Nov 2002
+3 TIME 16:50:34
+0 @I5583@ INDI
+1 NAME daughter /WHITTEN/
+2 SURN WHITTEN
+2 GIVN daughter
+1 SEX F
+1 BIRT
+2 DATE ABT 1788
+2 PLAC South Carolina
+1 _UID 3192A22AD8F2AC4E8E2900CE008B01FB5FCB
+1 FAMC @F110@
+1 CHAN
+2 DATE 15 Nov 2002
+3 TIME 16:50:34
+0 @I5584@ INDI
+1 NAME daughter /WHITTEN/
+2 SURN WHITTEN
+2 GIVN daughter
+1 SEX F
+1 BIRT
+2 DATE ABT 1788
+2 PLAC South Carolina
+1 _UID 5BF156E05FC85F4A9876F6ADB2AEBF759723
+1 FAMC @F110@
+1 CHAN
+2 DATE 15 Nov 2002
+3 TIME 16:50:34
+0 @I5585@ INDI
+1 NAME Mary Ann /WHITTEN/ (?)
+2 SURN WHITTEN
+2 GIVN Mary Ann
+2 NSFX (?)
+1 SEX F
+1 BIRT
+2 DATE ABT 1795
+2 PLAC South Carolina
+1 _UID E003314F808D4F4287C7DB1099C7A8CD0F46
+1 FAMS @F20555@
+1 FAMC @F110@
+1 NOTE It is not known if Mary Ann Whitten who married James M. Clark was a daughter of Charles Whit
+2 CONC ten, or a possible granddaughter.  She would have been at least 15 or 16 in 1830, so she coul
+2 CONC d possibly have been one of the older daughters of John and Lucinda Whitten.
+1 CHAN
+2 DATE 11 Dec 2003
+3 TIME 17:26:48
+0 @I5603@ INDI
+1 NAME Lucinda //
+2 GIVN Lucinda
+1 SEX F
+1 BIRT
+2 DATE 1797/1800
+2 PLAC Virginia
+1 _UID 6566691AEC472F419A6CB3F658297F7818AB
+1 FAMS @F2250@
+1 NOTE Lucinda Whitten was living with Henry T. Hays in 1870 in Lauderdale County, AL. She was liste
+2 CONC d as 73 years old born in VA
+1 CHAN
+2 DATE 11 Dec 2003
+3 TIME 12:34:43
+0 @I5604@ INDI
+1 NAME son /WHITTEN/
+2 SURN WHITTEN
+2 GIVN son
+1 SEX M
+1 BIRT
+2 DATE ABT 1815
+1 _UID A20C232AFF12984182633643611FE822CDFE
+1 FAMC @F2250@
+1 CHAN
+2 DATE 11 Dec 2003
+3 TIME 17:28:48
+0 @I5605@ INDI
+1 NAME son /WHITTEN/
+2 SURN WHITTEN
+2 GIVN son
+1 SEX M
+1 BIRT
+2 DATE ABT 1815
+1 _UID EB392DDBF9499D40AC66A571C68B7DF334B0
+1 FAMC @F2250@
+1 CHAN
+2 DATE 11 Dec 2003
+3 TIME 17:28:54
+0 @I5606@ INDI
+1 NAME daughter /WHITTEN/
+2 SURN WHITTEN
+2 GIVN daughter
+1 SEX F
+1 BIRT
+2 DATE ABT 1815
+1 _UID E96CCD7EF4D04844B4F9D545E5D7ADE50532
+1 FAMC @F2250@
+1 CHAN
+2 DATE 11 Dec 2003
+3 TIME 17:28:58
+0 @I5607@ INDI
+1 NAME daughter /Whitten/
+2 SURN Whitten
+2 GIVN daughter
+1 SEX F
+1 BIRT
+2 DATE ABT 1815
+1 _UID F1380B714715EA46B306213554F38A1E2F70
+1 FAMC @F2250@
+1 CHAN
+2 DATE 11 Dec 2003
+3 TIME 17:29:05
+0 @I5608@ INDI
+1 NAME daughter /WHITTEN/
+2 SURN WHITTEN
+2 GIVN daughter
+1 SEX F
+1 BIRT
+2 DATE ABT 1815
+1 _UID 5FE5B82D017AE94FA352C063AC9505ABE5C8
+1 FAMC @F2250@
+1 CHAN
+2 DATE 11 Dec 2003
+3 TIME 17:29:09
+0 @I5609@ INDI
+1 NAME Martha /WHITTEN/
+2 SURN WHITTEN
+2 GIVN Martha
+1 SEX F
+1 BIRT
+2 DATE 1824
+2 PLAC Alabama
+1 _UID 731B40A1FDDEC24795F3F908FC325A86EAF6
+1 FAMS @F2258@
+1 FAMC @F2250@
+1 CHAN
+2 DATE 15 Nov 2002
+3 TIME 16:50:34
+0 @I5610@ INDI
+1 NAME John T. /WHITTEN/
+2 SURN WHITTEN
+2 GIVN John T.
+1 SEX M
+1 BIRT
+2 DATE 1826
+2 PLAC South Carolina
+1 _UID 70BEBF21BA8F2840B541A2AB51264FCE96A2
+1 FAMS @F2259@
+1 FAMC @F2250@
+1 CHAN
+2 DATE 15 Nov 2002
+3 TIME 16:50:34
+0 @I5611@ INDI
+1 NAME Mary Ann "Polly" /WHITTEN/
+2 SURN WHITTEN
+2 GIVN Mary Ann "Polly"
+1 SEX F
+1 BIRT
+2 DATE 1835
+1 _UID AC224D2886148C4EA2F3CFCCC1C181523C7C
+1 FAMS @F24555@
+1 FAMC @F2250@
+1 CHAN
+2 DATE 11 Feb 2004
+3 TIME 14:02:42
+0 @I5612@ INDI
+1 NAME Josiah A. /WHITTEN/
+2 SURN WHITTEN
+2 GIVN Josiah A.
+1 SEX M
+1 BIRT
+2 DATE 1833
+1 DEAT
+2 DATE 3 May 1863
+2 PLAC Salem Church, Virginia
+1 _UID F619AE1D0BBE5741A6B8A8E444B8063E654F
+1 FAMC @F2250@
+1 NOTE Served in Co. D, 9th Alabama Infantry, CSA. Enlisted 27 May 1861, Lauderdale Co., AL, 
+2 CONT
+2 CONT Lauderdale Co., AL Probate Records, Settlement:
+2 CONT Wm. G. Gresham was administrator
+2 CONT Final settlement made 5 May 1873
+2 CONT Heirs of the estate listed as follows:
+2 CONT J. T. Whitten over 21, resides Wayne County, Tenn
+2 CONT Jesse Whitten, over 21, resides Lauderdale County, Al
+2 CONT Mary A. Gresham, over 21, Lauderdale County, AL wife of W. G. Gresham
+2 CONT Mary J. Whitten, under 21, Lauderdale County, AL minor child of Kendrick Whitten, dec'd, so
+2 CONC n of said intestate
+2 CONT Margaret Whitten under 21, Lauderdale County, AL minor child of Kendrick Whitten, dec'd who w
+2 CONC as son of Intestate
+2 CONT Margaret Johnson, wife of ______Johnson
+2 CONT Susannah Muffet, wife of _____Muffet
+2 CONT All Herston wife of ____Herston
+2 CONT Lindsey Whitten
+2 CONT Berry Whitten
+2 CONT Sarah Curry wife of ________Curry
+2 CONT Nellie Phillips wife of Jo. Phillips
+2 CONT Pheby Phillip wife of John Phillips 
+2 CONT and John Whitten residence not known
+1 CHAN
+2 DATE 11 Feb 2004
+3 TIME 14:09:46
+0 @I5613@ INDI
+1 NAME Moses /WHITTEN/
+2 SURN WHITTEN
+2 GIVN Moses
+1 SEX M
+1 BIRT
+2 DATE 1831/1832
+1 _UID 7774F669A6011F449F17DB375D0268F7DA81
+1 FAMS @F20551@
+1 FAMC @F2250@
+1 CHAN
+2 DATE 15 Nov 2002
+3 TIME 16:50:34
+0 @I58354@ INDI
+1 NAME John W. /Whitten/
+2 SURN Whitten
+2 GIVN John W.
+1 SEX M
+1 BIRT
+2 DATE Mar 1853/1855
+2 PLAC Alabama
+1 _UID 5B051CD38B2AB745AE3DCA60718C02324674
+1 FAMS @F20646@
+1 FAMC @F15468@
+1 NOTE 1900 Lauderdale County, Alabama
+1 CHAN
+2 DATE 15 Dec 2003
+3 TIME 10:31:42
+0 @I58355@ INDI
+1 NAME Fanny /Whitten/
+2 SURN Whitten
+2 GIVN Fanny
+1 SEX F
+1 BIRT
+2 DATE 1855
+2 PLAC Alabama
+1 _UID 4627A58E46E7E7469BB6282CECE59BA9B472
+1 FAMC @F15468@
+1 CHAN
+2 DATE 11 Dec 2003
+3 TIME 12:55:34
+0 @I58356@ INDI
+1 NAME Houston /Whitten/
+2 SURN Whitten
+2 GIVN Houston
+1 SEX M
+1 BIRT
+2 DATE 1857
+2 PLAC Alabama
+1 _UID FE8A7C4FC7A6534998334B0C88921CCC8003
+1 FAMC @F15468@
+1 CHAN
+2 DATE 11 Dec 2003
+3 TIME 12:55:43
+0 @I58357@ INDI
+1 NAME Wiley /Whitten/
+2 SURN Whitten
+2 GIVN Wiley
+1 SEX M
+1 BIRT
+2 DATE 1859
+2 PLAC Alabama
+1 _UID 229ADA8FDFB3854A82E2272F3EAEB38D6C4E
+1 FAMC @F15468@
+1 CHAN
+2 DATE 11 Dec 2003
+3 TIME 12:55:50
+0 @I58358@ INDI
+1 NAME Mira /Whitten/
+2 SURN Whitten
+2 GIVN Mira
+1 SEX F
+1 BIRT
+2 DATE 1864
+2 PLAC Alabama
+1 _UID 302544AAC2777C478AF47BF59AFEC4DE6780
+1 FAMC @F15468@
+1 CHAN
+2 DATE 11 Dec 2003
+3 TIME 12:56:00
+0 @I58359@ INDI
+1 NAME James /Whitten/
+2 SURN Whitten
+2 GIVN James
+1 SEX M
+1 BIRT
+2 DATE 1866
+2 PLAC Alabama
+1 _UID DD8F81706D6DB84DB4298F01CC26E4A01FC7
+1 FAMC @F15468@
+1 CHAN
+2 DATE 12 Dec 2003
+3 TIME 10:13:19
+0 @I58360@ INDI
+1 NAME Reeder Jones /Whitten/
+2 SURN Whitten
+2 GIVN Reeder Jones
+1 SEX M
+1 BIRT
+2 DATE Nov 1868/1869
+2 PLAC Alabama
+1 _UID ACA86ABB5F89DB4CA76AF3960C8CA8127468
+1 FAMC @F15468@
+1 CHAN
+2 DATE 15 Dec 2003
+3 TIME 10:33:12
+0 @I58361@ INDI
+1 NAME Sallie /Whitten/
+2 SURN Whitten
+2 GIVN Sallie
+1 SEX F
+1 BIRT
+2 DATE 1870
+2 PLAC Alabama
+1 _UID B1DA445C477C0C43919EA3CCD9F26A8B9BF6
+1 FAMC @F15468@
+1 CHAN
+2 DATE 11 Dec 2003
+3 TIME 12:56:15
+0 @I58369@ INDI
+1 NAME Nancy ? /WHITTEN/
+2 SURN WHITTEN
+2 GIVN Nancy ?
+1 SEX F
+1 BIRT
+2 DATE 1804
+2 PLAC South Carolina
+1 _UID CC034BCC7BF0B6418821FBCD536BCB74B67D
+1 FAMC @F110@
+1 NOTE Living in household of Turner M. Whitten, 1880 Lee Co. MS listed as aunt.
+1 CHAN
+2 DATE 11 Dec 2003
+3 TIME 13:22:11
+0 @I58370@ INDI
+1 NAME Patsy /WHITTEN/
+2 SURN WHITTEN
+2 GIVN Patsy
+1 SEX F
+1 BIRT
+2 DATE 1814
+2 PLAC South Carolina
+1 _UID A198BBF015331D49B89209B2DA2B60E1DD3A
+1 FAMC @F110@
+1 NOTE Living in household of Turner M. Whitten, 1880 Lee Co., MS, listed as aunt.
+1 CHAN
+2 DATE 11 Dec 2003
+3 TIME 13:22:39
+0 @I58424@ INDI
+1 NAME Cynthia Ann /Whitten/ (?)
+2 SURN Whitten
+2 GIVN Cynthia Ann
+2 NSFX (?)
+1 SEX F
+1 _UID C504CE201A63F24D8A0A7C67FC069367E622
+1 FAMS @F20556@
+1 FAMC @F110@
+1 NOTE It is not known is Cynthia Ann Whitten who married Thomas Y. Broyles in 1831 in Lauderdale Co
+2 CONC .,AL is a daughter of Charles Whitten.  It is possible she was a daughter of John and Lucind
+2 CONC a Whitten.
+1 CHAN
+2 DATE 11 Dec 2003
+3 TIME 17:26:36
+0 @F110@ FAM
+1 _UID 95F3D1FDEEDC144A9B885631E8F6C6D7A340
+1 HUSB @I217@
+1 WIFE @I5582@
+1 CHIL @I208@
+1 CHIL @I5583@
+1 CHIL @I5584@
+1 CHIL @I1741@
+1 CHIL @I3788@
+1 CHIL @I5585@
+1 CHIL @I4593@
+1 CHIL @I5562@
+1 CHIL @I5563@
+1 CHIL @I5564@
+1 CHIL @I58369@
+1 CHIL @I58370@
+1 CHIL @I58424@
+1 MARR
+2 DATE ABT 1780
+0 @F15467@ FAM
+1 _UID 05C40E2D1E874D43A42957393230C9995A54
+1 HUSB @I44506@
+1 MARR
+2 DATE 19 Dec 1883
+2 PLAC Lauderdale County, Alabama
+0 @F15468@ FAM
+1 _UID E43A90B51B003C45A5A15B2D4C75DA47AFDC
+1 HUSB @I44507@
+1 WIFE @I44508@
+1 CHIL @I58354@
+1 CHIL @I58355@
+1 CHIL @I58356@
+1 CHIL @I58357@
+1 CHIL @I44506@
+1 CHIL @I58358@
+1 CHIL @I58359@
+1 CHIL @I58360@
+1 CHIL @I58361@
+1 MARR
+2 DATE 14 Jun 1850
+2 PLAC Lauderdale County, Alabama
+0 @F1656@ FAM
+1 _UID 916C5D23B7E07A40BD3642AB2EB7D0076A42
+1 HUSB @I3788@
+1 MARR
+2 DATE ABT 1818
+0 @F1657@ FAM
+1 _UID 98EC6C26A6ADC84FAF635AC3BF22225B0D11
+1 HUSB @I3788@
+1 MARR
+2 DATE 23 Dec 1834
+2 PLAC Lauderdale County, Alabama
+0 @F1977@ FAM
+1 _UID 9D27516A32ECBE4EA2632351875061AD0736
+1 HUSB @I4593@
+1 MARR
+2 DATE 19 Apr 1828
+2 PLAC Lauderdale County, Alabama
+0 @F20537@ FAM
+1 _UID 79807A07D589F24181E13B192FDB11381468
+1 HUSB @I5564@
+1 MARR
+2 DATE 23 Dec 1825
+2 PLAC Madison County, Alabama
+0 @F20551@ FAM
+1 _UID D2D18248EAD00E46BF3D0FEDC9805BDAF1DF
+1 HUSB @I5613@
+1 MARR
+2 DATE 2 Dec 1856
+2 PLAC Lauderdale County, Alabama
+0 @F20553@ FAM
+1 _UID C6AB8581ACD45941BD3EDF44DBE3F96FD5C5
+1 HUSB @I1741@
+1 MARR
+2 DATE 2 Jan 1861
+2 PLAC Cooke County, Texas
+0 @F20554@ FAM
+1 _UID 9478BC19503AFB41BB1CC7D7B06F8CE4ABAC
+1 CHIL @I44508@
+0 @F20555@ FAM
+1 _UID 41B29610CF404441BEE3F0229C8F2069941C
+1 WIFE @I5585@
+1 MARR
+2 DATE 11 Mar 1830
+2 PLAC Lauderdale County, Alabama
+0 @F20556@ FAM
+1 _UID D26674B45B18E24EA47B5FCAD5AE135233F3
+1 WIFE @I58424@
+1 MARR
+2 DATE 6 Sep 1831
+2 PLAC Lauderdale County, Alabama
+0 @F20646@ FAM
+1 _UID 5DCD019FA366CC4EA38FBF6BE6A1C0AC3CE9
+1 HUSB @I58354@
+1 MARR
+2 DATE 1884
+0 @F2249@ FAM
+1 _UID DF9BC5101E8FFD4987EBBBC97BBB8802F8BE
+1 HUSB @I5562@
+1 MARR
+2 DATE 6 Jun 1819
+2 PLAC Newberry District, South Carolina
+0 @F2250@ FAM
+1 _UID 1FB3B29F3EFA1D44A39B5834D993865BD355
+1 HUSB @I5563@
+1 WIFE @I5603@
+1 CHIL @I5604@
+1 CHIL @I5605@
+1 CHIL @I5606@
+1 CHIL @I5607@
+1 CHIL @I5608@
+1 CHIL @I5609@
+1 CHIL @I5610@
+1 CHIL @I44507@
+1 CHIL @I5613@
+1 CHIL @I5612@
+1 CHIL @I5611@
+0 @F2258@ FAM
+1 _UID F9C0875E4D920A47A87E1A334416476D4F57
+1 WIFE @I5609@
+1 MARR
+2 DATE 29 Jun 1843
+2 PLAC Lauderdale County, Alabama
+1 NOTE Jonathan T. Wooten and Martha Whitten, a daughter of Lucinda Whitten.
+2 CONT License issued 27 June 1843. Solemnized 29 June 1843 by Dennis W. House, JP
+2 CONT From Ganrude, Pauline J., "Lauderdale Co. [AL] Records" Volume 230, page 19.
+0 @F2259@ FAM
+1 _UID 35EDD27A7DC27447B4CFF29CF1DF63D48016
+1 HUSB @I5610@
+0 @F24555@ FAM
+1 _UID C93448C93564154F8704EDB3503BB8F36CD7
+1 WIFE @I5611@
+1 MARR
+2 DATE 1865
+0 @F79@ FAM
+1 _UID 655453C57543F04D850AB185F2578C2D8D78
+1 HUSB @I208@
+1 MARR
+2 DATE 26 May 1808
+2 PLAC Newberry District, South Carolina
+1 NOTE Obituary of Elizabeth Whitten, "Nashville Christian Advocate" 3 Nov 1853
+0 @F818@ FAM
+1 _UID 6824005C5C80D04D93F0DF7DB637E19C2A9B
+1 HUSB @I1741@
+1 MARR
+2 DATE 13 Feb 1824
+2 PLAC Newberry District, South Carolina
+0 TRLR

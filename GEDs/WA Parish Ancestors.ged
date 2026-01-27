@@ -1,0 +1,338 @@
+0 HEAD
+1 CHAR ANSI
+1 SOUR Ancestry.com Family Trees
+2 VERS (2010.3)
+2 NAME Ancestry.com Family Trees
+2 CORP Ancestry.com
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+0 @P-1622797097@ INDI 
+1 BIRT
+2 DATE 1804
+2 PLAC Marion, , West Virginia, USA
+1 DEAT
+2 DATE 1855
+1 SEX M
+1 NAME Michael /Parrish/
+1 FAMS @F1205@
+0 @P-1622797098@ INDI 
+1 DEAT
+2 DATE 2 Jan 1845
+1 SEX F
+1 NAME Mary /Bainbridge/
+1 BIRT
+2 DATE 1808
+1 FAMS @F1205@
+0 @P-1622797099@ INDI 
+1 DEAT
+2 DATE 22 Sep 1846
+2 PLAC Harrison, Virginia, USA
+1 SEX M
+1 BIRT
+2 DATE 24 Apr 1802
+2 PLAC Wyatt, Harrison, Virginia, USA
+1 NAME John H /Martin/
+1 FAMS @F1204@
+0 @P-1622797100@ INDI 
+1 BIRT
+2 DATE 24 Mar 1801
+2 PLAC Harrison, , Virginia, USA
+1 DEAT
+2 DATE 12 May 1849 
+2 PLAC Harrison, , Virginia, USA
+1 SEX F
+1 NAME Sarah A /Crim/
+1 FAMS @F1204@
+0 @P-1622797101@ INDI 
+1 NAME James /Haddock/
+1 BIRT
+2 DATE 1765
+2 PLAC North Carolina, USA
+1 SEX M
+1 FAMS @F1203@
+0 @P-1622797102@ INDI 
+1 SEX F
+1 BIRT
+2 DATE 1765
+2 PLAC Maryland, USA
+1 DEAT
+2 PLAC Union Districk, , South Dakota, USA
+1 NAME Elizabeth /Lyles/
+1 FAMS @F1203@
+0 @P-1622797103@ INDI 
+1 BIRT
+2 DATE 1772
+2 PLAC Union, , South Carolina, USA
+1 DEAT
+2 DATE 15 Jan 1813
+2 PLAC Cloverdale, , Alabama, USA
+1 SEX M
+1 NAME Joshua /Paulk/
+1 FAMS @F1202@
+0 @P-1622797104@ INDI 
+1 SEX F
+1 BIRT
+2 DATE 1777
+2 PLAC Union, , South Carolina, USA
+1 NAME Mary /Mcdonald/
+1 FAMS @F1202@
+0 @P-1622797105@ INDI 
+1 BIRT
+2 DATE 1830
+1 DEAT
+2 DATE 1907
+1 SEX M
+1 NAME Spencer M /Parrish/
+1 FAMS @F1201@
+1 FAMC @F1205@
+0 @P-1622797106@ INDI 
+1 DEAT
+2 DATE 1907
+1 SEX F
+1 BIRT
+2 DATE 25 Sep 1830
+2 PLAC Harrison, , Virginia, USA
+1 NAME Tabitha /Martin/
+1 FAMS @F1201@
+1 FAMC @F1204@
+0 @P-1622797107@ INDI 
+1 DEAT
+2 DATE 13 Jul 1876
+2 PLAC Wayne, Tennessee, USA
+1 SEX M
+1 BIRT
+2 DATE 2 Feb 1795
+2 PLAC North Carolina, USA
+1 NAME James W /Haddock/
+1 FAMS @F1200@
+1 FAMC @F1203@
+0 @P-1622797108@ INDI 
+1 DEAT
+2 DATE 28 Jan 1862
+2 PLAC Wayne, New York, USA
+1 SEX F
+1 BIRT
+2 DATE 21 Nov 1798
+2 PLAC South Carolina, USA
+1 NAME Acenah /Paulk/
+1 FAMS @F1200@
+1 FAMC @F1202@
+0 @P-1622797109@ INDI 
+1 NAME William Brown /Parrish/
+1 DEAT
+2 DATE 5 Dec 1883
+1 SEX M
+1 FAMS @F1199@
+1 FAMC @F1201@
+0 @P-1622797110@ INDI 
+1 BIRT
+2 DATE 1838
+2 PLAC Wayne, New York, USA
+1 DEAT
+2 DATE 19 Feb 1908
+2 PLAC Lauderdale, Alabama, USA
+1 SEX F
+1 NAME Rachael Emily /Haddock/
+1 FAMS @F1199@
+1 FAMC @F1200@
+0 @P-1622797113@ INDI 
+1 DEAT
+2 DATE 5 Mar 1957
+2 PLAC Lauderdale, , Alabama, USA
+1 SEX M
+1 BIRT
+2 DATE 11 Nov 1861
+2 PLAC Wayne, , Tennessee, USA
+1 NAME William Archabald /Parish/
+1 FAMS @F1197@
+1 FAMC @F1199@
+0 @P-1622797114@ INDI 
+1 BIRT
+2 DATE 1874
+1 DEAT
+2 DATE 1953
+2 PLAC Lauderdale, , Alabama, USA
+1 SEX F
+1 NAME Mollie Leona /Gresham/
+1 FAMS @F1197@
+1 FAMC @F1198@
+0 @P-1624313464@ INDI 
+1 DEAT
+2 DATE 5 Dec 1977
+2 SOUR @S-1947524070@
+3 NOTE
+2 SOUR @S-1512300385@
+3 NOTE Information extracted from various family tree data submitted to Ancestry and The Generations Network
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=0&pid=-1624313464
+1 NAME Mamie L  /Parish/
+2 SOUR @S-1994186269@
+3 PAGE Year: 1920; Census Place: Cloverdale, Lauderdale, Alabama; Roll: T625_27; Page: 1A; Enumeration District: 68; Image: 337.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1920usfedcen&h=1247401&ti=0&indiv=try
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1920usfedcen&h=1247401&ti=0&indiv=try
+3 DATA
+4 TEXT Name:  Mamie L MilesBirth Date:  abt 1894Birth Place:  AlabamaResidence Date:  1920Residence Place:  Cloverdale, Lauderdale, Alabama
+3 _APID 6061::1247401
+2 SOUR @S-1947524070@
+3 NOTE
+2 SOUR @S-1994050011@
+3 PAGE Year: 1900; Census Place: Oakland, Lauderdale, Alabama; Roll: T623 24; Page: 6B; Enumeration District: 60.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1900usfedcen&h=9933904&ti=0&indiv=try
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1900usfedcen&h=9933904&ti=0&indiv=try
+3 DATA
+4 TEXT Name:  Mannie L ParishBirth Date:  abt 1893Birth Place:  AlabamaResidence Date:  1900Residence Place:  Oakland, Lauderdale, Alabama
+3 _APID 7602::9933904
+2 SOUR @S-1512300385@
+3 NOTE Information extracted from various family tree data submitted to Ancestry and The Generations Network
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=0&pid=-1624313464
+1 BIRT
+2 DATE 5 Sept 1892
+2 PLAC Lauderdale, ,Alabama, USA 
+2 SOUR @S-1994186269@
+3 PAGE Year: 1920; Census Place: Cloverdale, Lauderdale, Alabama; Roll: T625_27; Page: 1A; Enumeration District: 68; Image: 337.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1920usfedcen&h=1247401&ti=0&indiv=try
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1920usfedcen&h=1247401&ti=0&indiv=try
+3 DATA
+4 TEXT Name:  Mamie L MilesBirth Date:  abt 1894Birth Place:  AlabamaResidence Date:  1920Residence Place:  Cloverdale, Lauderdale, Alabama
+3 _APID 6061::1247401
+2 SOUR @S-1947524070@
+3 NOTE
+2 SOUR @S-1994050011@
+3 PAGE Year: 1900; Census Place: Oakland, Lauderdale, Alabama; Roll: T623 24; Page: 6B; Enumeration District: 60.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1900usfedcen&h=9933904&ti=0&indiv=try
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1900usfedcen&h=9933904&ti=0&indiv=try
+3 DATA
+4 TEXT Name:  Mannie L ParishBirth Date:  abt 1893Birth Place:  AlabamaResidence Date:  1900Residence Place:  Oakland, Lauderdale, Alabama
+3 _APID 7602::9933904
+2 SOUR @S-1512300385@
+3 NOTE Information extracted from various family tree data submitted to Ancestry and The Generations Network
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=0&pid=-1624313464
+1 RESI
+2 DATE 1900
+2 PLAC Oakland, Lauderdale, Alabama
+2 SOUR @S-1994050011@
+3 PAGE Year: 1900; Census Place: Oakland, Lauderdale, Alabama; Roll: T623 24; Page: 6B; Enumeration District: 60.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1900usfedcen&h=9933904&ti=0&indiv=try
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1900usfedcen&h=9933904&ti=0&indiv=try
+3 DATA
+4 TEXT Name:  Mannie L ParishBirth Date:  abt 1893Birth Place:  AlabamaResidence Date:  1900Residence Place:  Oakland, Lauderdale, Alabama
+3 _APID 7602::9933904
+1 RESI
+2 DATE 1920
+2 PLAC Cloverdale, Lauderdale, Alabama
+2 SOUR @S-1994186269@
+3 PAGE Year: 1920; Census Place: Cloverdale, Lauderdale, Alabama; Roll: T625_27; Page: 1A; Enumeration District: 68; Image: 337.
+3 NOTE http://trees.ancestry.com/rd?f=sse&db=1920usfedcen&h=1247401&ti=0&indiv=try
+3 NOTE http://search.ancestry.com/cgi-bin/sse.dll?db=1920usfedcen&h=1247401&ti=0&indiv=try
+3 DATA
+4 TEXT Name:  Mamie L MilesBirth Date:  abt 1894Birth Place:  AlabamaResidence Date:  1920Residence Place:  Cloverdale, Lauderdale, Alabama
+3 _APID 6061::1247401
+1 SEX F
+1 FAMS @F1183@
+1 FAMC @F1197@
+0 @F1183@ FAM 
+1 WIFE @P-1624313464@
+1 MARR
+2 DATE 16 Mar 1916
+2 PLAC Lauderdale, Alabama, USA 
+0 @F1197@ FAM 
+1 HUSB @P-1622797113@
+1 WIFE @P-1622797114@
+1 CHIL @P-1624313464@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1890-01-15
+2 PLAC ,Lauderdale,Alabama,USA
+0 @F1198@ FAM 
+1 CHIL @P-1622797114@
+2 _FREL Natural
+2 _MREL Natural
+0 @F1199@ FAM 
+1 HUSB @P-1622797109@
+1 WIFE @P-1622797110@
+1 CHIL @P-1622797113@
+2 _FREL Natural
+2 _MREL Natural
+0 @F1200@ FAM 
+1 HUSB @P-1622797107@
+1 WIFE @P-1622797108@
+1 CHIL @P-1622797110@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1816-11-21
+2 PLAC ,Wayne,New York,USA
+0 @F1201@ FAM 
+1 HUSB @P-1622797105@
+1 WIFE @P-1622797106@
+1 CHIL @P-1622797109@
+2 _FREL Natural
+2 _MREL Natural
+0 @F1202@ FAM 
+1 HUSB @P-1622797103@
+1 WIFE @P-1622797104@
+1 CHIL @P-1622797108@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1797
+2 PLAC Union,,South Carolina,USA
+0 @F1203@ FAM 
+1 HUSB @P-1622797101@
+1 WIFE @P-1622797102@
+1 CHIL @P-1622797107@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1785
+2 PLAC ,,North Carolina,USA
+0 @F1204@ FAM 
+1 HUSB @P-1622797099@
+1 WIFE @P-1622797100@
+1 CHIL @P-1622797106@
+2 _FREL Natural
+2 _MREL Natural
+0 @F1205@ FAM 
+1 HUSB @P-1622797097@
+1 WIFE @P-1622797098@
+1 CHIL @P-1622797105@
+2 _FREL Natural
+2 _MREL Natural
+0 @S-1512300385@ SOUR
+1 REPO @R-1995233609@
+1 TITL Public Member Trees
+1 AUTH Ancestry.com
+1 PUBL Online publication - Provo, UT, USA: The Generations Network, Inc., 2006.Original data - Family trees submitted by Ancestry members.Original data: Family trees submitted by Ancestry members.
+1 NOTE This information comes from 1 or more individual Ancestry Family Tree files. This source citation points you to a current version of those files.  Note:  The owners of these tree files may have remove
+2 CONC d or changed information since this source citation was created.
+0 @S-1947524070@ SOUR
+1 REPO @R-1995233609@
+1 TITL OneWorldTree
+1 AUTH Ancestry.com
+1 PUBL - Provo, UT, USA: The Generations Network, Inc.
+1 NOTE
+0 @S-1994050011@ SOUR
+1 REPO @R-1995233609@
+1 TITL 1900 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL - Provo, UT, USA: The Generations Network, Inc., 2004. - United States of America, Bureau of the Census. Twelfth Census of the United States, 1900. Washington, D.C.: National Archives and Records Admi
+2 CONC nistration, 1900. T623, 1854 rolls.: United States of A
+1 NOTE
+1 _APID 7602::0
+0 @S-1994186269@ SOUR
+1 REPO @R-1995233609@
+1 TITL 1920 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL - Provo, UT, USA: The Generations Network, Inc., 2005. For details on the contents of the film numbers, visit the following NARA web page: NARA.  Note: Enumeration Districts 819-839 on roll 323 (Chica
+2 CONC go City. - United States of America, Bureau of the Cens
+1 NOTE
+1 _APID 6061::0
+0 @R-1995233609@ REPO
+1 NAME Ancestry.com
+1 ADDR 360 West 4800 North, Provo, UT 84604
+1 NOTE
+0 TRLR

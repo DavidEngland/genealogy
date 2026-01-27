@@ -1,0 +1,92 @@
+0 HEAD
+1 SOUR Legacy
+2 VERS 6.0
+2 NAME Legacy (R)
+1 DEST Gedcom55
+1 DATE 2 Jan 2006
+1 FILE dmwk61.ged
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR ANSI
+1 SUBM @SUBM@
+0 @SUBM@ SUBM
+1 NAME Miles Davis
+1 ADDR http://www.gencircles.com/users/milesdavis
+0 @I96551@ INDI
+1 NAME Elias Monroe /England/
+2 GIVN Elias Monroe
+2 SURN England
+1 SEX M
+1 BIRT
+2 DATE 29 Apr 1878
+2 PLAC Randolph County, AR
+1 DEAT Y
+1 SOUR @S100@
+1 _UID 7ABD5315E5F84A8E801DFE348504A7E93CAE
+1 CHAN
+2 DATE 21 Dec 2003
+1 FAMS @F37338@
+1 SOUR @516576312@
+1 NOTE This individual was found on GenCircles at: http://www.gencircles.com/users/milesdavis/12/data/96551
+0 @I96553@ INDI
+1 NAME Virginia Ethel /England/
+2 GIVN Virginia Ethel
+2 SURN England
+1 SEX F
+1 DEAT Y
+1 SOUR @S100@
+1 _UID D18804666A704393819000F70097BDBB8AC4
+1 CHAN
+2 DATE 21 Dec 2003
+1 FAMC @F37338@
+1 SOUR @516576312@
+1 NOTE This individual was found on GenCircles at: http://www.gencircles.com/users/milesdavis/12/data/96553
+0 @I96552@ INDI
+1 NAME Hershel Tilman /England/
+2 GIVN Hershel Tilman
+2 SURN England
+1 SEX M
+1 DEAT Y
+1 SOUR @S100@
+1 _UID B7FD34849DB646F08B84FB51FE886BEA2BE4
+1 CHAN
+2 DATE 21 Dec 2003
+1 FAMC @F37338@
+1 SOUR @516576312@
+1 NOTE This individual was found on GenCircles at: http://www.gencircles.com/users/milesdavis/12/data/96552
+0 @I96514@ INDI
+1 NAME Flourence Luetta /Hand/
+2 GIVN Flourence Luetta
+2 SURN Hand
+1 SEX F
+1 BIRT
+2 DATE 27 Jan 1877
+1 DEAT Y
+1 SOUR @S100@
+1 _UID FCAC299015C74C1D8C06121F93842FF7A6A6
+1 CHAN
+2 DATE 21 Dec 2003
+1 FAMS @F37338@
+1 FAMC @F37328@
+1 SOUR @516576312@
+1 NOTE This individual was found on GenCircles at: http://www.gencircles.com/users/milesdavis/12/data/96514
+0 @F37338@ FAM
+1 HUSB @I96551@
+1 WIFE @I96514@
+1 MARR 
+1 CHIL @I96552@
+1 CHIL @I96553@
+1 CHAN
+2 DATE 16 Sep 2005
+3 TIME 22:16
+0 @S100@ SOUR
+1 ABBR From Adam to Me
+1 TITL Bucholz, Linda, From Adam to Me (mannesah27@cox.net; Ancest
+2 CONC ry World Tree Project; 10460 entries;  Updated: Tue Feb 1
+2 CONC 8  09:04:34  2003)
+0 @S516576312@ SOUR
+1 TITL Davis Miles Watson Ketcham
+1 AUTH Miles Davis
+1 NOTE http://www.gencircles.com/users/milesdavis/12
+0 TRLR
