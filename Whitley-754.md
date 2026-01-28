@@ -1,6 +1,6 @@
 == Biography ==
 
-'''Solomon Whitley''' (abt. 1723 – abt. 1782) was an Irish immigrant who became the patriarch of a prominent pioneer family in early America. Born in '''Northern Ireland''' between 1720 and 1723, he was the son of '''[[Whitley-1755|John Whitley]]''' and '''[[Mitchell-16478|Ervie (Mitchell) Whitley]]'''. Family tradition says he left Ireland due to religious persecution.
+'''Solomon Whitley''' (WikiTree ID: [[Whitley-754]]) (abt. 1723 – abt. 1782) was an Irish immigrant who became the patriarch of a prominent pioneer family in early America. Born in '''Northern Ireland''' between 1720 and 1723, he was the son of '''[[Whitley-1755|John Whitley]]''' and '''[[Mitchell-16478|Ervie (Mitchell) Whitley]]'''. 
 
 ### Early Life and Virginia Settlement
 
@@ -16,15 +16,15 @@ Around 1779, Solomon and Elizabeth followed their son, the noted pioneer '''[[Wh
 
 Solomon and Elizabeth had nine documented children:
 
-1. '''[[Whitley-749|Margaret Whitley]]''' (abt. 1747 – abt. 1831); married George Clark.
-2. '''[[Whitley-752|Ruth (Whitley) Collier]]''' (abt. 1748 – 1789); married Moses Collier. Her grandson was John Aaron Rawlins, Union General and Secretary of War under President Ulysses S. Grant.
-3. '''[[Whitley-757|William Chapman Whitley]]''' (1749 – 1813); famed Kentucky pioneer and Indian fighter; built the first brick house west of the Blue Ridge Mountains; died at the Battle of the Thames.
-4. '''[[Whitley-750|Mary Whitley]]''' (abt. 1750).
-5. '''[[Whitley-748|James Whitley]]''' (abt. 1752); Baptist minister in Lincoln County.
-6. '''[[Whitley-753|Sarah (Whitley) Lewis]]''' (abt. 1752 – 1837); married '''[[Lewis-9841|Joseph Francis Lewis]]''', the brickmason who built William Whitley's historic house.
-7. '''[[Whitley-755|Solomon Whitley Jr.]]''' (abt. 1758); married Polly Scott.
-8. '''[[Whitley-747|Catherine Whitley]]''' (abt. 1760); married John Parkinson.
-9. '''[[Whitley-756|Thomas Whitley]]''' (abt. 1760).
+1. '''[[Whitley-749|Margaret Whitley]]''' (WikiTree ID: [[Whitley-749]]) (abt. 1747 – abt. 1831); married George Clark.
+2. '''[[Whitley-752|Ruth (Whitley) Collier]]''' (WikiTree ID: [[Whitley-752]]) (abt. 1748 – 1789); married Moses Collier.
+3. '''[[Whitley-757|William Chapman Whitley]]''' (WikiTree ID: [[Whitley-757]]) (1749 – 1813); famed Kentucky pioneer and Indian fighter.
+4. '''[[Whitley-750|Mary Whitley]]''' (WikiTree ID: [[Whitley-750]]) (abt. 1750).
+5. '''[[Whitley-748|James Whitley]]''' (WikiTree ID: [[Whitley-748]]) (abt. 1752); Baptist minister in Lincoln County.
+6. '''[[Whitley-753|Sarah (Whitley) Lewis]]''' (WikiTree ID: [[Whitley-753]]) (abt. 1752 – 1837); married '''[[Lewis-9841|Joseph Francis Lewis]]''' (WikiTree ID: [[Lewis-9841]]).
+7. '''[[Whitley-755|Solomon Whitley Jr.]]''' (WikiTree ID: [[Whitley-755]]) (abt. 1758); married Polly Scott.
+8. '''[[Whitley-747|Catherine Whitley]]''' (WikiTree ID: [[Whitley-747]]) (abt. 1760); married John Parkinson.
+9. '''[[Whitley-756|Thomas Whitley]]''' (WikiTree ID: [[Whitley-756]]) (abt. 1760).
 
 ### Research Notes
 

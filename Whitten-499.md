@@ -2,11 +2,13 @@
 
 == Biography ==
 
-'''Robert Duncan "Bob" Whitten''' was born on '''7 February 1861''' in Lauderdale County, Alabama. He was the son of '''[[Whitten-500|Jesse P. Whitten]]''' (1827–1882) and '''[[Duncan-3524|Martha E. (Duncan) Whitten]]''' (b. 1832). At the time of Robert's birth, his father Jesse was 34 years old and his mother Martha was 28. Robert carried the Duncan middle name in tribute to his mother's Scottish heritage and Aberdeen ancestry.
+'''Robert Duncan "Bob" Whitten''' (WikiTree ID: [[Whitten-499]]) was born on '''7 February 1861''' in Lauderdale County, Alabama. He was the son of '''[[Whitten-500|Jesse P. Whitten]]''' (WikiTree ID: [[Whitten-500]]) (1827–1882) and '''[[Duncan-3524|Martha E. (Duncan) Whitten]]''' (WikiTree ID: [[Duncan-3524]]) (b. 1832). 
+
+At the time of Robert's birth, his father Jesse was 34 years old and his mother Martha was 28. Robert carried the Duncan middle name in tribute to his mother's Scottish heritage and Aberdeen ancestry.
 
 === Early Life and Family ===
 
-Robert was a twin to [[Whitten-512|Wiley Whitten]]. He was brother to [[Whitten-509|John W. Whitten]], [[Whitten-579|James F. Whitten]], [[Whitten-510|Mary Francis Whitten]], [[Whitten-511|Henry Whitten]], [[Whitten-580|Martha Whitten]], [[Whitten-513|Elmira Lucindy (Whitten) England]], [[Whitten-514|James Whitten]], [[Whitten-515|Mattie Whitten]], [[Whitten-516|Joel Whitten]], [[Whitten-518|Reeder Whitten]], and [[Whitten-517|Sarah E. (Whitten) Hipp]].
+Robert was a twin to [[Whitten-512|Wiley Whitten]] (WikiTree ID: [[Whitten-512]]). He was brother to [[Whitten-509|John W. Whitten]] (WikiTree ID: [[Whitten-509]]), [[Whitten-579|James F. Whitten]] (WikiTree ID: [[Whitten-579]]), [[Whitten-510|Mary Francis Whitten]] (WikiTree ID: [[Whitten-510]]), [[Whitten-511|Henry Whitten]] (WikiTree ID: [[Whitten-511]]), [[Whitten-580|Martha Whitten]] (WikiTree ID: [[Whitten-580]]), [[Whitten-513|Elmira Lucindy (Whitten) England]] (WikiTree ID: [[Whitten-513]]), [[Whitten-514|James Whitten]] (WikiTree ID: [[Whitten-514]]), [[Whitten-515|Mattie Whitten]] (WikiTree ID: [[Whitten-515]]), [[Whitten-516|Joel Whitten]] (WikiTree ID: [[Whitten-516]]), [[Whitten-518|Reeder Whitten]] (WikiTree ID: [[Whitten-518]]), and [[Whitten-517|Sarah E. (Whitten) Hipp]] (WikiTree ID: [[Whitten-517]]).
 
 === Marriage and Children ===
 
@@ -26,7 +28,7 @@ Robert Duncan "Bob" Whitten passed away on '''8 February 1937''' in Lauderdale C
 
 === Burial ===
 
-[http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GSln=Whitten&GSiman=1&GScid=1727884&GRid=28102060& Grave]
+[http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GSln=Whitten&GSiman=1&GScid=1727884& Grave]
 === Note ===
 [[Whitten-495|Early V. Whitten]] made their headstones.
 
