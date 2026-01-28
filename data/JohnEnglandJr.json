@@ -1,0 +1,534 @@
+{
+    "metadata": {
+        "source": "ANCESTRY",
+        "gedcomVersion": "4.0",
+        "charset": "ANSI",
+        "lastUpdated": "06 Apr 2008"
+    },
+    "people": [
+        {
+            "gedcomId": "@I654052706@",
+            "wikitreeId": "Person-I654052706",
+            "name": {
+                "full": "Joseph \/England\/",
+                "given": "Joseph",
+                "surname": "England"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "Abt 1766"
+            },
+            "death": {
+                "date": "Mar 1844"
+            },
+            "familyAsSpouse": [
+                "@F558156578@",
+                "@F558156503@"
+            ],
+            "familyAsChild": [
+                "@F558156579@"
+            ]
+        },
+        {
+            "gedcomId": "@I654053570@",
+            "wikitreeId": "Person-I654053570",
+            "name": {
+                "full": "Joseph \/England\/",
+                "given": "Joseph",
+                "surname": "England"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1732\/1740"
+            },
+            "death": {
+                "date": "1791"
+            },
+            "familyAsSpouse": [
+                "@F558156579@"
+            ],
+            "familyAsChild": [
+                "@F558157046@"
+            ],
+            "notes": "History of Macoupin County, Vol. 1, Ch. 5, The Pioneer (p 98):"
+        },
+        {
+            "gedcomId": "@I654053619@",
+            "wikitreeId": "Person-I654053619",
+            "name": {
+                "full": "William \/England\/",
+                "given": "William",
+                "surname": "England"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1720"
+            },
+            "death": {
+                "date": "Abt 1800"
+            },
+            "familyAsSpouse": [
+                "@F558157072@",
+                "@F558157046@"
+            ]
+        },
+        {
+            "gedcomId": "@I654053620@",
+            "wikitreeId": "Person-I654053620",
+            "name": {
+                "full": "Elizabeth \/Willcox\/",
+                "given": "Elizabeth",
+                "surname": "Willcox"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "7 Sep 1734"
+            },
+            "death": {
+                "date": "1770"
+            },
+            "familyAsSpouse": [
+                "@F558157072@"
+            ],
+            "familyAsChild": [
+                "@F558157073@"
+            ]
+        },
+        {
+            "gedcomId": "@I654053621@",
+            "wikitreeId": "Person-I654053621",
+            "name": {
+                "full": "Charity \/Cole\/",
+                "given": "Charity",
+                "surname": "Cole"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "Abt 1740"
+            },
+            "familyAsSpouse": [
+                "@F558156579@"
+            ]
+        },
+        {
+            "gedcomId": "@I654053622@",
+            "wikitreeId": "Person-I654053622",
+            "name": {
+                "full": "John \/England\/",
+                "given": "John",
+                "surname": "England"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "Abt 1765"
+            },
+            "death": {
+                "date": "Abt 1816"
+            },
+            "familyAsSpouse": [
+                "@F558157074@"
+            ],
+            "familyAsChild": [
+                "@F558156579@"
+            ]
+        },
+        {
+            "gedcomId": "@I654053623@",
+            "wikitreeId": "Person-I654053623",
+            "name": {
+                "full": "Vesta Zipporah \/Choate\/",
+                "given": "Vesta Zipporah",
+                "surname": "Choate"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1767"
+            },
+            "death": {
+                "date": "1847\/1851"
+            },
+            "familyAsSpouse": [
+                "@F558157074@"
+            ]
+        },
+        {
+            "gedcomId": "@I654053624@",
+            "wikitreeId": "Person-I654053624",
+            "name": {
+                "full": "James \/England\/",
+                "given": "James",
+                "surname": "England"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "Abt 1768"
+            },
+            "familyAsChild": [
+                "@F558156579@"
+            ]
+        },
+        {
+            "gedcomId": "@I654053625@",
+            "wikitreeId": "Person-I654053625",
+            "name": {
+                "full": "William \/England\/",
+                "given": "William",
+                "surname": "England"
+            },
+            "sex": "M",
+            "familyAsChild": [
+                "@F558157072@"
+            ]
+        },
+        {
+            "gedcomId": "@I654053626@",
+            "wikitreeId": "Person-I654053626",
+            "name": {
+                "full": "Samuel \/England\/",
+                "given": "Samuel",
+                "surname": "England"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1756"
+            },
+            "familyAsChild": [
+                "@F558157046@"
+            ]
+        },
+        {
+            "gedcomId": "@I654053627@",
+            "wikitreeId": "Person-I654053627",
+            "name": {
+                "full": "John \/England\/",
+                "given": "John",
+                "surname": "England"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1754"
+            },
+            "death": {
+                "date": "1795"
+            },
+            "familyAsSpouse": [
+                "@F558157075@"
+            ],
+            "familyAsChild": [
+                "@F558157046@"
+            ]
+        },
+        {
+            "gedcomId": "@I654053628@",
+            "wikitreeId": "Person-I654053628",
+            "name": {
+                "full": "Vesta Zipporah \/England\/",
+                "given": "Vesta Zipporah",
+                "surname": "England"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1 Nov 1784"
+            },
+            "death": {
+                "date": "1880"
+            },
+            "familyAsSpouse": [
+                "@F558157076@"
+            ],
+            "familyAsChild": [
+                "@F558157074@"
+            ]
+        },
+        {
+            "gedcomId": "@I654053630@",
+            "wikitreeId": "Person-I654053630",
+            "name": {
+                "full": "Jane \/England\/",
+                "given": "Jane",
+                "surname": "England"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "Abt 1787"
+            },
+            "familyAsSpouse": [
+                "@F558157077@"
+            ],
+            "familyAsChild": [
+                "@F558157074@"
+            ]
+        },
+        {
+            "gedcomId": "@I654053632@",
+            "wikitreeId": "Person-I654053632",
+            "name": {
+                "full": "Titus \/England\/",
+                "given": "Titus",
+                "surname": "England"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "Abt 1788"
+            },
+            "death": {
+                "date": "Aft 1840"
+            },
+            "familyAsSpouse": [
+                "@F558157078@"
+            ],
+            "familyAsChild": [
+                "@F558157074@"
+            ]
+        },
+        {
+            "gedcomId": "@I654053634@",
+            "wikitreeId": "Person-I654053634",
+            "name": {
+                "full": "John \/England\/",
+                "given": "John",
+                "surname": "England"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "Abt 1789"
+            },
+            "familyAsChild": [
+                "@F558157074@"
+            ]
+        },
+        {
+            "gedcomId": "@I654053635@",
+            "wikitreeId": "Person-I654053635",
+            "name": {
+                "full": "Sarah B. \/England\/",
+                "given": "Sarah B.",
+                "surname": "England"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "3 May 1790"
+            },
+            "death": {
+                "date": "1886"
+            },
+            "familyAsSpouse": [
+                "@F558157079@"
+            ],
+            "familyAsChild": [
+                "@F558157074@"
+            ]
+        },
+        {
+            "gedcomId": "@I654053637@",
+            "wikitreeId": "Person-I654053637",
+            "name": {
+                "full": "F. Joseph \/England\/",
+                "given": "F. Joseph",
+                "surname": "England"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "15 Jun 1791"
+            },
+            "death": {
+                "date": "18 Dec 1858"
+            },
+            "familyAsSpouse": [
+                "@F558157080@"
+            ],
+            "familyAsChild": [
+                "@F558157074@"
+            ]
+        },
+        {
+            "gedcomId": "@I654053639@",
+            "wikitreeId": "Person-I654053639",
+            "name": {
+                "full": "Susannah \/England\/",
+                "given": "Susannah",
+                "surname": "England"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "25\/26 Nov 1803"
+            },
+            "death": {
+                "date": "21 Oct 1850"
+            },
+            "familyAsSpouse": [
+                "@F558157081@"
+            ],
+            "familyAsChild": [
+                "@F558157074@"
+            ],
+            "notes": "Nickname:<NICK> Susan"
+        },
+        {
+            "gedcomId": "@I654053641@",
+            "wikitreeId": "Person-I654053641",
+            "name": {
+                "full": "Amelia Milly \/England\/",
+                "given": "Amelia Milly",
+                "surname": "England"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1807"
+            },
+            "familyAsSpouse": [
+                "@F558157082@"
+            ],
+            "familyAsChild": [
+                "@F558157074@"
+            ]
+        },
+        {
+            "gedcomId": "@I654054941@",
+            "wikitreeId": "Person-I654054941",
+            "name": {
+                "full": "Mary \/Watson\/",
+                "given": "Mary",
+                "surname": "Watson"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1732"
+            },
+            "familyAsSpouse": [
+                "@F558157046@"
+            ]
+        }
+    ],
+    "families": [
+        {
+            "familyId": "@F558156503@",
+            "husband": "Person-I654052706",
+            "marriage": {
+                "date": "3 Jan 1788"
+            }
+        },
+        {
+            "familyId": "@F558156578@",
+            "husband": "Person-I654052706",
+            "marriage": {
+                "date": "Aft 1815"
+            }
+        },
+        {
+            "familyId": "@F558156579@",
+            "husband": "Person-I654053570",
+            "wife": "Person-I654053621",
+            "marriage": {
+                "date": "Abt 1760"
+            },
+            "children": [
+                "Person-I654053622",
+                "Person-I654052706",
+                "Person-I654053624"
+            ]
+        },
+        {
+            "familyId": "@F558157046@",
+            "husband": "Person-I654053619",
+            "wife": "Person-I654054941",
+            "children": [
+                "@I654054943@",
+                "Person-I654053627",
+                "Person-I654053570",
+                "Person-I654053626"
+            ]
+        },
+        {
+            "familyId": "@F558157072@",
+            "husband": "Person-I654053619",
+            "wife": "Person-I654053620",
+            "marriage": {
+                "date": "1759"
+            },
+            "children": [
+                "Person-I654053625"
+            ]
+        },
+        {
+            "familyId": "@F558157073@",
+            "children": [
+                "Person-I654053620"
+            ]
+        },
+        {
+            "familyId": "@F558157074@",
+            "husband": "Person-I654053622",
+            "wife": "Person-I654053623",
+            "marriage": {
+                "date": "Bef 1783"
+            },
+            "children": [
+                "Person-I654053628",
+                "Person-I654053630",
+                "Person-I654053632",
+                "Person-I654053634",
+                "Person-I654053635",
+                "Person-I654053637",
+                "Person-I654053639",
+                "Person-I654053641"
+            ]
+        },
+        {
+            "familyId": "@F558157075@",
+            "husband": "Person-I654053627"
+        },
+        {
+            "familyId": "@F558157076@",
+            "wife": "Person-I654053628",
+            "marriage": {
+                "date": "12 Sep 1801"
+            }
+        },
+        {
+            "familyId": "@F558157077@",
+            "wife": "Person-I654053630",
+            "marriage": {
+                "date": "Aft 1818"
+            }
+        },
+        {
+            "familyId": "@F558157078@",
+            "husband": "Person-I654053632",
+            "marriage": {
+                "date": "Abt 1814"
+            }
+        },
+        {
+            "familyId": "@F558157079@",
+            "wife": "Person-I654053635",
+            "marriage": {
+                "date": "Oct 1812"
+            }
+        },
+        {
+            "familyId": "@F558157080@",
+            "husband": "Person-I654053637",
+            "marriage": {
+                "date": "Mar 1817"
+            }
+        },
+        {
+            "familyId": "@F558157081@",
+            "wife": "Person-I654053639",
+            "marriage": {
+                "date": "Abt 1821"
+            }
+        },
+        {
+            "familyId": "@F558157082@",
+            "wife": "Person-I654053641"
+        },
+        {
+            "familyId": "@F558157584@",
+            "husband": "@I654054943@"
+        }
+    ],
+    "places": [],
+    "sources": []
+}

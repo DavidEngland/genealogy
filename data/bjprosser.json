@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "source": "FTW",
+        "lastUpdated": "20 JUL 2003",
+        "charset": "ANSI",
+        "gedcomVersion": "5.5"
+    },
+    "people": [
+        {
+            "gedcomId": "@I0230@",
+            "wikitreeId": "Roberts-0230",
+            "name": {
+                "full": "Elizabeth \/Roberts\/",
+                "given": "Elizabeth",
+                "surname": "Roberts"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "26 JUL 1792"
+            },
+            "familyAsSpouse": [
+                "@F064@"
+            ],
+            "familyAsChild": [
+                "@F038@"
+            ]
+        }
+    ],
+    "families": [
+        {
+            "familyId": "@F038@",
+            "marriage": {
+                "date": "ABT. 1790"
+            },
+            "children": [
+                "Roberts-0230"
+            ]
+        },
+        {
+            "familyId": "@F064@",
+            "husband": "@I0245@",
+            "wife": "Roberts-0230"
+        }
+    ],
+    "places": [],
+    "sources": [],
+    "idMappings": [
+        {
+            "gedcomId": "@I0230@",
+            "wikitreeId": "Roberts-0230",
+            "name": "Elizabeth \/Roberts\/",
+            "sources": []
+        }
+    ]
+}

@@ -1,0 +1,256 @@
+wikitree_id,name,given_name,surname,birth_date,birth_place,death_date,death_place,sex
+Person-I103955,Gladys /JONES/,Gladys,JONES,,,Unknown,,F
+Person-I103966,Annie Ruth /WESSON/,Annie Ruth,WESSON,20 Apr 1915,,12 Feb 1997,,F
+Person-I103968,Inez /WESSON/,Inez,WESSON,1903,,,,F
+Person-I103969,Hazel /WESSON/,Hazel,WESSON,1904,,,,F
+Person-I103971,Roy /WESSON/,Roy,WESSON,1906,,,,M
+Person-I103972,Joe /WESSON/,Joe,WESSON,1908,,,,M
+Person-I103973,Rachel /WESSON/,Rachel,WESSON,1914,,,,F
+Person-I103980,Living /JONES/,Living,JONES,,,,,M
+Person-I103981,Living /JONES/,Living,JONES,,,,,F
+Person-I106677,Myrtle I. /JONES/,Myrtle I.,JONES,1904,,Unknown,,F
+Person-I106678,Marvin E. /JONES/,Marvin E.,JONES,1908,,,,M
+Person-I106679,Lois M /JONES/,Lois M,JONES,1909,,,,F
+Person-I107836,Viola /(--?--)/,Viola,(--?--),1881,,Unknown,,F
+Person-I107837,Lorene /BRUCE/,Lorene,BRUCE,1896,,Unknown,,F
+Person-I107838,Pattie /BRUCE/,Pattie,BRUCE,1898,,Unknown,,F
+Person-I107839,Gladys /BRUCE/,Gladys,BRUCE,17 Mar 1899,,21 Jun 1902,,F
+Person-I107844,Sarah /(--?--)/,Sarah,(--?--),1873,,Unknown,,F
+Person-I107845,Lewis /BRUCE/,Lewis,BRUCE,1903,,Unknown,,M
+Person-I107846,Wilson /BRUCE/,Wilson,BRUCE,1909,,,,M
+Person-I113281,Kerron Curran /BRUCE/,Kerron Curran,BRUCE,1862,,Unknown,,M
+Person-I116363,Herschel E. /JONES/,Herschel E.,JONES,Abt 1912,,,,M
+Person-I116364,Bessie L. /JONES/,Bessie L.,JONES,Abt 1914,,,,F
+Person-I116365,Reba /JONES/,Reba,JONES,Abt 1918,,,,F
+Person-I116366,Ray D. /JONES/,Ray D.,JONES,Abt 1916,,,,M
+Person-I117457,Living /JONES/,Living,JONES,,,,,M
+Person-I117458,Living /JONES/,Living,JONES,,,,,F
+Person-I117459,Living /JONES/,Living,JONES,,,,,M
+Person-I117460,Maggie /SHARP/,Maggie,SHARP,,,Unknown,,F
+Person-I117461,Edna L. /HOLCOMBE/,Edna L.,HOLCOMBE,Abt 1900,,Unknown,,F
+Person-I117463,Gertie /HOLCOMBE/,Gertie,HOLCOMBE,Abt 1907,,Unknown,,F
+Person-I117464,John C. /HOLCOMBE/,John C.,HOLCOMBE,Abt 1903,,Unknown,,M
+Person-I117465,James E. /HOLCOMBE/,James E.,HOLCOMBE,Abt 1909,,,,M
+Person-I117466,Earnest Patton /HOLCOMB/,Earnest Patton,HOLCOMB,9 Oct 1898,,5 Jan 1978,,M
+Person-I117467,Elmer P. /HOLCOMB/,Elmer P.,HOLCOMB,Abt 1902,,Unknown,,M
+Person-I117468,Hubert L. /HOLCOMB/,Hubert L.,HOLCOMB,Abt 1905,,Unknown,,M
+Person-I119907,Whitmore /JONES/,Whitmore,JONES,1760-1770,,Bef 1850,,M
+Person-I119908,Elizabeth /DUNCAN/,Elizabeth,DUNCAN,1777,,Bef 1850,,F
+Person-I119909,James /DUNCAN/,James,DUNCAN,1745-1747,,20 May 1820-1 Sep 1828,,M
+Person-I119910,Sara /DUNCAN/,Sara,DUNCAN,,,Unknown,,F
+Person-I119911,Franklin /JONES/,Franklin,JONES,1812,,Unknown,,M
+Person-I119912,"Jackson ""Jack"" /JONES/","Jackson ""Jack""",JONES,1814,,Aft 1880,,M
+Person-I119913,Sarah /JONES/,Sarah,JONES,1817,,Unknown,,F
+Person-I119914,David /JONES/,David,JONES,1818,,Aft 1880,,M
+Person-I119915,Ann /JONES/,Ann,JONES,1 Feb 1799,,Aft 1870,,F
+Person-I119917,James Alexander /FARRIS/,James Alexander,FARRIS,Abt 1807,,Unknown,,M
+Person-I122138,Joseph /DUNCAN/,Joseph,DUNCAN,Abt 1774,,Abt 1864,,M
+Person-I122139,David /DUNCAN/,David,DUNCAN,Abt 1779,,Unknown,,M
+Person-I122140,Sarah /DUNCAN/,Sarah,DUNCAN,4 Oct 1781-1787,,16 Jun 1868,,F
+Person-I122141,Margaret /DUNCAN/,Margaret,DUNCAN,8 Jun 1783-1788,,18 Jul 1883,,F
+Person-I122142,Verlinda /(--?--)/,Verlinda,(--?--),,,Unknown,,F
+Person-I122143,Mary /DUNCAN/,Mary,DUNCAN,,,Unknown,,F
+Person-I122144,Elizabeth /(--?--)/,Elizabeth,(--?--),,,Unknown,,F
+Person-I122145,Frederick /JONES/,Frederick,JONES,Abt 1780,,Unknown,,M
+Person-I122146,John /JEANES/,John,JEANES,27 Apr 1777,,8 Jun 1843,,M
+Person-I123384,Mary /JONES/,Mary,JONES,Abt 1800,,Bef 1860,,F
+Person-I123385,Thomas M. /PHILLIPS/,Thomas M.,PHILLIPS,Abt 1800,,Unknown,,M
+Person-I145,"Mattie Ida ""Doll"" /JONES/","Mattie Ida ""Doll""",JONES,1 Jan 1885,,14 Apr 1951,,F
+Person-I146,Living /McFALL/,Living,McFALL,,,,,M
+Person-I22140,Lorenzo /JACKSON/,Lorenzo,JACKSON,,,Unknown,,M
+Person-I22141,John /MATHEWS/,John,MATHEWS,,,Unknown,,M
+Person-I22143,Asbury /LATHAM/,Asbury,LATHAM,Abt 1819,,Unknown,,M
+Person-I22144,James /LATHAM/,James,LATHAM,Abt 1830,,Unknown,,M
+Person-I22145,Elizabeth /LATHAM/,Elizabeth,LATHAM,Abt 1833,,Unknown,,F
+Person-I22146,George Washington /LATHAM/,George Washington,LATHAM,Abt 1834,,Unknown,,M
+Person-I22148,Francis Marion /LATHAM/,Francis Marion,LATHAM,Abt 1837,,Unknown,,M
+Person-I22149,Manwiy /LATHAM/,Manwiy,LATHAM,Abt 1838,,Unknown,,M
+Person-I22150,John Harrison /LATHAM/,John Harrison,LATHAM,Abt 1843,,Unknown,,M
+Person-I22151,Devenport /LATHAM/,Devenport,LATHAM,Abt 1846,,Unknown,,M
+Person-I22152,Mary D. /LATHAM/,Mary D.,LATHAM,1824,,23 Dec 1867,,F
+Person-I22154,James /MATHEWS/,James,MATHEWS,1844,,Unknown,,M
+Person-I22155,"Elizabeth ""Eliza"" /MATHEWS/","Elizabeth ""Eliza""",MATHEWS,1846,,Unknown,,F
+Person-I33415,Jamie Lee /SEGO/,Jamie Lee,SEGO,9 Feb 1921,,29 May 2008,,M
+Person-I33417,"James Asbury ""Jim"" /SEGO/","James Asbury ""Jim""",SEGO,5 Sep 1868,,21 Dec 1935,,M
+Person-I33419,George Washington /SEGO/,George Washington,SEGO,8 Apr 1843,,16 Feb 1925,,M
+Person-I33420,Virginia Alice /JACKSON/,Virginia Alice,JACKSON,18 Nov 1850,,24 Sep 1916,,F
+Person-I33437,Emmet Lee /SEGO/,Emmet Lee,SEGO,15 Jan 1894,,15 Apr 1969,,M
+Person-I33438,Elvie Pearl /JONES/,Elvie Pearl,JONES,13 Oct 1896,,29 Apr 1984,,F
+Person-I33439,"William  David ""Will"" /JONES/","William  David ""Will""",JONES,4 May 1849,,13 Mar 1921,,M
+Person-I33440,"Mary Wade ""Sis"" (Twin) /REED/","Mary Wade ""Sis"" (Twin)",REED,4 Oct 1859,,15 Nov 1950,,F
+Person-I33441,Thomas C. /JONES/,Thomas C.,JONES,Abt 1804,,Bef 1900,,M
+Person-I33442,"Mary Ann ""Polly"" /MATHIS/","Mary Ann ""Polly""",MATHIS,Abt 1817,,Bef 1900,,F
+Person-I487,Devenport /LATHAM/,Devenport,LATHAM,Abt 1798,,Unknown,,M
+Person-I61163,William Littleberry /TAYLOR/,William Littleberry,TAYLOR,8 Apr 1838,,17 Dec 1887,,M
+Person-I61164,Sarah Elizabeth Van Buren /MILLER/,Sarah Elizabeth Van Buren,MILLER,Abt 1840,,7 Aug 1878,,F
+Person-I61165,Seth /MILLER/,Seth,MILLER,,,Unknown,,M
+Person-I61166,"Charlotte ""Lotty"" /JONES/","Charlotte ""Lotty""",JONES,Abt 1812,,Unknown,,F
+Person-I61167,William Sylvester /TAYLOR/,William Sylvester,TAYLOR,11 Oct 1861,,Unknown,,M
+Person-I61168,Sarah Aartimice /TAYLOR/,Sarah Aartimice,TAYLOR,Abt 1867,,Unknown,,F
+Person-I61169,Adam Benjamin /LYTAL/,Adam Benjamin,LYTAL,,,Unknown,,M
+Person-I61170,Amanda /TAYLOR/,Amanda,TAYLOR,Abt 1869,,Unknown,,F
+Person-I61171,Eliza Isabelle /TAYLOR/,Eliza Isabelle,TAYLOR,23 Feb 1872,,26 Aug 1950,,F
+Person-I61172,"Christopher Columbus ""C. C. or Lum"" /CARPENTER/","Christopher Columbus ""C. C. or Lum""",CARPENTER,20 Dec 1869,,21 Aug 1943,,M
+Person-I61173,Nathan /TAYLOR/,Nathan,TAYLOR,Abt 1876,,Abt 1879,,M
+Person-I61174,George /TAYLOR/,George,TAYLOR,7 Aug 1878,,7 Aug 1878,,M
+Person-I65372,Charlotta Lee Ann /TAYLOR/,Charlotta Lee Ann,TAYLOR,25 Aug 1867,,24 Aug 1899,,F
+Person-I83339,Mary Marguerite /SEGO/,Mary Marguerite,SEGO,15 Sep 1922,,Unknown,,F
+Person-I83345,James Ray /SEGO/,James Ray,SEGO,29 Sep 1925,,15 Jan 1945,,M
+Person-I83365,John Henry /McFALL/,John Henry,McFALL,20 Jul 1862,,19 Apr 1927,,M
+Person-I84009,Tom Boyce /SEGO/,Tom Boyce,SEGO,24 May 1890,,5 Apr 1983,,M
+Person-I84016,Samuel Turner /SEGO/,Samuel Turner,SEGO,23 Dec 1879,,17 Sep 1951,,M
+Person-I84025,Louis Gantt /SEGO/,Louis Gantt,SEGO,26 Sep 1882,,11 Jun 1959,,M
+Person-I84026,"Elizabeth Mae ""Lizzie"" /JONES/","Elizabeth Mae ""Lizzie""",JONES,Jan 1885,,31 Mar 1943,,F
+Person-I84027,Biddie /SEGO/,Biddie,SEGO,Abt 1916,,,,F
+Person-I84363,"James Jackson ""Jim"" /JONES/","James Jackson ""Jim""",JONES,2 Jul 1852,,14 Sep 1919,,M
+Person-I84365,Ida R. /CANNON/,Ida R.,CANNON,2 Apr 1862,,18 Oct 1912,,F
+Person-I84368,"Mary Elizabeth ""Mollie"" /SEGO/","Mary Elizabeth ""Mollie""",SEGO,7 Mar 1870,,10 Apr 1951,,F
+Person-I84390,Francis Marion /SEGO/,Francis Marion,SEGO,23 Nov 1871,,8 Apr 1929,,M
+Person-I84403,Ernest Lee /SEGO/,Ernest Lee,SEGO,16 May 1873,,25 Jun 1956,,M
+Person-I84424,Charles Jackson /SEGO/,Charles Jackson,SEGO,31 Mar 1875,,3 Oct 1935,,M
+Person-I84438,"George Willie ""Bill"" /SEGO/","George Willie ""Bill""",SEGO,3 Jan 1878,,27 Dec 1951,,M
+Person-I84502,Rubye Elizabeth /SEGO/,Rubye Elizabeth,SEGO,11 Jan 1916,,,,F
+Person-I84508,"Margaret Abigail ""Maggie"" /SEGO/","Margaret Abigail ""Maggie""",SEGO,2 Mar 1885,,18 Aug 1912,,F
+Person-I84510,Lillian Pearl /SEGO/,Lillian Pearl,SEGO,19 Apr 1887,,19 Aug 1967,,F
+Person-I84544,Arthur Thomas /HOLCOMB/,Arthur Thomas,HOLCOMB,10 Jan 1912,,6 Mar 1976,,M
+Person-I84882,William Hall /KOONCE/,William Hall,KOONCE,6 Jan 1862,,20 Feb 1925,,M
+Person-I84883,Martha F. /DUNCAN/,Martha F.,DUNCAN,16 May 1859,,24 Feb 1893,,F
+Person-I84894,Vida Sue /KOONCE/,Vida Sue,KOONCE,24 Feb 1892,,14 Sep 1966,,F
+Person-I84917,Elmer L. /KOONCE/,Elmer L.,KOONCE,17 Oct 1885,,Feb 1972,,M
+Person-I84918,Herbert Franklin /KOONCE/,Herbert Franklin,KOONCE,11 Dec 1888,,Jul 1976,,M
+Person-I84919,Mary Ethel /KOONCE/,Mary Ethel,KOONCE,21 Sep 1890,,8 Sep 1931,,F
+Person-I84920,Stella Myrtle /KOONCE/,Stella Myrtle,KOONCE,7 Mar 1895,,Unknown,,F
+Person-I84921,Lester Duncan /KOONCE/,Lester Duncan,KOONCE,12 Aug 1896,,Unknown,,M
+Person-I84922,Mabel S. /KOONCE/,Mabel S.,KOONCE,,,Unknown,,F
+Person-I85102,"James Henry  ""Jim"" /HAIRELL/","James Henry  ""Jim""",HAIRELL,13 May 1918,,23 Feb 1982,,M
+Person-I85214,"Marion Carter ""Cart"" /HAIRELL/","Marion Carter ""Cart""",HAIRELL,18 Jan 1882,,Jan 1939,,M
+Person-I85215,Cora Lee /JONES/,Cora Lee,JONES,4 Jan 1877,,30 Nov 1930,,F
+Person-I85219,William Comer /HAIRELL/,William Comer,HAIRELL,25 Feb 1913,,7 Jun 1973,,M
+Person-I85220,Mary Ann /HAIRELL/,Mary Ann,HAIRELL,23 Apr 1914,,26 Jun 1914,,F
+Person-I85228,"Madge L. ""Maggie"" /JONES/","Madge L. ""Maggie""",JONES,20 Aug 1878,,29 Nov 1951,,F
+Person-I85230,"Rose Ella ""Rosie"" /JONES/","Rose Ella ""Rosie""",JONES,29 Jul 1888,,11 Jun 1964,,F
+Person-I85231,Lee Roy /JONES/,Lee Roy,JONES,8 May 1889,,1 Aug 1971,,M
+Person-I85232,Mae Malone /JONES/,Mae Malone,JONES,4 Sep 1892,,4 Oct 1966,,F
+Person-I85233,Thomas Ephriam /JONES/,Thomas Ephriam,JONES,15 Jul 1882,,15 Jul 1941,,M
+Person-I85234,Rosie B. /McCANN/,Rosie B.,McCANN,24 Oct 1894,,11 May 1968,,F
+Person-I85235,"Edgar Charles ""Ed or Eddy"" /SHARP/","Edgar Charles ""Ed or Eddy""",SHARP,Nov 1884,,Jan 1906,,M
+Person-I85237,"J. J. ""Jim"" /HUGHES/","J. J. ""Jim""",HUGHES,,,,,M
+Person-I85238,William Henry /GARGIS/,William Henry,GARGIS,21 Jan 1888,,29 Dec 1966,,M
+Person-I85239,Fred C. /GERBER/,Fred C.,GERBER,30 Jul 1889,,Mar 1971,,M
+Person-I85240,Grover William /JONES/,Grover William,JONES,1 Oct 1894,,2 Dec 1913,,M
+Person-I85242,Tommie Venice /JONES/,Tommie Venice,JONES,25 Jul 1927,,Apr 1988,,F
+Person-I85245,Edgar Turner /SHARP/,Edgar Turner,SHARP,11 Apr 1903,,23 Aug 1934,,M
+Person-I85248,Virgil Dalton /SHARP/,Virgil Dalton,SHARP,27 Apr 1905,,31 Jan 1942,,M
+Person-I85255,Vera May /HOLCOMBE/,Vera May,HOLCOMBE,4 Jan 1915,,1972,,F
+Person-I85270,Lanier J. /HOLCOMBE/,Lanier J.,HOLCOMBE,1868,,1934,,M
+Person-I85271,N. Lou /(--?--)/,N. Lou,(--?--),1881,,1957,,F
+Person-I85276,Ruben L. /HOLCOMBE/,Ruben L.,HOLCOMBE,18 Sep 1924,,27 Mar 1998,,M
+Person-I85277,Lanier J. /HOLCOMBE/,Lanier J.,HOLCOMBE,23 Jun 1920,,1 Apr 1966,,M
+Person-I85279,Myrta Rose /HOLCOMBE/,Myrta Rose,HOLCOMBE,Abt 1902,,Unknown,,F
+Person-I85280,William Clyde /HOLCOMBE/,William Clyde,HOLCOMBE,Abt 1904,,Unknown,,M
+Person-I85287,Milton S. /HOLCOMBE/,Milton S.,HOLCOMBE,Abt 1845,,Unknown,,M
+Person-I85288,Sarah F. /JONES/,Sarah F.,JONES,28 Feb 1845,,24 Dec 1915,,F
+Person-I85291,Mary Mollie /HOLCOMBE/,Mary Mollie,HOLCOMBE,1871,,Unknown,,F
+Person-I85295,Ella M. /JONES/,Ella M.,JONES,,,Unknown,,F
+Person-I85296,"Nancy Elizabeth ""Lizzie"" /JONES/","Nancy Elizabeth ""Lizzie""",JONES,1886,,11 Mar 1943,,F
+Person-I85297,Mason /JONES/,Mason,JONES,1890,,Unknown,,F
+Person-I85298,Ruben S. /JONES/,Ruben S.,JONES,1894,,Unknown,,M
+Person-I85299,Emmet K. /JONES/,Emmet K.,JONES,1898,,1984,,M
+Person-I85300,"Henry ""Wade"" /WESSON/","Henry ""Wade""",WESSON,14 May 1876,,8 Sep 1947,,M
+Person-I85301,B. Wilburn /RAYBURN/,B. Wilburn,RAYBURN,,,Unknown,,M
+Person-I85302,(--?--) /EMERSON/,(--?--),EMERSON,,,Unknown,,M
+Person-I85303,"Oda ""Odie"" /SCOTT/","Oda ""Odie""",SCOTT,1893,,1993,,F
+Person-I85304,Lucinda /JONES/,Lucinda,JONES,Abt 1839,,Unknown,,F
+Person-I85306,Mary Jane /JONES/,Mary Jane,JONES,Abt 1843,,Unknown,,F
+Person-I85308,William Keron /BRUCE/,William Keron,BRUCE,3 May 1828,,11 Dec 1919,,M
+Person-I85309,Samuel /BRUCE/,Samuel,BRUCE,1877,,Unknown,,M
+Person-I85312,John W. /JONES/,John W.,JONES,2 Nov 1847,,17 Oct 1926,,M
+Person-I85316,Dora Elizabeth /REEDER/,Dora Elizabeth,REEDER,7 Dec 1857,,14 Aug 1936,,F
+Person-I85317,James E. /JONES/,James E.,JONES,Jun 1877,,Unknown,,M
+Person-I85318,Mary Ethel /JONES/,Mary Ethel,JONES,Dec 1879,,Unknown,,F
+Person-I85319,Thomas Reeder /JONES/,Thomas Reeder,JONES,16 May 1882,,5 Dec 1940,,M
+Person-I85320,John W. /JONES/,John W.,JONES,Sep 1887,,Unknown,,M
+Person-I85321,Wheeler W. /JONES/,Wheeler W.,JONES,20 Jun 1889,,,,M
+Person-I85322,Mamie A. /JONES/,Mamie A.,JONES,Nov 1893,,,Alabama,F
+Person-I85323,Sallie I. /(--?--)/,Sallie I.,(--?--),1880,,1954,,F
+Person-I85324,Rubye /BALENTINE/,Rubye,BALENTINE,14 Jan 1897,,3 Sep 1972,,F
+Person-I85325,Jim A. /WHITTEN/,Jim A.,WHITTEN,Abt 1894,,Unknown,,M
+Person-I85326,Lillian T. /(--?--)/,Lillian T.,(--?--),27 Apr 1906,,,,F
+Person-I85327,Ada Bell /TICER/,Ada Bell,TICER,28 Jan 1900,,31 Dec 1974,,F
+Person-I85328,Homer L. /JONES/,Homer L.,JONES,26 Nov 1897,,23 Dec 1969,,M
+Person-I85331,Louise D. /WHITTEN/,Louise D.,WHITTEN,Abt 1918,,,,F
+Person-I85332,Ruth L. /WHITTEN/,Ruth L.,WHITTEN,Abt 1919,,,,F
+Person-I89117,Hartwell (Twin) /GARGIS/,Hartwell (Twin),GARGIS,17 Nov 1908,,7 Sep 1987,,M
+Person-I89118,Howell (Twin) /GARGIS/,Howell (Twin),GARGIS,17 Nov 1908,,26 Mar 1952,,M
+Person-I89119,"Reeder Wallace ""Tosh"" /GARGIS/","Reeder Wallace ""Tosh""",GARGIS,1 Nov 1910,,21 Feb 1983,,M
+Person-I89120,Sallie Mae /GARGIS/,Sallie Mae,GARGIS,31 Aug 1912,,,Alabama,F
+Person-I89121,Richard Lesley /GARGIS/,Richard Lesley,GARGIS,4 Mar 1914,,11 Oct 1998,,M
+Person-I89122,Mary Alice /GARGIS/,Mary Alice,GARGIS,31 Oct 1918,,,,F
+Person-I89123,"James Edward ""Bud"" /GARGIS/","James Edward ""Bud""",GARGIS,14 May 1920,,11 Sep 1999,,M
+Person-I89124,William Fulmer /GARGIS/,William Fulmer,GARGIS,26 Jul 1923,,23 Jan 1977,,M
+Person-I89147,Jessie Lee /GERBER/,Jessie Lee,GERBER,26 Nov 1912,,23 Sep 2001,,F
+Person-I89148,Mary Helen /GERBER/,Mary Helen,GERBER,4 Apr 1914,,20 May 1995,,F
+Person-I90846,"Grace ""Gracie"" /O'KELLEY/","Grace ""Gracie""",O'KELLEY,18 Dec 1908,,8 Nov 2001,,F
+Person-I91304,Porter C. /JONES/,Porter C.,JONES,19 Aug 1911,,15 Jun 1998,,M
+Person-I91305,James Olan /JONES/,James Olan,JONES,19 Apr 1913,,15 Jul 2000,,M
+Person-I91312,Thomas /FERGUSON/,Thomas,FERGUSON,,,,,M
+Person-I91961,Mary Ella /JONES/,Mary Ella,JONES,19 May 1917,,,,F
+Person-I91970,Naomi Virginia /JONES/,Naomi Virginia,JONES,20 Jun 1920,,19 Sep 1993,,F
+Person-I91989,Ruth Marie /JONES/,Ruth Marie,JONES,11 Nov 1924,,23 Jan 2002,,F
+Person-I92020,Hattie Mae /JONES/,Hattie Mae,JONES,28 Aug 1929,,30 Jun 2001,,F
+Person-I92030,Living /JONES/,Living,JONES,,,,,F
+Person-I92321,Leona /JONES/,Leona,JONES,25 Dec 1918,,29 Jan 1998,,F
+Person-I92447,Hurbert R. /JONES/,Hurbert R.,JONES,1880,,Bef 1900,,M
+Person-I94471,Loren Ellis /SEGO/,Loren Ellis,SEGO,31 May 1892,,18 Sep 1892,,M
+Person-I97608,Nora E. /HOLCOMBE/,Nora E.,HOLCOMBE,1875,,Unknown,,F
+Person-I97610,Milton Sayer /HOLCOMBE/,Milton Sayer,HOLCOMBE,1879,,Unknown,,M
+Person-I97612,Living /JONES/,Living,JONES,,,,,F
+Person-I97613,Living /JONES/,Living,JONES,,,,,M
+Person-I97614,Howard /JONES/,Howard,JONES,Abt 1918,,,,M
+Person-I97921,Elizabeth /JONES/,Elizabeth,JONES,Abt 1806,,Abt Oct 1854,,F
+Person-I97922,Felix Galloway /HUDDLESTON/,Felix Galloway,HUDDLESTON,24 Feb 1815,,13 Mar 1894,,M
+Person-I97926,Lewis /BRUCE/,Lewis,BRUCE,1868,,Unknown,,M
+Person-I97927,Hattie /HOLCOMBE/,Hattie,HOLCOMBE,Abt 1917,,,,F
+Person-I97928,Living /HOLCOMBE/,Living,HOLCOMBE,,,,,F
+Person-I97930,Living /HOLCOMBE/,Living,HOLCOMBE,,,,,F
+Person-I97931,Sarah T. /HOLCOMBE/,Sarah T.,HOLCOMBE,Abt 1908,,,,F
+Person-I98434,John J. /DUNCAN/,John J.,DUNCAN,6 Dec 1834,,16 Oct 1860,,M
+Person-I98435,Mary Jane /FOWLER/,Mary Jane,FOWLER,24 Aug 1836,,22 Mar 1861,,F
+Person-I98438,George Eugene /DUNCAN/,George Eugene,DUNCAN,1810,,Apr 1857,,M
+Person-I98439,Jane /YOUNG/,Jane,YOUNG,1812,,Unknown,,F
+Person-I98442,Nancy /DUNCAN/,Nancy,DUNCAN,1838,,Unknown,,F
+Person-I98443,William G. E. /DUNCAN/,William G. E.,DUNCAN,1842,,Unknown,,M
+Person-I98444,Leander Z. /DUNCAN/,Leander Z.,DUNCAN,Abt 1845,,1857,,M
+Person-I98445,Ebinezer /DUNCAN/,Ebinezer,DUNCAN,Abt 1845,,1857,,M
+Person-I98446,Jonathan /DUNCAN/,Jonathan,DUNCAN,Abt 1765,,Abt 1845,,M
+Person-I98447,"Jane ""Jincy"" /JONES/","Jane ""Jincy""",JONES,Abt 1775,,Unknown,,F
+Person-I98450,James /DUNCAN/,James,DUNCAN,1794,,Abt 1865,,M
+Person-I98451,Mary Polly /DUNCAN/,Mary Polly,DUNCAN,7 Feb 1797,,31 Dec 1832,,F
+Person-I98452,Moses /DUNCAN/,Moses,DUNCAN,1807,,20 May 1868,,M
+Person-I98453,Annie /DUNCAN/,Annie,DUNCAN,1812,,Unknown,,F
+Person-I98454,Elizabeth /DUNCAN/,Elizabeth,DUNCAN,Abt 1823,,Unknown,,F
+Person-I98455,Nancy J. /DUNCAN/,Nancy J.,DUNCAN,Abt 1849,,Unknown,,F
+Person-I98456,Sarah A. /DUNCAN/,Sarah A.,DUNCAN,Abt 1851,,Unknown,,F
+Person-I98457,James /DUNCAN/,James,DUNCAN,Abt 1854,,Unknown,,M
+Person-I98458,Elmira E. /DUNCAN/,Elmira E.,DUNCAN,Abt 1857,,Unknown,,F
+Person-I98459,Joseph Denton /PHILLIPS/,Joseph Denton,PHILLIPS,Abt 1795,,Unknown,,M
+Person-I98460,Sarah Tarpley /CLARK/,Sarah Tarpley,CLARK,23 Feb 1806,,6 Jun 1894,,F
+Person-I98461,George Washington /DUNCAN/,George Washington,DUNCAN,29 Jan 1829,,Abt 1914,,M
+Person-I98462,Martha Ann /DUNCAN/,Martha Ann,DUNCAN,25 Jul 1832,,Unknown,,F
+Person-I98463,Robert M. /DUNCAN/,Robert M.,DUNCAN,12 Apr 1834,,3 Jul 1863,,M
+Person-I98464,Mary Elizabeth /DUNCAN/,Mary Elizabeth,DUNCAN,13 Mar 1836,,29 Jun 1901,,F
+Person-I98465,Elmira Green /DUNCAN/,Elmira Green,DUNCAN,26 May 1838,,10 Mar 1880,,F
+Person-I98466,Thomas Jefferson /DUNCAN/,Thomas Jefferson,DUNCAN,15 Aug 1840,,29 Aug 1932,,M
+Person-I98467,James Andrew /DUNCAN/,James Andrew,DUNCAN,23 May 1842,,29 Oct 1926,,M
+Person-I98468,William D. /DUNCAN/,William D.,DUNCAN,22 Sep 1844,,Unknown,,M
+Person-I98469,Sarah F. /DUNCAN/,Sarah F.,DUNCAN,Oct 1846,,22 Jan 1891,,F
+Person-I98470,Sarah Mariah /SMITH/,Sarah Mariah,SMITH,Abt 1838,,Abt 1870,,F
+Person-I98471,Jessie P. /WHITTEN/,Jessie P.,WHITTEN,Abt 1828,,Unknown,,M
+Person-I98472,Elias Alexander /BROWN/,Elias Alexander,BROWN,Abt 1830,,24 Feb 1910,,M
+Person-I98473,Rosa N. /BROWN/,Rosa N.,BROWN,21 Nov 1851,,23 Mar 1904,,F
+Person-I98474,Annie E. /THOMPSON/,Annie E.,THOMPSON,Abt 1843,,Bef 1881,,F
+Person-I98475,Margaret Ellen /WHITE/,Margaret Ellen,WHITE,16 Feb 1859,,7 Dec 1939,,F
+Person-I98476,John C. /JOHNSON/,John C.,JOHNSON,3 Dec 1842,,15 Aug 1922,,M
+Person-I98477,George Washington /DUNCAN/,George Washington,DUNCAN,10 Oct 1864,,9 Aug 1905,,M
+Person-I98478,Mary Lillie /WINCHESTER/,Mary Lillie,WINCHESTER,1869,,Unknown,,F
+Person-I98481,Mollie /DUNCAN/,Mollie,DUNCAN,11 Sep 1888,,5 Mar 1981,,F

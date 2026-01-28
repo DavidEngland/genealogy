@@ -1,0 +1,1032 @@
+{
+    "metadata": {
+        "source": "AncestQuest",
+        "lastUpdated": "7 MAY 2004",
+        "gedcomVersion": "5.5",
+        "charset": "ANSEL"
+    },
+    "people": [
+        {
+            "gedcomId": "@I10@",
+            "wikitreeId": "Person-I10",
+            "name": {
+                "full": "Joseph \/White\/",
+                "given": "Joseph",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1665\/1670"
+            },
+            "familyAsSpouse": [
+                "@F73@"
+            ],
+            "familyAsChild": [
+                "@F100@"
+            ]
+        },
+        {
+            "gedcomId": "@I105@",
+            "wikitreeId": "Person-I105",
+            "name": {
+                "full": "Maria Elvira \/(White)\/",
+                "given": "Maria Elvira",
+                "surname": "(White)"
+            },
+            "sex": "F",
+            "birth": {
+                "place": "AL"
+            },
+            "familyAsSpouse": [
+                "@F36@"
+            ]
+        },
+        {
+            "gedcomId": "@I110@",
+            "wikitreeId": "Person-I110",
+            "name": {
+                "full": "Reese Layfayette \/White\/",
+                "given": "Reese Layfayette",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "Abt 1807"
+            },
+            "familyAsSpouse": [
+                "@F61@"
+            ],
+            "familyAsChild": [
+                "@F67@"
+            ]
+        },
+        {
+            "gedcomId": "@I111@",
+            "wikitreeId": "Person-I111",
+            "name": {
+                "full": "Elizabeth \/\/"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1787"
+            },
+            "death": {
+                "date": "Aft 1850"
+            },
+            "familyAsSpouse": [
+                "@F67@"
+            ]
+        },
+        {
+            "gedcomId": "@I115@",
+            "wikitreeId": "Person-I115",
+            "name": {
+                "full": "Richard \/White\/",
+                "given": "Richard",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1730"
+            },
+            "death": {
+                "date": "Bef 17 JUL 1775"
+            },
+            "familyAsSpouse": [
+                "@F26@"
+            ],
+            "familyAsChild": [
+                "@F54@"
+            ]
+        },
+        {
+            "gedcomId": "@I116@",
+            "wikitreeId": "Person-I116",
+            "name": {
+                "full": "Mary \/\/"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "Abt 1770"
+            },
+            "death": {
+                "date": "Abt 1786"
+            },
+            "familyAsSpouse": [
+                "@F7@"
+            ]
+        },
+        {
+            "gedcomId": "@I12@",
+            "wikitreeId": "Person-I12",
+            "name": {
+                "full": "Richard \/White\/",
+                "given": "Richard",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1782"
+            },
+            "death": {
+                "date": "1849"
+            },
+            "familyAsSpouse": [
+                "@F67@"
+            ],
+            "familyAsChild": [
+                "@F7@"
+            ]
+        },
+        {
+            "gedcomId": "@I120@",
+            "wikitreeId": "Person-I120",
+            "name": {
+                "full": "Elizabeth \/\/"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1734"
+            },
+            "familyAsSpouse": [
+                "@F26@"
+            ]
+        },
+        {
+            "gedcomId": "@I121@",
+            "wikitreeId": "Person-I121",
+            "name": {
+                "full": "George Albert \/Kiser\/",
+                "given": "George Albert",
+                "surname": "Kiser"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "14 DEC 1897"
+            },
+            "death": {
+                "date": "25 JUL 1973"
+            },
+            "familyAsSpouse": [
+                "@F74@"
+            ],
+            "familyAsChild": [
+                "@F75@"
+            ],
+            "notes": "ss#465-22-0220 issued in Texas"
+        },
+        {
+            "gedcomId": "@I127@",
+            "wikitreeId": "Person-I127",
+            "name": {
+                "full": "Jewelle Elmina \/White\/",
+                "given": "Jewelle Elmina",
+                "surname": "White"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "10 FEB 1900"
+            },
+            "death": {
+                "date": "10 MAR 2003"
+            },
+            "familyAsSpouse": [
+                "@F74@"
+            ],
+            "familyAsChild": [
+                "@F99@"
+            ]
+        },
+        {
+            "gedcomId": "@I13@",
+            "wikitreeId": "Person-I13",
+            "name": {
+                "full": "John \/White\/",
+                "given": "John",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1768"
+            },
+            "death": {
+                "date": "JAN 1830"
+            },
+            "familyAsSpouse": [
+                "@F7@"
+            ],
+            "familyAsChild": [
+                "@F26@"
+            ]
+        },
+        {
+            "gedcomId": "@I14@",
+            "wikitreeId": "Person-I14",
+            "name": {
+                "full": "William Henry \/White\/",
+                "given": "William Henry",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "Abt 1728"
+            },
+            "familyAsChild": [
+                "@F73@"
+            ]
+        },
+        {
+            "gedcomId": "@I140@",
+            "wikitreeId": "Person-I140",
+            "name": {
+                "full": "Elmina Jewelle \/Kiser\/",
+                "given": "Elmina Jewelle",
+                "surname": "Kiser"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "9 AUG 1928"
+            },
+            "death": {
+                "date": "21 MAR 1999"
+            },
+            "familyAsChild": [
+                "@F74@"
+            ]
+        },
+        {
+            "gedcomId": "@I16@",
+            "wikitreeId": "Person-I16",
+            "name": {
+                "full": "William \/White\/",
+                "given": "William",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "Abt 1667"
+            },
+            "familyAsChild": [
+                "@F100@"
+            ]
+        },
+        {
+            "gedcomId": "@I181@",
+            "wikitreeId": "Person-I181",
+            "name": {
+                "full": "Matilda Anna \/Adams\/",
+                "given": "Matilda Anna",
+                "surname": "Adams"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1816"
+            },
+            "familyAsSpouse": [
+                "@F61@"
+            ]
+        },
+        {
+            "gedcomId": "@I207@",
+            "wikitreeId": "Person-I207",
+            "name": {
+                "full": "Charles Robertson \/White\/",
+                "given": "Charles Robertson",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "20 JAN 1874"
+            },
+            "death": {
+                "date": "20 MAR 1959"
+            },
+            "familyAsSpouse": [
+                "@F99@"
+            ],
+            "familyAsChild": [
+                "@F36@"
+            ]
+        },
+        {
+            "gedcomId": "@I208@",
+            "wikitreeId": "Person-I208",
+            "name": {
+                "full": "Marie Antoinette \/Thompson\/",
+                "given": "Marie Antoinette",
+                "surname": "Thompson"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "22 DEC 1875"
+            },
+            "death": {
+                "date": "14 AUG 1958"
+            },
+            "familyAsSpouse": [
+                "@F99@"
+            ]
+        },
+        {
+            "gedcomId": "@I209@",
+            "wikitreeId": "Person-I209",
+            "name": {
+                "full": "Geneva M. \/White\/",
+                "given": "Geneva M.",
+                "surname": "White"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "7 SEP 1916"
+            },
+            "familyAsChild": [
+                "@F99@"
+            ]
+        },
+        {
+            "gedcomId": "@I210@",
+            "wikitreeId": "Person-I210",
+            "name": {
+                "full": "Catherine M. E. \/White\/",
+                "given": "Catherine M. E.",
+                "surname": "White"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "9 APR 1914"
+            },
+            "familyAsChild": [
+                "@F99@"
+            ]
+        },
+        {
+            "gedcomId": "@I211@",
+            "wikitreeId": "Person-I211",
+            "name": {
+                "full": "Titus W. \/White\/",
+                "given": "Titus W.",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "18 APR 1912"
+            },
+            "familyAsChild": [
+                "@F99@"
+            ]
+        },
+        {
+            "gedcomId": "@I212@",
+            "wikitreeId": "Person-I212",
+            "name": {
+                "full": "William K. \/White\/",
+                "given": "William K.",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "11 FEB 1909"
+            },
+            "death": {
+                "date": "29 JUL 1930"
+            },
+            "familyAsChild": [
+                "@F99@"
+            ]
+        },
+        {
+            "gedcomId": "@I213@",
+            "wikitreeId": "Person-I213",
+            "name": {
+                "full": "Minnie M. \/White\/",
+                "given": "Minnie M.",
+                "surname": "White"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "3 MAY 1904"
+            },
+            "death": {
+                "date": "17 JUN 1961"
+            },
+            "familyAsChild": [
+                "@F99@"
+            ]
+        },
+        {
+            "gedcomId": "@I214@",
+            "wikitreeId": "Person-I214",
+            "name": {
+                "full": "Myrtle Toy \/White\/",
+                "given": "Myrtle Toy",
+                "surname": "White"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "7 JUN 1901"
+            },
+            "death": {
+                "date": "14 JUN 1901"
+            },
+            "familyAsChild": [
+                "@F99@"
+            ]
+        },
+        {
+            "gedcomId": "@I215@",
+            "wikitreeId": "Person-I215",
+            "name": {
+                "full": "Iris B. \/White\/",
+                "given": "Iris B.",
+                "surname": "White"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "29 AUG 1898"
+            },
+            "death": {
+                "date": "24 MAR 1958"
+            },
+            "familyAsChild": [
+                "@F99@"
+            ]
+        },
+        {
+            "gedcomId": "@I216@",
+            "wikitreeId": "Person-I216",
+            "name": {
+                "full": "Arthur O. \/White\/",
+                "given": "Arthur O.",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "14 FEB 1895"
+            },
+            "death": {
+                "date": "9 DEC 1960"
+            },
+            "familyAsChild": [
+                "@F99@"
+            ]
+        },
+        {
+            "gedcomId": "@I217@",
+            "wikitreeId": "Person-I217",
+            "name": {
+                "full": "Ellen E. \/White\/",
+                "given": "Ellen E.",
+                "surname": "White"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "8 FEB 1894"
+            },
+            "death": {
+                "date": "14 AUG 1934"
+            },
+            "familyAsChild": [
+                "@F99@"
+            ]
+        },
+        {
+            "gedcomId": "@I218@",
+            "wikitreeId": "Person-I218",
+            "name": {
+                "full": "Nancy \/White\/",
+                "given": "Nancy",
+                "surname": "White"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "Abt 1766"
+            },
+            "familyAsChild": [
+                "@F26@"
+            ]
+        },
+        {
+            "gedcomId": "@I219@",
+            "wikitreeId": "Person-I219",
+            "name": {
+                "full": "Drusilla \/White\/",
+                "given": "Drusilla",
+                "surname": "White"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "Abt 1764"
+            },
+            "familyAsChild": [
+                "@F26@"
+            ]
+        },
+        {
+            "gedcomId": "@I220@",
+            "wikitreeId": "Person-I220",
+            "name": {
+                "full": "Elizabeth \/White\/",
+                "given": "Elizabeth",
+                "surname": "White"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "Abt 1762"
+            },
+            "familyAsChild": [
+                "@F26@"
+            ]
+        },
+        {
+            "gedcomId": "@I221@",
+            "wikitreeId": "Person-I221",
+            "name": {
+                "full": "Sarah \/White\/",
+                "given": "Sarah",
+                "surname": "White"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "Abt 1760"
+            },
+            "familyAsChild": [
+                "@F26@"
+            ]
+        },
+        {
+            "gedcomId": "@I222@",
+            "wikitreeId": "Person-I222",
+            "name": {
+                "full": "Mary \/White\/",
+                "given": "Mary",
+                "surname": "White"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "Abt 1758"
+            },
+            "familyAsChild": [
+                "@F26@"
+            ]
+        },
+        {
+            "gedcomId": "@I223@",
+            "wikitreeId": "Person-I223",
+            "name": {
+                "full": "Nicholas \/White\/",
+                "given": "Nicholas",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "Abt 1765"
+            },
+            "familyAsChild": [
+                "@F26@"
+            ]
+        },
+        {
+            "gedcomId": "@I224@",
+            "wikitreeId": "Person-I224",
+            "name": {
+                "full": "Richard \/White\/",
+                "given": "Richard",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "Abt 1754"
+            },
+            "familyAsChild": [
+                "@F26@"
+            ]
+        },
+        {
+            "gedcomId": "@I225@",
+            "wikitreeId": "Person-I225",
+            "name": {
+                "full": "Harrison \/White\/",
+                "given": "Harrison",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "Abt 1752"
+            },
+            "familyAsChild": [
+                "@F26@"
+            ]
+        },
+        {
+            "gedcomId": "@I226@",
+            "wikitreeId": "Person-I226",
+            "name": {
+                "full": "Mark \/White\/",
+                "given": "Mark",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "Abt 1750"
+            },
+            "familyAsChild": [
+                "@F26@"
+            ]
+        },
+        {
+            "gedcomId": "@I227@",
+            "wikitreeId": "Person-I227",
+            "name": {
+                "full": "Charlotta \/White\/",
+                "given": "Charlotta",
+                "surname": "White"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "2 JUL 1785"
+            },
+            "death": {
+                "date": "7 FEB 1872"
+            },
+            "familyAsChild": [
+                "@F7@"
+            ]
+        },
+        {
+            "gedcomId": "@I228@",
+            "wikitreeId": "Person-I228",
+            "name": {
+                "full": "Nicholas \/White\/",
+                "given": "Nicholas",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1 MAY 1802"
+            },
+            "death": {
+                "date": "29 JUN 1876"
+            },
+            "familyAsChild": [
+                "@F7@"
+            ]
+        },
+        {
+            "gedcomId": "@I229@",
+            "wikitreeId": "Person-I229",
+            "name": {
+                "full": "Harrison \/White\/",
+                "given": "Harrison",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "28 FEB 1788"
+            },
+            "death": {
+                "date": "7 NOV 1853"
+            },
+            "familyAsChild": [
+                "@F7@"
+            ]
+        },
+        {
+            "gedcomId": "@I23@",
+            "wikitreeId": "Person-I23",
+            "name": {
+                "full": "William \/White\/",
+                "given": "William",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "Abt 1728"
+            },
+            "familyAsChild": [
+                "@F54@"
+            ]
+        },
+        {
+            "gedcomId": "@I230@",
+            "wikitreeId": "Person-I230",
+            "name": {
+                "full": "Calvin \/White\/",
+                "given": "Calvin",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1794"
+            },
+            "death": {
+                "date": "Aft 1870"
+            },
+            "familyAsChild": [
+                "@F7@"
+            ]
+        },
+        {
+            "gedcomId": "@I231@",
+            "wikitreeId": "Person-I231",
+            "name": {
+                "full": "Dempsey \/White\/",
+                "given": "Dempsey",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1798"
+            },
+            "familyAsChild": [
+                "@F7@"
+            ]
+        },
+        {
+            "gedcomId": "@I232@",
+            "wikitreeId": "Person-I232",
+            "name": {
+                "full": "Mary \/White\/",
+                "given": "Mary",
+                "surname": "White"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1793"
+            },
+            "death": {
+                "date": "Aft 1830"
+            },
+            "familyAsChild": [
+                "@F7@"
+            ]
+        },
+        {
+            "gedcomId": "@I3@",
+            "wikitreeId": "Person-I3",
+            "name": {
+                "full": "George Albert Sr. \/Kiser\/",
+                "given": "George Albert Sr.",
+                "surname": "Kiser"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "2 MAR 1929"
+            },
+            "death": {
+                "date": "15 DEC 2003"
+            },
+            "familyAsSpouse": [
+                "@F2@"
+            ],
+            "familyAsChild": [
+                "@F74@"
+            ]
+        },
+        {
+            "gedcomId": "@I47@",
+            "wikitreeId": "Person-I47",
+            "name": {
+                "full": "Mark \/White\/",
+                "given": "Mark",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1802"
+            },
+            "death": {
+                "date": "1830\/1840"
+            },
+            "familyAsChild": [
+                "@F67@"
+            ]
+        },
+        {
+            "gedcomId": "@I56@",
+            "wikitreeId": "Person-I56",
+            "name": {
+                "full": "Richard \/White\/",
+                "given": "Richard",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "Abt 1726"
+            },
+            "death": {
+                "date": "23 JUN 1754"
+            },
+            "familyAsSpouse": [
+                "@F54@"
+            ],
+            "familyAsChild": [
+                "@F73@"
+            ]
+        },
+        {
+            "gedcomId": "@I59@",
+            "wikitreeId": "Person-I59",
+            "name": {
+                "full": "Mary Rose \/\/"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "Abt 1643"
+            },
+            "familyAsSpouse": [
+                "@F100@"
+            ]
+        },
+        {
+            "gedcomId": "@I69@",
+            "wikitreeId": "Person-I69",
+            "name": {
+                "full": "Mark Lafayette \/White\/",
+                "given": "Mark Lafayette",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1840"
+            },
+            "familyAsSpouse": [
+                "@F36@"
+            ],
+            "familyAsChild": [
+                "@F61@"
+            ]
+        },
+        {
+            "gedcomId": "@I87@",
+            "wikitreeId": "Person-I87",
+            "name": {
+                "full": "Drucilla \/Sherrod\/",
+                "given": "Drucilla",
+                "surname": "Sherrod"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1730"
+            },
+            "familyAsSpouse": [
+                "@F54@"
+            ]
+        },
+        {
+            "gedcomId": "@I93@",
+            "wikitreeId": "Person-I93",
+            "name": {
+                "full": "John \/White\/",
+                "given": "John",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "Abt 1730"
+            },
+            "familyAsChild": [
+                "@F73@"
+            ]
+        },
+        {
+            "gedcomId": "@I94@",
+            "wikitreeId": "Person-I94",
+            "name": {
+                "full": "Henry \/White\/",
+                "given": "Henry",
+                "surname": "White"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "1635"
+            },
+            "familyAsSpouse": [
+                "@F100@"
+            ]
+        }
+    ],
+    "families": [
+        {
+            "familyId": "@F100@",
+            "husband": "Person-I94",
+            "wife": "Person-I59",
+            "children": [
+                "Person-I10",
+                "Person-I16"
+            ]
+        },
+        {
+            "familyId": "@F2@",
+            "husband": "Person-I3"
+        },
+        {
+            "familyId": "@F26@",
+            "husband": "Person-I115",
+            "wife": "Person-I120",
+            "children": [
+                "Person-I13",
+                "Person-I218",
+                "Person-I219",
+                "Person-I220",
+                "Person-I221",
+                "Person-I222",
+                "Person-I223",
+                "Person-I224",
+                "Person-I225",
+                "Person-I226"
+            ]
+        },
+        {
+            "familyId": "@F36@",
+            "husband": "Person-I69",
+            "wife": "Person-I105",
+            "children": [
+                "Person-I207"
+            ]
+        },
+        {
+            "familyId": "@F54@",
+            "husband": "Person-I56",
+            "wife": "Person-I87",
+            "children": [
+                "Person-I115",
+                "Person-I23",
+                "@I97@"
+            ]
+        },
+        {
+            "familyId": "@F61@",
+            "husband": "Person-I110",
+            "wife": "Person-I181",
+            "children": [
+                "Person-I69"
+            ]
+        },
+        {
+            "familyId": "@F67@",
+            "husband": "Person-I12",
+            "wife": "Person-I111",
+            "children": [
+                "Person-I110",
+                "Person-I47"
+            ]
+        },
+        {
+            "familyId": "@F7@",
+            "husband": "Person-I13",
+            "wife": "Person-I116",
+            "children": [
+                "Person-I12",
+                "Person-I227",
+                "Person-I228",
+                "Person-I229",
+                "Person-I230",
+                "Person-I231",
+                "Person-I232"
+            ]
+        },
+        {
+            "familyId": "@F73@",
+            "husband": "Person-I10",
+            "children": [
+                "Person-I56",
+                "Person-I14",
+                "Person-I93"
+            ]
+        },
+        {
+            "familyId": "@F74@",
+            "husband": "Person-I121",
+            "wife": "Person-I127",
+            "children": [
+                "Person-I3",
+                "Person-I140"
+            ]
+        },
+        {
+            "familyId": "@F75@",
+            "children": [
+                "Person-I121"
+            ]
+        },
+        {
+            "familyId": "@F99@",
+            "husband": "Person-I207",
+            "wife": "Person-I208",
+            "children": [
+                "Person-I127",
+                "Person-I209",
+                "Person-I210",
+                "Person-I211",
+                "Person-I212",
+                "Person-I213",
+                "Person-I214",
+                "Person-I215",
+                "Person-I216",
+                "Person-I217"
+            ]
+        }
+    ],
+    "places": [],
+    "sources": []
+}

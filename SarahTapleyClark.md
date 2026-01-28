@@ -3,17 +3,17 @@
 
 == Biography ==
 
-'''Sarah Tapley Clark''' was born on 23 February 1806 in Tennessee, United States. She was commonly recorded as "Sally" or "Aunt Sallie" in local records. At the time of her birth, her father [[Clark-14234|Robert Clark]] was 28 years old and her mother [[Farmer-1267|Lucy Farmer]] was 22 years old.
+'''Sarah Tapley Clark''' (sometimes recorded as "Sally" or "Aunt Sallie") was born on 23 February 1806 in Tennessee, United States. She was the daughter of '''[[Clark-14234|Robert Clark]]''' (WikiTree ID: [[Clark-14234]]) (age 28 at her birth) and '''[[Farmer-1267|Lucy Farmer]]''' (WikiTree ID: [[Farmer-1267]]) (age 22 at her birth).
 
-On 27 March 1829, Sarah married [[Duncan-164|Moses Duncan]] in Lauderdale, Alabama, United States.
+On 27 March 1829, Sarah married '''[[Duncan-164|Moses Duncan]]''' (WikiTree ID: [[Duncan-164]]) in Lauderdale, Alabama, United States.
 
 == Children ==
 
-Sarah and Moses Duncan had at least four sons and five daughters. According to the 1850 Federal Census for Lauderdale County and subsequent death records, their children included:
+Sarah and Moses Duncan had at least four sons and five daughters:
 
 * '''Sarah Duncan''' (b. ca. 1830) m John Coates Johnson
 * '''George Washington Duncan''' (b. ca. 1832; d. 1917) m Sarah Maria Smith
-* '''Martha E. Duncan''' (b. 25 July 1832) – married [[Whitten-500|Jesse P. Whitten]] (1827–1882)
+* '''Martha E. Duncan''' (b. 25 July 1832) – married '''[[Whitten-500|Jesse P. Whitten]]''' (WikiTree ID: [[Whitten-500]]) (1827–1882)
 * '''Robert Duncan''' (b. ca. 1834)
 * '''Mary Duncan''' (b. ca. 1836) m Elias Brown
 * '''Elmira (Almira) Duncan''' (b. ca. 1840) m William C. Carothers

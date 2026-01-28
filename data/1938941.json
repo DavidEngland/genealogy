@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "source": "@S1@",
+        "lastUpdated": "28 FEB 2002",
+        "gedcomVersion": "5.5",
+        "charset": "ANSI"
+    },
+    "people": [
+        {
+            "gedcomId": "@I135@",
+            "wikitreeId": "Person-I135",
+            "name": {
+                "full": "Carl Edwin \/RYHERD\/",
+                "given": "Carl Edwin",
+                "surname": "RYHERD"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "5 MAY 1920"
+            },
+            "familyAsSpouse": [
+                "@F62@"
+            ],
+            "familyAsChild": [
+                "@F51@"
+            ]
+        },
+        {
+            "gedcomId": "@I166@",
+            "wikitreeId": "Person-I166",
+            "name": {
+                "full": "Lora Mae \/ENGLAND\/",
+                "given": "Lora Mae",
+                "surname": "ENGLAND"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "21 Febuary 1925"
+            },
+            "familyAsSpouse": [
+                "@F62@"
+            ]
+        },
+        {
+            "gedcomId": "@I167@",
+            "wikitreeId": "Person-I167",
+            "name": {
+                "full": "Living \/RYHERD\/",
+                "given": "Living",
+                "surname": "RYHERD"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F167@"
+            ],
+            "familyAsChild": [
+                "@F62@"
+            ]
+        },
+        {
+            "gedcomId": "@I310@",
+            "wikitreeId": "Person-I310",
+            "name": {
+                "full": "Living \/RYHERD\/",
+                "given": "Living",
+                "surname": "RYHERD"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F1517@"
+            ],
+            "familyAsChild": [
+                "@F62@"
+            ]
+        },
+        {
+            "gedcomId": "@I481@",
+            "wikitreeId": "Person-I481",
+            "name": {
+                "full": "Living \/RYHERD\/",
+                "given": "Living",
+                "surname": "RYHERD"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F168@"
+            ],
+            "familyAsChild": [
+                "@F62@"
+            ]
+        },
+        {
+            "gedcomId": "@I482@",
+            "wikitreeId": "Person-I482",
+            "name": {
+                "full": "Living \/RYHERD\/",
+                "given": "Living",
+                "surname": "RYHERD"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F1052@"
+            ],
+            "familyAsChild": [
+                "@F62@"
+            ]
+        }
+    ],
+    "families": [
+        {
+            "familyId": "@F1052@",
+            "husband": "Person-I482"
+        },
+        {
+            "familyId": "@F1517@",
+            "wife": "Person-I310"
+        },
+        {
+            "familyId": "@F167@",
+            "husband": "Person-I167"
+        },
+        {
+            "familyId": "@F168@",
+            "husband": "Person-I481"
+        },
+        {
+            "familyId": "@F170@",
+            "husband": "@I483@"
+        },
+        {
+            "familyId": "@F51@",
+            "marriage": {
+                "date": "BEF 1913"
+            },
+            "children": [
+                "Person-I135"
+            ]
+        }
+    ],
+    "places": [],
+    "sources": [
+        {
+            "sourceId": "@S1@",
+            "title": "GEDCOM file imported on 22 May 1999.",
+            "abbreviation": "Imported GEDCOM file"
+        }
+    ]
+}

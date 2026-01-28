@@ -1,6 +1,6 @@
 == Biography ==
 
-'''Joseph Francis Lewis''' (c. 1750-1756 – c. 1825-1828) was a brickmason and early American settler who emigrated from England or Ireland to establish himself in Kentucky during the late 18th century. He is notable for his marriage into the prominent Whitley family and his skilled trade as one of the early brickmasons in the Kentucky frontier.
+'''Joseph Francis Lewis''' (WikiTree ID: [[Lewis-9841]]) (c. 1750-1756 – c. 1825-1828) was a brickmason and early American settler who emigrated from England or Ireland to establish himself in Kentucky during the late 18th century. He is notable for his marriage into the prominent Whitley family and his skilled trade as one of the early brickmasons in the Kentucky frontier.
 
 === Early Life and Origins ===
 
@@ -10,7 +10,7 @@ By the late 1700s, Joseph had settled in '''Rock Castle County, Kentucky''' (now
 
 === Marriage and Family Connection to the Whitley Family ===
 
-Joseph Lewis married '''[https://www.wikitree.com/index.php?title=Special:SearchPerson&wpFirstName=Sarah&wpLastName=Whitley Sarah Whitley]''', sister of the legendary Kentucky pioneer and Indian fighter '''[https://www.wikitree.com/wiki/Whitley-754 William Whitley]''' (c. 1749-1813). This marriage connected Joseph to one of Kentucky's most prominent early families.
+Joseph Lewis married '''[[Whitley-753|Sarah Whitley]]''' (WikiTree ID: [[Whitley-753]]), sister of the legendary Kentucky pioneer and Indian fighter '''[[Whitley-757|William Whitley]]''' (WikiTree ID: [[Whitley-757]]) (c. 1749-1813). This marriage connected Joseph to one of Kentucky's most prominent early families.
 
 ==== The Whitley Connection ====
 
@@ -50,9 +50,11 @@ Given his connection to the Whitley family and his position as a Lieutenant Colo
 
 === Military Service ===
 
-Joseph Lewis served his adopted country during the '''War of 1812''' as a '''Private in the 7th Regiment, Kentucky Militia'''. This service came when Joseph would have been in his late 50s or early 60s, demonstrating his commitment to defending Kentucky during this conflict.
+Joseph Francis Lewis's military service in the Kentucky Militia spanned the early years of the state's founding through the War of 1812. In '''1792''', the year Kentucky was admitted to the Union, he was appointed to the Kentucky Militia with the rank of '''Lieutenant Colonel'''. This high rank during the formative years of statehood indicates his significant '''standing in the community''' and his leadership role in managing '''frontier defense''' during a period of rapid settlement following the American Revolution.
 
-Earlier, in '''1792''', Joseph had been appointed to the '''Kentucky Militia''' with the rank of '''Lieutenant Colonel''', indicating his standing in the community and his leadership capabilities. This appointment came during the formative years of Kentucky statehood (Kentucky was admitted to the Union in 1792), when militia service was both a civic duty and a necessity for frontier defense against Native American raids and other threats.
+Decades later, Lewis demonstrated a continued commitment to his country by serving in the '''War of 1812'''. During this conflict, he served as a '''Private in the 7th Regiment, Kentucky Militia'''. His service as a private occurred when he was likely in his '''late 50s or early 60s''', illustrating a dedication to defense despite his advanced age.
+
+This military record was part of a broader family legacy of frontier service; his brother-in-law, the legendary '''[[Whitley-757|William Chapman Whitley]]''', was a renowned Indian fighter and military leader, and his son-in-law, '''[[Hargrove-277|Valentine Hargrove]]''', also served in the militia during the War of 1812. Lewis's transition from a high-ranking officer in the early state militia to a private during the War of 1812 reflects the vital role the artisan class played in both the '''physical construction and the defense''' of the Kentucky frontier.
 
 The rank of Lieutenant Colonel was a significant achievement, typically reserved for men of demonstrated leadership, organizational ability, and community standing. This high military rank suggests Joseph was a highly capable and respected individual who possessed not only skilled craftsmanship as a brickmason but also the intelligence and character necessary for military command. Such appointments were not given lightly on the frontier, where militia officers needed to inspire confidence and lead men in potentially life-threatening situations.
 
@@ -60,9 +62,9 @@ The rank of Lieutenant Colonel was a significant achievement, typically reserved
 
 Joseph and Sarah Whitley Lewis had '''eight children''':
 
-1. '''Ruth Lewis'''
+1. '''[[Lewis-8883|Ruth Lewis]]''' (WikiTree ID: [[Lewis-8883]])
 2. '''Sarah Lewis'''
-3. '''[https://www.wikitree.com/wiki/Lewis-9844 Isabella Lewis]'''
+3. '''[[Lewis-9844|Isabella Lewis]]''' (WikiTree ID: [[Lewis-9844]])
 4. '''Mary A. Lewis'''
 5. '''Samuel Lewis''' – Married Mary Day; settled in St. Charles County, Missouri in 1816
 6. '''Joseph Lewis Jr.''' – Settled in Palmyra, Missouri

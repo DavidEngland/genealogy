@@ -1,0 +1,302 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Genealogical Records Schema",
+  "description": "Schema for genealogical GEDCOM data aligned with schema.org microdata standards",
+  "type": "object",
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "description": "Project metadata and source information",
+      "properties": {
+        "projectName": {
+          "type": "string",
+          "description": "Name of the genealogical project"
+        },
+        "projectDescription": {
+          "type": "string"
+        },
+        "lastUpdated": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "gedcomVersion": {
+          "type": "string",
+          "enum": ["5.5", "5.5.1"]
+        },
+        "charset": {
+          "type": "string",
+          "enum": ["ANSI", "UTF-8"]
+        }
+      }
+    },
+    "people": {
+      "type": "array",
+      "description": "Individual person records (schema.org/Person)",
+      "items": {
+        "type": "object",
+        "properties": {
+          "wikitreeId": {
+            "type": "string",
+            "description": "WikiTree identifier (e.g., England-1357)"
+          },
+          "gedcomId": {
+            "type": "string",
+            "description": "GEDCOM internal ID (e.g., @I135@)"
+          },
+          "name": {
+            "type": "object",
+            "description": "Name information",
+            "properties": {
+              "full": {
+                "type": "string",
+                "description": "Full name"
+              },
+              "given": {
+                "type": "string",
+                "description": "Given/first name(s)"
+              },
+              "surname": {
+                "type": "string",
+                "description": "Family/last name"
+              },
+              "prefix": {
+                "type": "string",
+                "description": "Name prefix (e.g., 'Dr.', 'Rev.')"
+              },
+              "suffix": {
+                "type": "string",
+                "description": "Name suffix (e.g., 'Jr.', 'Sr.', 'III')"
+              }
+            },
+            "required": ["full"]
+          },
+          "sex": {
+            "type": "string",
+            "enum": ["M", "F", "U"],
+            "description": "Biological sex (M=Male, F=Female, U=Unknown)"
+          },
+          "birth": {
+            "type": "object",
+            "description": "Birth event (schema.org/BirthEvent)",
+            "properties": {
+              "date": {
+                "type": "string",
+                "description": "Birth date (YYYY-MM-DD or partial: YYYY, YYYY-MM, or approximate: 'ABT 1788', 'BEF 1810')"
+              },
+              "place": {
+                "type": "string",
+                "description": "Birth location"
+              },
+              "placeId": {
+                "type": "string",
+                "description": "Reference to place record"
+              }
+            }
+          },
+          "death": {
+            "type": "object",
+            "description": "Death event (schema.org/DeathEvent)",
+            "properties": {
+              "date": {
+                "type": "string",
+                "description": "Death date"
+              },
+              "place": {
+                "type": "string",
+                "description": "Death location"
+              },
+              "placeId": {
+                "type": "string",
+                "description": "Reference to place record"
+              }
+            }
+          },
+          "familyAsSpouse": {
+            "type": "array",
+            "description": "Family records where this person is spouse (FAM IDs)",
+            "items": {
+              "type": "string"
+            }
+          },
+          "familyAsChild": {
+            "type": "array",
+            "description": "Family records where this person is child (FAM IDs)",
+            "items": {
+              "type": "string"
+            }
+          },
+          "residences": {
+            "type": "array",
+            "description": "Known residences",
+            "items": {
+              "type": "object",
+              "properties": {
+                "place": {
+                  "type": "string"
+                },
+                "date": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "sources": {
+            "type": "array",
+            "description": "Source citations",
+            "items": {
+              "type": "string",
+              "description": "Reference to source record ID"
+            }
+          },
+          "notes": {
+            "type": "string",
+            "description": "Additional notes or narrative"
+          }
+        },
+        "required": ["wikitreeId", "name"]
+      }
+    },
+    "families": {
+      "type": "array",
+      "description": "Family units linking individuals",
+      "items": {
+        "type": "object",
+        "properties": {
+          "familyId": {
+            "type": "string",
+            "description": "GEDCOM family ID (e.g., @F1@)"
+          },
+          "husband": {
+            "type": "string",
+            "description": "Husband's wikitreeId"
+          },
+          "wife": {
+            "type": "string",
+            "description": "Wife's wikitreeId"
+          },
+          "marriage": {
+            "type": "object",
+            "description": "Marriage event (schema.org/Event)",
+            "properties": {
+              "date": {
+                "type": "string"
+              },
+              "place": {
+                "type": "string"
+              },
+              "placeId": {
+                "type": "string"
+              }
+            }
+          },
+          "children": {
+            "type": "array",
+            "description": "Child wikitreeIds",
+            "items": {
+              "type": "string"
+            }
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": ["familyId"]
+      }
+    },
+    "places": {
+      "type": "array",
+      "description": "Geographic locations (schema.org/Place)",
+      "items": {
+        "type": "object",
+        "properties": {
+          "placeId": {
+            "type": "string",
+            "description": "Unique identifier for this place"
+          },
+          "name": {
+            "type": "string",
+            "description": "Place name"
+          },
+          "type": {
+            "type": "string",
+            "enum": ["country", "state", "county", "city", "township", "parish", "landmark"],
+            "description": "Geographic type"
+          },
+          "parent": {
+            "type": "string",
+            "description": "Parent place ID (e.g., county parent is state)"
+          },
+          "coordinates": {
+            "type": "object",
+            "properties": {
+              "latitude": {
+                "type": "number"
+              },
+              "longitude": {
+                "type": "number"
+              }
+            }
+          }
+        },
+        "required": ["placeId", "name"]
+      }
+    },
+    "sources": {
+      "type": "array",
+      "description": "Bibliographic sources and citations",
+      "items": {
+        "type": "object",
+        "properties": {
+          "sourceId": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "abbreviation": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string",
+            "enum": [
+              "book",
+              "census",
+              "land_record",
+              "bible_record",
+              "court_record",
+              "cemetery_record",
+              "newspaper",
+              "family_search",
+              "ancestry",
+              "wikitree",
+              "other"
+            ]
+          },
+          "author": {
+            "type": "string"
+          },
+          "publication": {
+            "type": "string"
+          },
+          "date": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          },
+          "repository": {
+            "type": "string"
+          },
+          "callNumber": {
+            "type": "string"
+          }
+        },
+        "required": ["sourceId", "title", "type"]
+      }
+    }
+  },
+  "required": ["metadata", "people", "families", "places", "sources"]
+}

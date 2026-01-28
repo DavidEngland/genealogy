@@ -1,6 +1,6 @@
 == Biography ==
 
-'''Ruth Whitley Lewis''' was born approximately '''1780''' in '''Lincoln County, Kentucky'''. She was the daughter of '''[[Lewis-9841|Joseph Francis Lewis]]''', a skilled brickmason originally from England or Ireland, and '''[[Whitley-753|Sarah Whitley]]'''. Through her mother, Ruth was the niece of the famed Kentucky pioneer '''[[Whitley-757|William Chapman Whitley]]''', who built the first brick house west of the Blue Ridge Mountains and was renowned as an Indian fighter and frontiersman.
+'''Ruth Whitley Lewis''' (WikiTree ID: [[Lewis-8883]]) was born approximately '''1780''' in '''Lincoln County, Kentucky'''. She was the daughter of '''[[Lewis-9841|Joseph Francis Lewis]]''' (WikiTree ID: [[Lewis-9841]]), a skilled brickmason originally from England or Ireland, and '''[[Whitley-753|Sarah Whitley]]''' (WikiTree ID: [[Whitley-753]]). Through her mother, Ruth was the niece of the famed Kentucky pioneer '''[[Whitley-757|William Chapman Whitley]]''' (WikiTree ID: [[Whitley-757]]), who built the first brick house west of the Blue Ridge Mountains and was renowned as an Indian fighter and frontiersman.
 
 === Notable Family Heritage ===
 
@@ -14,7 +14,7 @@ Her father Joseph Francis Lewis contributed to the permanence and development of
 
 === Marriage ===
 
-Ruth married '''[[Hargrove-277|Valentine Hargrove]]''' on '''9 October 1799''' in '''Lincoln County, Kentucky'''. The marriage was witnessed by '''Samuel Lewis''' and '''James Hardgrove'''. Valentine was born around '''1778''' in '''Amherst, Virginia''', and was an early settler on the Kentucky frontier with close connections to the Whitley family through his marriage to Ruth.
+Ruth married '''[[Hargrove-277|Valentine Hargrove]]''' (WikiTree ID: [[Hargrove-277]]) on '''9 October 1799''' in '''Lincoln County, Kentucky'''. The marriage was witnessed by '''Samuel Lewis''' and '''James Hardgrove'''. Valentine was born around '''1778''' in '''Amherst, Virginia''', and was an early settler on the Kentucky frontier with close connections to the Whitley family through his marriage to Ruth.
 
 === Children ===
 

@@ -1,0 +1,305 @@
+{
+    "metadata": {
+        "charset": "ANSI",
+        "source": "@S-1512300385@",
+        "gedcomVersion": "5.5"
+    },
+    "people": [
+        {
+            "gedcomId": "@P-1541267358@",
+            "wikitreeId": "Person-P-1541267358",
+            "name": {
+                "full": "Charleen \/Crabtree\/",
+                "given": "Charleen",
+                "surname": "Crabtree"
+            },
+            "sex": "F",
+            "familyAsSpouse": [
+                "@F1184@"
+            ],
+            "notes": "Information extracted from various family tree data submitted to Ancestry and The Generations Network\nInformation extracted from various family tree data submitted to Ancestry and The Generations Network\nInformation extracted from various family tree data submitted to Ancestry and The Generations Network"
+        },
+        {
+            "gedcomId": "@P-1622797113@",
+            "wikitreeId": "Person-P-1622797113",
+            "name": {
+                "full": "William Archabald \/Parish\/",
+                "given": "William Archabald",
+                "surname": "Parish"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "11 Nov 1861"
+            },
+            "death": {
+                "date": "5 Mar 1957"
+            },
+            "familyAsSpouse": [
+                "@F1197@"
+            ],
+            "familyAsChild": [
+                "@F1199@"
+            ]
+        },
+        {
+            "gedcomId": "@P-1622797114@",
+            "wikitreeId": "Person-P-1622797114",
+            "name": {
+                "full": "Mollie Leona \/Gresham\/",
+                "given": "Mollie Leona",
+                "surname": "Gresham"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "1874"
+            },
+            "death": {
+                "date": "1953"
+            },
+            "familyAsSpouse": [
+                "@F1197@"
+            ],
+            "familyAsChild": [
+                "@F1198@"
+            ]
+        },
+        {
+            "gedcomId": "@P-1624312071@",
+            "wikitreeId": "Person-P-1624312071",
+            "name": {
+                "full": "William Henry \/Miles\/",
+                "given": "William Henry",
+                "surname": "Miles"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "4 Jul 1920"
+            },
+            "death": {
+                "date": "5 Feb 1928"
+            },
+            "familyAsChild": [
+                "@F1183@"
+            ],
+            "notes": "http:\/\/trees.ancestry.com\/rd?f=sse&db=aldeath&h=557501&ti=0&indiv=try\nhttp:\/\/search.ancestry.com\/cgi-bin\/sse.dll?db=aldeath&h=557501&ti=0&indiv=try\nhttp:\/\/trees.ancestry.com\/rd?f=sse&db=aldeath&h=557501&ti=0&indiv=try\nhttp:\/\/search.ancestry.com\/cgi-bin\/sse.dll?db=aldeath&h=557501&ti=0&indiv=try"
+        },
+        {
+            "gedcomId": "@P-1624312259@",
+            "wikitreeId": "Person-P-1624312259",
+            "name": {
+                "full": "William Glenn \/Davis\/",
+                "given": "William Glenn",
+                "surname": "Davis"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F1186@"
+            ]
+        },
+        {
+            "gedcomId": "@P-1624312281@",
+            "wikitreeId": "Person-P-1624312281",
+            "name": {
+                "full": "Myrtle Irene \/Miles\/",
+                "given": "Myrtle Irene",
+                "surname": "Miles"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "10 Aug 1918"
+            },
+            "death": {
+                "date": "11 Feb 2000"
+            },
+            "familyAsSpouse": [
+                "@F1186@"
+            ],
+            "familyAsChild": [
+                "@F1183@"
+            ]
+        },
+        {
+            "gedcomId": "@P-1624312537@",
+            "wikitreeId": "Person-P-1624312537",
+            "name": {
+                "full": "K W  \/Keenum\/",
+                "given": "K W",
+                "surname": "Keenum"
+            },
+            "sex": "M",
+            "familyAsSpouse": [
+                "@F1185@"
+            ]
+        },
+        {
+            "gedcomId": "@P-1624312762@",
+            "wikitreeId": "Person-P-1624312762",
+            "name": {
+                "full": "Leona Earline \/Miles\/",
+                "given": "Leona Earline",
+                "surname": "Miles"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "3 Mar 1917"
+            },
+            "death": {
+                "date": "3 Jul 1969"
+            },
+            "familyAsSpouse": [
+                "@F1185@"
+            ],
+            "familyAsChild": [
+                "@F1183@"
+            ]
+        },
+        {
+            "gedcomId": "@P-1624312895@",
+            "wikitreeId": "Person-P-1624312895",
+            "name": {
+                "full": "Earl \/Miles\/",
+                "given": "Earl",
+                "surname": "Miles"
+            },
+            "sex": "M",
+            "birth": {
+                "date": "3 Mar 1917"
+            },
+            "death": {
+                "date": "Apr 1917"
+            },
+            "familyAsChild": [
+                "@F1183@"
+            ]
+        },
+        {
+            "gedcomId": "@P-1624313109@",
+            "wikitreeId": "Person-P-1624313109",
+            "name": {
+                "full": "Greenville Lee \/Miles\/",
+                "given": "Greenville Lee",
+                "surname": "Miles"
+            },
+            "sex": "M",
+            "birth": {
+                "place": "Lauderdale, Alabama, USA"
+            },
+            "familyAsSpouse": [
+                "@F1184@"
+            ],
+            "familyAsChild": [
+                "@F1183@"
+            ],
+            "notes": "Information extracted from various family tree data submitted to Ancestry and The Generations Network\nInformation extracted from various family tree data submitted to Ancestry and The Generations Network"
+        },
+        {
+            "gedcomId": "@P-1624313464@",
+            "wikitreeId": "Person-P-1624313464",
+            "name": {
+                "full": "Mamie L  \/Parish\/",
+                "given": "Mamie L",
+                "surname": "Parish"
+            },
+            "sex": "F",
+            "birth": {
+                "date": "5 Sept 1892"
+            },
+            "death": {
+                "date": "5 Dec 1977"
+            },
+            "familyAsSpouse": [
+                "@F1183@"
+            ],
+            "familyAsChild": [
+                "@F1197@"
+            ],
+            "notes": "Information extracted from various family tree data submitted to Ancestry and The Generations Network\nhttp:\/\/trees.ancestry.com\/rd?f=sse&db=1920usfedcen&h=1247401&ti=0&indiv=try\nhttp:\/\/search.ancestry.com\/cgi-bin\/sse.dll?db=1920usfedcen&h=1247401&ti=0&indiv=try\n\nhttp:\/\/trees.ancestry.com\/rd?f=sse&db=1900usfedcen&h=9933904&ti=0&indiv=try\nhttp:\/\/search.ancestry.com\/cgi-bin\/sse.dll?db=1900usfedcen&h=9933904&ti=0&indiv=try\nInformation extracted from various family tree data submitted to Ancestry and The Generations Network\nhttp:\/\/trees.ancestry.com\/rd?f=sse&db=1920usfedcen&h=1247401&ti=0&indiv=try\nhttp:\/\/search.ancestry.com\/cgi-bin\/sse.dll?db=1920usfedcen&h=1247401&ti=0&indiv=try\n\nhttp:\/\/trees.ancestry.com\/rd?f=sse&db=1900usfedcen&h=9933904&ti=0&indiv=try\nhttp:\/\/search.ancestry.com\/cgi-bin\/sse.dll?db=1900usfedcen&h=9933904&ti=0&indiv=try\nInformation extracted from various family tree data submitted to Ancestry and The Generations Network\nhttp:\/\/trees.ancestry.com\/rd?f=sse&db=1900usfedcen&h=9933904&ti=0&indiv=try\nhttp:\/\/search.ancestry.com\/cgi-bin\/sse.dll?db=1900usfedcen&h=9933904&ti=0&indiv=try\nhttp:\/\/trees.ancestry.com\/rd?f=sse&db=1920usfedcen&h=1247401&ti=0&indiv=try\nhttp:\/\/search.ancestry.com\/cgi-bin\/sse.dll?db=1920usfedcen&h=1247401&ti=0&indiv=try"
+        }
+    ],
+    "families": [
+        {
+            "familyId": "@F1183@",
+            "husband": "@P-1624314203@",
+            "wife": "Person-P-1624313464",
+            "marriage": {
+                "date": "16 Mar 1916"
+            },
+            "children": [
+                "Person-P-1624313109",
+                "Person-P-1624312895",
+                "Person-P-1624312762",
+                "Person-P-1624312281",
+                "Person-P-1624312071"
+            ]
+        },
+        {
+            "familyId": "@F1184@",
+            "husband": "Person-P-1624313109",
+            "wife": "Person-P-1541267358"
+        },
+        {
+            "familyId": "@F1185@",
+            "husband": "Person-P-1624312537",
+            "wife": "Person-P-1624312762"
+        },
+        {
+            "familyId": "@F1186@",
+            "husband": "Person-P-1624312259",
+            "wife": "Person-P-1624312281"
+        },
+        {
+            "familyId": "@F1197@",
+            "husband": "Person-P-1622797113",
+            "wife": "Person-P-1622797114",
+            "marriage": {
+                "date": "1890-01-15"
+            },
+            "children": [
+                "Person-P-1624313464"
+            ]
+        },
+        {
+            "familyId": "@F1198@",
+            "children": [
+                "Person-P-1622797114"
+            ]
+        },
+        {
+            "familyId": "@F1199@",
+            "children": [
+                "Person-P-1622797113"
+            ]
+        }
+    ],
+    "places": [],
+    "sources": [
+        {
+            "sourceId": "@S-1512300385@",
+            "title": "Public Member Trees"
+        },
+        {
+            "sourceId": "@S-1826926254@",
+            "title": "Alabama Deaths, 1908-59"
+        },
+        {
+            "sourceId": "@S-1947524070@",
+            "title": "OneWorldTree"
+        },
+        {
+            "sourceId": "@S-1994048457@",
+            "title": "World War I Draft Registration Cards, 1917-1918"
+        },
+        {
+            "sourceId": "@S-1994050011@",
+            "title": "1900 United States Federal Census"
+        },
+        {
+            "sourceId": "@S-1994186269@",
+            "title": "1920 United States Federal Census"
+        },
+        {
+            "sourceId": "@S-1994231767@",
+            "title": "Social Security Death Index"
+        }
+    ]
+}
