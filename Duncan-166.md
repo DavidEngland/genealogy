@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+=======
+[[Category:Aberdeen, Scotland]]
+[[Category:Newberry County, South Carolina]]
+[[Category:South Carolina Pioneers]]
+[[Category:Scottish Immigrants]]
+[[Category:Frontier Settlers]]
+
+>>>>>>> 28d55c2f75b02581453092f02f4da3b0d69b22c8
 {{Estimated Date}}
 
 == Discrepancy ==
@@ -87,4 +96,8 @@ Family History Catalogue
 == Acknowledgement ==
 Duncan-6033 was created by [[Schaeffer-620 | Brent Schaeffer]] through the import of Duncan branch.ged on Jun  1, 2015.
 
+<<<<<<< HEAD
 This person was created on 14 September 2010 through the import of 124-DeCoursey.ged.
+=======
+This person was created on 14 September 2010 through the import of 124-DeCoursey.ged.
+>>>>>>> 28d55c2f75b02581453092f02f4da3b0d69b22c8
