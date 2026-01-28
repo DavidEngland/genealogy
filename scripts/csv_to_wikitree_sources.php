@@ -9,20 +9,45 @@
 declare(strict_types=1);
 
 function usage(): void {
-    fwrite(STDERR, "Usage: php scripts/csv_to_wikitree_sources.php --in <input.csv> [--out output.md]\n");
-    fwrite(STDERR, "   or: php scripts/csv_to_wikitree_sources.php <input.csv> [output.md]\n");
+    fwrite(STDERR, "Usage: php scripts/csv_to_wikitree_sources.php --in <input.csv> [--out output.md] [OPTIONS]\n");
+    fwrite(STDERR, "   or: php scripts/csv_to_wikitree_sources.php <input.csv> [output.md] [OPTIONS]\n");
+    fwrite(STDERR, "\nOptions:\n");
+    fwrite(STDERR, "  --filter-role <role>       Only include rows with roleInRecord matching <role> (case-insensitive)\n");
+    fwrite(STDERR, "  --filter-name <name>       Only include rows where fullName matches <name> (case-insensitive)\n");
+    fwrite(STDERR, "  --skip-keywords <csv>      Skip rows where collectionName contains any keyword (comma-separated, case-insensitive)\n");
+    fwrite(STDERR, "  --only-principal           Only include rows where roleInRecord=Principal\n");
+    fwrite(STDERR, "  --exclude-families         Skip rows with relationshipToHead values (family members)\n");
     exit(1);
 }
 
 function parseArgs(array $argv): array {
     $input = null;
     $output = null;
+    $filters = [
+        'role' => null,
+        'name' => null,
+        'skip_keywords' => [],
+        'only_principal' => false,
+        'exclude_families' => false,
+    ];
+    
     for ($i = 1; $i < count($argv); $i++) {
         $arg = $argv[$i];
         if (($arg === '--in' || $arg === '--input') && isset($argv[$i + 1])) {
             $input = $argv[++$i];
         } elseif ($arg === '--out' && isset($argv[$i + 1])) {
             $output = $argv[++$i];
+        } elseif ($arg === '--filter-role' && isset($argv[$i + 1])) {
+            $filters['role'] = $argv[++$i];
+        } elseif ($arg === '--filter-name' && isset($argv[$i + 1])) {
+            $filters['name'] = $argv[++$i];
+        } elseif ($arg === '--skip-keywords' && isset($argv[$i + 1])) {
+            $keywords = $argv[++$i];
+            $filters['skip_keywords'] = array_map('trim', explode(',', $keywords));
+        } elseif ($arg === '--only-principal') {
+            $filters['only_principal'] = true;
+        } elseif ($arg === '--exclude-families') {
+            $filters['exclude_families'] = true;
         } elseif ($arg !== '' && $arg[0] !== '-') {
             // Positional fallbacks: first non-flag = input, second = output
             if ($input === null) {
@@ -35,7 +60,7 @@ function parseArgs(array $argv): array {
     if ($input === null) {
         usage();
     }
-    return ['input' => $input, 'output' => $output];
+    return ['input' => $input, 'output' => $output, 'filters' => $filters];
 }
 
 function openCsv(string $path) {
@@ -233,21 +258,76 @@ function formatBullet(array $r): ?string {
     return $text;
 }
 
-function convertCsvToMarkdown(string $inputCsv): string {
+function convertCsvToMarkdown(string $inputCsv, array $filters = []): string {
     $fh = openCsv($inputCsv);
     $header = readHeader($fh);
     $rows = readRowsAssoc($fh, $header);
     fclose($fh);
 
+    // Apply filters
+    $filteredRows = [];
+    foreach ($rows as $r) {
+        if (!shouldIncludeRow($r, $filters)) {
+            continue;
+        }
+        $filteredRows[] = $r;
+    }
+
     $out = [];
     $out[] = '== Sources ==';
-    foreach ($rows as $r) {
+    foreach ($filteredRows as $r) {
         $line = formatBullet($r);
         if ($line !== null) {
             $out[] = $line;
         }
     }
     return implode("\n", $out) . "\n";
+}
+
+function shouldIncludeRow(array $row, array $filters = []): bool {
+    // --only-principal: skip if roleInRecord is not "Principal"
+    if ($filters['only_principal'] ?? false) {
+        $role = trim((string)($row['roleInRecord'] ?? ''));
+        if (strtolower($role) !== 'principal') {
+            return false;
+        }
+    }
+
+    // --filter-role: skip if roleInRecord doesn't match
+    if ($filters['role'] ?? null) {
+        $role = trim((string)($row['roleInRecord'] ?? ''));
+        if (strtolower($role) !== strtolower($filters['role'])) {
+            return false;
+        }
+    }
+
+    // --filter-name: skip if fullName doesn't match
+    if ($filters['name'] ?? null) {
+        $name = trim((string)($row['fullName'] ?? ''));
+        if (strtolower($name) !== strtolower($filters['name'])) {
+            return false;
+        }
+    }
+
+    // --skip-keywords: skip if collectionName contains any keyword
+    if (!empty($filters['skip_keywords'] ?? [])) {
+        $collectionName = strtolower((string)($row['collectionName'] ?? ''));
+        foreach ($filters['skip_keywords'] as $keyword) {
+            if (strpos($collectionName, strtolower($keyword)) !== false) {
+                return false;
+            }
+        }
+    }
+
+    // --exclude-families: skip if relationshipToHead is not empty
+    if ($filters['exclude_families'] ?? false) {
+        $relationship = trim((string)($row['relationshipToHead'] ?? ''));
+        if ($relationship !== '') {
+            return false;
+        }
+    }
+
+    return true;
 }
 
 // Create output directory if needed
@@ -289,8 +369,9 @@ function resolveInputPath(string $input): string {
 $args = parseArgs($argv);
 $inputCsv = resolveInputPath($args['input']);
 $outputPath = $args['output'];
+$filters = $args['filters'] ?? [];
 
-$md = convertCsvToMarkdown($inputCsv);
+$md = convertCsvToMarkdown($inputCsv, $filters);
 if ($outputPath) {
     ensureDir(dirname($outputPath));
     if (@file_put_contents($outputPath, $md) === false) {

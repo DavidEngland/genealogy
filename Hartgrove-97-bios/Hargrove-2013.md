@@ -1,0 +1,13 @@
+== Biography ==:'''Mary Ann "Polly" Hargrove''' was born in 1784<ref name="Find a Grave Index,">Find a Grave, database and images, memorial page for Mary Ann “Polly” Hardgrove Snead (1784–23 Nov 1865), {{FindAGrave|132178423}}, citing Sneed-Johnson Family Cemetery, Bevier, Macon County, Missouri, USA ; Maintained by Jswizz (contributor 47607326) .</ref> inVirginia.  She was the daughter of ''John Hardgrove'' and ''Mary (Ball) Hardgrove''.
+:At age 18, She married '''Richard Walters''' on March 11, 1802, in Pulaski, Kentucky, with her parents John Hardgrove and Mary Hardgrove’s consent.<ref>Kentucky, County Marriages, 1783-1965; Film NO. 000804051; “Data=name: Polly Hardgrove; Marriage Date: 11 Mar 1802; Marriage Place: Pulaski, Kentucky; Spouse: richard Walter.”; Ancestry's Kentucky, County Marriages {{Ancestry Record |61372|902505039}}</ref>  They had 3 children.
+#Lindsey Walters (1805-1870)
+#Lewis Wanters (1808-)
+#Mariah Wanters (1812-1833):Her husband Richard passed away on February 27, 1815, in Pulaski, Kentucky, at the age of 35. They had been married 12 years.
+:She then married [[Sneed-882|'''John Sneed''']] on Jan 3, 1816, in Pulaski, kentucky<ref>Kentucky, County Marriages, 1783-1965; Film NO. 000804051;  “Data=name: Polly Walter; Marriage Date: 3 jan 1816; Marriage Place: Pulaski, Kentucky; Spouse: John Sneed.”; Ancestry's Kentucky, county Marriages {{Ancestry Record |61372|1353486}}</ref>.  Theyhad four known children together.
+#[[Sneed-887|Hezekieh K Sneed]] (1817-1898)
+#[[Sneed-888|Andrew Jackson Sneed]] (1818-1908)
+#[[sneed-876|Henry James sneed]] (1819-1902)
+#[[Sneed-889|Emaline Sneed]] (1831-1865):They lived in Kentucky, then moved to Macon, Missouri. On the 1850 USCensus, at age 57 and 68,  they were living in District 52, Macon, Missouri, with their son [[Sneed-876|Henry J Sneed]] on the next farm.<ref>"United States Census, 1850," database with images, FamilySearch (https://familysearch.org/ark:/61903/1:1:MDZX-9HG : 4 April 2020), JohnSneed, Macon county, Macon, Missouri, United States; citing family 956, NARA microfilm publication M432 (Washington, D.C.: National Archivesand Records Administration, n.d.).</ref>  In 1860, they were living in Liberty, Macon, Missouri on theirfarm.<ref>"United States Census, 1860", database with images, FamilySearch (https://familysearch.org/ark:/61903/1:1:MHZZ-J9W : 18 February2021), Mary Sneed in entry for John Sneed, 1860.</ref>
+:She died on November 27, 1865, in Bevier, Missouri, at the of 81 years, and was buried there in the ''Sneed-Johnson family Cemetery.''<refname="Find a Grave Index," />
+== Sources ==
+<references />
