@@ -1,0 +1,836 @@
+{
+    "metadata": {
+        "generated": "2026-01-29T17:13:13+00:00",
+        "source": "GEDCOM to Biography Converter"
+    },
+    "people": [
+        {
+            "wikitreeId": "Lewis-8883",
+            "gedcomId": "@I1@",
+            "name": "Ruth Whitley Lewis",
+            "givenName": "",
+            "surname": "",
+            "sex": "F",
+            "allIds": {
+                "wikitree": "Lewis-8883"
+            },
+            "birth": {
+                "date": "ABT 1780",
+                "place": "Lincoln, Kentucky, United States"
+            },
+            "death": {
+                "date": "BEF 1840",
+                "place": "Hardin, Tennessee, United States"
+            }
+        },
+        {
+            "wikitreeId": "Lewis-9841",
+            "gedcomId": "@I2@",
+            "name": "Joseph Francis  Lewis",
+            "givenName": "",
+            "surname": "",
+            "sex": "M",
+            "allIds": {
+                "wikitree": "Lewis-9841"
+            },
+            "birth": {
+                "date": "ABT 1750",
+                "place": "England"
+            },
+            "death": {
+                "date": "ABT 1825",
+                "place": "Kentucky, United States"
+            }
+        },
+        {
+            "wikitreeId": "Whitley-753",
+            "gedcomId": "@I3@",
+            "name": "Sarah  Whitley",
+            "givenName": "",
+            "surname": "",
+            "sex": "F",
+            "allIds": {
+                "wikitree": "Whitley-753"
+            },
+            "birth": {
+                "date": "ABT 1752",
+                "place": "Augusta, Virginia"
+            },
+            "death": {
+                "date": "21 Apr 1837",
+                "place": "Burkesville, Cumberland, Kentucky, United States"
+            }
+        },
+        {
+            "wikitreeId": "Hargrove-277",
+            "gedcomId": "@I4@",
+            "name": "Valentine  Hargrove",
+            "givenName": "",
+            "surname": "",
+            "sex": "M",
+            "allIds": {
+                "wikitree": "Hargrove-277"
+            },
+            "birth": {
+                "date": "ABT 1778",
+                "place": "Amherst, Virginia, United States"
+            },
+            "death": {
+                "date": "1858",
+                "place": "Savannah, Hardin, Tennessee, United States"
+            }
+        },
+        {
+            "wikitreeId": "Hargrove-292",
+            "gedcomId": "@I5@",
+            "name": "Mary  Hargrove",
+            "givenName": "",
+            "surname": "",
+            "sex": "F",
+            "allIds": {
+                "wikitree": "Hargrove-292"
+            },
+            "birth": [],
+            "death": []
+        },
+        {
+            "wikitreeId": "Hargrove-289",
+            "gedcomId": "@I6@",
+            "name": "Ruth  Hargrove",
+            "givenName": "",
+            "surname": "",
+            "sex": "F",
+            "allIds": {
+                "wikitree": "Hargrove-289"
+            },
+            "birth": [],
+            "death": []
+        },
+        {
+            "wikitreeId": "Hargrove-284",
+            "gedcomId": "@I7@",
+            "name": "Elizabeth Louisiana  Hargrove",
+            "givenName": "",
+            "surname": "",
+            "sex": "F",
+            "allIds": {
+                "wikitree": "Hargrove-284"
+            },
+            "birth": {
+                "date": "19 Jan 1804",
+                "place": "Pulaski, Kentucky"
+            },
+            "death": {
+                "date": "Mar 1862",
+                "place": "Pineville, McDonald,Missouri"
+            }
+        },
+        {
+            "wikitreeId": "Hargrove-285",
+            "gedcomId": "@I8@",
+            "name": "Samuel Ball  Hargrove",
+            "givenName": "",
+            "surname": "",
+            "sex": "M",
+            "allIds": {
+                "wikitree": "Hargrove-285"
+            },
+            "birth": {
+                "date": "21 Feb 1806",
+                "place": "Pulaski, Kentucky"
+            },
+            "death": {
+                "date": "BEF 1880",
+                "place": "Hardin,Tennessee"
+            }
+        },
+        {
+            "wikitreeId": "Hargrove-293",
+            "gedcomId": "@I9@",
+            "name": "Sarah  Hargrove",
+            "givenName": "",
+            "surname": "",
+            "sex": "F",
+            "allIds": {
+                "wikitree": "Hargrove-293"
+            },
+            "birth": {
+                "date": "ABT 1815"
+            },
+            "death": []
+        },
+        {
+            "wikitreeId": "Hargrove-286",
+            "gedcomId": "@I10@",
+            "name": "William Wesley  Hargrove",
+            "givenName": "",
+            "surname": "",
+            "sex": "M",
+            "allIds": {
+                "wikitree": "Hargrove-286"
+            },
+            "birth": {
+                "date": "4 Jan 1816",
+                "place": ", Alabama"
+            },
+            "death": {
+                "date": "1876",
+                "place": "Marion,Oregon"
+            }
+        },
+        {
+            "wikitreeId": "Hargrove-287",
+            "gedcomId": "@I11@",
+            "name": "James Monroe Hargrove",
+            "givenName": "",
+            "surname": "",
+            "sex": "M",
+            "allIds": {
+                "wikitree": "Hargrove-287"
+            },
+            "birth": {
+                "date": "1818",
+                "place": "Madison, Alabama, United States"
+            },
+            "death": {
+                "date": "1884",
+                "place": "Hardin, Tennessee, United States"
+            }
+        },
+        {
+            "wikitreeId": "Hargrove-288",
+            "gedcomId": "@I12@",
+            "name": "Omar Hassen  Hargrove",
+            "givenName": "",
+            "surname": "",
+            "sex": "M",
+            "allIds": {
+                "wikitree": "Hargrove-288"
+            },
+            "birth": {
+                "date": "1820",
+                "place": "Madison,Alabama"
+            },
+            "death": {
+                "date": "1865",
+                "place": "Hardin,Tennessee"
+            }
+        },
+        {
+            "wikitreeId": "Hargrove-290",
+            "gedcomId": "@I13@",
+            "name": "John Lindsey Hargrove",
+            "givenName": "",
+            "surname": "",
+            "sex": "M",
+            "allIds": {
+                "wikitree": "Hargrove-290"
+            },
+            "birth": {
+                "date": "24 Jan 1826",
+                "place": "Madison, Madison, Alabama, USA"
+            },
+            "death": {
+                "date": "21 May 1902",
+                "place": "Colorado City, Mitchell, Texas, USA"
+            }
+        },
+        {
+            "wikitreeId": "Hargrove-291",
+            "gedcomId": "@I14@",
+            "name": "Jackson  Hargrove",
+            "givenName": "",
+            "surname": "",
+            "sex": "M",
+            "allIds": {
+                "wikitree": "Hargrove-291"
+            },
+            "birth": {
+                "date": "ABT 1830",
+                "place": "Hardin,Tennessee"
+            },
+            "death": []
+        },
+        {
+            "wikitreeId": "Lewis-9847",
+            "gedcomId": "@I15@",
+            "name": "Samuel  Lewis",
+            "givenName": "",
+            "surname": "",
+            "sex": "M",
+            "allIds": {
+                "wikitree": "Lewis-9847"
+            },
+            "birth": {
+                "date": "ABT 1781",
+                "place": "Lincoln County, Virginia, USA"
+            },
+            "death": {
+                "date": "Oct 1820",
+                "place": "St. Charles County, Missouri"
+            }
+        },
+        {
+            "wikitreeId": "Lewis-9843",
+            "gedcomId": "@I16@",
+            "name": "Elizabeth  Lewis",
+            "givenName": "",
+            "surname": "",
+            "sex": "F",
+            "allIds": {
+                "wikitree": "Lewis-9843"
+            },
+            "birth": {
+                "date": "ABT 1784",
+                "place": "Lincoln, Kentucky"
+            },
+            "death": []
+        },
+        {
+            "wikitreeId": "Lewis-9848",
+            "gedcomId": "@I17@",
+            "name": "Sarah Norman Lewis",
+            "givenName": "",
+            "surname": "",
+            "sex": "F",
+            "allIds": {
+                "wikitree": "Lewis-9848"
+            },
+            "birth": {
+                "date": "23 Oct 1785",
+                "place": "Kentucky"
+            },
+            "death": {
+                "date": "5 Sep 1848",
+                "place": "Ouachita, Arkansas, United States"
+            }
+        },
+        {
+            "wikitreeId": "Lewis-9844",
+            "gedcomId": "@I18@",
+            "name": "Isabella  Lewis",
+            "givenName": "",
+            "surname": "",
+            "sex": "F",
+            "allIds": {
+                "wikitree": "Lewis-9844"
+            },
+            "birth": {
+                "date": "ABT 1787",
+                "place": ", Kentucky"
+            },
+            "death": []
+        },
+        {
+            "wikitreeId": "Lewis-9849",
+            "gedcomId": "@I19@",
+            "name": "William W. Lewis",
+            "givenName": "",
+            "surname": "",
+            "sex": "M",
+            "allIds": {
+                "wikitree": "Lewis-9849"
+            },
+            "birth": {
+                "date": "ABT 1790",
+                "place": "Lincoln County, Virginia, USA"
+            },
+            "death": {
+                "date": "1845",
+                "place": "Shelbyville, Shelby County, Missouri"
+            }
+        },
+        {
+            "wikitreeId": "Lewis-9842",
+            "gedcomId": "@I20@",
+            "name": "Benjamin J. Lewis",
+            "givenName": "",
+            "surname": "",
+            "sex": "M",
+            "allIds": {
+                "wikitree": "Lewis-9842"
+            },
+            "birth": {
+                "date": "ABT 1793",
+                "place": "Lincoln County, Virginia, USA"
+            },
+            "death": {
+                "date": "1827",
+                "place": "Marion County, Missouri"
+            }
+        },
+        {
+            "wikitreeId": "Lewis-9845",
+            "gedcomId": "@I21@",
+            "name": "Mary Ann  Lewis",
+            "givenName": "",
+            "surname": "",
+            "sex": "F",
+            "allIds": {
+                "wikitree": "Lewis-9845"
+            },
+            "birth": {
+                "date": "8 Dec 1795",
+                "place": "Lincoln, Kentucky"
+            },
+            "death": {
+                "date": "3 Dec 1874",
+                "place": "Burkesville, Cumberland, Kentucky"
+            }
+        },
+        {
+            "wikitreeId": "Whitley-754",
+            "gedcomId": "@I22@",
+            "name": "Solomon  Whitley",
+            "givenName": "",
+            "surname": "",
+            "sex": "M",
+            "allIds": {
+                "wikitree": "Whitley-754"
+            },
+            "birth": {
+                "date": "ABT 1723",
+                "place": "Ireland"
+            },
+            "death": {
+                "date": "ABT 1782",
+                "place": "Whitley's Station, Lincoln, Kentucky"
+            }
+        },
+        {
+            "wikitreeId": "Barnett-2252",
+            "gedcomId": "@I23@",
+            "name": "Elizabeth  Barnett",
+            "givenName": "",
+            "surname": "",
+            "sex": "F",
+            "allIds": {
+                "wikitree": "Barnett-2252"
+            },
+            "birth": {
+                "date": "ABT 1723",
+                "place": "Ireland"
+            },
+            "death": {
+                "date": "ABT 1782",
+                "place": "Whitley's Station, Lincoln, Kentucky"
+            }
+        },
+        {
+            "wikitreeId": "Whitley-749",
+            "gedcomId": "@I24@",
+            "name": "Margaret  Whitley",
+            "givenName": "",
+            "surname": "",
+            "sex": "F",
+            "allIds": {
+                "wikitree": "Whitley-749"
+            },
+            "birth": {
+                "date": "ABT 1747",
+                "place": "Augusta County, Virginia"
+            },
+            "death": {
+                "date": "ABT May 1831",
+                "place": "Fayette County, Kentucky"
+            }
+        },
+        {
+            "wikitreeId": "Whitley-752",
+            "gedcomId": "@I25@",
+            "name": "Ruth  Whitley",
+            "givenName": "",
+            "surname": "",
+            "sex": "F",
+            "allIds": {
+                "wikitree": "Whitley-752"
+            },
+            "birth": {
+                "date": "ABT 1748",
+                "place": "Augusta County, Virginia"
+            },
+            "death": {
+                "date": "29 Jan 1789",
+                "place": "Lincoln County, Kentucky"
+            }
+        },
+        {
+            "wikitreeId": "Whitley-757",
+            "gedcomId": "@I26@",
+            "name": "William Chapman Whitley",
+            "givenName": "",
+            "surname": "",
+            "sex": "M",
+            "allIds": {
+                "wikitree": "Whitley-757"
+            },
+            "birth": {
+                "date": "14 Aug 1749",
+                "place": "Bolivsin River, Augusta County, Virginia"
+            },
+            "death": {
+                "date": "5 Oct 1813",
+                "place": "Chatham, Chatham-Kent Municipality, Ontario, Canada"
+            }
+        },
+        {
+            "wikitreeId": "Whitley-750",
+            "gedcomId": "@I27@",
+            "name": "Mary  Whitley",
+            "givenName": "",
+            "surname": "",
+            "sex": "F",
+            "allIds": {
+                "wikitree": "Whitley-750"
+            },
+            "birth": {
+                "date": "ABT 1750",
+                "place": "Virginia"
+            },
+            "death": []
+        },
+        {
+            "wikitreeId": "Whitley-748",
+            "gedcomId": "@I28@",
+            "name": "James  Whitley",
+            "givenName": "",
+            "surname": "",
+            "sex": "M",
+            "allIds": {
+                "wikitree": "Whitley-748"
+            },
+            "birth": {
+                "date": "ABT 1752",
+                "place": "Augusta, Virginia"
+            },
+            "death": []
+        },
+        {
+            "wikitreeId": "Whitley-755",
+            "gedcomId": "@I29@",
+            "name": "Solomon  Whitley",
+            "givenName": "",
+            "surname": "",
+            "sex": "M",
+            "allIds": {
+                "wikitree": "Whitley-755"
+            },
+            "birth": {
+                "date": "ABT 1758",
+                "place": "New Kent, Virginia"
+            },
+            "death": []
+        },
+        {
+            "wikitreeId": "Whitley-747",
+            "gedcomId": "@I30@",
+            "name": "Catherine  Whitley",
+            "givenName": "",
+            "surname": "",
+            "sex": "F",
+            "allIds": {
+                "wikitree": "Whitley-747"
+            },
+            "birth": {
+                "date": "1760",
+                "place": "Augusta, Virginia"
+            },
+            "death": []
+        },
+        {
+            "wikitreeId": "Whitley-756",
+            "gedcomId": "@I31@",
+            "name": "Thomas  Whitley",
+            "givenName": "",
+            "surname": "",
+            "sex": "M",
+            "allIds": {
+                "wikitree": "Whitley-756"
+            },
+            "birth": {
+                "date": "ABT 1760",
+                "place": "Virginia"
+            },
+            "death": []
+        },
+        {
+            "wikitreeId": "Whitley-1755",
+            "gedcomId": "@I32@",
+            "name": "John  Whitley",
+            "givenName": "",
+            "surname": "",
+            "sex": "M",
+            "allIds": {
+                "wikitree": "Whitley-1755"
+            },
+            "birth": {
+                "date": "1695",
+                "place": "Ireland"
+            },
+            "death": {
+                "date": "BEF 1780",
+                "place": "Ireland"
+            }
+        },
+        {
+            "wikitreeId": "Mitchell-16478",
+            "gedcomId": "@I33@",
+            "name": "Ervie  Mitchell",
+            "givenName": "",
+            "surname": "",
+            "sex": "F",
+            "allIds": {
+                "wikitree": "Mitchell-16478"
+            },
+            "birth": {
+                "date": "1695",
+                "place": "Ireland"
+            },
+            "death": {
+                "date": "BEF 1785",
+                "place": "Ireland"
+            }
+        },
+        {
+            "wikitreeId": "Whitley-1541",
+            "gedcomId": "@I34@",
+            "name": "Paul  Whitley",
+            "givenName": "",
+            "surname": "",
+            "sex": "M",
+            "allIds": {
+                "wikitree": "Whitley-1541"
+            },
+            "birth": {
+                "date": "1724",
+                "place": "Ireland"
+            },
+            "death": {
+                "date": "BEF 14 Apr 1772",
+                "place": "Botetourt, Colony of Virginia"
+            }
+        },
+        {
+            "wikitreeId": "Whitley-2877",
+            "gedcomId": "@I35@",
+            "name": "Michael  Whitley",
+            "givenName": "",
+            "surname": "",
+            "sex": "M",
+            "allIds": {
+                "wikitree": "Whitley-2877"
+            },
+            "birth": {
+                "date": "16 Jun 1730",
+                "place": "Ireland"
+            },
+            "death": {
+                "date": "6 Dec 1777",
+                "place": "Philadelphia, Philadelphia, Pennsylvania, United States"
+            }
+        },
+        {
+            "wikitreeId": "Hargrove-261",
+            "gedcomId": "@I37@",
+            "name": "John Washington Hargrove",
+            "givenName": "",
+            "surname": "",
+            "sex": "M",
+            "allIds": {
+                "wikitree": "Hargrove-261"
+            },
+            "birth": {
+                "date": "ABT 1750"
+            },
+            "death": {
+                "date": "ABT 1838"
+            }
+        },
+        {
+            "wikitreeId": "Ball-555",
+            "gedcomId": "@I38@",
+            "name": "Mary  Ball",
+            "givenName": "",
+            "surname": "",
+            "sex": "F",
+            "allIds": {
+                "wikitree": "Ball-555"
+            },
+            "birth": {
+                "date": "1749"
+            },
+            "death": {
+                "date": "1813"
+            }
+        },
+        {
+            "wikitreeId": "Welch-1878",
+            "gedcomId": "@I39@",
+            "name": "Serena  Welch",
+            "givenName": "",
+            "surname": "",
+            "sex": "F",
+            "allIds": {
+                "wikitree": "Welch-1878"
+            },
+            "birth": {
+                "date": "ABT 1833"
+            },
+            "death": {
+                "date": "1884"
+            }
+        },
+        {
+            "wikitreeId": "Poole-1163",
+            "gedcomId": "@I40@",
+            "name": "Lydia  Poole",
+            "givenName": "",
+            "surname": "",
+            "sex": "F",
+            "allIds": {
+                "wikitree": "Poole-1163"
+            },
+            "birth": {
+                "date": "ABT 1829"
+            },
+            "death": {
+                "date": "AFT 1850"
+            }
+        },
+        {
+            "wikitreeId": "Garrard-110",
+            "gedcomId": "@I41@",
+            "name": "Caroline  Garrard",
+            "givenName": "",
+            "surname": "",
+            "sex": "F",
+            "allIds": {
+                "wikitree": "Garrard-110"
+            },
+            "birth": {
+                "date": "8 Jul 1833"
+            },
+            "death": {
+                "date": "13 Sep 1873"
+            }
+        },
+        {
+            "wikitreeId": "West-5323",
+            "gedcomId": "@I42@",
+            "name": "Cora M. West",
+            "givenName": "",
+            "surname": "",
+            "sex": "F",
+            "allIds": {
+                "wikitree": "West-5323"
+            },
+            "birth": {
+                "date": "11 Jul 1837"
+            },
+            "death": {
+                "date": "17 Apr 1903"
+            }
+        },
+        {
+            "wikitreeId": "King-21359",
+            "gedcomId": "@I43@",
+            "name": "Edwards  King",
+            "givenName": "",
+            "surname": "",
+            "sex": "M",
+            "allIds": {
+                "wikitree": "King-21359"
+            },
+            "birth": {
+                "date": "ABT 1792"
+            },
+            "death": []
+        },
+        {
+            "wikitreeId": "Owsley-250",
+            "gedcomId": "@I44@",
+            "name": "Joel  Owsley",
+            "givenName": "",
+            "surname": "",
+            "sex": "M",
+            "allIds": {
+                "wikitree": "Owsley-250"
+            },
+            "birth": {
+                "date": "ABT 28 Jun 1790"
+            },
+            "death": {
+                "date": "31 May 1869"
+            }
+        },
+        {
+            "wikitreeId": "Collier-4329",
+            "gedcomId": "@I45@",
+            "name": "Moses  Collier",
+            "givenName": "",
+            "surname": "",
+            "sex": "M",
+            "allIds": {
+                "wikitree": "Collier-4329"
+            },
+            "birth": {
+                "date": "ABT 1744"
+            },
+            "death": {
+                "date": "1814"
+            }
+        },
+        {
+            "wikitreeId": "Gill-12595",
+            "gedcomId": "@I46@",
+            "name": "Esther  Gill",
+            "givenName": "",
+            "surname": "",
+            "sex": "F",
+            "allIds": {
+                "wikitree": "Gill-12595"
+            },
+            "birth": {
+                "date": "10 May 1755"
+            },
+            "death": {
+                "date": "20 Nov 1833"
+            }
+        },
+        {
+            "wikitreeId": "Kirkham-430",
+            "gedcomId": "@I47@",
+            "name": "Jane  Kirkham",
+            "givenName": "",
+            "surname": "",
+            "sex": "F",
+            "allIds": {
+                "wikitree": "Kirkham-430"
+            },
+            "birth": {
+                "date": "AFT 1734"
+            },
+            "death": {
+                "date": "AFT 2 Dec 1771"
+            }
+        },
+        {
+            "wikitreeId": "Unknown-589560",
+            "gedcomId": "@I48@",
+            "name": "Martha  Unknown",
+            "givenName": "",
+            "surname": "",
+            "sex": "F",
+            "allIds": {
+                "wikitree": "Unknown-589560"
+            },
+            "birth": {
+                "date": "1723"
+            },
+            "death": {
+                "date": "11 Nov 1813"
+            }
+        }
+    ],
+    "relationships": []
+}

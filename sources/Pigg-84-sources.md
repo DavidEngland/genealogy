@@ -1,0 +1,6 @@
+== Sources ==
+* "Find a Grave Index," database, [https://www.familysearch.org/ark:/61903/1:1:QVKH-JNZW FamilySearch], (accessed 30 Jan 2026), entry for Principal for William T Pigg;Bill, 17 March 1842.
+* "Find a Grave Index," database, [https://www.familysearch.org/ark:/61903/1:1:QVVF-GDZR FamilySearch], (accessed 30 Jan 2026), entry for Principal for William Pigg, 1842.
+* "United States Census, 1860," database, [https://www.familysearch.org/ark:/61903/1:1:M8TY-2S9 FamilySearch], (accessed 30 Jan 2026), entry for Principal for William Pigg, 1860, Wayne, Tennessee, United States, Household: Others: Henry Pigg, Eliza Pigg, Sarah J Pigg, Lucinda Pigg, Susan Pigg, Mary Pigg, Sarah Pigg, George Pigg.
+* "United States Census, 1850," database, [https://www.familysearch.org/ark:/61903/1:1:MC6S-5QT FamilySearch], (accessed 30 Jan 2026), entry for Principal for Wm Pigg, 1850, Wayne, Tennessee, United States, Household: Others: Henry Pigg, Eliza Pigg, John Pigg, Sarah Pigg, Carolin Pigg, Susanah Pigg, Mary Pigg.
+* "United States Census, 1870," database, [https://www.familysearch.org/ark:/61903/1:1:MD8Z-T4K FamilySearch], (accessed 30 Jan 2026), entry for Principal for William Pigg (Head), 1870, District 10, Grainger, Tennessee, United States, Household: Others: Mary J Pigg, Jasper N Pigg, John N Pigg, Fredrick M Pigg, Susan C Pigg, Medugal Pigg, Mary C Pigg.

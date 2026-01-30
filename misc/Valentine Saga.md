@@ -113,3 +113,5 @@ The newlyweds leave the church to begin their life together, knowing that by 176
 ---
 
 *Historical Note: This narrative is based on documented records from Christ Church Parish, Middlesex County; Henrico County deeds; and Amherst County land and probate records. The dialogue is fictionalized to bring historical figures to life, but the timeline, locations, and family connections are drawn from primary sources.*
+
+Note: For WikiTree, convert headers to = and use '''bold''' instead of **.

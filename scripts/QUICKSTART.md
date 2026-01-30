@@ -252,3 +252,5 @@ genealogy/
 5. **Integrate or publish** depending on your workflow
 
 For detailed feature documentation, see `GEDCOM_TO_BIOGRAPHY_ENHANCED.md`
+
+Quickstart stub.

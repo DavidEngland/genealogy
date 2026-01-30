@@ -68,3 +68,5 @@ Further research using multiple sources has traced this Hartgrove line back to t
 * "United States War of 1812 Index to Service Records, 1812-1815," database, [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:Q29K-HZLL), (accessed 28 Jan 2026), entry for James Hartgrove, from 1812 to 1815, United States.
 * NY/Virginia census and Hargrove/Hargrove family genealogy of Virginia
 * Hargrove Newsletter Vol 6 No 3 July 1985, Pg 75
+
+Profile stub for Hartgrove-97.

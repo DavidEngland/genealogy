@@ -306,6 +306,8 @@ NEXT STEPS
 
 ═══════════════════════════════════════════════════════════════════════════
 
+WikiTree ID extraction notes stub.
+
 You're all set!
 
 To get started:
@@ -314,5 +316,3 @@ To get started:
 For more information:
   schema/process_gedcom.sh --help
   cat schema/WIKITREE_ID_GUIDE.md
-
-═══════════════════════════════════════════════════════════════════════════

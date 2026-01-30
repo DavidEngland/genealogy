@@ -121,3 +121,5 @@ The deliberate repetition of key family names—particularly "Valentine," "Lewis
 Conclusion: A Microcosm of the American Experience
 
 The interwoven sagas of the Ball, Lewis, and Hargrove families offer a definitive microcosm of the American frontier experience. Driven by a potent combination of strategic marital alliances, a steadfast commitment to military service, and an insatiable hunger for land, these families actively participated in the nation's expansion from the Atlantic coast to the western plains. Their journey was not one of passive settlement but of active conquest, facilitated by a clear set of strategies passed down from one generation to the next. Their legacy is not merely a family tree, but a testament to the powerful social, economic, and cultural forces that forged a nation.
+
+Note: For WikiTree, convert headers to = and use '''bold''' instead of **.

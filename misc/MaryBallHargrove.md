@@ -1,4 +1,4 @@
-Biography
+Bio stub: Mary (Ball) Hargrove (Ball-555).
 
 Mary Ball was born in 1749 in Henrico County, Colony of Virginia. She was the daughter of Valentine Ball (1706–1770) and Susannah Lewis (1717–1769), who were married in Christ Church Parish, Middlesex County, on 31 January 1733.
 

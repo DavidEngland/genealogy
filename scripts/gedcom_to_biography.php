@@ -1,6 +1,5 @@
 <?php
-// GEDCOM to WikiTree-style Biography Markdown & JSON Generator
-// Enhanced with multi-database ID extraction, biographical section parsing, and structured JSON output
+// Stub: GEDCOM to biography converter.
 //
 // Usage:
 //   php scripts/gedcom_to_biography.php --input GEDs/example.ged [--person @I123@] [--out path] [--json]
@@ -48,6 +47,109 @@ function extractDatabaseIds(string $text): array {
     }
     
     return $ids;
+}
+
+function normalizeGedcomDatePart(string $part): ?string {
+    $part = trim($part);
+    if ($part === '') return null;
+
+    if (preg_match('/^(\d{4})$/', $part, $m)) {
+        return $m[1];
+    }
+
+    $monthMap = [
+        'JAN' => '01', 'FEB' => '02', 'MAR' => '03', 'APR' => '04',
+        'MAY' => '05', 'JUN' => '06', 'JUL' => '07', 'AUG' => '08',
+        'SEP' => '09', 'OCT' => '10', 'NOV' => '11', 'DEC' => '12'
+    ];
+
+    if (preg_match('/^(\d{1,2})\s+([A-Z]{3})\s+(\d{4})$/i', $part, $m)) {
+        $day = str_pad($m[1], 2, '0', STR_PAD_LEFT);
+        $mon = strtoupper($m[2]);
+        $year = $m[3];
+        if (isset($monthMap[$mon])) {
+            return $year . '-' . $monthMap[$mon] . '-' . $day;
+        }
+    }
+
+    if (preg_match('/^([A-Z]{3})\s+(\d{4})$/i', $part, $m)) {
+        $mon = strtoupper($m[1]);
+        $year = $m[2];
+        if (isset($monthMap[$mon])) {
+            return $year . '-' . $monthMap[$mon];
+        }
+    }
+
+    if (preg_match('/(\d{4})/', $part, $m)) {
+        return $m[1];
+    }
+
+    return null;
+}
+
+function parseGedcomDate(?string $raw): ?array {
+    $raw = trim((string)$raw);
+    if ($raw === '') return null;
+
+    $calendar = 'gregorian';
+    if (preg_match('/@#D(JULIAN|GREGORIAN)@/i', $raw, $m)) {
+        $calendar = strtoupper($m[1]) === 'JULIAN' ? 'julian' : 'gregorian';
+        $raw = trim(preg_replace('/@#D(JULIAN|GREGORIAN)@/i', '', $raw));
+    }
+
+    $type = 'exact';
+    $modifier = '';
+    $start = null;
+    $end = null;
+    $normalized = null;
+    $phrase = null;
+
+    if (preg_match('/^BET\s+(.+)\s+AND\s+(.+)$/i', $raw, $m)) {
+        $type = 'between';
+        $modifier = 'BET';
+        $start = normalizeGedcomDatePart($m[1]);
+        $end = normalizeGedcomDatePart($m[2]);
+        $normalized = $start ?: $end;
+    } elseif (preg_match('/^FROM\s+(.+)\s+TO\s+(.+)$/i', $raw, $m)) {
+        $type = 'fromTo';
+        $modifier = 'FROM';
+        $start = normalizeGedcomDatePart($m[1]);
+        $end = normalizeGedcomDatePart($m[2]);
+        $normalized = $start ?: $end;
+    } elseif (preg_match('/^(ABT|BEF|AFT|CAL|EST)\s+(.+)$/i', $raw, $m)) {
+        $modifier = strtoupper($m[1]);
+        $datePart = $m[2];
+        switch ($modifier) {
+            case 'ABT': $type = 'approx'; break;
+            case 'BEF': $type = 'before'; break;
+            case 'AFT': $type = 'after'; break;
+            case 'CAL': $type = 'calculated'; break;
+            case 'EST': $type = 'estimated'; break;
+        }
+        $start = normalizeGedcomDatePart($datePart);
+        $normalized = $start;
+    } else {
+        $start = normalizeGedcomDatePart($raw);
+        $normalized = $start;
+        if ($start === null) {
+            $type = 'phrase';
+            $phrase = $raw;
+        }
+    }
+
+    $out = [
+        'original' => $raw,
+        'type' => $type,
+        'calendar' => $calendar
+    ];
+
+    if ($modifier !== '') $out['modifier'] = $modifier;
+    if ($start !== null) $out['start'] = $start;
+    if ($end !== null) $out['end'] = $end;
+    if ($normalized !== null) $out['normalized'] = $normalized;
+    if ($phrase !== null) $out['phrase'] = $phrase;
+
+    return $out;
 }
 
 function usage(): void {
@@ -592,15 +694,15 @@ function convertPersonToJsonSchema(array $person, array $individuals): array {
     // Add birth event
     if ($birthEvent) {
         $jsonPerson['birth'] = array_filter([
-            'date' => $birthEvent['date'] ?? null,
+            'date' => parseGedcomDate($birthEvent['date'] ?? null) ?? ($birthEvent['date'] ?? null),
             'place' => $birthEvent['place'] ?? null
         ]);
     }
-    
+
     // Add death event
     if ($deathEvent) {
         $jsonPerson['death'] = array_filter([
-            'date' => $deathEvent['date'] ?? null,
+            'date' => parseGedcomDate($deathEvent['date'] ?? null) ?? ($deathEvent['date'] ?? null),
             'place' => $deathEvent['place'] ?? null
         ]);
     }
@@ -653,7 +755,11 @@ function buildJsonOutput(array $individuals, array $families): array {
         if ($family['wife']) $famRecord['wife'] = $family['wife'];
         if (!empty($family['children'])) $famRecord['children'] = $family['children'];
         if (!empty($family['events']['MARR'])) {
-            $famRecord['marriage'] = array_filter($family['events']['MARR']);
+            $marriage = $family['events']['MARR'];
+            $famRecord['marriage'] = array_filter([
+                'date' => parseGedcomDate($marriage['date'] ?? null) ?? ($marriage['date'] ?? null),
+                'place' => $marriage['place'] ?? null
+            ]);
         }
         $output['families'][] = array_filter($famRecord);
     }

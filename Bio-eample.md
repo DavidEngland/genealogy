@@ -1,4 +1,5 @@
 [[Category: Appalachia, Featured Connections]]
+<!-- Example profile file; retained as-is. -->
 [[Category: Camp Douglas, Chicago, Illinois]]
 [[Category: Kentucky Appalachians]]
 [[Category: Appalachia, Notables]]
@@ -24,7 +25,7 @@
 |description = a Prisoner of War
 |war = United States Civil War
 }}
-'''Randall McCoy''' was born on October 1825, in Pike County, Kentucky, United States to [[McCoy-526|Daniel McCoy]] & [[Taylor-5657|Margaret (Taylor) McCoy]].{{Citation needed}}
+'''Randall McCoy''' was born in October 1825, in Pike County, Kentucky, United States to [[McCoy-526|Daniel McCoy]] & [[Taylor-5657|Margaret (Taylor) McCoy]].{{Citation needed}}
 
 Randolph was also called "Old Randall" and "Ole Ran".
 
@@ -54,7 +55,7 @@ During the American Civil War, he served from 1862 to 1865 as a Private in the 4
 
 Randolph McCoy was the patriarch of the McCoy clan involved in the infamous American [[Project:Hatfield_and_McCoy|Hatfield and McCoy Family Feud]]. He lost five of his children to the violence during the almost 30 year feud with the Hatfield clan under their patriarch [[Hatfield-260|William Anderson "Devil Anse" Hatfield]].
 
-Kentucky was a border state, but both McCoy and Hatfield families were loyal confederates, with the exception of his younger brother, [[McCoy-577|Asa]], who enlisted in Company E, <ref> [http://www.nps.gov/civilwar/search-battle-units-detail.htm?battleUnitCode=UKY0045RI   45th Regiment Kentucky Infantry USA], </ref> of the Union Army. <ref> [http://www.nps.gov/civilwar/search-soldiers-detail.htm?soldierId=0A4A96B7-DC7A-DF11-BF36-B8AC6F5D926A   NPS Civil War] with Soldier Detail for Asa H. McCoy </ref> Asa was killed on 7 Jan 1865 <ref> {{FindAGrave|125714392|sameas=no}} for Asa Harmon McCoy </ref> by a band called the Logan Wildcats, lead by Jim Vance, in a Hatfield and McCoy family feud. It was widely accepted that this band was led by the Hatfields. Thus began a chain of altercations that would make the names Hatfield and McCoy synonymous with feud.
+Kentucky was a border state, but both McCoy and Hatfield families were loyal confederates, with the exception of his younger brother, [[McCoy-577|Asa]], who enlisted in Company E, <ref> [http://www.nps.gov/civilwar/search-battle-units-detail.htm?battleUnitCode=UKY0045RI   45th Regiment Kentucky Infantry USA], </ref> of the Union Army. <ref> [http://www.nps.gov/civilwar/search-soldiers-detail.htm?soldierId=0A4A96B7-DC7A-DF11-BF36-B8AC6F5D926A   NPS Civil War] with Soldier Detail for Asa H. McCoy </ref> Asa was killed on 7 Jan 1865 <ref> {{FindAGrave|125714392|sameas=no}} for Asa Harmon McCoy </ref> by a band called the Logan Wildcats, led by Jim Vance, in a Hatfield and McCoy family feud. It was widely accepted that this band was led by the Hatfields. Thus began a chain of altercations that would make the names Hatfield and McCoy synonymous with feud.
 
 The next dispute was a legal one in the late 1870s in which Anderson Hatfield and Randolph McCoy's cousin, [[Cline-1014|Perry Cline]], both held title to a 5,000+ acre tract of land. Hatfield eventually brought a civil suit against Cline. Hatfield won in what was seen by the McCoys as a Hatfield friendly court.
 
@@ -76,7 +77,7 @@ By the end of the feud, Randall had lost his brother, seven of his children, and
 :Company C, Beckley's Regiment 45th, Virginia Battalion
 :1863/07/08 Captured in Pike County, Kentucky
 :1863/07/20 Arrived at Camp Chase
-:1863/Aug/20 Sent to Camp Douglass
+:1863/Aug/20 Sent to Camp Douglas
 :1865/Jun/16 Held till
 :1865/Jul/16 Signed Oath of Allegiance <ref> [https://www.wikitree.com/photo.php/4/4e/McCoy-576-2.jpg  Oath of Allegiance] attached here </ref> and was released from Camp Douglas.
 

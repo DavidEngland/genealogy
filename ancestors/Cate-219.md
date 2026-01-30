@@ -1,0 +1,20 @@
+== Biography ==
+
+'''William  Cate''' (1755 – 1803) was born on BEF 1755.
+
+=== Marriage ===
+Married '''[[Smith-50605|Elizabeth Messer  Smith]]'''.
+
+=== Children ===
+Children (from linked family records):
+* '''[[Cate-181|Sarah  Cate]]''' (b. 1781)
+* '''[[Cate-220|Hannah  Cate]]''' (b. 1770)
+* '''[[Cate-221|John  Cate]]''' (b. 1774)
+* '''[[Cate-223|Benjamin  Cate]]''' (b. 1786)
+* '''[[Cate-222|Charity  Cate]]''' (b. 1786)
+
+=== Death ===
+Died on 1803 in Orange, North Carolina.
+
+== Sources ==
+* Information synthesized from GEDCOM file import.

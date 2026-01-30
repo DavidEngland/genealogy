@@ -129,3 +129,5 @@ Based on the **"Valentine Sagas"** and family migration patterns found in the so
 * **Susannah (Lewis) Ball (Lewis-1457):** `{{Migrant | from = Middlesex County, Virginia | to = Amherst County, Virginia | date = c. 1760}}`.
 
 **Note:** If specific start and end dates for Valentine Hargrove’s service are required by WikiTree, they are generally accepted as the duration of the conflict (1812–1815) unless primary enlistment records—which are not in the provided sources—specify otherwise.
+
+Note: Esther Fullen facts were applied to the William Whitley narrative.

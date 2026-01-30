@@ -8,3 +8,4 @@
 * "United States Census, 1840," database, [https://www.familysearch.org/ark:/61903/1:1:XHTP-96B FamilySearch], (accessed 28 Jan 2026), entry for Principal for James Hartgrove, 1840, Kentucky, United States.
 * "United States General Index to Pension Files, 1861-1934," database, [https://www.familysearch.org/ark:/61903/1:1:KDYR-P71 FamilySearch], (accessed 28 Jan 2026), entry for Principal for James Hartgrove, 1885.
 * "United States War of 1812 Index to Service Records, 1812-1815," database, [https://www.familysearch.org/ark:/61903/1:1:Q29K-HZLL FamilySearch], (accessed 28 Jan 2026), entry for Principal for James Hartgrove, from 1812 to 1815, United States.
+* Source stub for James Hartgrave.

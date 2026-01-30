@@ -222,3 +222,5 @@ Validate JSON syntax using `jq` or online validator.
 ⊘ JamesHartgrave.csv → JamesHartgrave-sources.md (already exists)
 ```
 Delete or rename the output file before running batch again, or use config to override the file.
+
+Sources workflow stub.

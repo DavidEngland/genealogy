@@ -1,0 +1,20 @@
+# Search Results Directory
+# All files in this directory are excluded from git by default
+# This folder contains FamilySearch queries and other research data that may include:
+# - Personal information about living individuals
+# - Detailed biographical data
+# - FamilySearch ARK identifiers
+# - Birth/death/marriage records
+
+# Ignore all CSV files
+*.csv
+
+# Ignore all JSON files
+*.json
+
+# Ignore Excel files
+*.xlsx
+*.xls
+
+# Keep this .gitignore file itself
+!.gitignore
