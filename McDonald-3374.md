@@ -5,15 +5,14 @@
 [[Category:Lauderdale County, Alabama]]
 [[Category:Wayne County, Tennessee]]
 [[Category:Lawrence County, Tennessee]]
-[[Category:Tennessee Pioneers]]
 
 == Biography ==
 
-Thomas Anderson McDonald (c. 1822 – c. 1885) was a skilled blacksmith and gunsmith who represented the fourth generation of the McDonald family's tradition of technical craftsmanship in early America. He was the fourth child of [[McDonald-3121 | John McDonald]] (c. 1792–c. 1860) and [[Emory-1 | Margaret Emory]] (c. 1793–c. 1880), born at Wartrace in Bedford County, Tennessee, during a period of rapid settlement following his family's migration from South Carolina.
+Thomas Anderson McDonald (1822 – 1885) was a skilled blacksmith and gunsmith who represented the fourth generation of the McDonald family's tradition of technical craftsmanship in early America. He was the fourth child of [[McDonald-3121 | John McDonald]] (c. 1792–c. 1860) and [[Emory-1 | Margaret Emory]] (c. 1793–c. 1880), born at Wartrace in Bedford County, Tennessee, during a period of rapid settlement following his family's migration from South Carolina.
 
 === Early Life and Family Origins ===
 
-Thomas was born around 1822 in Bedford County, Tennessee, as part of the great southern migration that brought the McDonald family from South Carolina through Tennessee and eventually to Alabama. His parents, John and Margaret Emory McDonald, had left South Carolina between 1816 and 1819 during the economic depression that drove many families westward.
+Thomas was born in 1822 in Bedford County, Tennessee, as part of the great southern migration that brought the McDonald family from South Carolina through Tennessee and eventually to Alabama. His parents, John and Margaret Emory McDonald, had left South Carolina between 1816 and 1819 during the economic depression that drove many families westward. At the time of Thomas's birth, his father John was approximately 30 years old and his mother Margaret was approximately 29 years old.
 
 The McDonald family was deeply rooted in Scots-Celtic heritage and the traditions of Clan Donald, one of the most powerful Highland clans of Scotland. This heritage shaped the family's values of independence, technical skill, and pioneering spirit that characterized Thomas's life and work.
 
@@ -103,7 +102,7 @@ Thomas Anderson McDonald and Sarah A. Adkinson had ten children, all born in Ten
 
 === Death and Legacy ===
 
-Thomas Anderson McDonald died around 1885, likely in Lauderdale County, Alabama, where he had spent his later years. He would have been approximately 63 years old at the time of his death.
+Thomas Anderson McDonald died in 1885 in Lauderdale County, Alabama, at the age of 63 years. He was buried in Savannah Cemetery, Savannah, Hardin County, Tennessee.
 
 His legacy includes:
 * Continuing the McDonald family's tradition of skilled craftsmanship
@@ -128,15 +127,15 @@ According to Celtic genealogy, McDonalds and McDaniels share common roots in the
 
 ==== Key Records and Locations ====
 
-* Birth: c. 1822, Wartrace, Bedford County, Tennessee
+* Birth: 1822, Wartrace, Bedford County, Tennessee
 * Marriage: June 24, 1852, Lawrence County, Tennessee to Sarah A. Adkinson
 * Residences:
   * Wayland Springs, Lawrence County, Tennessee (1852-c.1860)
   * Wayne County, Tennessee (c.1860)
   * Cypress Creek, Lauderdale County, Alabama (1870)
   * Cloverdale (Rawhide), Lauderdale County, Alabama (1881)
-* Death: c. 1885, likely Lauderdale County, Alabama
-* Burial: Possibly Savannah Cemetery, Savannah, Tennessee (verification needed)
+* Death: 1885, Lauderdale County, Alabama (age 63)
+* Burial: Savannah Cemetery, Savannah, Hardin County, Tennessee
 
 ==== Family Connections ====
 
@@ -148,7 +147,7 @@ According to Celtic genealogy, McDonalds and McDaniels share common roots in the
 
 === Historical Context ===
 
-Thomas Anderson McDonald's life (c.1822-c.1885) spanned a transformative period in American history:
+Thomas Anderson McDonald's life (1822–1885) spanned a transformative period in American history:
 
 * Born: During the early settlement of Tennessee
 * Youth: The economic depressions that drove southern migration (1816, 1834)
@@ -170,8 +169,26 @@ Thomas embodied the characteristics attributed to his Scots-Celtic heritage:
 == Sources ==
 <references />
 
-* "Tennessee, State Marriage Index, 1780-2002," index, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VNDN-7BH : accessed 09 Sep 2013), Thomas A Mcdonald and Sarah A Adkisson, 1852.
-* [https://www.findagrave.com/memorial/112935543/mcdonald/ Find-a-grave #112935543]
+=== Marriage Records ===
+
+* "Tennessee, County Marriages, 1790-1950", FamilySearch (https://familysearch.org/ark:/61903/1:1:Q2ZS-4W7V : accessed), Entry for Thomas A McDonald and Sarah A Adkisson, 24 June 1852, Lawrence, Tennessee.
+
+* "Tennessee, County Marriages, 1790-1950", FamilySearch (https://familysearch.org/ark:/61903/1:1:QK41-3W9X : accessed), Entry for Thomas A McDonald and Sarah A Adkipen, 24 June 1852, Lawrence, Tennessee.
+
+* "Tennessee, Marriages, 1796-1950", FamilySearch (https://familysearch.org/ark:/61903/1:1:XDSL-25T : accessed), Entry for Thomas A. Mc Donald and Sarah A. Adkisson, 24 June 1852, Lawrence, Tennessee.
+
+* "Tennessee, State Marriage Index, 1780-2002", FamilySearch (https://familysearch.org/ark:/61903/1:1:VNDN-7BH : accessed), Entry for Thomas A Mcdonald and Sarah A Adkisson, 24 June 1852, Lawrence, Tennessee.
+
+=== Census Records ===
+
+* "United States Census, 1850", FamilySearch (https://familysearch.org/ark:/61903/1:1:MH59-BR1 : accessed), Entry for Anderson McDaniel, 1850, Lauderdale, Alabama.
+
+* "United States Census, 1870", FamilySearch (https://familysearch.org/ark:/61903/1:1:MHK8-BC5 : accessed), Entry for Anderson McDonald, 1870, Lauderdale, Alabama.
+
+* "United States Census, 1880", FamilySearch (https://familysearch.org/ark:/61903/1:1:MDW3-FPV : accessed), Entry for Thos McDonald, 1880, District 11, Grainger, Tennessee.
+
+=== Additional Sources ===
+
 * England, William Lindsey. "Clan Donald: The McDonald Family History." Unpublished family research manuscript.
 * Lawrence County, Tennessee Census and Marriage Records
 * Lauderdale County, Alabama Census and Land Records (1850, 1860, 1870, 1880)

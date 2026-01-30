@@ -331,31 +331,24 @@ As far as is known John and Margaret McDonald had at least nine
 or, maybe, ten children. These sons and daughters and their
 families will be described in the narrative to follow.
 
-### THOMAS ANDERSON McDONALD ([WikiTree search](https://www.wikitree.com/index.php?title=Special:SearchPerson&wpFirstName=Thomas&wpLastName=Anderson&wpBirthDate=1819))
+### THOMAS ANDERSON McDONALD ([WikiTree search](https://www.wikitree.com/index.php?title=Special:SearchPerson&wpFirstName=Thomas&wpLastName=Anderson&wpBirthDate=1822))
 
-1819 - c.1890
-Thomas Anderson McDonald, born in 1819 in Bedford County,
-Tennessee, was the youngest son of John and Margaret Emory
-McDonald. He was married to [Mary Polly Scruggs](https://www.wikitree.com/index.php?title=Special:SearchPerson&wpFirstName=Mary&wpLastName=Scruggs&wpBirthDate=1825), who was born in 1825
-in South Carolina. They were married in 1844 in Lauderdale
-County, Alabama. Thomas and Mary settled in the Green Hill
-community of Lauderdale County, Alabama, where Thomas was a
-farmer. He died sometime between 1880 and 1900 in Alabama.
-Mary Scruggs McDonald died in 1901 in Alabama.
-Thomas and Mary Polly McDonald had the following children:
-
-- [Elias McDonald](https://www.wikitree.com/wiki/McDonald-4058) was born in 1845 and died in 1920.
-- [Joseph McDonald](https://www.wikitree.com/wiki/McDonald-4059) was born in 1847 and died in 1920.
-- [Lavenia Syrena McDonald](https://www.wikitree.com/wiki/McDonald-4060) was born in 1850 and died in 1920.
-- [Flavis McDonald](https://www.wikitree.com/wiki/McDonald-4061) was born in 1852 and died in 1920.
-- [Altina McDonald](https://www.wikitree.com/wiki/McDonald-4062) was born in 1854 and died in 1920.
-- [John Scruggs McDonald](https://www.wikitree.com/wiki/McDonald-4063) was born in 1834 and died in 1920.
+1822 - 1885
+Thomas Anderson McDonald, born in 1822 in Bedford County,
+Tennessee, was a son of John and Margaret Emory
+McDonald. He was married to Sarah A. Adkisson on June 24, 1852,
+in Lawrence County, Tennessee. Thomas was a skilled blacksmith and gunsmith
+who continued the family tradition of technical craftsmanship.
+He died in 1885 in Lauderdale County, Alabama, at the age of 63,
+and was buried in Savannah Cemetery, Savannah, Hardin County, Tennessee.
 
 ### PALINA ALTIMIRA "KITTY" MCDONALD ([WikiTree search](https://www.wikitree.com/index.php?title=Special:SearchPerson&wpFirstName=Palina&wpLastName=McDonald&wpBirthDate=1859))
 
 2. [Palina Altimira "Kitty" McDonald](https://www.wikitree.com/wiki/McDonald-4057) was born March 31, 1859,
 in Lauderdale County, Alabama. She was the daughter of
-Thomas Anderson and Mary Polly Scruggs McDonald. On November 29, 1876, Kittie
+Thomas Anderson and Mary Polly Scruggs McDonald. Research note: other sources list Sarah A. Adkisson as Thomas Anderson McDonald's spouse; see misc/FS-Adkisson.html for extracted IDs.
+
+On November 29, 1876, Kittie
 was married to [William M "Bill" England](https://www.wikitree.com/wiki/England-1361) who was
 born March 1, 1853, and died March 6, 1905. They were married
 at the residence of the bride's father, Thomas A. McDonald,

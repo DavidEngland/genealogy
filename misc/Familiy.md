@@ -8,6 +8,10 @@ These families appear in the sources primarily through specific marriages and ci
 *   **Pigg:** The **Pigg family** has a robust presence in **Wayne County**. Your 2nd-great-grandfather **William T. Pigg** (1842–1888) was a **Free Mason** who married **Mary Jane Scott** and fathered 12 children, including your great-grandmother **Eliza Ann Pigg**. Rare death records from 1881 document the passing of young children like **James Henry Pigg** and **John A. Pigg**, providing vital dates for researchers.
 *   **Scott:** **John Martin Scott** (born 1791) was a prominent **Magistrate** in Wayne County. His daughter, **Mary Jane Scott**, married into the Pigg family, while his son **William M. Scott** married **Sarah Jane Pigg**, illustrating the frequent intermarriage between these two families.
 
+### **Adkisson Research Notes (FamilySearch IDs)**
+
+FamilySearch lists profiles for David Adkisson Jr. (LH7X-V2G), Bridget Drusilla Foshee (LHFP-HSY), William Thomas Adkisson (LHZ1-6MT), and Susan Crews (LHGY-8HM), with a 10-child list. See Adkisson-26 and William Thomas Adkisson research notes, and the converted snapshot in misc/FS-Adkisson.html.
+
 ### **Cornerstone Families: Parish, Gresham, and Hargrove**
 While perhaps more frequent in records, these families provided the legal and social infrastructure for your line in the Shoals.
 

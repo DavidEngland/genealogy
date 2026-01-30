@@ -1,5 +1,5 @@
 [[Category: Appalachia, Featured Connections]]
-<!-- Example profile file; retained as-is. -->
+<!-- Example profile retained; minor edits only. -->
 [[Category: Camp Douglas, Chicago, Illinois]]
 [[Category: Kentucky Appalachians]]
 [[Category: Appalachia, Notables]]
@@ -63,7 +63,7 @@ An even bigger event occurred in the fall of 1878 when Randolph "Randall" McCoy 
 
 Randall's daughter, [[McCoy-595|Roseanna]], became romantically involved with [[Hatfield-297|Johnse Hatfield]], becoming pregnant with his child. Upon learning of the affair, Randolph disowned her and [[Hatfield-297|Johnse]] married her cousin, [[McCoy-1502|Nancy McCoy]]. Roseanna's baby, [[Hatfield-681|Sarah Elizabeth McCoy]], died before her first birthday, and heart broken, [[McCoy-595|Roseanna]] died at the age of 28.
 
-The peak of the feud was on election day in 1882 in a blood bath where three of Randolph's sons killed [[Hatfield-262|Ellison Hatfield]]. He was the brother of Devil Anse who retaliated by executing Randall's sons [[McCoy-590|Tolbert]], [[McCoy-597|Pharmer]] and [[McCoy-598|Randolf Jr.]]
+The peak of the feud was on election day in 1882 in a blood bath where three of Randolph's sons killed [[Hatfield-262|Ellison Hatfield]]. He was the brother of Devil Anse who retaliated by executing Randall's sons [[McCoy-590|Tolbert]], [[McCoy-597|Pharmer]] and [[McCoy-598|Randolph Jr.]].
 
 One of the most horrible events of the feud happened on 1 January 1888. Randolph's house was burned to the ground and his family was attacked as they tried to escape. His son, [[McCoy-596|Calvin]], was killed in the shootout. His daughter, [[McCoy-594|Alifair]], was shot to death as she tried to flee the burning house. When Sally attempted to comfort [[McCoy-594|Alifair]], she was badly injured, suffering several broken ribs and skull fractures. Though Randall and the rest of his family were able to retreat into the woods, they were unprepared for the freezing weather and suffered frostbite.
 

@@ -28,3 +28,9 @@ While Gillis was being rushed to a surgeon's office for emergency treatment, the
 - Victim: Delaware Pigg (farmer)
 - Officer: Deputy A. B. Gillis
 - Date of incident: Wednesday, January 20, 1932
+- Name variant: the FamilySearch death record spells the given name as "Deliware".
+
+## Related Records
+
+- FamilySearch death record: https://www.familysearch.org/ark:/61903/1:1:NS8R-9FQ (Deliware Pigg, death 20 Jan 1932, Lutts, Wayne, Tennessee)
+- FamilySearch Find a Grave Index: https://www.familysearch.org/ark:/61903/1:1:QVKH-JNZS (Delaware Pigg, death 21 Jan 1932, Wayne, Tennessee)
