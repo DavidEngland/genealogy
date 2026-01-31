@@ -23,9 +23,14 @@ $handle = fopen($inFile, 'r');
 $header = null;
 $seen = [];
 
-while (($row = fgetcsv($handle)) !== false) {
+while (($row = fgetcsv($handle, 0, ',', '"', '')) !== false) {
     if ($header === null) {
         $header = $row;
+        continue;
+    }
+    
+    // Skip rows that don't have the same column count as header
+    if (count($row) !== count($header)) {
         continue;
     }
     
