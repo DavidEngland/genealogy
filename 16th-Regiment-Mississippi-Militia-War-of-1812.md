@@ -1,6 +1,9 @@
+<!-- NOTE: This content is maintained on WikiTree as a Free Space Page -->
+<!-- WikiTree FSP: Space:16th Regiment, Mississippi Militia, War of 1812 -->
+<!-- WikiTree Category: Category:16th Regiment, Mississippi Militia, War of 1812 -->
+
+[[Category:16th Regiment, Mississippi Militia, War of 1812]]
 [[Category:War of 1812]]
-[[Category:Mississippi Militia]]
-[[Category:Military Units]]
 
 == 16th Regiment (Burrus') Mississippi Militia ==
 

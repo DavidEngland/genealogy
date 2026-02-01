@@ -1,0 +1,13 @@
+== Sources ==
+* "United States Census, 1850," database, [https://www.familysearch.org/ark:/61903/1:1:MCDQ-Y52 FamilySearch], (accessed 30 Jan 2026), entry for Principal for John England, 1850, Bedford, Bedford, Tennessee, United States, Household: Others: Elizabeth England, Rasin England, Mary England, Eliza Jane England, John England.
+* "United States Census, 1840," database, [https://www.familysearch.org/ark:/61903/1:1:XHTV-YT6 FamilySearch], (accessed 30 Jan 2026), entry for Principal for John England, 1840, Bedford, Tennessee, United States.
+* "United States Census, 1820," database, [https://www.familysearch.org/ark:/61903/1:1:XHGC-HJ3 FamilySearch], (accessed 30 Jan 2026), entry for Principal for John England, 1820, Bedford, Tennessee, United States.
+* "Georgia, Tax Digests, 1787-1900," database, [https://www.familysearch.org/ark:/61903/1:1:68LL-R2GM FamilySearch], (accessed 30 Jan 2026), entry for Principal for John England, 1844, Georgia, United States.
+* "Georgia, Tax Digests, 1787-1900," database, [https://www.familysearch.org/ark:/61903/1:1:68LL-RJWC FamilySearch], (accessed 30 Jan 2026), entry for Principal for John England, 1844, Georgia, United States.
+* "Georgia, Tax Digests, 1787-1900," database, [https://www.familysearch.org/ark:/61903/1:1:68L5-P1HL FamilySearch], (accessed 30 Jan 2026), entry for Principal for John England, 1842, Georgia, United States.
+* "Georgia, Tax Digests, 1787-1900," database, [https://www.familysearch.org/ark:/61903/1:1:6ZMY-NVY1 FamilySearch], (accessed 30 Jan 2026), entry for Principal for John B England, Georgia, United States.
+* "United States Census, 1840," database, [https://www.familysearch.org/ark:/61903/1:1:XHTV-YGL FamilySearch], (accessed 30 Jan 2026), entry for Principal for Jonathan England, 1840, Bedford, Tennessee, United States.
+* "United States, Bureau of Land Management Tract Books, 1800-c. 1955," database, [https://www.familysearch.org/ark:/61903/1:1:6K8V-DP6Z FamilySearch], (accessed 30 Jan 2026), entry for Principal for John England, 4 Jun 1808, United States.
+* "United States, Bureau of Land Management Tract Books, 1800-c. 1955," database, [https://www.familysearch.org/ark:/61903/1:1:6KZF-CPB4 FamilySearch], (accessed 30 Jan 2026), entry for Principal for John England, 29 Nov 1849, United States.
+* "Georgia, Tax Digests, 1787-1900," database, [https://www.familysearch.org/ark:/61903/1:1:68LL-B7KS FamilySearch], (accessed 30 Jan 2026), entry for Principal for John Englland, 1847, Georgia, United States.
+* "United States Census, 1830," database, [https://www.familysearch.org/ark:/61903/1:1:XH5S-VZ9 FamilySearch], (accessed 30 Jan 2026), entry for Principal for England, 1830, Bedford, Tennessee, United States.

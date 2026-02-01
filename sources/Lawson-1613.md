@@ -1,0 +1,6 @@
+== Sources ==
+* "Find a Grave Index," database, [https://www.familysearch.org/ark:/61903/1:1:QVKT-JDMN FamilySearch], (accessed 30 Jan 2026), entry for Principal for George Henry Lawson, 1875.
+* "Alabama Deaths, 1908-1974," database, [https://www.familysearch.org/ark:/61903/1:1:JDLL-Y9W FamilySearch], (accessed 30 Jan 2026), entry for Father for G. H. Lawson, Wayne, Tennessee, United States, Household: Spouse: Eliza Ann Pigg; Children: Laura May Lawson.
+* "Tennessee Births and Christenings, 1828-1939," database, [https://www.familysearch.org/ark:/61903/1:1:F6G3-P5T FamilySearch], (accessed 30 Jan 2026), entry for Father for Henry Lawson, Household: Spouse: Eliza; Children: Ardmore Lawson.
+* "Tennessee Marriages, 1796-1950," database, [https://www.familysearch.org/ark:/61903/1:1:XD94-28W FamilySearch], (accessed 30 Jan 2026), entry for Principal for G. H. Lawson, 21 December 1902, Wayne, Tennessee, United States, Household: Spouse: Liza Pigg.
+* "Tennessee, County Marriages, 1790-1950," database, [https://www.familysearch.org/ark:/61903/1:1:QKH3-64RD FamilySearch], (accessed 30 Jan 2026), entry for Groom for G H Lawson, 21 December 1902, Wayne, Tennessee, United States, Household: Spouse: Liza Pigg.

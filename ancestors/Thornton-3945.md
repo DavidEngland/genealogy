@@ -1,0 +1,7 @@
+== Biography ==
+
+'''Joane  Thornton''' (1584 – ?) was born on 1584 in Middlesex, England.
+She was the daughter of '''[[Thornton-801|Henry  Thornton]]''' and '''[[Laughton-65|Margery  Laughton]]'''.
+
+== Sources ==
+* Information synthesized from GEDCOM file import.

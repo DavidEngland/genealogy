@@ -1,0 +1,11 @@
+== Sources ==
+* "Kentucky Marriages, 1785-1979," database, [https://www.familysearch.org/ark:/61903/1:1:FWRX-2F9 FamilySearch], (accessed 28 Jan 2026), entry for Principal for James B. Hardgrove, 31 July 1833, Kentucky, United States, Household: Spouse: Sally Gover.
+* "Kentucky Marriages, 1785-1979," database, [https://www.familysearch.org/ark:/61903/1:1:FWBS-DZB FamilySearch], (accessed 28 Jan 2026), entry for Principal for James B. Hardgrove, 1 August 1833, Kentucky, United States, Household: Spouse: Sally A. Gaven.
+* "Kentucky Marriages, 1785-1979," database, [https://www.familysearch.org/ark:/61903/1:1:FWBN-YQD FamilySearch], (accessed 28 Jan 2026), entry for Principal for James B. Hardgrove, 1 August 1833, Kentucky, United States, Household: Spouse: Sally A. Gaver.
+* "United States Census, 1830," database, [https://www.familysearch.org/ark:/61903/1:1:XH53-XT6 FamilySearch], (accessed 28 Jan 2026), entry for Principal for James Hartgrove, 1830, Pulaski, Kentucky, United States.
+* "United States Census, 1820," database, [https://www.familysearch.org/ark:/61903/1:1:XHGF-QCZ FamilySearch], (accessed 28 Jan 2026), entry for Principal for James Hartgrove, 1820, Somerset, Pulaski, Kentucky, United States.
+* "United States Census, 1810," database, [https://www.familysearch.org/ark:/61903/1:1:XH29-H9Q FamilySearch], (accessed 28 Jan 2026), entry for Principal for James Hartgrove, 1810, Somerset, Pulaski, Kentucky, United States.
+* "United States Census, 1840," database, [https://www.familysearch.org/ark:/61903/1:1:XHTP-96B FamilySearch], (accessed 28 Jan 2026), entry for Principal for James Hartgrove, 1840, Kentucky, United States.
+* "United States General Index to Pension Files, 1861-1934," database, [https://www.familysearch.org/ark:/61903/1:1:KDYR-P71 FamilySearch], (accessed 28 Jan 2026), entry for Principal for James Hartgrove, 1885.
+* "United States War of 1812 Index to Service Records, 1812-1815," database, [https://www.familysearch.org/ark:/61903/1:1:Q29K-HZLL FamilySearch], (accessed 28 Jan 2026), entry for Principal for James Hartgrove, from 1812 to 1815, United States.
+* Source stub for James Hartgrave.

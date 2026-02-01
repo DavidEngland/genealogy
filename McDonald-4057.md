@@ -6,7 +6,7 @@
 
 == Biography ==
 
-Palina Altimira McDonald, known affectionately to her family as "Kitty," was born on March 31, 1859, at Wayland Springs in Lawrence County, Tennessee. She was the fourth of ten children born to Thomas Anderson McDonald (1822-c.1890), a skilled blacksmith and gunsmith, and Sarah A. Adkinson (c.1825-1901). Her distinctive middle name, "Altimira" (sometimes spelled "Altina"), was chosen in honor of her aunt, Artimena McDonald English, following a family naming tradition that would continue through subsequent generations.
+Palina Altimira McDonald, known affectionately to her family as "Kitty," was born on March 31, 1859, at Wayland Springs in Lawrence County, Tennessee. She was the fourth of ten children born to Thomas Anderson McDonald (1822-1885), a skilled blacksmith and gunsmith, and Sarah A. Adkinson (c.1825-1901). Her distinctive middle name, "Altimira" (sometimes spelled "Altina"), was chosen in honor of her aunt, Artimena McDonald English, following a family naming tradition that would continue through subsequent generations.
 
 === Clan Donald Heritage and Family Origins ===
 
@@ -201,6 +201,7 @@ She witnessed:
 * England Family: Connections to early Alabama settlers and Confederate veterans
 * Parish Family: Through son Ed's marriage to Nancy Pearl Parish
 * Emory Family: Through grandmother Margaret Emory McDonald
+* Research note: FamilySearch lists Sarah A. Adkinson as daughter of David Adkisson Jr. (LH7X-V2G) and Bridget Drusilla Foshee (LHFP-HSY). See misc/FS-Adkisson.html for the extracted snapshot.
 
 ==== DNA Research ====
 

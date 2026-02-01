@@ -1,0 +1,24 @@
+{
+  "_comment": "Source filtering configuration for batch-sources.php",
+  "_instructions": "Add a key for each CSV basename (e.g., 'JamesHartgrave.csv') with filter rules. Rules here override command-line defaults.",
+  
+  "JamesHartgrave.csv": {
+    "only_principal": true,
+    "skip_keywords": ["Find a Grave", "Index"],
+    "exclude_families": false,
+    "_note": "Skip Find a Grave entries and anything with 'Index' in collection name"
+  },
+  
+  "WilliamHarrisGresham.csv": {
+    "only_principal": true,
+    "skip_keywords": [],
+    "exclude_families": false
+  },
+  
+  "moses-duncan.csv": {
+    "only_principal": false,
+    "skip_keywords": ["Newspaper"],
+    "exclude_families": true,
+    "_note": "Include non-principal records but skip family relationships"
+  }
+}

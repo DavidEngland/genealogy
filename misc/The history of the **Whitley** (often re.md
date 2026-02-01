@@ -1,0 +1,18 @@
+The history of the **Whitley** (often recorded as **Whitely** or **Whitlow**) family is defined by a transition from **religious persecution in Ireland** to a foundational role in the "western aristocracy" of the American frontier. While the military exploits of William Chapman Whitley are well-documented, the family’s legacy was anchored by the **spiritual instruction** and **domestic resolve** of his parents and siblings.
+
+### **The Patriarchal Foundation: Solomon Whitley Sr.**
+The family’s American journey began with **Solomon Whitley Sr.** (abt. 1723–abt. 1782) and **Elizabeth Barnett** (abt. 1723–1782/3), who emigrated from **Ireland** to Augusta County (now Rockbridge), Virginia. Solomon was more than a pioneer; he served as the family’s primary educator in their early years. According to family narratives in the **Draper Manuscripts**, Solomon was known for teaching his children and grandchildren the **old Presbyterian Catechism**, establishing a strong moral and intellectual framework that persisted across generations. He and Elizabeth eventually followed their children to Kentucky, where they died at **Whitley’s Station** around 1782.
+
+### **The Whitley Siblings: Ministry and Permanence**
+William Chapman Whitley was the oldest of **four sons** and had **five sisters**. While William provided the defense for the frontier, his siblings provided the religious and physical infrastructure for settled society.
+
+*   **James Whitley (b. abt. 1752):** James carried forward the family's educational and spiritual focus by serving as a **Baptist minister** in **Lincoln County, Kentucky**.
+*   **Sarah (Whitley) Lewis (abt. 1752–1837):** Sarah married **Joseph Francis Lewis**, a skilled **brickmason** from England or Ireland. Together, they represented the transition from temporary frontier log cabins to **permanent communities**. Her husband’s masonry skills provided the foundations for structures like **"Sportsman’s Hill"** (the first brick house west of the Blue Ridge), while Sarah managed a large household of eight children, several of whom continued the family's pioneering tradition into Missouri.
+*   **Margaret (Whitley) Clark (abt. 1747–1831):** Margaret married **George Clark**; they were among the first families to "settle out" in the Kentucky wilderness, traveling through the **Cumberland Gap** in the winter of 1775 alongside William Chapman Whitley.
+*   **Michael Whitley (abt. 1730–1777):** Believed to be a sibling or close kinsman to Solomon, Michael died in **Philadelphia in 1777**, sacrificing his life during the height of the Revolutionary struggle.
+*   **Other Siblings:** The known children of Solomon and Elizabeth also included **Mary** (b. 1750), **Ruth** (who married Moses Collier), **Solomon Jr.** (b. 1758), **Catherine** (b. 1760), and **Thomas** (b. 1760).
+
+### **Keeping the Home Fires: Domestic Resilience**
+The family's history is noted for the extraordinary resolve of its women in maintaining domestic life under siege. During the **"Year of the Bloody Sevens" (1777)** at **Logan's Fort**, the Whitley women, including **Margaret Clark** and William’s wife **Esther**, were part of a tiny garrison of only fifteen men and a few women.
+
+The sources highlight their practical bravery: on one occasion, the women ventured outside the fort's picketing to **milk cows** under Indian fire. When the group was attacked, **Esther Whitley** famously stopped to calmly retrieve her hat before retreating to the safety of the fort. This combination of **spiritual education** (the catechism) and **hardened domestic grit** allowed the Whitleys to survive as a family unit when many other frontier households were destroyed.

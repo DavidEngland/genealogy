@@ -1,0 +1,1112 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Enhanced Genealogical Records Schema",
+    "description": "Comprehensive schema for genealogical GEDCOM data with WikiTree integration, aligned with schema.org microdata standards and GEDCOM 7 date semantics",
+    "version": "3.0",
+“type”: “object”,
+“properties”: {
+“metadata”: {
+“type”: “object”,
+“description”: “Project metadata and source information”,
+“properties”: {
+“projectName”: {
+“type”: “string”,
+“description”: “Name of the genealogical project”
+                },
+“projectDescription”: {
+“type”: “string”,
+“description”: “Detailed description of the project scope and purpose”
+                },
+“generated”: {
+“type”: “string”,
+“format”: “date-time”,
+“description”: “Timestamp when this file was generated (ISO 8601)”
+                },
+“lastUpdated”: {
+“type”: “string”,
+“format”: “date-time”,
+“description”: “Last modification timestamp for source data”
+                },
+“source”: {
+“type”: “string”,
+“description”: “Source tool or system that generated this data”
+                },
+“gedcomVersion”: {
+“type”: “string”,
+“enum”: [“5.5”, “5.5.1”, “7.0”
+                    ],
+“description”: “GEDCOM standard version”
+                },
+“charset”: {
+“type”: “string”,
+“enum”: [“ANSI”, “UTF-8”, “UTF-16”, “ASCII”
+                    ],
+“default”: “UTF-8”,
+“description”: “Character encoding of source data”
+                },
+“language”: {
+“type”: “string”,
+“pattern”: “^[a-z
+                    ]{
+                        2
+                    }(-[A-Z
+                    ]{
+                        2
+                    })?$”,
+“default”: “en-US”,
+“description”: “Primary language code (ISO 639-1 with optional region)”
+                },
+“contributors”: {
+“type”: “array”,
+“description”: “People who contributed to this genealogical research”,
+“items”: {
+“type”: “object”,
+“properties”: {
+“name”: {
+“type”: “string”
+                            },
+“role”: {
+“type”: “string”,
+“enum”: [“researcher”, “compiler”, “contributor”, “transcriber”, “verifier”
+                                ]
+                            },
+“contact”: {
+“type”: “string”,
+“format”: “email”
+                            }
+                        },
+“required”: [“name”, “role”
+                        ]
+                    }
+                },
+“copyright”: {
+“type”: “string”,
+“description”: “Copyright or license information”
+                },
+“customProperties”: {
+“type”: “object”,
+“description”: “Additional metadata properties”,
+“additionalProperties”: true
+                }
+            },
+“required”: [“generated”
+            ]
+        },
+“people”: {
+“type”: “array”,
+“description”: “Individual person records (schema.org/Person)”,
+“items”: {
+“type”: “object”,
+“properties”: {
+“wikitreeId”: {
+“type”: [“string”, “null”
+                        ],
+“pattern”: “^[A-Z
+                        ]+-\d+$”,
+“description”: “WikiTree identifier (e.g., England-1357, Smith-123)”
+                    },
+“gedcomId”: {
+“type”: “string”,
+“pattern”: “^@I\d+@$”,
+“description”: “GEDCOM internal ID (e.g., @I135@)”
+                    },
+“externalIds”: {
+“type”: “object”,
+“description”: “Cross-platform genealogy database identifiers”,
+“properties”: {
+“wikitree”: {
+“type”: “string”,
+“description”: “WikiTree profile ID”
+                            },
+“familysearch”: {
+“type”: “string”,
+“description”: “FamilySearch person ID or ARK identifier”
+                            },
+“ancestry”: {
+“type”: “string”,
+“description”: “Ancestry.com person/tree identifier”
+                            },
+“findagrave”: {
+“type”: “string”,
+“description”: “Find A Grave memorial number”
+                            },
+“myheritage”: {
+“type”: “string”,
+“description”: “MyHeritage profile identifier”
+                            },
+“geni”: {
+“type”: “string”,
+“description”: “Geni.com profile identifier”
+                            },
+“custom”: {
+“type”: “object”,
+“description”: “Additional custom identifiers”,
+“additionalProperties”: {
+“type”: “string”
+                                }
+                            }
+                        }
+                    },
+“name”: {
+“type”: “object”,
+“description”: “Name information (schema.org/name)”,
+“properties”: {
+“full”: {
+“type”: “string”,
+“description”: “Full formatted name”
+                            },
+“given”: {
+“type”: “string”,
+“description”: “Given/first name(s)”
+                            },
+“surname”: {
+“type”: “string”,
+“description”: “Family/last name”
+                            },
+“maidenName”: {
+“type”: “string”,
+“description”: “Maiden name (birth surname)”
+                            },
+“prefix”: {
+“type”: “string”,
+“description”: “Name prefix (e.g., ‘Dr.’, ‘Rev.’, ‘Sir’)”
+                            },
+“suffix”: {
+“type”: “string”,
+“description”: “Name suffix (e.g., ‘Jr.’, ‘Sr.’, ‘III’, ‘Esq.’)”
+                            },
+“nickname”: {
+“type”: “string”,
+“description”: “Common nickname or familiar name”
+                            },
+“aliases”: {
+“type”: “array”,
+“description”: “Alternative names or aliases”,
+“items”: {
+“type”: “string”
+                                }
+                            }
+                        },
+“required”: [“full”
+                        ]
+                    },
+“sex”: {
+“type”: “string”,
+“enum”: [“M”, “F”, “U”, “X”
+                        ],
+“description”: “Biological sex (M=Male, F=Female, U=Unknown, X=Intersex/Non-binary)”
+                    },
+“birth”: {
+“type”: “object”,
+“description”: “Birth event (schema.org/BirthEvent)”,
+“properties”: {
+“date”: {
+“type”: “string”,
+“description”: “Birth date (YYYY-MM-DD, YYYY-MM, YYYY, or GEDCOM format like ‘ABT 1788’, ‘BEF 1810’, ‘BET 1780 AND 1785’)”
+                            },
+“place”: {
+“type”: “string”,
+“description”: “Birth location (free text)”
+                            },
+“placeId”: {
+“type”: “string”,
+“description”: “Reference to standardized place record”
+                            },
+“certainty”: {
+“type”: “string”,
+“enum”: [“certain”, “probable”, “possible”, “uncertain”
+                                ],
+“description”: “Confidence level in birth information”
+                            },
+“sources”: {
+“type”: “array”,
+“description”: “Source citations for this event”,
+“items”: {
+“type”: “string”
+                                }
+                            }
+                        }
+                    },
+“death”: {
+“type”: “object”,
+“description”: “Death event (schema.org/DeathEvent)”,
+“properties”: {
+“date”: {
+“type”: “string”,
+“description”: “Death date”
+                            },
+“place”: {
+“type”: “string”,
+“description”: “Death location”
+                            },
+“placeId”: {
+“type”: “string”,
+“description”: “Reference to place record”
+                            },
+“cause”: {
+“type”: “string”,
+“description”: “Cause of death”
+                            },
+“certainty”: {
+“type”: “string”,
+“enum”: [“certain”, “probable”, “possible”, “uncertain”
+                                ]
+                            },
+“sources”: {
+“type”: “array”,
+“items”: {
+“type”: “string”
+                                }
+                            }
+                        }
+                    },
+“burial”: {
+“type”: “object”,
+“description”: “Burial or interment event”,
+“properties”: {
+“date”: {
+“type”: “string”
+                            },
+“place”: {
+“type”: “string”,
+“description”: “Cemetery or burial location”
+                            },
+“placeId”: {
+“type”: “string”
+                            },
+“cemetery”: {
+“type”: “string”,
+“description”: “Specific cemetery name”
+                            },
+“plot”: {
+“type”: “string”,
+“description”: “Plot, lot, or section number”
+                            },
+“sources”: {
+“type”: “array”,
+“items”: {
+“type”: “string”
+                                }
+                            }
+                        }
+                    },
+“baptism”: {
+“type”: “object”,
+“description”: “Baptism or christening event”,
+“properties”: {
+“date”: {
+“type”: “string”
+                            },
+“place”: {
+“type”: “string”
+                            },
+“placeId”: {
+“type”: “string”
+                            },
+“church”: {
+“type”: “string”,
+“description”: “Church or religious institution”
+                            },
+“sources”: {
+“type”: “array”,
+“items”: {
+“type”: “string”
+                                }
+                            }
+                        }
+                    },
+“occupation”: {
+“type”: “array”,
+“description”: “Occupations and professions (schema.org/hasOccupation)”,
+“items”: {
+“type”: “object”,
+“properties”: {
+“title”: {
+“type”: “string”,
+“description”: “Job title or occupation name”
+                                },
+“startDate”: {
+“type”: “string”
+                                },
+“endDate”: {
+“type”: “string”
+                                },
+“place”: {
+“type”: “string”
+                                },
+“description”: {
+“type”: “string”
+                                }
+                            },
+“required”: [“title”
+                            ]
+                        }
+                    },
+“residences”: {
+“type”: “array”,
+“description”: “Known residences throughout life”,
+“items”: {
+“type”: “object”,
+“properties”: {
+“place”: {
+“type”: “string”
+                                },
+“placeId”: {
+“type”: “string”
+                                },
+“date”: {
+“type”: “string”,
+“description”: “Date or date range of residence”
+                                },
+“type”: {
+“type”: “string”,
+“enum”: [“primary”, “temporary”, “seasonal”, “unknown”
+                                    ]
+                                },
+“sources”: {
+“type”: “array”,
+“items”: {
+“type”: “string”
+                                    }
+                                }
+                            },
+“required”: [“place”
+                            ]
+                        }
+                    },
+“militaryService”: {
+“type”: “array”,
+“description”: “Military service records”,
+“items”: {
+“type”: “object”,
+“properties”: {
+“war”: {
+“type”: “string”,
+“description”: “War or conflict name (e.g., ‘United States Civil War’, ‘World War I’)”
+                                },
+“side”: {
+“type”: “string”,
+“description”: “Side or allegiance (e.g., ‘CSA’, ‘USA’, ‘Allied Powers’)”
+                                },
+“branch”: {
+“type”: “string”,
+“enum”: [“army”, “navy”, “marines”, “air_force”, “coast_guard”, “militia”, “cavalry”, “infantry”, “artillery”, “unknown”
+                                    ]
+                                },
+“rank”: {
+“type”: “string”,
+“description”: “Military rank (e.g., ‘Private’, ‘Sergeant’, ‘Captain’)”
+                                },
+“unit”: {
+“type”: “string”,
+“description”: “Unit designation (full regiment/company name)”
+                                },
+“regiment”: {
+“type”: “string”,
+“description”: “Regiment name”
+                                },
+“company”: {
+“type”: “string”,
+“description”: “Company designation (e.g., ‘Company A’, ‘Co C’)”
+                                },
+“enlisted”: {
+“type”: “string”,
+“description”: “Enlistment date or year”
+                                },
+“discharged”: {
+“type”: “string”,
+“description”: “Discharge date or year”
+                                },
+“mustered”: {
+“type”: “string”,
+“description”: “Mustered out date or year”
+                                },
+“isPOW”: {
+“type”: “boolean”,
+“description”: “Whether person was a prisoner of war”
+                                },
+“captured”: {
+“type”: “string”,
+“description”: “Date or location of capture”
+                                },
+“prisonCamp”: {
+“type”: “string”,
+“description”: “Name of POW camp(s)”
+                                },
+“battles”: {
+“type”: “array”,
+“description”: “Battles or engagements participated in”,
+“items”: {
+“type”: “string”
+                                    }
+                                },
+“wounds”: {
+“type”: “array”,
+“description”: “Combat wounds or injuries”,
+“items”: {
+“type”: “object”,
+“properties”: {
+“description”: {
+“type”: “string”
+                                            },
+“date”: {
+“type”: “string”
+                                            },
+“battle”: {
+“type”: “string”
+                                            }
+                                        }
+                                    }
+                                },
+“pension”: {
+“type”: “object”,
+“description”: “Military pension information”,
+“properties”: {
+“applied”: {
+“type”: “string”
+                                        },
+“approved”: {
+“type”: “string”
+                                        },
+“amount”: {
+“type”: “string”
+                                        },
+“fileNumber”: {
+“type”: “string”
+                                        }
+                                    }
+                                },
+“sources”: {
+“type”: “array”,
+“items”: {
+“type”: “string”
+                                    }
+                                }
+                            }
+                        }
+                    },
+“education”: {
+“type”: “array”,
+“description”: “Educational background”,
+“items”: {
+“type”: “object”,
+“properties”: {
+“institution”: {
+“type”: “string”
+                                },
+“degree”: {
+“type”: “string”
+                                },
+“field”: {
+“type”: “string”
+                                },
+“startDate”: {
+“type”: “string”
+                                },
+“endDate”: {
+“type”: “string”
+                                }
+                            }
+                        }
+                    },
+“religion”: {
+“type”: “string”,
+“description”: “Religious affiliation”
+                    },
+“familyAsSpouse”: {
+“type”: “array”,
+“description”: “Family records where this person is spouse (FAM IDs)”,
+“items”: {
+“type”: “string”
+                        }
+                    },
+“familyAsChild”: {
+“type”: [“string”, “null”
+                        ],
+“description”: “Family record where this person is child (FAM ID)”
+                    },
+“categories”: {
+“type”: “array”,
+“description”: “WikiTree category assignments”,
+“items”: {
+“type”: “string”,
+“description”: “Category name (e.g., ‘Kentucky Appalachians’, ‘United States Civil War’)”
+                        }
+                    },
+“stickers”: {
+“type”: “array”,
+“description”: “WikiTree stickers/templates (project badges, notables, etc.)”,
+“items”: {
+“type”: “object”,
+“properties”: {
+“template”: {
+“type”: “string”,
+“description”: “Template name (e.g., ‘US Civil War’, ‘Notables Sticker’, ‘Appalachia’)”
+                                },
+“params”: {
+“type”: [“object”, “array”
+                                    ],
+“description”: “Template parameters (key-value pairs or ordered list)”,
+“additionalProperties”: true
+                                }
+                            },
+“required”: [“template”
+                            ]
+                        }
+                    },
+“biographicalSections”: {
+“type”: “object”,
+“description”: “Structured biographical content by section”,
+“additionalProperties”: {
+“type”: [“string”, “array”
+                            ],
+“items”: {
+“type”: “string”
+                            }
+                        }
+                    },
+“achievements”: {
+“type”: “array”,
+“description”: “Notable achievements or accomplishments”,
+“items”: {
+“type”: “object”,
+“properties”: {
+“title”: {
+“type”: “string”
+                                },
+“date”: {
+“type”: “string”
+                                },
+“description”: {
+“type”: “string”
+                                },
+“category”: {
+“type”: “string”,
+“enum”: [“political”, “military”, “scientific”, “artistic”, “business”, “religious”, “social”, “other”
+                                    ]
+                                }
+                            }
+                        }
+                    },
+“photos”: {
+“type”: “array”,
+“description”: “Photographs and images”,
+“items”: {
+“type”: “object”,
+“properties”: {
+“url”: {
+“type”: “string”,
+“format”: “uri”
+                                },
+“caption”: {
+“type”: “string”
+                                },
+“date”: {
+“type”: “string”
+                                },
+“photographer”: {
+“type”: “string”
+                                },
+“isPrimary”: {
+“type”: “boolean”,
+“description”: “Whether this is the primary profile photo”
+                                }
+                            }
+                        }
+                    },
+“dnaTests”: {
+“type”: “array”,
+“description”: “DNA test information for genealogical matching”,
+“items”: {
+“type”: “object”,
+“properties”: {
+“testType”: {
+“type”: “string”,
+“enum”: [“autosomal”, “Y-DNA”, “mtDNA”, “X-DNA”
+                                    ]
+                                },
+“company”: {
+“type”: “string”,
+“enum”: [“23andMe”, “Ancestry”, “FamilyTreeDNA”, “MyHeritage”, “LivingDNA”, “Other”
+                                    ]
+                                },
+“testId”: {
+“type”: “string”,
+“description”: “Test kit number or ID”
+                                },
+“testDate”: {
+“type”: “string”
+                                },
+“haplogroup”: {
+“type”: “string”,
+“description”: “Genetic haplogroup (for Y-DNA or mtDNA)”
+                                },
+“gedcomUrl”: {
+“type”: “string”,
+“format”: “uri”,
+“description”: “URL to download GEDCOM of DNA matches”
+                                }
+                            }
+                        }
+                    },
+“notes”: {
+“type”: “string”,
+“description”: “Additional notes, narrative, or free-form biography”
+                    },
+“researchNotes”: {
+“type”: “string”,
+“description”: “Research notes, open questions, or to-do items”
+                    },
+“sources”: {
+“type”: “array”,
+“description”: “General source citations for this person”,
+“items”: {
+“type”: “string”,
+“description”: “Reference to source record ID”
+                        }
+                    },
+“tags”: {
+“type”: “array”,
+“description”: “Custom tags for organization and filtering”,
+“items”: {
+“type”: “string”
+                        }
+                    },
+“privacy”: {
+“type”: “object”,
+“description”: “Privacy settings and living status”,
+“properties”: {
+“isLiving”: {
+“type”: “boolean”,
+“description”: “Whether person is living (affects data privacy)”
+                            },
+“privacyLevel”: {
+“type”: “string”,
+“enum”: [“public”, “private”, “open”, “private_with_public_tree”
+                                ],
+“description”: “WikiTree privacy level”
+                            },
+“lastEditDate”: {
+“type”: “string”,
+“format”: “date-time”
+                            }
+                        }
+                    },
+“customFields”: {
+“type”: “object”,
+“description”: “Additional custom properties”,
+“additionalProperties”: true
+                    }
+                },
+“required”: [“gedcomId”, “name”
+                ]
+            }
+        },
+“families”: {
+“type”: “array”,
+“description”: “Family units linking individuals (parent-child and spousal relationships)”,
+“items”: {
+“type”: “object”,
+“properties”: {
+“familyId”: {
+“type”: “string”,
+“pattern”: “^@F\d+@$”,
+“description”: “GEDCOM family ID (e.g., @F1@)”
+                    },
+“husband”: {
+“type”: [“string”, “null”
+                        ],
+“description”: “Husband’s gedcomId or wikitreeId”
+                    },
+“wife”: {
+“type”: [“string”, “null”
+                        ],
+“description”: “Wife’s gedcomId or wikitreeId”
+                    },
+“marriageStatus”: {
+“type”: “string”,
+“enum”: [“married”, “common_law”, “partners”, “engaged”, “divorced”, “separated”, “annulled”, “unknown”
+                        ],
+“description”: “Status of relationship”
+                    },
+“marriage”: {
+“type”: “object”,
+“description”: “Marriage event (schema.org/Event)”,
+“properties”: {
+“date”: {
+“type”: “string”
+                            },
+“place”: {
+“type”: “string”
+                            },
+“placeId”: {
+“type”: “string”
+                            },
+“type”: {
+“type”: “string”,
+“enum”: [“civil”, “religious”, “common_law”, “unknown”
+                                ]
+                            },
+“sources”: {
+“type”: “array”,
+“items”: {
+“type”: “string”
+                                }
+                            }
+                        }
+                    },
+“divorce”: {
+“type”: “object”,
+“description”: “Divorce event”,
+“properties”: {
+“date”: {
+“type”: “string”
+                            },
+“place”: {
+“type”: “string”
+                            },
+“sources”: {
+“type”: “array”,
+“items”: {
+“type”: “string”
+                                }
+                            }
+                        }
+                    },
+“children”: {
+“type”: “array”,
+“description”: “Child gedcomIds or wikitreeIds”,
+“items”: {
+“type”: “string”
+                        }
+                    },
+“childrenCount”: {
+“type”: “integer”,
+“description”: “Number of children (if count known but individuals not all recorded)”
+                    },
+“notes”: {
+“type”: “string”,
+“description”: “Notes about this family unit”
+                    },
+“sources”: {
+“type”: “array”,
+“items”: {
+“type”: “string”
+                        }
+                    }
+                },
+“required”: [“familyId”
+                ]
+            }
+        },
+“places”: {
+“type”: “array”,
+“description”: “Geographic locations (schema.org/Place) - standardized place records”,
+“items”: {
+“type”: “object”,
+“properties”: {
+“placeId”: {
+“type”: “string”,
+“description”: “Unique identifier for this place”
+                    },
+“name”: {
+“type”: “string”,
+“description”: “Place name (full, formatted)”
+                    },
+“standardizedName”: {
+“type”: “string”,
+“description”: “Standardized name format (e.g., ‘City, County, State, Country’)”
+                    },
+“type”: {
+“type”: “string”,
+“enum”: [“country”, “state”, “province”, “county”, “city”, “town”, “township”, “parish”, “village”, “neighborhood”, “landmark”, “cemetery”, “church”, “hospital”, “unknown”
+                        ],
+“description”: “Geographic or institutional type”
+                    },
+“parent”: {
+“type”: “string”,
+“description”: “Parent place ID (e.g., county’s parent is state)”
+                    },
+“alternateNames”: {
+“type”: “array”,
+“description”: “Historical or alternate names for this location”,
+“items”: {
+“type”: “string”
+                        }
+                    },
+“coordinates”: {
+“type”: “object”,
+“description”: “Geographic coordinates (schema.org/GeoCoordinates)”,
+“properties”: {
+“latitude”: {
+“type”: “number”,
+“minimum”: -90,
+“maximum”: 90
+                            },
+“longitude”: {
+“type”: “number”,
+“minimum”: -180,
+“maximum”: 180
+                            }
+                        }
+                    },
+“timeRange”: {
+“type”: “object”,
+“description”: “Time period when this place name was valid”,
+“properties”: {
+“start”: {
+“type”: “string”,
+“description”: “Start date (YYYY or YYYY-MM-DD)”
+                            },
+“end”: {
+“type”: “string”,
+“description”: “End date (YYYY or YYYY-MM-DD), omit if still current”
+                            }
+                        }
+                    },
+“notes”: {
+“type”: “string”
+                    }
+                },
+“required”: [“placeId”, “name”
+                ]
+            }
+        },
+“sources”: {
+“type”: “array”,
+“description”: “Bibliographic sources and citations (schema.org/CreativeWork)”,
+“items”: {
+“type”: “object”,
+“properties”: {
+“sourceId”: {
+“type”: “string”,
+“description”: “Unique source identifier”
+                    },
+“title”: {
+“type”: “string”,
+“description”: “Full title of source”
+                    },
+“abbreviation”: {
+“type”: “string”,
+“description”: “Short title or abbreviation”
+                    },
+“type”: {
+“type”: “string”,
+“enum”: [
+“book”,
+“census”,
+“vital_record”,
+“land_record”,
+“probate_record”,
+“court_record”,
+“military_record”,
+“bible_record”,
+“cemetery_record”,
+“church_record”,
+“newspaper”,
+“periodical”,
+“manuscript”,
+“photograph”,
+“letter”,
+“diary”,
+“interview”,
+“family_search”,
+“ancestry”,
+“wikitree”,
+“findagrave”,
+“database”,
+“website”,
+“other”
+                        ],
+“description”: “Type of source material”
+                    },
+“author”: {
+“type”: “string”,
+“description”: “Author or creator of source”
+                    },
+“editor”: {
+“type”: “string”,
+“description”: “Editor of compiled source”
+                    },
+“publication”: {
+“type”: “string”,
+“description”: “Publisher or publication information”
+                    },
+“publicationPlace”: {
+“type”: “string”,
+“description”: “Place of publication”
+                    },
+“date”: {
+“type”: “string”,
+“description”: “Publication date or date of record”
+                    },
+“url”: {
+“type”: “string”,
+“format”: “uri”,
+“description”: “Online URL for source”
+                    },
+“accessDate”: {
+“type”: “string”,
+“format”: “date”,
+“description”: “Date URL was accessed (for online sources)”
+                    },
+“repository”: {
+“type”: “string”,
+“description”: “Physical repository or archive holding source”
+                    },
+“repositoryLocation”: {
+“type”: “string”,
+“description”: “Location of repository”
+                    },
+“callNumber”: {
+“type”: “string”,
+“description”: “Library or archive call number”
+                    },
+“volume”: {
+“type”: “string”,
+“description”: “Volume number (for multi-volume works)”
+                    },
+“page”: {
+“type”: “string”,
+“description”: “Page number(s)”
+                    },
+“filmNumber”: {
+“type”: “string”,
+“description”: “Microfilm number (e.g., FamilySearch FHL microfilm)”
+                    },
+“digitalArchiveId”: {
+“type”: “string”,
+“description”: “Digital archive identifier (Ancestry, FamilySearch, etc.)”
+                    },
+“citation”: {
+“type”: “string”,
+“description”: “Formatted citation string (follows citation standard)”
+                    },
+“quality”: {
+“type”: “string”,
+“enum”: [“primary”, “secondary”, “tertiary”, “questionable”, “unknown”
+                        ],
+“description”: “Source quality rating”
+                    },
+“notes”: {
+“type”: “string”,
+“description”: “Notes about source reliability, contents, etc.”
+                    },
+“attachments”: {
+“type”: “array”,
+“description”: “Attached documents or images”,
+“items”: {
+“type”: “object”,
+“properties”: {
+“url”: {
+“type”: “string”,
+“format”: “uri”
+                                },
+“filename”: {
+“type”: “string”
+                                },
+“description”: {
+“type”: “string”
+                                },
+“mimeType”: {
+“type”: “string”
+                                }
+                            }
+                        }
+                    }
+                },
+“required”: [“sourceId”, “title”, “type”
+                ]
+            }
+        },
+“events”: {
+“type”: “array”,
+“description”: “Shared events involving multiple people (reunions, migrations, disasters, etc.)”,
+“items”: {
+“type”: “object”,
+“properties”: {
+“eventId”: {
+“type”: “string”
+                    },
+“name”: {
+“type”: “string”,
+“description”: “Event name or title”
+                    },
+“type”: {
+“type”: “string”,
+“enum”: [“migration”, “reunion”, “disaster”, “historical”, “community”, “religious”, “other”
+                        ]
+                    },
+“date”: {
+“type”: “string”
+                    },
+“place”: {
+“type”: “string”
+                    },
+“participants”: {
+“type”: “array”,
+“description”: “People involved in this event”,
+“items”: {
+“type”: “string”
+                        }
+                    },
+“description”: {
+“type”: “string”
+                    },
+“sources”: {
+“type”: “array”,
+“items”: {
+“type”: “string”
+                        }
+                    }
+                },
+“required”: [“eventId”, “name”, “type”
+                ]
+            }
+        },
+“researchLogs”: {
+“type”: “array”,
+“description”: “Research log entries documenting the research process”,
+“items”: {
+“type”: “object”,
+“properties”: {
+“logId”: {
+“type”: “string”
+                    },
+“date”: {
+“type”: “string”,
+“format”: “date”
+                    },
+“researcher”: {
+“type”: “string”
+                    },
+“subject”: {
+“type”: “string”,
+“description”: “Person or family being researched”
+                    },
+“objective”: {
+“type”: “string”,
+“description”: “Research goal or question”
+                    },
+“sourcesSearched”: {
+“type”: “array”,
+“items”: {
+“type”: “string”
+                        }
+                    },
+“findings”: {
+“type”: “string”,
+“description”: “What was found”
+                    },
+“nextSteps”: {
+“type”: “string”,
+“description”: “Planned next research steps”
+                    }
+                }
+            }
+        }
+    },
+“required”: [“metadata”, “people”
+    ],
+“additionalProperties”: false
+}

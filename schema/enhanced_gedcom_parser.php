@@ -1,4 +1,5 @@
 <?php
+// Enhanced GEDCOM parser.
 /**
  * Enhanced GEDCOM Parser with WikiTree & FamilySearch ID Extraction
  * Converts GEDCOM files to JSON, extracting genealogy service IDs
@@ -474,15 +475,15 @@ class EnhancedGedcomParser {
     public function exportIdMappings($outputFile) {
         $handle = fopen($outputFile, 'w');
         
-           fputcsv($handle, ['GEDCOM ID', 'WikiTree ID', 'Name', 'ID Sources'], ',', '"');
+           fputcsv($handle, ['GEDCOM ID', 'WikiTree ID', 'Name', 'ID Sources'], ',', '"', '\\');
         
         foreach ($this->data['idMappings'] as $mapping) {
-              fputcsv($handle, [
+                            fputcsv($handle, [
                 $mapping['gedcomId'],
                 $mapping['wikitreeId'],
                 $mapping['name'],
                 implode(', ', $mapping['sources'])
-              ], ',', '"');
+                            ], ',', '"', '\\');
         }
         
         fclose($handle);
@@ -531,4 +532,3 @@ if (php_sapi_name() === 'cli') {
         exit(1);
     }
 }
-?>

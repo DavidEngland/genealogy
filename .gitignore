@@ -1,0 +1,189 @@
+# ============================================
+# Genealogy Project .gitignore
+# Updated: 30 January 2026
+# ============================================
+
+# ============================================
+# Backup and Temporary Files
+# ============================================
+bak/
+*.bak
+*.backup
+*.tmp
+*~
+.*.swp
+.*.swo
+
+# Old/archive folders
+*.old/
+*-old/
+Hartgrove-97-bios.old/
+
+# ============================================
+# Privacy-Sensitive Data
+# ============================================
+
+# GEDCOM files (may contain living persons)
+*.ged
+GEDs/
+mom.ged
+TomGresham.ged
+Mary Jane Scott.ged
+MaryJaneScott.ged
+
+# Search results with potential PII
+search-results/*.csv
+search-results/*.json
+search-results/*.xlsx
+
+# Exception: Keep the .gitignore in search-results
+!search-results/.gitignore
+
+# Personal correspondence
+*.eml
+*.eml.txt
+
+# Cover letters and resumes
+cover-letter*.html
+cover-letter*.md
+
+# ============================================
+# Large/Generated Files
+# ============================================
+
+# PDF documents (can be large)
+*.pdf
+
+# Exception: Allow specific important PDFs
+# !docs/important-document.pdf
+
+# Books folder (often large scans)
+Books/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# ============================================
+# System and IDE Files
+# ============================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails
+._*
+Thumbs.db
+
+# VS Code
+.vscode/
+*.code-workspace
+genealogy.code-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+*.log
+
+# PHP
+vendor/
+composer.lock
+*.cache
+
+# ============================================
+# Working Files (keep local only)
+# ============================================
+
+# TODO and scratch notes
+TODO.md
+WIKITREE_ID_EXTRACTION.txt
+START_HERE.txt
+
+# Completion summaries (project management)
+COMPLETION_SUMMARY.txt
+IMPLEMENTATION_COMPLETE.md
+IMPLEMENTATION_SUMMARY.md
+IMPLEMENTATION_SUMMARY_ENHANCED.md
+
+# Personal notes in misc
+misc/notes/
+misc/scratch/
+misc/private/
+
+# ============================================
+# Data Files (conditionally exclude)
+# ============================================
+
+# CSV search results
+*-search-results.csv
+search-results-*.csv
+
+# Large data exports
+data/exports/
+data/raw/
+data/private/
+
+# Large CSV files with private data
+England-1055.csv
+GWBrewer-search-results.csv
+Genealogical Records and Historical Personalities of Early America - Table 1.csv
+
+# JSON databases with private info
+ancestors/reference-database.json
+ancestors/reference-database.csv
+
+# ============================================
+# Build/Output Directories
+# ============================================
+
+# Script outputs
+output/
+dist/
+build/
+
+# ============================================
+# ALLOW THESE (explicitly track)
+# ============================================
+
+# Keep important markdown documentation
+!*.md
+!README.md
+!PIGG_QUICK_REFERENCE.md
+!Pigg-ancestor-index.md
+
+# Keep source citations (no PII)
+!sources/*.md
+
+# Keep ancestor profiles (historical figures, no living persons)
+!ancestors/*.md
+
+# Keep schemas
+!schema/*.json
+!schema/*.sql
+
+# Keep scripts (no sensitive data)
+!scripts/*.py
+!scripts/*.php
+!scripts/*.sh
+!scripts/*.js
+
+# Keep style guides  
+!wikiTree-style-guide.md
+!wikitree-style-guide.html
+
+# ============================================
+# Git worktrees
+# ============================================
+.worktrees/
+*.worktree*/
