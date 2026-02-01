@@ -1,3 +1,5 @@
+[[Category:Lewis Family]]
+
 == Biography ==
 
 '''Joseph Francis Lewis''' (WikiTree ID: [[Lewis-9841]]) (c. 1750-1756 – c. 1825-1828) was a brickmason and early American settler who emigrated from England or Ireland to establish himself in Kentucky during the late 18th century. He is notable for his marriage into the prominent Whitley family and his skilled trade as one of the early brickmasons in the Kentucky frontier.

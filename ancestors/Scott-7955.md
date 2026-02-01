@@ -1,3 +1,5 @@
+[[Category:Clan Scott]]
+
 == Biography ==
 
 '''Madison C Scott''' (1846 – ?) was born on 1846 in Wayne, Tennessee, United States.

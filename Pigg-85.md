@@ -1,3 +1,5 @@
+[[Category:Pigg Family]]
+
 == Biography ==
 
 '''John Henry Pigg I''' (1817–1879) was born in 1817 in Williamson County, Tennessee, United States. He was the son of '''[[Pigg-116|John Nathan Pigg]]''' (1765–1835) and '''[[Cate-181|Sarah Callie Cate]]''' (1781–1875).

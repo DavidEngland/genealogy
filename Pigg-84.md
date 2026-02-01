@@ -1,3 +1,6 @@
+[[Category:Pigg Family]]
+[[Category:Scott Family]]
+
 == Biography ==
 
 '''William T. Pigg''' was born on 17 March 1842 in Wayne County, Tennessee, United States to [[Pigg-85|John Henry Pigg I]] (1817–1879) and [[Gray-5898|Eliza Jane (Gray) Pigg]] (1817–1896). His father was 25 and his mother was 25 at the time of his birth.

@@ -9,6 +9,7 @@ A comprehensive genealogical research database with 2,100+ biographical records,
 | Folder | Purpose |
 |--------|---------|
 | **ancestors/** | 2,000+ WikiTree biographical profiles (Family-WikiTreeID.md format) |
+| **ancestors/family/** | Per-person research notes (Surname/WikiTreeID-notes.md format) |
 | **data/** | Processed genealogical exports (CSV lookup tables, JSON datasets) |
 | **GEDs/** | GEDCOM source files and related documentation |
 | **histories/** | Regional historical narratives organized by state/county/locality |
@@ -132,6 +133,9 @@ See [ancestors/](ancestors/) for individual profiles.
 
 - **Research notes**: `Topic-WikiTreeID-Research.md` or `Topic-sources.md`
   - Example: `Welch-1883-Research.md`, `England-1055-sources.md`
+
+- **Per-person notes (active)**: `ancestors/family/Surname/Surname-WikiTreeID-notes.md`
+  - Example: `ancestors/family/White/White-16150-notes.md`
 
 - **Search results**: `FamilyName-search-results.csv` (FamilySearch exports)
 

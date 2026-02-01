@@ -4,6 +4,7 @@
 [[Category:Tennessee Pioneers]]
 [[Category:Lauderdale County, Alabama]]
 [[Category:Haywood County, Tennessee]]
+[[Category:Gresham Family]]
 
 == Biography ==
 

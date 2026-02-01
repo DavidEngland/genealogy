@@ -1,6 +1,7 @@
 [[Category: Wayne County, Tennessee]]
 [[Category: Tennessee Settlers]]
 [[Category: Scott Family]]
+[[Category: Clan Scott]]
 
 == Biography ==
 

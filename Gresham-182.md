@@ -2,6 +2,7 @@
 [[Category:Pleasant Hill United Methodist Church Cemetery, Lauderdale County, Alabama]]
 [[Category:Church of Christ]]
 [[Category:Alabama Pioneers]]
+[[Category:Gresham Family]]
 
 == Biography ==
 {{Appalachia Sticker|born|state=Alabama}}

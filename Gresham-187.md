@@ -4,6 +4,7 @@
 [[Category: 3rd Virginia Regiment (1776), Continental Army, American Revolution]]
 [[Category: Frontier Settlers]]
 [[Category: DAR Patriot Ancestors]]
+[[Category: Gresham Family]]
 
 {{1776 Sticker| unit= 3rd Virginia Regiment (1777), Continental Army, American Revolution
 }}

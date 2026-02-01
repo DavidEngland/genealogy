@@ -1,3 +1,5 @@
+[[Category:Clan Scott]]
+
 == Biography ==
 
 '''Frederick Marion Scott''' (1832 – 1865) was born on 1832 in Wayne, Tennessee, United States.

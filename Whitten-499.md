@@ -1,4 +1,5 @@
 [[Category:Pleasant Hill United Methodist Church Cemetery, Lauderdale County, Alabama]]
+[[Category:Whitten Family]]
 
 == Biography ==
 

@@ -1,3 +1,5 @@
+[[Category:Clan Scott]]
+
 == Biography ==
 
 '''Isabella  Scott''' (1851 – 1918) was born on 9 Mar 1851 in Wayne, Tennessee, United States.

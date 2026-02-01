@@ -1,4 +1,5 @@
 [[Category:Wayne County, Tennessee]]
+[[Category:Pigg Family]]
 
 == Biography ==
 

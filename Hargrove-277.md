@@ -1,4 +1,5 @@
 [[Category:16th Regiment, Mississippi Militia, War of 1812]]
+[[Category:Hargrove Family]]
 
 == Biography ==
 

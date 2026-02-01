@@ -1,5 +1,6 @@
 [[Category:Newberry, South Carolina]]
 [[Category:Lauderdale County, Alabama]]
+[[Category:Clan Duncan]]
 {{Image|file=Scotland_-_Clan_Tartans-183.jpg|align=r|size=s|caption=Duncan Tartan 2021 Update}}
 {{Image|file=Twisted_Thistles.jpg
 |align=r

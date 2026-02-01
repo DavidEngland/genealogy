@@ -5,6 +5,7 @@
 [[Category:South Carolina Pioneers]]
 [[Category:Scottish Immigrants]]
 [[Category:Frontier Settlers]]
+[[Category:Clan Duncan]]
 
 >>>>>>> 28d55c2f75b02581453092f02f4da3b0d69b22c8
 {{Estimated Date}}

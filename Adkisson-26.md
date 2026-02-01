@@ -3,6 +3,7 @@
 [[Category:Halifax County, Virginia]]
 [[Category:Wayland Springs, Tennessee]]
 [[Category:Roane County, Tennessee]]
+[[Category:Adkisson Family]]
 
 == Biography ==
 

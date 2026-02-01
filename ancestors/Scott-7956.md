@@ -1,3 +1,5 @@
+[[Category:Clan Scott]]
+
 == Biography ==
 
 '''John James Scott''' (1838 – 1926) was born on 10 Feb 1838 in Wayne, Tennessee, United States.

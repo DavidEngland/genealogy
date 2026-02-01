@@ -1,3 +1,5 @@
+[[Category:Clan Scott]]
+
 == Biography ==
 
 '''Eliza  Scott''' (1848 – ?) was born on 1848 in Wayne, Tennessee, United States.

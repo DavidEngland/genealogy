@@ -1,0 +1,3 @@
+The following comment from Ron James was posted on the WikiTree profile of George Brewer. Do not reply to this e-mail. Click here to reply or send Ron a private message if you do not want your response to be public.
+
+I have removed the III from George Washington Brewer's name and notified the Brewer Name Study: Requesting a parentage correction for this profile. Big Y-700 DNA (Kit GE1604003) confirms this line belongs to the I-Y23708 subclade (Howell Brewer line), not the Lanier Brewer (I-Y29640) branch. I have attached Howell Brewer Sr. (Brewer-1427) as father, but I am blocked by Project Protection from detaching the incorrect mother (Unknown-514247) and adding the correct mother, Rebecca (Willis-226). Please assist in aligning this profile with the DNA evidence."

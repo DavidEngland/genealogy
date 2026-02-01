@@ -1,3 +1,5 @@
+[[Category:Clan Scott]]
+
 == Biography ==
 
 '''William P. M. Scott''' (1839 – 1915) was born on 12 May 1839 in Wayne, Tennessee, United States.

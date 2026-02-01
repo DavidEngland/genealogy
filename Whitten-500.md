@@ -1,4 +1,5 @@
 [[Category:Lauderdale County, Alabama]]
+[[Category:Whitten Family]]
 
 == Biography ==
 

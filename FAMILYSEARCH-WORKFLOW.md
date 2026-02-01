@@ -99,6 +99,65 @@ Add to profile's Research Notes section:
 * Mother's identity remains unknown - requires further research in Hopkins County vital records
 ```
 
+---
+
+## Research Notes CRUD (Per-Person Files)
+
+**Location rule:** store active notes in `ancestors/family/<Surname>/<Surname>-<WikiTreeID>-notes.md`.
+
+**Example:** `ancestors/family/White/White-16150-notes.md`
+
+### Required Metadata (Evidence in Front Matter)
+Use YAML front matter at the top of each notes file:
+
+```yaml
+---
+person: Full Name (WikiTreeID)
+wikitree_id: WikiTreeID
+file_role: research-notes
+status: active
+last_updated: YYYY-MM-DD
+evidence:
+  - "Short citation or record description"
+  - "Short citation or record description"
+---
+```
+
+### CRUD Workflow
+
+**Create**
+1. Create notes file at the path above.
+2. Add metadata and the standard sections: Summary, Research Questions, Findings, Conflicts & Hypotheses, Next Actions, Sources.
+
+**Read**
+- The profile file should contain a short Research Notes section that links to the notes file for full details.
+
+**Update**
+1. Add new evidence entries to the metadata list.
+2. Update Findings and Next Actions with dates and outcomes.
+3. Record resolved conflicts and move them to Findings.
+
+**Close/Archive**
+- When research is complete, set `status: archived` and add a final resolution note in the Summary.
+
+### Standard Section Template
+
+```markdown
+# Research Notes — Full Name (WikiTreeID)
+
+## Summary
+
+## Research Questions
+
+## Findings
+
+## Conflicts & Hypotheses
+
+## Next Actions
+
+## Sources
+```
+
 ### Common Pitfalls to Avoid
 
 1. **Don't assume name match = person match**

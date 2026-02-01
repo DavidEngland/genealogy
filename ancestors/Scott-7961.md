@@ -1,3 +1,5 @@
+[[Category:Clan Scott]]
+
 == Biography ==
 
 '''Franklin Pierce Scott''' (1849 – 1921) was born on ABT 20 Jun 1849 in Wayne, Tennessee, United States.

@@ -1,5 +1,6 @@
 [[Category:Lauderdale County, Alabama]]
 [[Category:South Carolina]]
+[[Category:Clan Duncan]]
 
 == Discrepancy ==
 
