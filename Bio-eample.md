@@ -1,5 +1,5 @@
 [[Category: Appalachia, Featured Connections]]
-<!-- Example profile retained; minor edits only. -->
+<!-- Example profile retained for style reference; keep edits minimal. -->
 [[Category: Camp Douglas, Chicago, Illinois]]
 [[Category: Kentucky Appalachians]]
 [[Category: Appalachia, Notables]]

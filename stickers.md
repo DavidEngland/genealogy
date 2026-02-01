@@ -54,6 +54,8 @@ Based on your files, here are specific recommendations:
 **[[Lewis-1457|Susannah Lewis]]** - Could add:
 - `{{US Southern Colonist Sticker|Virginia}}` - Born 1717, colonial Virginia
 
+**[[Horton-1030|Hannah Horton]]** - No sticker recommended at this time (no documented service/eligibility in sources; spouse [[Brewer-1601|Rial (Ryal/Riley) Brewer]]).
+
 Note: WikiTree uses = headers and '''bold'''.
 
 Note: Add stickers only when the service/eligibility is directly supported by a cited source in the profile’s Sources section.
