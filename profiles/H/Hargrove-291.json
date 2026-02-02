@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "wikitreeId": "Hargrove-291",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-02 03:55:49",
+        "timestamp": 1770004549
+    },
+    "profile": {
+        "Id": 5699915,
+        "PageId": 5863268,
+        "Name": "Hargrove-291",
+        "FirstName": "Jackson",
+        "MiddleName": "",
+        "LastNameAtBirth": "Hargrove",
+        "LastNameCurrent": "Hargrove",
+        "RealName": "Jackson",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1830-00-00",
+        "DeathDate": "0000-00-00",
+        "BirthLocation": "Hardin,Tennessee",
+        "DeathLocation": "",
+        "Gender": "Male",
+        "IsLiving": 0,
+        "Photo": "",
+        "Touched": "20161010122221",
+        "Privacy": 60,
+        "Manager": 5654579,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": null,
+        "Created": "20130514022542",
+        "Father": 5699896,
+        "Mother": 5699907
+    }
+}

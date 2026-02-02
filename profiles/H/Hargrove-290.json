@@ -1,0 +1,51 @@
+{
+    "metadata": {
+        "wikitreeId": "Hargrove-290",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-02 03:55:49",
+        "timestamp": 1770004549
+    },
+    "profile": {
+        "Id": 5699914,
+        "PageId": 5863267,
+        "Name": "Hargrove-290",
+        "FirstName": "John",
+        "MiddleName": "Lindsey",
+        "LastNameAtBirth": "Hargrove",
+        "LastNameCurrent": "Hargrove",
+        "RealName": "John",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1826-01-24",
+        "DeathDate": "1902-05-21",
+        "BirthLocation": "Madison, Madison, Alabama, USA",
+        "DeathLocation": "Colorado City, Mitchell, Texas, USA",
+        "Gender": "Male",
+        "IsLiving": 0,
+        "Photo": "Hargrove-442.jpg",
+        "Touched": "20230615055445",
+        "Privacy": 60,
+        "Manager": 6359689,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": {
+            "path": "/photo.php/f/f1/Hargrove-442.jpg",
+            "url": "/photo.php/thumb/f/f1/Hargrove-442.jpg/75px-Hargrove-442.jpg",
+            "file": "75px-Hargrove-442.jpg",
+            "dir": "/photo.php/thumb/f/f1",
+            "width": 75,
+            "height": 107,
+            "orig_width": "349",
+            "orig_height": "500"
+        },
+        "Created": "20130514022542",
+        "Father": 5699896,
+        "Mother": 5699907
+    }
+}

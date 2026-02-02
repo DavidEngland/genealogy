@@ -1,0 +1,51 @@
+{
+    "metadata": {
+        "wikitreeId": "Lewis-9841",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-02 03:55:49",
+        "timestamp": 1770004549
+    },
+    "profile": {
+        "Id": 6408388,
+        "PageId": 6612799,
+        "Name": "Lewis-9841",
+        "FirstName": "Joseph Francis",
+        "MiddleName": "",
+        "LastNameAtBirth": "Lewis",
+        "LastNameCurrent": "Lewis",
+        "RealName": "Joseph Francis",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1750-00-00",
+        "DeathDate": "1825-00-00",
+        "BirthLocation": "England",
+        "DeathLocation": "Kentucky, United States",
+        "Gender": "Male",
+        "IsLiving": 0,
+        "Photo": "Lewis-9841.png",
+        "Touched": "20260124135038",
+        "Privacy": 60,
+        "Manager": 6359689,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": {
+            "path": "/photo.php/0/05/Lewis-9841.png",
+            "url": "/photo.php/thumb/0/05/Lewis-9841.png/75px-Lewis-9841.png",
+            "file": "75px-Lewis-9841.png",
+            "dir": "/photo.php/thumb/0/05",
+            "width": 75,
+            "height": 53,
+            "orig_width": "2370",
+            "orig_height": "1670"
+        },
+        "Created": "20130904143120",
+        "Father": 0,
+        "Mother": 0
+    }
+}

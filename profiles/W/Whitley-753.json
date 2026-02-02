@@ -1,0 +1,51 @@
+{
+    "metadata": {
+        "wikitreeId": "Whitley-753",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-02 03:55:49",
+        "timestamp": 1770004549
+    },
+    "profile": {
+        "Id": 6408405,
+        "PageId": 6612816,
+        "Name": "Whitley-753",
+        "FirstName": "Sarah",
+        "MiddleName": "",
+        "LastNameAtBirth": "Whitley",
+        "LastNameCurrent": "Lewis",
+        "RealName": "Sarah",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1752-00-00",
+        "DeathDate": "1837-04-21",
+        "BirthLocation": "Augusta, Virginia",
+        "DeathLocation": "Burkesville, Cumberland, Kentucky, United States",
+        "Gender": "Female",
+        "IsLiving": 0,
+        "Photo": "Whitley-753.png",
+        "Touched": "20260127225613",
+        "Privacy": 60,
+        "Manager": 6359689,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": {
+            "path": "/photo.php/8/8b/Whitley-753.png",
+            "url": "/photo.php/thumb/8/8b/Whitley-753.png/75px-Whitley-753.png",
+            "file": "75px-Whitley-753.png",
+            "dir": "/photo.php/thumb/8/8b",
+            "width": 75,
+            "height": 90,
+            "orig_width": "434",
+            "orig_height": "520"
+        },
+        "Created": "20130904143122",
+        "Father": 6408406,
+        "Mother": 6408410
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "wikitreeId": "Lewis-9849",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-02 03:55:49",
+        "timestamp": 1770004549
+    },
+    "profile": {
+        "Id": 6408396,
+        "PageId": 6612807,
+        "Name": "Lewis-9849",
+        "FirstName": "William",
+        "MiddleName": "W.",
+        "LastNameAtBirth": "Lewis",
+        "LastNameCurrent": "Lewis",
+        "RealName": "William",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1790-00-00",
+        "DeathDate": "1845-00-00",
+        "BirthLocation": "Lincoln County, Virginia, USA",
+        "DeathLocation": "Shelbyville, Shelby County, Missouri",
+        "Gender": "Male",
+        "IsLiving": 0,
+        "Photo": "",
+        "Touched": "20210424223643",
+        "Privacy": 60,
+        "Manager": 6359689,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": null,
+        "Created": "20130904143121",
+        "Father": 6408388,
+        "Mother": 6408405
+    }
+}

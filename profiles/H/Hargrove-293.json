@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "wikitreeId": "Hargrove-293",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-02 03:55:49",
+        "timestamp": 1770004549
+    },
+    "profile": {
+        "Id": 5699917,
+        "PageId": 5863270,
+        "Name": "Hargrove-293",
+        "FirstName": "Sarah",
+        "MiddleName": "",
+        "LastNameAtBirth": "Hargrove",
+        "LastNameCurrent": "Hargrove",
+        "RealName": "Sarah",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1815-00-00",
+        "DeathDate": "0000-00-00",
+        "BirthLocation": "",
+        "DeathLocation": "",
+        "Gender": "Female",
+        "IsLiving": 0,
+        "Photo": "",
+        "Touched": "20250304163709",
+        "Privacy": 60,
+        "Manager": 5654579,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": null,
+        "Created": "20130514022542",
+        "Father": 5699896,
+        "Mother": 5699907
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "wikitreeId": "Hargrove-284",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-02 03:55:49",
+        "timestamp": 1770004549
+    },
+    "profile": {
+        "Id": 5699908,
+        "PageId": 5863261,
+        "Name": "Hargrove-284",
+        "FirstName": "Elizabeth Louisiana",
+        "MiddleName": "",
+        "LastNameAtBirth": "Hargrove",
+        "LastNameCurrent": "Hargrove",
+        "RealName": "Elizabeth Louisiana",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1804-01-19",
+        "DeathDate": "1862-03-00",
+        "BirthLocation": "Pulaski, Kentucky",
+        "DeathLocation": "Pineville, McDonald,Missouri",
+        "Gender": "Female",
+        "IsLiving": 0,
+        "Photo": "",
+        "Touched": "20240206113439",
+        "Privacy": 60,
+        "Manager": 5654579,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": null,
+        "Created": "20130514022541",
+        "Father": 5699896,
+        "Mother": 5699907
+    }
+}
