@@ -6,7 +6,7 @@
 
 == Biography ==
 
-Palina Altimira McDonald, known affectionately to her family as "Kitty," was born on March 31, 1859, at Wayland Springs in Lawrence County, Tennessee. She was the fourth of ten children born to Thomas Anderson McDonald (1822-1885), a skilled blacksmith and gunsmith, and Sarah A. Adkinson (c.1825-1901). Her distinctive middle name, "Altimira" (sometimes spelled "Altina"), was chosen in honor of her aunt, Artimena McDonald English, following a family naming tradition that would continue through subsequent generations.
+Palina Altimira McDonald, known affectionately to her family as "Kitty," was born on March 31, 1859, at Wayland Springs in Lawrence County, Tennessee. She was the fourth of ten children born to Thomas Anderson McDonald (1822-1885), a blacksmith, and Sarah A. Adkinson (c.1825-1901). Her distinctive middle name, "Altimira" (sometimes spelled "Altina"), was chosen in honor of her aunt, Artimena McDonald English, following a family naming tradition that would continue through subsequent generations.
 
 === Clan Donald Heritage and Family Origins ===
 
@@ -22,19 +22,19 @@ The family's journey to Alabama followed the classic Migration Patterns of the S
 
 According to family historian William Lindsey England, the McDonalds likely followed the migration route: crossing the Savannah River near Anderson, South Carolina, traveling through Athens, Georgia, to Chattanooga, then down the Tennessee River to the mouth of Elk River, before settling in the Green Hill and Cloverdale areas of Alabama.
 
-=== The Blacksmith and Gunsmith Tradition ===
+=== Family's Blacksmith and Gunsmith Heritage ===
 
-Palina's father, Thomas Anderson McDonald, continued a proud family tradition of technical craftsmanship. The McDonald men were renowned blacksmiths and gunsmiths who produced what were known as "Kentucky Rifles." This skilled trade connected them to the famous Kennedy Gun Factory at Green Hill, a significant center of rifle-making in the region.
+Palina's father, Thomas Anderson McDonald, was a skilled blacksmith. The McDonald family, however, had a broader tradition of technical craftsmanship that extended to gunsmithing through several of Thomas's relatives and kinsmen. The McDonald men were renowned for producing "Kentucky Rifles," a craft that connected them to the famous Kennedy Gun Factory at Green Hill, a significant center of rifle-making in the region.
 
-==== The Gun-Making Legacy ====
+==== Family Connection to the Gun-Making Legacy ====
 
-Family records indicate that several of Palina's uncles and relatives were involved in the gun-making trade:
+While Thomas Anderson focused on his blacksmith trade, several of Palina's uncles and relatives specialized in the gun-making trade:
 
 * Multiple McDonalds purchased gun-making tools from the 1843 estate sale of Ephraim B. McDonald, a noted gunsmith at Green Hill
 * The family worked closely with the Kennedy rifle tradition, producing firearms known for their quality and craftsmanship
 * This technical skill represented not just a trade, but a vital contribution to frontier defense and settlement
 
-The blacksmith and gunsmith skills were passed through generations, representing both economic stability and community importance in frontier Alabama.
+The blacksmith and gunsmith skills were passed through generations of the family, representing both economic stability and community importance in frontier Alabama.
 
 === Early Life and Family Context ===
 

@@ -38,7 +38,7 @@ myself (FTDNA kit number 177950)
 
 I myself am also at YFull.com, and on Gedmatch (M142005), and I will be happy to provide further information about this living male descendant of this George Washington Brewer (Brewer-1584) as soon as the information becomes public.
 
-You’re welcome to email me at tjwhite1963@gmail.com, if you wish. I’m well known to the administrators of the Brewer DNA Project. I used to be one of the admins myself, back when my job allowed me more time.
+You’re welcome to email me at &#116;&#106;&#119;&#104;&#105;&#116;&#101;&#49;&#57;&#54;&#51;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;, if you wish. I’m well known to the administrators of the Brewer DNA Project. I used to be one of the admins myself, back when my job allowed me more time.
 
 If you wish to examine my analysis of the genetic evidence which establishes my own conclusions about my Brewer ancestry, you may find it at the Wikitree page for George Brewer Sr (husband of Sarah Lanier). Or, I can send it separately upon request.
 

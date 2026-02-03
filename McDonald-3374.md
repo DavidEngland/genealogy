@@ -1,14 +1,13 @@
 [[Category:Savannah Cemetery, Savannah, Tennessee]]
 [[Category:Clan Donald]]
 [[Category:Blacksmiths]]
-[[Category:Gunsmiths]]
 [[Category:Lauderdale County, Alabama]]
 [[Category:Wayne County, Tennessee]]
 [[Category:Lawrence County, Tennessee]]
 
 == Biography ==
 
-Thomas Anderson McDonald (1822 – 1885) was a skilled blacksmith and gunsmith who represented the fourth generation of the McDonald family's tradition of technical craftsmanship in early America. He was the fourth child of [[McDonald-3121 | John McDonald]] (c. 1792–c. 1860) and [[Emory-1 | Margaret Emory]] (c. 1793–c. 1880), born at Wartrace in Bedford County, Tennessee, during a period of rapid settlement following his family's migration from South Carolina.
+Thomas Anderson McDonald (1822 – 1885) was a blacksmith who represented the fourth generation of the McDonald family's tradition of technical craftsmanship in early America. While he maintained the blacksmith trade passed down through generations, he deferred to skilled relatives who practiced the more specialized gunsmith craft. He was the fourth child of [[McDonald-3121 | John McDonald]] (c. 1792–c. 1860) and [[Emory-1 | Margaret Emory]] (c. 1793–c. 1880), born at Wartrace in Bedford County, Tennessee, during a period of rapid settlement following his family's migration from South Carolina.
 
 === Early Life and Family Origins ===
 
@@ -22,13 +21,13 @@ On June 24, 1852, Thomas married Sarah A. Adkinson in Lawrence County, Tennessee
 
 Their life at Wayland Springs marked the beginning of a family that would produce ten children and contribute significantly to the settlement of both Tennessee and Alabama. Their daughter [[McDonald-4057 | Palina Altimira "Kitty" McDonald]] was born at Wayland Springs in the spring of 1859.
 
-=== The Blacksmith and Gunsmith Tradition ===
+=== The Blacksmith Tradition and Family Connections to Gunsmithing ===
 
-Thomas Anderson McDonald continued a proud family tradition of technical craftsmanship that had been passed down through generations of McDonald men. He worked as both a blacksmith and gunsmith, trades that were essential to frontier communities and required years of training and specialized knowledge.
+Thomas Anderson McDonald continued the family tradition of blacksmithing, a skilled trade essential to frontier communities. While other McDonald men in the family were renowned gunsmiths producing "Kentucky Rifles," Thomas focused primarily on his blacksmithing work and referred to his more skilled relatives for specialized gunsmithing tasks.
 
-==== The Gun-Making Legacy ====
+==== Family Connection to the Gun-Making Legacy ====
 
-Thomas's involvement in the gun-making trade is documented in the February 1843 estate settlement of [[McDonald-1 | Ephraim B. McDonald]], a noted gunsmith at Green Hill, Alabama. Thomas was listed as one of the buyers of Ephraim's gun-making tools, along with his brothers Matthew, John, Elias, and Joseph McDonald.
+Thomas's involvement with gun-making was primarily through family association and community knowledge rather than personal practice. The February 1843 estate settlement of [[McDonald-1 | Ephraim B. McDonald]], a noted gunsmith at Green Hill, Alabama, shows that multiple McDonald men—Thomas's brothers Matthew, John, Elias, and Joseph—purchased Ephraim's gun-making tools. This suggests that Thomas, while primarily a blacksmith, was connected to the broader McDonald gun-making tradition through his relatives who specialized in the craft.
 
 The McDonald brothers in this region were renowned for producing "Kentucky Rifles" that were highly valued for their:
 * Accuracy and reliability
@@ -36,7 +35,7 @@ The McDonald brothers in this region were renowned for producing "Kentucky Rifle
 * Artistic detail and finishing
 * Connection to the famous Kennedy Gun Factory at Green Hill
 
-These rifles were not merely functional tools but were considered "works of art" by contemporary standards. The technical skill required to produce them represented both economic stability and significant community standing in frontier Alabama and Tennessee.
+These rifles were not merely functional tools but were considered "works of art" by contemporary standards. While Thomas maintained his own blacksmith shop, the technical skill required for gunsmithing represented the specialized expertise of his kinsmen.
 
 === Family Migrations and Residences ===
 
