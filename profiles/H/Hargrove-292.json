@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "wikitreeId": "Hargrove-292",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-02 03:55:49",
+        "timestamp": 1770004549
+    },
+    "profile": {
+        "Id": 5699916,
+        "PageId": 5863269,
+        "Name": "Hargrove-292",
+        "FirstName": "Mary",
+        "MiddleName": "",
+        "LastNameAtBirth": "Hargrove",
+        "LastNameCurrent": "Hargrove",
+        "RealName": "Mary",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "0000-00-00",
+        "DeathDate": "0000-00-00",
+        "BirthLocation": "",
+        "DeathLocation": "",
+        "Gender": "Female",
+        "IsLiving": 0,
+        "Photo": "",
+        "Touched": "20130514022542",
+        "Privacy": 60,
+        "Manager": 5654579,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": null,
+        "Created": "20130514022542",
+        "Father": 5699896,
+        "Mother": 5699907
+    }
+}

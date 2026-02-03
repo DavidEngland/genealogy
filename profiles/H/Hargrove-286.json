@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "wikitreeId": "Hargrove-286",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-02 03:55:49",
+        "timestamp": 1770004549
+    },
+    "profile": {
+        "Id": 5699910,
+        "PageId": 5863263,
+        "Name": "Hargrove-286",
+        "FirstName": "William Wesley",
+        "MiddleName": "",
+        "LastNameAtBirth": "Hargrove",
+        "LastNameCurrent": "Hargrove",
+        "RealName": "William Wesley",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1816-01-04",
+        "DeathDate": "1876-00-00",
+        "BirthLocation": ", Alabama",
+        "DeathLocation": "Marion,Oregon",
+        "Gender": "Male",
+        "IsLiving": 0,
+        "Photo": "",
+        "Touched": "20161010122724",
+        "Privacy": 60,
+        "Manager": 5654579,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": null,
+        "Created": "20130514022541",
+        "Father": 5699896,
+        "Mother": 5699907
+    }
+}

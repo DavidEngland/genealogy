@@ -1,0 +1,60 @@
+{
+    "metadata": {
+        "wikitreeId": "Hargrove-277",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-02 03:55:49",
+        "timestamp": 1770004549
+    },
+    "profile": {
+        "Id": 5699896,
+        "PageId": 5863249,
+        "Name": "Hargrove-277",
+        "FirstName": "Valentine",
+        "MiddleName": "",
+        "LastNameAtBirth": "Hargrove",
+        "LastNameCurrent": "Hargrove",
+        "RealName": "Valentine",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1778-00-00",
+        "DeathDate": "1858-00-00",
+        "BirthLocation": "Amherst, Virginia, United States",
+        "DeathLocation": "Savannah, Hardin, Tennessee, United States",
+        "Gender": "Male",
+        "IsLiving": 0,
+        "Photo": "Hargrove-277.png",
+        "Touched": "20260128175900",
+        "Privacy": 60,
+        "Manager": 5654579,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": {
+            "path": "/photo.php/f/f5/Hargrove-277.png",
+            "url": "/photo.php/thumb/f/f5/Hargrove-277.png/75px-Hargrove-277.png",
+            "file": "75px-Hargrove-277.png",
+            "dir": "/photo.php/thumb/f/f5",
+            "width": 75,
+            "height": 67,
+            "orig_width": "898",
+            "orig_height": "800"
+        },
+        "Created": "20130514022538",
+        "Father": 5699879,
+        "Mother": 988513,
+        "marriage_location": ",Lincoln,Kentucky",
+        "marriage_date": "1799-10-09",
+        "marriage_end_date": "0000-00-00",
+        "do_not_display": "0",
+        "data_status": {
+            "marriage_date": "",
+            "marriage_end_date": "",
+            "marriage_location": ""
+        }
+    }
+}
