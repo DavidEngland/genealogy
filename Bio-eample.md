@@ -27,7 +27,7 @@
 }}
 '''Randall McCoy''' was born in October 1825, in Pike County, Kentucky, United States to [[McCoy-526|Daniel McCoy]] & [[Taylor-5657|Margaret (Taylor) McCoy]].{{Citation needed}}
 
-Randolph was also called "Old Randall" and "Ole Ran".
+Randall was also called "Old Randall" and "Ole Ran".
 
 He married [[McCoy-542|Sarah "Sally" McCoy]] on 9 December 1849 in Pike County, Kentucky, United States. She was his first cousin, the daughter of [[Davis-6851|Elizabeth Davis]] and [[McCoy-505|Samuel David McCoy.]] <ref> [https://familysearch.org/pal:/MM9.1.1/FWY1-JJM  Kentucky Marriages] 1785-1979 index on FamilySearch citing FHL#839,494; v3 p100; for Randolph McCoy and Sarah McCoy, m: 09 Dec 1849 Pike County, Kentucky. </ref>
 
@@ -53,7 +53,7 @@ He was a farmer and ferry operator who mostly lived on the Kentucky side of Tug 
 
 During the American Civil War, he served from 1862 to 1865 as a Private in the 45th Virginia Battalion Infantry, Confederate States Army. <ref> [http://www.civilwarprofiles.com/the-confusing-confederate-service-of-randolph-mccoy/  Civil War Profiles] - ''The Confusing Confederate Service of Randolph McCoy" by Mathew W. Lively; 04 Aug, 2013 </ref> Between 1863 and 1865, he was a Prisoner of War (POW). <ref> Virginia Regimental Histories Series, Soldier Detail for Randall McCoy </ref> His Confederate Service Record (CSR) states that he was captured in Pike County, Kentucky, on 8 July 1863 and sent to [http://www.google.com/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=1&cad=rja&uact=8&ved=0CB4QFjAA&url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCamp_Chase&ei=wdLTVObDB4yjgwSgg4C4BA&usg=AFQjCNFBKtfsZEptFLCyV63a53U3nXpxWA&bvm=bv.85464276,d.eXY Camp Chase], a Union prison camp in Columbus, Ohio. He arrived there on 20  July 1863 and a month later, he was transferred to the large military prison at [http://en.wikipedia.org/wiki/Camp_Douglas_(Chicago) Camp Douglas] in Chicago, Illinois where he remained a POW for the duration of the Civil War.
 
-Randolph McCoy was the patriarch of the McCoy clan involved in the infamous American [[Project:Hatfield_and_McCoy|Hatfield and McCoy Family Feud]]. He lost five of his children to the violence during the almost 30 year feud with the Hatfield clan under their patriarch [[Hatfield-260|William Anderson "Devil Anse" Hatfield]].
+Randall McCoy was the patriarch of the McCoy clan involved in the infamous American [[Project:Hatfield_and_McCoy|Hatfield and McCoy Family Feud]]. He lost five of his children to the violence during the almost 30 year feud with the Hatfield clan under their patriarch [[Hatfield-260|William Anderson "Devil Anse" Hatfield]].
 
 Kentucky was a border state, but both McCoy and Hatfield families were loyal confederates, with the exception of his younger brother, [[McCoy-577|Asa]], who enlisted in Company E, <ref> [http://www.nps.gov/civilwar/search-battle-units-detail.htm?battleUnitCode=UKY0045RI   45th Regiment Kentucky Infantry USA], </ref> of the Union Army. <ref> [http://www.nps.gov/civilwar/search-soldiers-detail.htm?soldierId=0A4A96B7-DC7A-DF11-BF36-B8AC6F5D926A   NPS Civil War] with Soldier Detail for Asa H. McCoy </ref> Asa was killed on 7 Jan 1865 <ref> {{FindAGrave|125714392|sameas=no}} for Asa Harmon McCoy </ref> by a band called the Logan Wildcats, led by Jim Vance, in a Hatfield and McCoy family feud. It was widely accepted that this band was led by the Hatfields. Thus began a chain of altercations that would make the names Hatfield and McCoy synonymous with feud.
 

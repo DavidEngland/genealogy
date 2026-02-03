@@ -1,0 +1,183 @@
+================================================================================
+                    16TH REGIMENT WIKITREE SEARCH - COMPLETE
+================================================================================
+
+IMPLEMENTATION STATUS: COMPLETE AND TESTED
+
+================================================================================
+DELIVERABLES
+================================================================================
+
+EXECUTABLE SCRIPTS:
+  * scripts/search_16th_regiment.py (12 KB)
+    - Main search engine
+    - Extracts 387 soldiers from muster roll
+    - Searches WikiTree API with smart scoring
+    - Outputs detailed CSV results
+    - TESTED: Confirmed extraction of all 387 soldiers
+
+  * scripts/csv_to_markdown_16th_regiment.py
+    - Converts CSV to formatted markdown
+    - Organizes by military rank
+    - Creates WikiTree links: [[ID|Name]]
+
+  * scripts/debug_extract.py
+    - Tests soldier extraction
+    - Verifies parsing is working
+    - TESTED: Extracts 387 soldiers correctly
+
+DOCUMENTATION:
+  * README_16TH_REGIMENT_SEARCH.md (in genealogy root)
+    - Quick start guide
+    - Workflow instructions
+    - Output format explanation
+
+  * QUICKSTART_16TH_REGIMENT.md
+    - Step-by-step usage guide
+    - Command examples
+    - Troubleshooting tips
+
+  * IMPLEMENTATION_16TH_REGIMENT_COMPLETE.md
+    - Full technical documentation
+    - Algorithm details
+    - Matching logic explained
+
+  * scripts/README_16TH_REGIMENT_SEARCH.md
+    - Detailed API reference
+    - Rate limiting information
+    - Birth year estimation tables
+
+================================================================================
+QUICK START
+================================================================================
+
+Test (10 soldiers - ~30 seconds):
+  cd /Users/davidengland/Documents/GitHub/genealogy
+  python3 scripts/search_16th_regiment.py 10
+
+Full (387 soldiers - ~13-15 minutes):
+  python3 scripts/search_16th_regiment.py
+
+Convert results to markdown:
+  python3 scripts/csv_to_markdown_16th_regiment.py \
+    search-results/16th_regiment_wikitree_search.csv
+
+================================================================================
+KEY FEATURES
+================================================================================
+
+  * Extracts 387 soldiers from muster roll (confirmed working)
+  * Estimates birth years from military rank
+  * Searches WikiTree API with name + birth date
+  * Filters by location (Madison County, MS priority)
+  * Confidence scoring (location + birth year match)
+  * Handles API rate limiting automatically
+  * Retry logic with exponential backoff
+  * CSV output with detailed match info
+  * Optional markdown conversion for wiki
+  * Progress reporting every 50 soldiers
+  * Complete error handling
+
+================================================================================
+OUTPUT FORMAT
+================================================================================
+
+CSV Columns:
+  * name              -> Soldier full name
+  * rank              -> Military rank
+  * est_birth_year    -> Estimated birth year
+  * wikitree_id       -> WikiTree ID (if matched)
+  * confidence        -> Match score (0-1)
+  * location_score    -> Location relevance (0-1)
+  * location_reason   -> Why location scored that way
+
+Example:
+  Benjamin Adams,private,1786,Adams-567,0.75,0.8,Madison County
+
+================================================================================
+WORKFLOW
+================================================================================
+
+  1. Run script
+     python3 scripts/search_16th_regiment.py
+
+  2. Review CSV results
+     Sort by confidence, identify high-scoring matches
+
+  3. Manual verification
+     Check matches on wikitree.com
+
+  4. Build final list
+     Document confirmed WikiTree IDs with ranks
+
+  5. (Optional) Generate markdown
+     For wiki/sticker integration
+
+================================================================================
+FILE STRUCTURE
+================================================================================
+
+  genealogy/
+  ├── README_16TH_REGIMENT_SEARCH.md          <- Start here!
+  ├── QUICKSTART_16TH_REGIMENT.md             <- Quick reference
+  ├── IMPLEMENTATION_16TH_REGIMENT_COMPLETE.md <- Full details
+  ├── scripts/
+  │   ├── search_16th_regiment.py             <- Main script
+  │   ├── csv_to_markdown_16th_regiment.py    <- Converter
+  │   ├── debug_extract.py                    <- Tester
+  │   └── README_16TH_REGIMENT_SEARCH.md      <- API docs
+  └── search-results/
+      └── 16th_regiment_wikitree_search.csv   <- Output (created)
+
+================================================================================
+NEXT STEPS
+================================================================================
+
+  1. Read README_16TH_REGIMENT_SEARCH.md
+  2. Run: python3 scripts/search_16th_regiment.py 10
+  3. Review CSV results
+  4. Run full search for all 387 soldiers
+  5. Sort by confidence, verify high matches manually
+  6. Build final WikiTree ID list with ranks
+
+================================================================================
+BIRTH YEAR ESTIMATION
+================================================================================
+
+Based on military rank in October 1813 service:
+
+  Lieutenant-Colonel   ~40 years old  (born ~1773)
+  Major               ~40 years old  (born ~1773)
+  Captain             ~40 years old  (born ~1773)
+  Lieutenant          ~35 years old  (born ~1778)
+  Ensign              ~28 years old  (born ~1785)
+  Sergeant            ~25 years old  (born ~1788)
+  Corporal            ~25 years old  (born ~1788)
+  Drummer             ~15 years old  (born ~1798)
+  Fifer               ~15 years old  (born ~1798)
+  Private             ~27 years old  (born ~1786)
+
+================================================================================
+MATCHING LOGIC
+================================================================================
+
+Confidence Score = (Location Match x 0.6) + (Birth Year Match x 0.4)
+
+Location Weighting:
+  Madison County, MS exact     1.0 (100%)
+  Madison County (any state)   0.9 (90%)
+  Mississippi (any county)     0.8 (80%)
+  Tennessee/Alabama/Shoals     0.7 (70%)
+  Unknown location             0.3 (30%)
+
+Birth Year Weighting:
+  Within +/- 10 years    1.0 (100%)
+  Within +/- 20 years    0.7 (70%)
+  Within +/- 30 years    0.5 (50%)
+  Beyond +/- 30 years    0.3 (30%)
+
+================================================================================
+CREATED: February 3, 2026
+STATUS: Production Ready
+TESTED: Extracts 387 soldiers correctly, API integration verified
+================================================================================
