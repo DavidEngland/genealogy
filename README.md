@@ -1,46 +1,29 @@
 # Genealogy Research Repository
 
-A comprehensive genealogical research database with 2,100+ biographical records, GEDCOM processing infrastructure, and regional history documentation organized by state and county.
+A collection of genealogy processing scripts, workflow tools, and data extraction utilities. This repository contains working implementations for WikiTree profile management, GEDCOM parsing, FamilySearch integration, and automated biographical record generation.
+
+**Focus**: Workflow automation and data processing tools for genealogical research. Eventually intended to develop reusable tools to aid other genealogists.
 
 ## Repository Structure
 
-### 📁 Core Folders
+### 📁 Key Directories
 
 | Folder | Purpose |
 |--------|---------|
-| **ancestors/** | 2,000+ WikiTree biographical profiles (Family-WikiTreeID.md format) |
-| **ancestors/family/** | Per-person research notes (Surname/WikiTreeID-notes.md format) |
-| **data/** | Processed genealogical exports (CSV lookup tables, JSON datasets) |
-| **GEDs/** | GEDCOM source files and related documentation |
-| **histories/** | Regional historical narratives organized by state/county/locality |
-| **scripts/** | Utility scripts for data processing (PHP, Python, Shell) |
-| **schema/** | GEDCOM-to-JSON conversion infrastructure and JSON schemas |
-| **search-results/** | FamilySearch query result files (CSV format) |
-| **research-notes/** | Active research documentation and source citations |
-| **misc/** | Miscellaneous references (profiles/, references/ subfolders) |
-| **natives/** | Native American lineage research |
-| **Books/** | Reference materials and historical texts |
-| **sources/** | Primary source documentation |
-| **bak/** | Archive/backup files |
+| **scripts/** | PHP and Python utilities for data processing |
+| **schema/** | GEDCOM-to-JSON conversion infrastructure |
+| **unknowns/** | Generated search links for missing WikiTree IDs |
+| **GEDs/** | GEDCOM source files |
+| **search-results/** | FamilySearch query results (CSV) |
+| **histories/** | Regional historical documentation (AL, TN, KY, MS) |
+| **data/** | Processed genealogical exports (CSV, JSON) |
 
-### 🗂️ Histories Structure
+### 📄 Profile Files
 
-Regional histories organized by state and county:
-
-```
-histories/
-├── AL/
-│   ├── Lauderdale/
-│   ├── Colbert/
-│   └── Madison/
-├── TN/
-│   ├── Hardin/        ← Hardin County history (1815-1840)
-│   ├── Lawrence/
-│   └── Wayne/
-└── KY/
-```
-
-Each county folder contains regional narratives, locality histories, and supporting documentation.
+Individual biographical profiles stored as `Surname-WikiTreeID.md` at repository root:
+- Example: `England-1357.md`, `Hargrove-286.md`, `Duncan-3524.md`
+- Format: WikiTree-compatible markdown with sources and citations
+- Cross-referenced using WikiTree ID format
 
 ---
 
@@ -77,49 +60,86 @@ See [schema/README.md](schema/README.md) for detailed documentation.
 
 ---
 
-## 🛠️ Scripts
+## 🛠️ Scripts & Workflow Tools
 
-Utility scripts for genealogical data processing:
+The repository contains practical genealogy automation scripts for data processing and workflow management. PHP implementations have proven more reliable than Python for most tasks.
 
-| Script | Purpose |
-|--------|---------|
-| **complete_updates.py** | Full genealogical record updates |
-| **final_updates.py** | Final data processing and verification |
-| **make_final_edits.py** | Batch editing for genealogical records |
-| **update_shoals.py** | Update regional history for The Shoals area |
-| **gedcom_parser.php** | Parse GEDCOM files to JSON |
-| **csv_exporter.php** | Export JSON datasets to CSV |
-| **wikitree_parser.php** | Extract WikiTree profile data |
+### Working PHP Scripts
 
-Located in [scripts/](scripts/) folder. See [scripts/README.md](scripts/README.md) for documentation.
+| Script | Purpose | Status |
+|--------|---------|--------|
+| **gedcom_parser.php** | Parse GEDCOM files to JSON format | ✓ Working |
+| **csv_exporter.php** | Export JSON to CSV (lookup/full modes) | ✓ Working |
+| **wikitree_profile_parser.php** | Extract WikiTree profile data | ✓ Working |
+| **wikitree_convert.php** | Convert GEDCOM to WikiTree biography format | ✓ Working |
+| **csv_to_wikitree_sources.php** | Generate WikiTree source citations from CSV | ✓ Working |
+| **gedcom_to_biography.php** | Create biographical profiles from GEDCOM | ✓ Working |
+| **gedcom_extract_sources.php** | Extract source citations | ✓ Working |
+| **batch-sources.php** | Batch process source citations | ✓ Working |
+
+### Python Utility Scripts
+
+| Script | Purpose | Notes |
+|--------|---------|-------|
+| **extract_unknown_wikitree_ids.py** | Generate search links for unknown WikiTree IDs | Latest working script |
+| **search_16th_regiment.py** | WikiTree API search for military records | Functional but rate-limited |
+| **csv_to_markdown_16th_regiment.py** | Convert CSV search results to markdown | Working |
+| **update_shoals.py** | Regional history updates | Experimental |
+| **complete_updates.py** | Batch biographical updates | Legacy/experimental |
+| **final_updates.py** | Final data processing | Legacy/experimental |
+
+**Note**: Recent Python projects for complex parsing have been less reliable. PHP implementations handle GEDCOM and WikiTree data more consistently.
 
 ---
 
-## 📝 Key Resources
+## � Workflow Documentation
 
-- **[From Revolution to the Frontier.md](From%20Revolution%20to%20the%20Frontier.md)** - Historical overview
-- **[Land grab at the Shoals.md](Land%20grab%20at%20the%20Shoals.md)** - The Shoals region history
-- **[The Shoals.md](The%20Shoals.md)** - Geographic and demographic context
-- **[16th Mississippi Militia.md](16th%20Mississippi%20Militia.md)** - Military records
+Documented workflows for genealogical research automation:
+
+- **[FAMILYSEARCH-WORKFLOW.md](FAMILYSEARCH-WORKFLOW.md)** - FamilySearch to WikiTree integration process
+- **[KNOWN_MATCHES_GUIDE.md](KNOWN_MATCHES_GUIDE.md)** - Matching and verification procedures
+- **[IMPLEMENTATION_16TH_REGIMENT_COMPLETE.md](IMPLEMENTATION_16TH_REGIMENT_COMPLETE.md)** - Military record processing
+- **[CHECKLIST_16TH_REGIMENT.md](CHECKLIST_16TH_REGIMENT.md)** - Regiment research checklist
+
+### Key Workflows
+
+1. **Unknown WikiTree ID Search** (Latest)
+   - Extract persons with placeholder IDs (`-##`, `-?`, etc.)
+   - Generate clickable WikiTree search links
+   - Output: `unknowns/*.md` files for manual verification
+   - Tool: `extract_unknown_wikitree_ids.py`
+
+2. **GEDCOM Processing Pipeline**
+   - Parse GEDCOM → JSON: `gedcom_parser.php`
+   - Export JSON → CSV: `csv_exporter.php`
+   - Convert to WikiTree format: `gedcom_to_biography.php`
+
+3. **WikiTree API Integration**
+   - Search WikiTree by name/dates: `search_16th_regiment.py`
+   - Convert results to markdown: `csv_to_markdown_16th_regiment.py`
+   - Batch source generation: `csv_to_wikitree_sources.php`
+
+4. **FamilySearch Integration**
+   - Manual search and CSV export via FamilySearch
+   - Process CSV to WikiTree sources: `csv_to_wikitree_sources.php`
+   - Update profiles with citations
 
 ---
 
-## 🔍 Main WikiTree Families
+## 🔍 WikiTree Profile Management
 
-The repository contains extensive biographical research for:
+The repository manages biographical profiles primarily as WikiTree-formatted markdown files:
 
-- **England** family
-- **Gresham** family
-- **Hargrove** family
-- **Duncan** family
-- **Lewis** family
-- **Pigg** family
-- **White/Whitten** families
-- **Ball** family
-- **Brewer** family
-- **Lawson** family
+- **170+ individual profile files** (e.g., `England-1357.md`, `Hargrove-286.md`)
+- **WikiTree ID format**: `Surname-Number`
+- **Standardized structure**: Biography, Sources, References, Categories
+- **Cross-referenced families**: England, Gresham, Hargrove, Duncan, Lewis, Ball, Brewer, White/Whitten, Lawson, Pigg families
 
-See [ancestors/](ancestors/) for individual profiles.
+### Data Sources
+- GEDCOM files (multiple family lines)
+- FamilySearch search results (CSV exports)
+- WikiTree API queries
+- Census records, military records, land records
 
 ---
 
@@ -151,13 +171,41 @@ See [ancestors/](ancestors/) for individual profiles.
 
 ## 🚀 Getting Started
 
-1. **Browse ancestors**: Start in [ancestors/](ancestors/) for biographical profiles
-2. **Explore histories**: Check [histories/](histories/) for regional narratives
-3. **Process GEDCOM files**: Use schema infrastructure to convert and export genealogical data
-4. **Research documentation**: See [research-notes/](research-notes/) for methodology and source citations
+### Quick Start: Extract Unknown WikiTree IDs
+```bash
+python3 extract_unknown_wikitree_ids.py
+# Output: unknowns/*.md files with clickable search links
+```
+
+### GEDCOM Processing
+1. Place GEDCOM files (.ged) in the [GEDs/](GEDs/) folder
+2. Run GEDCOM parser:
+   ```bash
+   php schema/gedcom_parser.php input.ged > output.json
+   ```
+3. Export to CSV:
+   ```bash
+   php schema/csv_exporter.php output.json [lookup|full]
+   ```
+
+### WikiTree API Search
+```bash
+python3 scripts/search_16th_regiment.py  # Example: military record search
+python3 scripts/csv_to_markdown_16th_regiment.py results.csv
+```
+
+---
+
+## 🎯 Future Development Goals
+
+- Develop reusable tools for the broader genealogy community
+- Standardize PHP-based parsing libraries (more reliable than Python for GEDCOM/WikiTree)
+- Create automated WikiTree profile update workflows
+- Build FamilySearch-to-WikiTree integration tools
+- Expand schema documentation for genealogical JSON standards
 
 ---
 
 **Repository Owner**: David England  
-**Last Updated**: January 31, 2026  
-**Records**: 19,000+ indexed genealogical entries
+**Last Updated**: February 3, 2026  
+**Primary Tools**: PHP (data processing), Python (search/extraction), Markdown (profiles)
