@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "wikitreeId": "Felsinger-1",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-05 01:37:07",
+        "timestamp": 1770255427
+    },
+    "profile": {
+        "Id": 814890,
+        "PageId": 834797,
+        "Name": "Felsinger-1",
+        "FirstName": "Andreas",
+        "MiddleName": "",
+        "LastNameAtBirth": "Felsinger",
+        "LastNameCurrent": "Felsinger",
+        "RealName": "Andrew",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1687-00-00",
+        "DeathDate": "1767-12-07",
+        "BirthLocation": "Kurfürstentum Pfalz, Heiliges Römisches Reich",
+        "DeathLocation": "Northampton County, Province of Pennsylvania",
+        "Gender": "Male",
+        "IsLiving": 0,
+        "Photo": "",
+        "Touched": "20250717193904",
+        "Privacy": 60,
+        "Manager": 18597292,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": null,
+        "Created": "20110115153122",
+        "Father": 0,
+        "Mother": 0
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "wikitreeId": "Unknown-551435",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-05 01:37:07",
+        "timestamp": 1770255427
+    },
+    "profile": {
+        "Id": 29852015,
+        "PageId": 32817430,
+        "Name": "Unknown-551435",
+        "FirstName": "Sarah",
+        "MiddleName": "",
+        "LastNameAtBirth": "Unknown",
+        "LastNameCurrent": "Lanier",
+        "RealName": "Sarah",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1645-00-00",
+        "DeathDate": "1716-01-05",
+        "BirthLocation": "Colony of Virginia",
+        "DeathLocation": "Charles City County, Colony of Virginia",
+        "Gender": "Female",
+        "IsLiving": 0,
+        "Photo": "",
+        "Touched": "20260129114644",
+        "Privacy": 60,
+        "Manager": 3366328,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": null,
+        "Created": "20110325155310",
+        "Father": 0,
+        "Mother": 0
+    }
+}

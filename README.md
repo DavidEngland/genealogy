@@ -10,6 +10,7 @@ A collection of genealogy processing scripts, workflow tools, and data extractio
 
 | Folder | Purpose |
 |--------|---------|
+| **albums/** | Family heritage albums with photos and narratives |
 | **scripts/** | PHP and Python utilities for data processing |
 | **schema/** | GEDCOM-to-JSON conversion infrastructure |
 | **unknowns/** | Generated search links for missing WikiTree IDs |
@@ -68,6 +69,7 @@ The repository contains practical genealogy automation scripts for data processi
 
 | Script | Purpose | Status |
 |--------|---------|--------|
+| **generate_album.php** | Generate family heritage album markdown from WikiTree data | ✓ New |
 | **gedcom_parser.php** | Parse GEDCOM files to JSON format | ✓ Working |
 | **csv_exporter.php** | Export JSON to CSV (lookup/full modes) | ✓ Working |
 | **wikitree_profile_parser.php** | Extract WikiTree profile data | ✓ Working |
@@ -76,6 +78,7 @@ The repository contains practical genealogy automation scripts for data processi
 | **gedcom_to_biography.php** | Create biographical profiles from GEDCOM | ✓ Working |
 | **gedcom_extract_sources.php** | Extract source citations | ✓ Working |
 | **batch-sources.php** | Batch process source citations | ✓ Working |
+| **wikitree_heritage_client.php** | WikiTree API client for heritage albums | ✓ New |
 
 ### Python Utility Scripts
 
@@ -103,23 +106,30 @@ Documented workflows for genealogical research automation:
 
 ### Key Workflows
 
-1. **Unknown WikiTree ID Search** (Latest)
+1. **Family Heritage Albums** (Latest)
+   - Generate markdown from WikiTree profiles
+   - Add curated photos and family stories
+   - Output ready for PDF conversion
+   - Documentation: [albums/README.md](albums/README.md)
+   - Setup: [albums/ALBUM_SETUP.md](albums/ALBUM_SETUP.md)
+
+2. **Unknown WikiTree ID Search**
    - Extract persons with placeholder IDs (`-##`, `-?`, etc.)
    - Generate clickable WikiTree search links
    - Output: `unknowns/*.md` files for manual verification
    - Tool: `extract_unknown_wikitree_ids.py`
 
-2. **GEDCOM Processing Pipeline**
+3. **GEDCOM Processing Pipeline**
    - Parse GEDCOM → JSON: `gedcom_parser.php`
    - Export JSON → CSV: `csv_exporter.php`
    - Convert to WikiTree format: `gedcom_to_biography.php`
 
-3. **WikiTree API Integration**
+4. **WikiTree API Integration**
    - Search WikiTree by name/dates: `search_16th_regiment.py`
    - Convert results to markdown: `csv_to_markdown_16th_regiment.py`
    - Batch source generation: `csv_to_wikitree_sources.php`
 
-4. **FamilySearch Integration**
+5. **FamilySearch Integration**
    - Manual search and CSV export via FamilySearch
    - Process CSV to WikiTree sources: `csv_to_wikitree_sources.php`
    - Update profiles with citations
@@ -171,6 +181,19 @@ The repository manages biographical profiles primarily as WikiTree-formatted mar
 
 ## 🚀 Getting Started
 
+### Quick Start: Generate Family Heritage Album
+```bash
+# Single person
+php scripts/generate_album.php --id England-1357 --bio --parents --photos
+
+# Batch mode (from CSV)
+php scripts/generate_album.php --input albums/england-pioneers.csv --album england-pioneers
+
+# Output: albums/builds/album-england-pioneers.md
+```
+
+Then manually edit the markdown and convert to PDF using Pandoc or VS Code preview.
+
 ### Quick Start: Extract Unknown WikiTree IDs
 ```bash
 python3 extract_unknown_wikitree_ids.py
@@ -196,16 +219,19 @@ python3 scripts/csv_to_markdown_16th_regiment.py results.csv
 
 ---
 
-## 🎯 Future Development Goals
+## 🎯 Development Goals & Next Steps
 
-- Develop reusable tools for the broader genealogy community
-- Standardize PHP-based parsing libraries (more reliable than Python for GEDCOM/WikiTree)
-- Create automated WikiTree profile update workflows
-- Build FamilySearch-to-WikiTree integration tools
-- Expand schema documentation for genealogical JSON standards
+- **Reusable genealogy tools** for broader community adoption
+- **PHP-based parsing libraries** (more reliable than Python for GEDCOM/WikiTree data)
+- **Automated WikiTree profile updates** with source citations
+- **FamilySearch-to-WikiTree integration** workflows
+- **Heritage album PDF generation** pipeline
+- **Schema standardization** for genealogical JSON/XML formats
 
 ---
 
-**Repository Owner**: David England  
-**Last Updated**: February 3, 2026  
+**Repository Owner**: David Edward England, PhD  
+**ORCID**: https://orcid.org/0009-0001-2095-6646  
+**Email**: DavidEngland@Hotmail.Com  
+**Last Updated**: February 4, 2026  
 **Primary Tools**: PHP (data processing), Python (search/extraction), Markdown (profiles)

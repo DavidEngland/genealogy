@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "wikitreeId": "Seitz-114",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-05 01:37:07",
+        "timestamp": 1770255427
+    },
+    "profile": {
+        "Id": 3773578,
+        "PageId": 3839249,
+        "Name": "Seitz-114",
+        "FirstName": "Caterana",
+        "MiddleName": "",
+        "LastNameAtBirth": "Seitz",
+        "LastNameCurrent": "Cagle",
+        "RealName": "Caterana",
+        "Nicknames": "Caty",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1732-00-00",
+        "DeathDate": "1819-00-00",
+        "BirthLocation": "Meisenheim, Bad Kreuznach, Rhineland-Palatinate, Germany",
+        "DeathLocation": "Moore, North Carolina, United States",
+        "Gender": "Female",
+        "IsLiving": 0,
+        "Photo": "",
+        "Touched": "20250904133444",
+        "Privacy": 60,
+        "Manager": 18597292,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": null,
+        "Created": "20120319230315",
+        "Father": 3056560,
+        "Mother": 814891
+    }
+}

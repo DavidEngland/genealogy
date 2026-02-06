@@ -87,6 +87,8 @@ In 1914 at the age of 89 he slipped near a cooking fire and was severely burned.
 === Research Notes ===
 A source is needed to confirm his birth date, either 28 Oct 1825, or 30 Oct 1825.
 
+- Reminder: label draft summaries as “unsourced” until citations are added.
+
 == Sources ==
 <references />
 

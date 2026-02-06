@@ -6,7 +6,7 @@ Spouse:
 
 ----
 
-John Martin Scott was a Magistrate in Wayne Co Tn
+John Martin Baytop Scott was a Magistrate in Wayne Co Tn
 
 John Martin B Scott born 1791 in Va moved to Wayne Co Tn died there in 1870
 

@@ -1,6 +1,6 @@
 # WikiTree Profile Parser
 
-A PHP script that fetches WikiTree profile pages and extracts family relationships (parents, siblings, spouses, children) formatted as markdown with `[[WikiTree-ID|Person Name]]` syntax.
+A PHP script that fetches WikiTree profile pages and extracts family relationships (parents, siblings, spouses, children) and selected narrative sections (e.g., DNA), formatted as markdown with `[[WikiTree-ID|Person Name]]` syntax.
 
 ## Features
 
@@ -11,6 +11,8 @@ A PHP script that fetches WikiTree profile pages and extracts family relationshi
   - Siblings
   - Spouses (with marriage date and location)
   - Children
+- **Extracts narrative sections**:
+  - DNA (if present on the profile)
 - **Outputs markdown** with WikiTree ID links in the format `[[WikiTree-ID|Person Name]]`
 - **Selective output** - choose specific sections or all family information
 
@@ -48,6 +50,9 @@ php wikitree_profile_parser.php --profile Hargrove-277 --section children
 
 # Get only siblings
 php wikitree_profile_parser.php --profile Lewis-8883 --section siblings
+
+# Get DNA section (if present)
+php wikitree_profile_parser.php --profile Brewer-708 --section dna
 ```
 
 ### Help
@@ -62,7 +67,7 @@ php wikitree_profile_parser.php --help
 |--------|-------------|----------|
 | `--profile ID` | WikiTree profile ID (e.g., Lewis-8883) | Yes |
 | `--output FILE` | Output file path (default: stdout) | No |
-| `--section NAME` | Section to output: `parents`, `siblings`, `spouses`, `children`, `all` (default: `all`) | No |
+| `--section NAME` | Section to output: `parents`, `siblings`, `spouses`, `children`, `dna`, `all` (default: `all`) | No |
 | `--help`, `-h` | Show help message | No |
 
 ## Example Output
@@ -116,6 +121,20 @@ This script complements the existing GEDCOM-based workflow:
 - **WikiTree parser** (this script) fetches current data directly from WikiTree profiles
 - Both produce markdown with consistent `[[WikiTree-ID|Name]]` formatting
 
+## Research Leads (API)
+
+Generate candidate research leads for a profile using the WikiTree API search:
+
+```bash
+php wikitree_research_leads.php --profile Brewer-708
+```
+
+Optional parameters:
+
+```bash
+php wikitree_research_leads.php --profile Brewer-708 --limit 100 --min-age 15 --max-age 60 --location "Moore, North Carolina, United States"
+```
+
 ## Limitations
 
 - **HTML scraping** - relies on WikiTree's HTML structure (schema.org markup)
@@ -125,7 +144,7 @@ This script complements the existing GEDCOM-based workflow:
 
 ## Future Enhancements
 
-- [ ] WikiTree API integration (more stable than HTML scraping)
+- [ ] Expand API-driven lead generation (filters, confidence scoring)
 - [ ] Batch processing multiple profiles
 - [ ] Cache fetched profiles to reduce requests
 - [ ] Rate limiting for respectful scraping

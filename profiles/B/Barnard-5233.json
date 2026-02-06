@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "wikitreeId": "Barnard-5233",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-05 01:37:07",
+        "timestamp": 1770255427
+    },
+    "profile": {
+        "Id": 24553580,
+        "PageId": 26871773,
+        "Name": "Barnard-5233",
+        "FirstName": "Joan",
+        "LastNameAtBirth": "Barnard",
+        "LastNameCurrent": "Watts",
+        "RealName": "Joan",
+        "BirthDate": "1658-00-00",
+        "DeathDate": "1692-00-00",
+        "Gender": "Female",
+        "IsLiving": 0,
+        "Touched": "20191011215445",
+        "Privacy": 60,
+        "Manager": 16038374,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "Created": "20191011215439",
+        "Father": null,
+        "Mother": null
+    }
+}

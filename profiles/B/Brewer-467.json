@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "wikitreeId": "Brewer-467",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-05 01:37:07",
+        "timestamp": 1770255427
+    },
+    "profile": {
+        "Id": 1661051,
+        "PageId": 1687215,
+        "Name": "Brewer-467",
+        "FirstName": "John",
+        "MiddleName": "",
+        "LastNameAtBirth": "Brewer",
+        "LastNameCurrent": "Brewer",
+        "RealName": "John",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "III",
+        "BirthDate": "1635-00-00",
+        "DeathDate": "1708-00-00",
+        "BirthLocation": "Isle of Wight County, Colony of Virginia",
+        "DeathLocation": "Isle of Wight County, Colony of Virginia",
+        "Gender": "Male",
+        "IsLiving": 0,
+        "Photo": "",
+        "Touched": "20260204132230",
+        "Privacy": 60,
+        "Manager": 6705340,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": null,
+        "Created": "20110518133627",
+        "Father": 5722422,
+        "Mother": 5722530
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "wikitreeId": "Brewer-708",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-05 01:37:07",
+        "timestamp": 1770255427
+    },
+    "profile": {
+        "Id": 2986588,
+        "PageId": 3028166,
+        "Name": "Brewer-708",
+        "FirstName": "Lanier",
+        "MiddleName": "B.",
+        "LastNameAtBirth": "Brewer",
+        "LastNameCurrent": "Brewer",
+        "RealName": "Lanier",
+        "Nicknames": "Lynn, Near",
+        "Prefix": "",
+        "Suffix": "Jr.",
+        "BirthDate": "1746-00-00",
+        "DeathDate": "1824-00-00",
+        "BirthLocation": "Brunswick, Colony of Virginia",
+        "DeathLocation": "Moore, North Carolina, United States",
+        "Gender": "Male",
+        "IsLiving": 0,
+        "Photo": "",
+        "Touched": "20260121152448",
+        "Privacy": 60,
+        "Manager": 2986564,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": null,
+        "Created": "20111014005343",
+        "Father": 2986597,
+        "Mother": 2986601
+    }
+}

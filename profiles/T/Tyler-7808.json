@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        "wikitreeId": "Tyler-7808",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-05 01:37:07",
+        "timestamp": 1770255427
+    },
+    "profile": {
+        "Id": 27946941,
+        "PageId": 30694088,
+        "Name": "Tyler-7808",
+        "FirstName": "Susan",
+        "MiddleName": "",
+        "LastNameAtBirth": "Tyler",
+        "LastNameCurrent": "Watts",
+        "RealName": "Susan",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1687-00-00",
+        "DeathDate": "1730-05-00",
+        "BirthLocation": "Swanton Abbot, Norfolk, England",
+        "DeathLocation": "Norwich, Norfolk, England",
+        "Gender": "Female",
+        "IsLiving": 0,
+        "Touched": "20201003173906",
+        "Privacy": 60,
+        "Manager": 23818118,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "Created": "20200923173622",
+        "Father": 0,
+        "Mother": 0
+    }
+}

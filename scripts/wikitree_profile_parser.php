@@ -4,7 +4,8 @@
  * WikiTree Profile Parser
  * 
  * Fetches WikiTree profile pages and extracts family relationships
- * (parents, siblings, spouses, children) formatted as markdown with
+ * (parents, siblings, spouses, children) and selected narrative sections
+ * (e.g., DNA) formatted as markdown with
  * [[WikiTree-ID|Person Name]] syntax.
  * 
  * Usage:
@@ -16,7 +17,7 @@
  * Options:
  *   --profile ID       WikiTree profile ID (e.g., Lewis-8883)
  *   --output FILE      Output file path (default: stdout)
- *   --section NAME     Section to output: parents, siblings, spouses, children, all (default: all)
+ *   --section NAME     Section to output: parents, siblings, spouses, children, dna, all (default: all)
  *   --help            Show this help message
  */
 
@@ -291,6 +292,114 @@ class WikiTreeProfileParser {
         
         return '';
     }
+
+    /**
+     * Extract a section by heading id (e.g., DNA) and return WikiTree-markup text
+     */
+    public function getSectionContentById(string $sectionId): string {
+        $headlineNodes = $this->xpath->query("//span[@class='mw-headline' and @id='{$sectionId}']");
+        if ($headlineNodes->length === 0) {
+            return '';
+        }
+
+        $headline = $headlineNodes->item(0);
+        $heading = $headline->parentNode;
+        if (!$heading) {
+            return '';
+        }
+
+        $content = '';
+        for ($node = $heading->nextSibling; $node !== null; $node = $node->nextSibling) {
+            if ($node->nodeType === XML_ELEMENT_NODE && strtolower($node->nodeName) === 'h2') {
+                break;
+            }
+            $content .= $this->nodeToWikiText($node);
+        }
+
+        return $this->cleanupSectionText($content);
+    }
+
+    /**
+     * Convert DOM nodes to WikiTree-friendly markup
+     */
+    private function nodeToWikiText(DOMNode $node): string {
+        if ($node->nodeType === XML_TEXT_NODE) {
+            return $node->nodeValue;
+        }
+
+        if ($node->nodeType !== XML_ELEMENT_NODE) {
+            return '';
+        }
+
+        $name = strtolower($node->nodeName);
+
+        switch ($name) {
+            case 'br':
+                return "\n";
+            case 'p':
+                return trim($this->childrenToWikiText($node)) . "\n\n";
+            case 'ul':
+                $lines = [];
+                foreach ($node->childNodes as $child) {
+                    if ($child->nodeType === XML_ELEMENT_NODE && strtolower($child->nodeName) === 'li') {
+                        $lines[] = "* " . trim($this->childrenToWikiText($child));
+                    }
+                }
+                return implode("\n", $lines) . "\n\n";
+            case 'ol':
+                $lines = [];
+                foreach ($node->childNodes as $child) {
+                    if ($child->nodeType === XML_ELEMENT_NODE && strtolower($child->nodeName) === 'li') {
+                        $lines[] = "# " . trim($this->childrenToWikiText($child));
+                    }
+                }
+                return implode("\n", $lines) . "\n\n";
+            case 'li':
+                return trim($this->childrenToWikiText($node)) . "\n";
+            case 'a':
+                $href = $node->getAttribute('href');
+                $text = trim($this->childrenToWikiText($node));
+                if (preg_match('/\/wiki\/([A-Z][a-z]+-\d+)/', $href, $matches)) {
+                    $id = $matches[1];
+                    $label = $text !== '' ? $text : $id;
+                    return "[[{$id}|{$label}]]";
+                }
+                if ($href !== '') {
+                    $label = $text !== '' ? $text : $href;
+                    return "[{$href} {$label}]";
+                }
+                return $text;
+            case 'b':
+            case 'strong':
+                return "'''" . $this->childrenToWikiText($node) . "'''";
+            case 'i':
+            case 'em':
+                return "''" . $this->childrenToWikiText($node) . "''";
+            default:
+                return $this->childrenToWikiText($node);
+        }
+    }
+
+    private function childrenToWikiText(DOMNode $node): string {
+        $out = '';
+        foreach ($node->childNodes as $child) {
+            $out .= $this->nodeToWikiText($child);
+        }
+        return $out;
+    }
+
+    private function cleanupSectionText(string $text): string {
+        $text = preg_replace("/[ \t]+\n/", "\n", $text);
+        $text = preg_replace("/\n{3,}/", "\n\n", $text);
+        return trim($text);
+    }
+
+    public function formatTextSectionMarkdown(string $title, string $content): string {
+        if (trim($content) === '') {
+            return '';
+        }
+        return "=== {$title} ===\n" . $content . "\n\n";
+    }
     
     /**
      * Format a person as markdown link
@@ -417,6 +526,11 @@ class WikiTreeProfileParser {
             $children = $this->getChildren();
             $output .= $this->formatChildrenMarkdown($children);
         }
+
+        if ($includeAll || in_array('dna', $sections)) {
+            $dna = $this->getSectionContentById('DNA');
+            $output .= $this->formatTextSectionMarkdown('DNA', $dna);
+        }
         
         return $output;
     }
@@ -473,7 +587,7 @@ Usage:
 Options:
   --profile ID       WikiTree profile ID (required, e.g., Lewis-8883)
   --output FILE      Output file path (default: stdout)
-  --section NAME     Section to output: parents, siblings, spouses, children, all (default: all)
+    --section NAME     Section to output: parents, siblings, spouses, children, dna, all (default: all)
   --help, -h         Show this help message
 
 Examples:

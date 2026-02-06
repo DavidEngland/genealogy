@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "wikitreeId": "Felsinger-2",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-05 01:37:07",
+        "timestamp": 1770255427
+    },
+    "profile": {
+        "Id": 814891,
+        "PageId": 834798,
+        "Name": "Felsinger-2",
+        "FirstName": "Dorothea",
+        "MiddleName": "Elizabeth",
+        "LastNameAtBirth": "Felsinger",
+        "LastNameCurrent": "Seitz",
+        "RealName": "Dorothea",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1713-02-15",
+        "DeathDate": "1770-07-16",
+        "BirthLocation": "Büdingen, Hesse, Heiliges Römisches Reich",
+        "DeathLocation": "Anson County, Province of North Carolina",
+        "Gender": "Female",
+        "IsLiving": 0,
+        "Photo": "",
+        "Touched": "20251202024555",
+        "Privacy": 60,
+        "Manager": 18597292,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": null,
+        "Created": "20110115153122",
+        "Father": 814890,
+        "Mother": 0
+    }
+}

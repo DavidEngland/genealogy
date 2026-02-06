@@ -188,6 +188,90 @@ class WikiTreeAPI {
         
         return $response[0];
     }
+
+    /**
+     * Fetch ancestors for a profile
+     *
+     * @param string $id WikiTree ID
+     * @param int $depth Ancestor depth (default: 5)
+     * @param array $fields Optional field list
+     * @return array|false Ancestors data or false on failure
+     */
+    public function fetchAncestors(string $id, int $depth = 5, array $fields = []) {
+        if ($depth < 1) {
+            $this->logError("Depth must be a positive integer");
+            return false;
+        }
+
+        // Default comprehensive field list
+        if (empty($fields)) {
+            $fields = [
+                'Id', 'PageId', 'Name', 'FirstName', 'MiddleName', 'LastNameAtBirth',
+                'LastNameCurrent', 'RealName', 'Nicknames', 'Prefix', 'Suffix',
+                'BirthDate', 'DeathDate', 'BirthLocation', 'DeathLocation',
+                'Gender', 'IsLiving', 'Photo', 'PhotoData',
+                'Father', 'Mother', 'Created', 'Touched', 'Privacy', 'Manager'
+            ];
+        }
+
+        $params = [
+            'key' => $id,
+            'depth' => (string)$depth,
+            'fields' => implode(',', $fields)
+        ];
+
+        $response = $this->callAPI('getAncestors', $params);
+
+        if ($response === false) {
+            return false;
+        }
+
+        // Check for API-level errors
+        if (isset($response[0]['status'])) {
+            $status = $response[0]['status'];
+            if ($status !== 0) {
+                $this->logError("API returned status $status for profile $id");
+                return false;
+            }
+        }
+
+        if (!isset($response[0])) {
+            $this->logError("No ancestors data returned for $id");
+            return false;
+        }
+
+        return $response[0];
+    }
+
+    /**
+     * Search for people (searchPerson)
+     *
+     * @param array $params Search parameters
+     * @return array|false Search results or false on failure
+     */
+    public function searchPerson(array $params = []) {
+        $response = $this->callAPI('searchPerson', $params);
+
+        if ($response === false) {
+            return false;
+        }
+
+        // Check for API-level errors
+        if (isset($response[0]['status'])) {
+            $status = $response[0]['status'];
+            if ($status !== 0) {
+                $this->logError("API returned status $status for searchPerson");
+                return false;
+            }
+        }
+
+        if (!isset($response[0])) {
+            $this->logError("No search data returned for searchPerson");
+            return false;
+        }
+
+        return $response[0];
+    }
     
     /**
      * Log error message
