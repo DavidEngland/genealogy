@@ -1,5 +1,10 @@
 <?php
 /**
+ * Author: David Edward England, PhD
+ * ORCID: https://orcid.org/0009-0001-2095-6646
+ * Repo: https://github.com/DavidEngland/genealogy
+ */
+/**
  * Convert FamilySearch CSV search results to WikiTree sources Markdown
  * Usage: php csv_to_wikitree_sources.php --in search-results/Pigg-83.csv --out sources/Pigg-83.md
  */

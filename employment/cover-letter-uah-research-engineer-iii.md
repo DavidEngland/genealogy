@@ -1,3 +1,5 @@
+# Offer Acceptance — Research Engineer III (UAH ESSC)
+
 February 6, 2026
 
 Dorothie Linton  
@@ -16,5 +18,5 @@ Thank you again for this opportunity. I look forward to contributing to the ESSC
 Sincerely,
 
 David Edward England, PhD  
-DavidEEngland@Outlook.com  
+DavidEEngland@Gmail.Com
 ORCID: https://orcid.org/0009-0001-2095-6646

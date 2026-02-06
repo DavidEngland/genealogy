@@ -152,3 +152,9 @@ This hybrid approach gives you full control over content while automating the st
 
 - Draft bios should be flagged “sources pending” until citations are added.
 - Draft summaries should be explicitly labeled “unsourced” until citations are attached.
+
+---
+
+**Maintainer:** David Edward England, PhD  
+**ORCID:** https://orcid.org/0009-0001-2095-6646  
+**Repository:** https://github.com/DavidEngland/genealogy

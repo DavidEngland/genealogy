@@ -1,5 +1,7 @@
 # Genealogy Research Repository
 
+Repository: https://github.com/DavidEngland/genealogy
+
 A collection of genealogy processing scripts, workflow tools, and data extraction utilities. This repository contains working implementations for WikiTree profile management, GEDCOM parsing, FamilySearch integration, and automated biographical record generation.
 
 **Focus**: Workflow automation and data processing tools for genealogical research. Eventually intended to develop reusable tools to aid other genealogists.
@@ -233,5 +235,5 @@ python3 scripts/csv_to_markdown_16th_regiment.py results.csv
 **Repository Owner**: David Edward England, PhD  
 **ORCID**: https://orcid.org/0009-0001-2095-6646  
 **Email**: DavidEngland@Hotmail.Com  
-**Last Updated**: February 4, 2026  
+**Last Updated**: February 6, 2026  
 **Primary Tools**: PHP (data processing), Python (search/extraction), Markdown (profiles)

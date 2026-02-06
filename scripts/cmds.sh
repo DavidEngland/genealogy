@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# Author: David Edward England, PhD
+# ORCID: https://orcid.org/0009-0001-2095-6646
+# Repo: https://github.com/DavidEngland/genealogy
 # Script stub.
 
 # Single person to Markdown

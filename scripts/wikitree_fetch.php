@@ -1,5 +1,10 @@
 <?php
 /**
+ * Author: David Edward England, PhD
+ * ORCID: https://orcid.org/0009-0001-2095-6646
+ * Repo: https://github.com/DavidEngland/genealogy
+ */
+/**
  * WikiTree Profile Fetcher (API-based)
  * 
  * Fetches WikiTree profiles via the WikiTree API and stores as JSON.

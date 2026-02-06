@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Author: David Edward England, PhD
+# ORCID: https://orcid.org/0009-0001-2095-6646
+# Repo: https://github.com/DavidEngland/genealogy
 """
 Extract persons with unknown WikiTree IDs and generate search links.
 Scans markdown files for entries with non-numeric WikiTree ID patterns (e.g., -?, -##, -TBD)

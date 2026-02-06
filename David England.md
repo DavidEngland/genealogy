@@ -2,11 +2,13 @@ David England
 
 Applied Mathematician · Atmospheric Scientist · Scientific Computing & ML
 
-📍 Tennessee
+📍 Huntsville, AL
 📧 DavidEEngland@Outlook.com
 🌐 http://about.me/DavidEngland
 🐙 GitHub: https://github.com/DavidEngland
 🔗 LinkedIn: https://www.linkedin.com/in/davidengland
+ORCID: https://orcid.org/0009-0001-2095-6646
+Repository: https://github.com/DavidEngland/genealogy
 WikiTree: https://www.wikitree.com/wiki/England-1357
 
 ⸻
@@ -18,6 +20,14 @@ Applied mathematician and atmospheric scientist with deep experience in boundary
 ⸻
 
 Professional Experience
+
+University of Alabama in Huntsville (Earth System Science Center)
+
+Research Engineer III (Step 2, On Call)
+Feb 2026 – Present
+   •   Support ESSC research programs in atmospheric and earth system science
+   •   Apply numerical modeling and scientific computing to research workflows
+   •   Contribute to proposal development and data analysis pipelines
 
 Independent Research & Development
 

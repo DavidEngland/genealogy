@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Author: David Edward England, PhD
+# ORCID: https://orcid.org/0009-0001-2095-6646
+# Repo: https://github.com/DavidEngland/genealogy
 
 filepath = "16th-Regiment-Mississippi-Militia-War-of-1812.md"
 with open(filepath, 'r') as f:

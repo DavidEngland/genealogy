@@ -1,4 +1,9 @@
 <?php
+/**
+ * Author: David Edward England, PhD
+ * ORCID: https://orcid.org/0009-0001-2095-6646
+ * Repo: https://github.com/DavidEngland/genealogy
+ */
 // Batch process genealogy CSV files to generate source markdown
 // Usage: php scripts/batch-sources.php [OPTIONS]
 // Examples:
