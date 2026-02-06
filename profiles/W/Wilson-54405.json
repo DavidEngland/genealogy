@@ -1,0 +1,49 @@
+{
+    "metadata": {
+        "wikitreeId": "Wilson-54405",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-06 19:19:25",
+        "timestamp": 1770405565
+    },
+    "profile": {
+        "Id": 20150837,
+        "PageId": 21869561,
+        "Name": "Wilson-54405",
+        "FirstName": "Elizabeth",
+        "MiddleName": "",
+        "LastNameAtBirth": "Wilson",
+        "LastNameCurrent": "Brewer",
+        "RealName": "Elizabeth",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1810-00-00",
+        "DeathDate": "1847-00-00",
+        "BirthLocation": "South Carolina, USA",
+        "DeathLocation": "Wayne, Tennessee, USA",
+        "Gender": "Female",
+        "IsLiving": 0,
+        "Touched": "20230307133205",
+        "Privacy": 60,
+        "Manager": 12784712,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "Created": "20180620210130",
+        "Father": 12807455,
+        "Mother": 20147054,
+        "marriage_location": "",
+        "marriage_date": "0000-00-00",
+        "marriage_end_date": "0000-00-00",
+        "do_not_display": "0",
+        "data_status": {
+            "marriage_date": "",
+            "marriage_end_date": "",
+            "marriage_location": ""
+        }
+    }
+}

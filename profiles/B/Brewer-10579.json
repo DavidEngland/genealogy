@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "wikitreeId": "Brewer-10579",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-06 19:20:07",
+        "timestamp": 1770405607
+    },
+    "profile": {
+        "Id": 31258436,
+        "PageId": 34387443,
+        "Name": "Brewer-10579",
+        "FirstName": "Enoch",
+        "MiddleName": "",
+        "LastNameAtBirth": "Brewer",
+        "LastNameCurrent": "Brewer",
+        "RealName": "Enoch",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1810-00-00",
+        "DeathDate": "1855-00-00",
+        "BirthLocation": "Wayne, Tennessee, United States",
+        "DeathLocation": "Tennessee, United States",
+        "Gender": "Male",
+        "IsLiving": 0,
+        "Photo": "",
+        "Touched": "20241006181420",
+        "Privacy": 60,
+        "Manager": 11362507,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": null,
+        "Created": "20210725183338",
+        "Father": 3803476,
+        "Mother": 3803471
+    }
+}

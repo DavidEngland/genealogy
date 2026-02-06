@@ -1,10 +1,10 @@
 == Biography ==
 
-'''Mary Ann "Polly" Martin''' was born in March 1810 in South Carolina.<ref name="findagrave">"Find a Grave, database and images", FamilySearch (<https://www.findagrave.com/memorial/9392489/mary_ann-lawson> : accessed 4 Feb 2026), memorial page for Mary Ann "Polly" Martin Lawson (Mar 1810–6 Jan 1877), Find a Grave Memorial ID 9392489, citing Lawson Cemetery, Wayne County, Tennessee, USA; Maintained by jlk (contributor 46543270).</ref> She married [[Lawson-1617|James Allen Lawson]] (23 July 1807–15 July 1882).
+'''Mary Ann "Polly" Martin''' was born in March 1810 in South Carolina.<ref name="findagrave">"Find a Grave, database and images", FamilySearch (<https://www.findagrave.com/memorial/9392489/mary_ann-lawson> : accessed 4 Feb 2026), memorial page for Mary Ann "Polly" Martin Lawson (Mar 1810–6 Jan 1877), Find a Grave Memorial ID 9392489, citing Lawson Cemetery, Wayne County, Tennessee, USA; Maintained by jlk (contributor 46543270).</ref> She married [[Lawson-1617|James Allen Lawson]] (23 July 1807–15 July 1882). She lived in Wayne, Tennessee, United States for about 10 years and was in McNairy, Tennessee, United States in 1870.
 
 === Children ===
 
-Mary and James had at least five children:
+Mary and James had at least four sons and one daughter:
 
 * [[Lawson-GSMM-8M3|Samuel Martin Lawson]] (1832–1915)
 * [[Lawson-L2PH-MS3|Elizabeth Jane Lawson]] (1838–1922)
@@ -14,7 +14,7 @@ Mary and James had at least five children:
 
 === Death and Burial ===
 
-Mary died on 6 January 1877 in Tennessee.<ref name="findagrave" /> She was buried in Lawson Cemetery, Wayne County, Tennessee.
+Mary died on 6 January 1877 in Lutts, Wayne, Tennessee, United States, at the age of 66.<ref name="findagrave" /> She was buried in Lawson Cemetery, Wayne, Tennessee.
 
 ''Can you add any information on Mary Martin? Please help grow her WikiTree profile. Everything you see here is a collaborative work-in-progress.''
 
@@ -22,8 +22,9 @@ Mary died on 6 January 1877 in Tennessee.<ref name="findagrave" /> She was burie
 
 <references />
 
-* "United States, Census, 1850", FamilySearch (https://familysearch.org/ark:/61903/1:1:MC63-VHN : accessed 20 Jun 2025), Entry for James A Lawson and Mary Lawson.
-* "United States, Census, 1870", FamilySearch (https://familysearch.org/ark:/61903/1:1:MDDJ-63G : accessed 8 Oct 2025), Entry for James Lawson and Mary A Lawson.
+* "United States, Census, 1850", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MC63-VHN : accessed 20 Jun 2025), Entry for James A Lawson and Mary Lawson.
+* "United States, Census, 1860", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:M8TY-XYD : accessed 8 Jul 2024), Entry for J A Lawson and Mary Lawson.
+* "United States, Census, 1870", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MDDJ-63G : accessed 8 Oct 2025), Entry for James Lawson and Mary A Lawson.
 
 === Acknowledgments ===
 
@@ -32,3 +33,7 @@ Thank you to [[England-1357|David England]] for [http://www.wikitree.com/index.p
 <!-- Please edit or improve on anything you see on this page. Thank you! -->
 
 - Pending: align with draft/source workflow used for Brewer profiles.
+
+=== See Also ===
+
+* [[Lawson-1617|James Allen Lawson]]

@@ -1,0 +1,49 @@
+{
+    "metadata": {
+        "wikitreeId": "Cantrell-7431",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-06 19:19:37",
+        "timestamp": 1770405577
+    },
+    "profile": {
+        "Id": 31258492,
+        "PageId": 34387501,
+        "Name": "Cantrell-7431",
+        "FirstName": "Jane",
+        "MiddleName": "",
+        "LastNameAtBirth": "Cantrell",
+        "LastNameCurrent": "Brewer",
+        "RealName": "Jane",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1805-00-00",
+        "DeathDate": "1880-11-00",
+        "BirthLocation": "Spartanburg, Spartanburg, South Carolina, United States",
+        "DeathLocation": "DeKalb, Tennessee, United States",
+        "Gender": "Female",
+        "IsLiving": 0,
+        "Touched": "20241006181448",
+        "Privacy": 60,
+        "Manager": 11362507,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "Created": "20210725183533",
+        "Father": 31258868,
+        "Mother": 31258909,
+        "marriage_location": "Lauderdale, Alabama, United States",
+        "marriage_date": "1849-03-15",
+        "marriage_end_date": "0000-00-00",
+        "do_not_display": "0",
+        "data_status": {
+            "marriage_date": "certain",
+            "marriage_end_date": "",
+            "marriage_location": ""
+        }
+    }
+}

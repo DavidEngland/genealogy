@@ -1,0 +1,51 @@
+{
+    "metadata": {
+        "wikitreeId": "Brewer-7980",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-06 19:19:37",
+        "timestamp": 1770405577
+    },
+    "profile": {
+        "Id": 25144639,
+        "PageId": 27542388,
+        "Name": "Brewer-7980",
+        "FirstName": "George",
+        "MiddleName": "Marion",
+        "LastNameAtBirth": "Brewer",
+        "LastNameCurrent": "Brewer",
+        "RealName": "George",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1844-06-10",
+        "DeathDate": "1912-09-01",
+        "BirthLocation": "Wayne, Tennessee, United States",
+        "DeathLocation": "Wayne, Tennessee, United States",
+        "Gender": "Male",
+        "IsLiving": 0,
+        "Photo": "Brewer-12384.jpg",
+        "Touched": "20250119161714",
+        "Privacy": 60,
+        "Manager": 24903169,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": {
+            "path": "/photo.php/e/ef/Brewer-12384.jpg",
+            "url": "/photo.php/thumb/e/ef/Brewer-12384.jpg/75px-Brewer-12384.jpg",
+            "file": "75px-Brewer-12384.jpg",
+            "dir": "/photo.php/thumb/e/ef",
+            "width": 75,
+            "height": 87,
+            "orig_width": "332",
+            "orig_height": "386"
+        },
+        "Created": "20191222055803",
+        "Father": 31258436,
+        "Mother": 31258492
+    }
+}

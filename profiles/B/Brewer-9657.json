@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "wikitreeId": "Brewer-9657",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-06 19:20:07",
+        "timestamp": 1770405607
+    },
+    "profile": {
+        "Id": 29440623,
+        "PageId": 32357636,
+        "Name": "Brewer-9657",
+        "FirstName": "William",
+        "MiddleName": "",
+        "LastNameAtBirth": "Brewer",
+        "LastNameCurrent": "Brewer",
+        "RealName": "William",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1812-03-25",
+        "DeathDate": "1878-01-20",
+        "BirthLocation": "Burke, North Carolina, United States",
+        "DeathLocation": "Liberty Township, Grant, Indiana, United States",
+        "Gender": "Male",
+        "IsLiving": 0,
+        "Photo": "",
+        "Touched": "20241214213729",
+        "Privacy": 60,
+        "Manager": 28875274,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": null,
+        "Created": "20210210235918",
+        "Father": 3803476,
+        "Mother": 3803471
+    }
+}
