@@ -134,6 +134,9 @@ data/exports/
 data/raw/
 data/private/
 
+# Generated family trees (JSON)
+generation-families/**/*.json
+
 # Large CSV files with private data
 England-1055.csv
 GWBrewer-search-results.csv
