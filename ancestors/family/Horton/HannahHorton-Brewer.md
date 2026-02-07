@@ -1,0 +1,8 @@
+**Hannah Horton** was born on **February 24, 1828**, in Wayne County, Tennessee. She died on **October 5, 1899**, and is buried in the same county. She was the wife of **Rial (Riley) Brewer**, a local esquire born in North Carolina who served as the Sheriff of Wayne County and later died in Louisville, Kentucky, in 1862. Together, Hannah and Rial had at least nine children: **Wiley N.**, **Catherine**, **Margaret M.**, **Mary**, **Hannah Elizabeth** (nicknamed "Hanner"), **Millard Filmore**, **Artemesia**, and **Rial S. Brewer**.
+
+Her family background includes the following details:
+*   **Parents:** Her father was **Nathaniel Ananias Horton** (1790–1846), a native of Ulster, New York, and her mother was **Malinda Atkinson** (c. 1800–1895).
+*   **Grandparents:** Her paternal grandparents were **Isaac Horton Sr.** (1759–1854), who immigrated from London, and **Hannah Farris** (1759–c. 1845), who was originally from Westchester County, New York.
+*   **Siblings:** Her siblings included **Mary**, **William Melvin**, **Nathaniel H.**, **Peter Gale**, **Malinda Caroline**, **Stephen Isaac James**, and **Sarah A. Horton**.
+
+The sources also mention an older relative, **Hannah Parley Horton** (1787–1856), who was the sister of Hannah's father and married into the Stooksberry family. Additionally, records from the late 19th century note a **Sarah J. Horton** who died in 1882 at "Victor, TN" and was the daughter of another Sarah J. Horton. Through her marriage, Hannah was a central figure in the **Brewer family** of Wayne County, which established deep agrarian and civic roots in the region during the 19th century.

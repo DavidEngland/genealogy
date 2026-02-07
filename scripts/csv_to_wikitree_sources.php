@@ -9,10 +9,10 @@
  * Usage: php csv_to_wikitree_sources.php --in search-results/Pigg-83.csv --out sources/Pigg-83.md
  */
 
-$options = getopt('', ['in:', 'out:']);
+$options = getopt('', ['in:', 'out:', 'only-principal', 'skip-keywords:', 'exclude-families', 'filter-name:']);
 
 if (!isset($options['in']) || !isset($options['out'])) {
-    die("Usage: php csv_to_wikitree_sources.php --in <input.csv> --out <output.md>\n");
+    die("Usage: php csv_to_wikitree_sources.php --in <input.csv> --out <output.md> [--only-principal] [--skip-keywords \"Find a Grave,Index\"] [--exclude-families] [--filter-name \"John Smith\"]\n");
 }
 
 $inFile = $options['in'];
@@ -20,6 +20,24 @@ $outFile = $options['out'];
 
 if (!file_exists($inFile)) {
     die("Error: Input file '$inFile' not found.\n");
+}
+
+$filters = [
+    'only_principal' => isset($options['only-principal']),
+    'skip_keywords' => isset($options['skip-keywords'])
+        ? array_filter(array_map('trim', explode(',', $options['skip-keywords'])))
+        : [],
+    'exclude_families' => isset($options['exclude-families']),
+    'filter_name' => isset($options['filter-name']) ? trim($options['filter-name']) : '',
+];
+
+function containsKeyword(string $haystack, array $keywords): bool {
+    foreach ($keywords as $kw) {
+        if ($kw !== '' && stripos($haystack, $kw) !== false) {
+            return true;
+        }
+    }
+    return false;
 }
 
 // Parse CSV
@@ -40,6 +58,34 @@ while (($row = fgetcsv($handle, 0, ',', '"', '')) !== false) {
     }
     
     $record = array_combine($header, $row);
+
+    $fullName = trim($record['fullName'] ?? '');
+    $collectionName = trim($record['collectionName'] ?? '');
+    $roleInRecord = trim($record['roleInRecord'] ?? '');
+    $relationshipToHead = trim($record['relationshipToHead'] ?? '');
+
+    // Apply filters
+    if ($filters['filter_name'] !== '' && $fullName !== '') {
+        if (stripos($fullName, $filters['filter_name']) === false) {
+            continue;
+        }
+    }
+
+    if ($filters['only_principal'] && $roleInRecord !== '') {
+        if (strcasecmp($roleInRecord, 'Principal') !== 0) {
+            continue;
+        }
+    }
+
+    if (!empty($filters['skip_keywords']) && $collectionName !== '') {
+        if (containsKeyword($collectionName, $filters['skip_keywords'])) {
+            continue;
+        }
+    }
+
+    if ($filters['exclude_families'] && $relationshipToHead !== '') {
+        continue;
+    }
     
     // Extract ARK ID and skip duplicates
     preg_match('/ark:\/61903\/1:1:([A-Z0-9-]+)/', $record['arkId'], $matches);

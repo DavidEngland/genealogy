@@ -60,6 +60,25 @@ php scripts/csv_to_wikitree_sources.php search-results/JamesHartgrave.csv \
 php scripts/csv_to_wikitree_sources.php search-results/JamesHartgrave.csv \
   --only-principal \
   --skip-keywords "Find a Grave"
+
+## Ranking Sources (New)
+
+Use the ranking script to score sources by role, keywords, and name similarity. It outputs JSON and/or Markdown for quick review.
+
+```bash
+# Rank sources with target name and write JSON
+php scripts/rank-sources.php \
+  --in search-results/JamesHartgrave.csv \
+  --out sources/JamesHartgrave-rank.json \
+  --target-name "James Hartgrave"
+
+# Create a markdown-ranked list (top 20)
+php scripts/rank-sources.php \
+  --in search-results/JamesHartgrave.csv \
+  --out-md sources/JamesHartgrave-rank.md \
+  --target-name "James Hartgrave" \
+  --top 20
+```
 ```
 
 ### Batch Filtering
