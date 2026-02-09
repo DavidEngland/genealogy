@@ -40,6 +40,7 @@ She died on '''27 November 1962''' in '''Paris, Lamar, Texas, United States''', 
 
 === Acknowledgments ===
 
-Thank you to [[England-1357 | David England]] for creating WikiTree profile Lawson-1632 through the import of annie lawson ancestors.ged on Aug 28, 2013. Click to the Changes page for the details of edits by David and others.
+Thank you to [[England-1357|David England]] for creating WikiTree profile Lawson-1632 through the import of annie lawson ancestors.ged on Aug 28, 2013. Click to the Changes page for the details of edits by David and others.
 <!-- php scripts/wikitree_profile_parser.php --profile Lawson-1632 --output ancestors/families/Lawsons/Lawson-1632-family.md -->
 <!-- Please edit, add, or delete anything in this text. Thank you! -->
+- TODO: reformat bio after parser output is restored.

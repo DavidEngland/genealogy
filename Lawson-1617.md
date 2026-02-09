@@ -65,20 +65,9 @@ James A. Lawson married '''[[Martin-14317|Mary Ann “Polly” Martin]]'''.<ref 
 * Can DNA matches be triangulated with documented Reeves/Reaves lines to verify parentage claims?
 * What evidence exists for the reported separation from Mary “Polly” Martin (court records, deeds, or estate files)?
 
-== Sources ==
-<references />
+=== Acknowledgments ===
 
-* "1840 United States Federal Census", Ancestry (http://search.ancestry.com/cgi-bin/sse.dll?db=1840usfedcenancestry&h=3037031&ti=0&indiv=try&gss=pt : accessed 19 Aug 2017), Year: 1840; Census Place: Wayne, Tennessee.
-* "United States, Census, 1850", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MC63-VHN : accessed 20 Jun 2025), Entry for James A Lawson and Mary Lawson.
-* "1860 United States Federal Census", Ancestry (http://search.ancestry.com/cgi-bin/sse.dll?db=1860usfedcenancestry&h=19571496&ti=0&indiv=try&gss=pt : accessed 19 Aug 2017), Year: 1860; Census Place: District 16, Wayne, Tennessee; Page: 302; Image: 612.
-* "United States, Census, 1860", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:M8TY-XYD : accessed 8 Jul 2024), Entry for J A Lawson and Mary Lawson.
-* "Tennessee Census 1860 Slave Schedule", Ancestry (http://search.ancestry.com/cgi-bin/sse.dll?db=tncen&h=30565067&ti=0&indiv=try&gss=pt : accessed 19 Aug 2017).
-* "U.S. IRS Tax Assessment Lists, 1862-1918", Ancestry (http://search.ancestry.com/cgi-bin/sse.dll?db=irstax&h=202359&ti=0&indiv=try&gss=pt : accessed 19 Aug 2017).
-* "1870 United States Federal Census", Ancestry (http://search.ancestry.com/cgi-bin/sse.dll?db=1870usfedcen&h=7279245&ti=0&indiv=try&gss=pt : accessed 19 Aug 2017), Year: 1870; Census Place: District 5, Humphreys, Tennessee.
-* "United States, Census, 1870", FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MDDJ-63G : accessed 8 Oct 2025), Entry for James Lawson and Mary A Lawson.
+Thank you to [[England-1357 | David England]] for [http://www.wikitree.com/index.php?title=Special:NetworkFeed&who=Lawson-1617 creating] Lawson-1617 on 29 Aug 13. Click the Changes tab for the details on contributions by David and others.
 
-See Also:
-
-* "Ancestral File", database, FamilySearch (<http://familysearch.org/pal:/MM9.2.1/M1S7-JKP> : accessed 2013-10-09), entry for James A Lawson
-<!-- php scripts/wikitree_profile_parser.php --profile Lawson-1617 --output ancestors/family/Lawson/Lawson-1617-family.md -->
-<!-- Please edit, add, or delete anything in this text. Thank you! -->
+- Pending: align with draft/source workflow used for Brewer profiles.
+- TODO: reformat bio after parser output is restored.

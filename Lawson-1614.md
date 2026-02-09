@@ -12,7 +12,7 @@
 
 == Biography ==
 
-'''George Washington Lawson''' was born on 21 September 1840 in Wayne County, Tennessee, United States.<ref name="findagrave">{{FindAGrave|118366577}}</ref> He was the son of '''[[Lawson-1617|James A. Lawson]]''' (c. 1810–) and '''[[Martin-14317|Mary Polly Martin]]''' (c. 1818–).<ref name="census1850child">"United States, Census, 1850", FamilySearch (https://familysearch.org/ark:/61903/1:1:MC63-VHL : accessed 20 Jun 2025), Entry for George Lawson in household of James A Lawson and Mary Lawson, 1850.</ref><ref name="census1860child">"United States, Census, 1860", FamilySearch (https://familysearch.org/ark:/61903/1:1:M8TY-XYF : accessed 8 Jul 2024), Entry for Geo W Lawson in household of J A Lawson and Mary Lawson, 1860.</ref>
+'''George Washington Lawson''' was born on 21 September 1840 in Wayne County, Tennessee, United States.<ref name="findagrave">{{FindAGrave|118366577}}</ref> He was the son of '''[[Lawson-1617|James A. Lawson]]''' (c. 1810–) and '''[[Martin-14317|Mary Ann "Polly" Martin]]''' (c. 1818–).<ref name="census1850child">"United States, Census, 1850", FamilySearch (https://familysearch.org/ark:/61903/1:1:MC63-VHL : accessed 20 Jun 2025), Entry for George Lawson in household of James A Lawson and Mary Lawson, 1850.</ref><ref name="census1860child">"United States, Census, 1860", FamilySearch (https://familysearch.org/ark:/61903/1:1:M8TY-XYF : accessed 8 Jul 2024), Entry for Geo W Lawson in household of J A Lawson and Mary Lawson, 1860.</ref>
 
 George grew up in a household that also included his siblings Turner Lane Lawson and Lucinda J. Lawson, among others.<ref name="census1850child" />
 
@@ -96,3 +96,4 @@ George Washington Lawson died on 29 August 1925 in Collinwood, Wayne County, Ten
 Thank you to [[England-1357 | David England]] for creating WikiTree profile Lawson-1614 through the import of annie lawson ancestors.ged on Aug 28, 2013. Click to the Changes page for the details of edits by David and others.
 
 - Pending: align with draft/source workflow used for Brewer profiles.
+- TODO: reformat bio after parser output is restored.

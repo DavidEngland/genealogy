@@ -1,8 +1,26 @@
+[[Category:Magistrates]]
 [[Category:Wayne County, Tennessee]]
-[[Category:Scott Family of Wayne County, Tennessee]]
-[[Category:Clan Scott]]
 
-== Biography ==
+# John Martin Scott (Scott-9213)
+
+## Parents
+- [[Scott-72246|James Scott]]
+
+## Marriage
+- Married [[White-16150|Mary Cynthia (White) Scott]] about 1829 in Wayne, Tennessee, United States.
+
+## Children
+- [[Scott-41052|Samuel E Scott]]
+- [[Scott-7959|Frederick Marion Scott]]
+- [[Scott-7956|John James Scott]]
+- [[Scott-7957|William P. M. Scott]]
+- [[Scott-7950|Mary Jane (Scott) Pigg]]
+- [[Scott-7955|Madison C Scott]]
+- [[Scott-7954|Eliza (Scott) Anderson]]
+- [[Scott-7961|Franklin Pierce Scott]]
+- [[Scott-7960|Isabella Scott]]
+
+## Biography
 
 '''John Martin B. Scott''' (1791–1870) was a prominent '''Magistrate''' in Wayne County, Tennessee, known for his service on the county court and his establishment of a large family on 48 Mile Creek in the Western Highland Rim region.
 
@@ -124,5 +142,5 @@ James, James Sr., John, John Sr., John M, Rosamond P
 == Acknowledgments ==
 
 Thank you to [[England-1357 | David England]] for creating this profile and assembling Scott family research for Wayne County, Tennessee. Analysis contributed by Jane Curci.
-
+<!-- php scripts/wikitree_profile_parser.php --profile Scott-9213 --output ancestors/family/Scott/JohnMartinBaytopScott-family.md -->
 <!-- Please edit or improve on anything you see on this page. Thank you! -->

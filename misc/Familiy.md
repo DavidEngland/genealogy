@@ -68,3 +68,4 @@ The sources highlight several defining moments of resilience in these lines:
 * **Frontier Justice:** The family's local influence was so strong that **Captain William Brown Parish** was present at the hanging of the outlaw **"Mountain" Tom Clark** in 1872, an event significant enough to be reported in the **New York Times**.
 
 - TODO: track unsourced family traditions for verification.
+- TODO: reformat summaries after parser output is restored.

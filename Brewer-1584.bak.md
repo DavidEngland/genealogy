@@ -159,3 +159,5 @@ Thank you to [[England-1357 | David England]] for creating WikiTree profile Brew
 Special thanks to [[White-47333| Terry White]] (FTDNA kit 177950) of the Brewer DNA Project for sharing the Big Y-700 results that clarified George Washington Brewer's placement in the I-Y23708 subclade.
 
 <!-- Please edit, add, or delete anything in this text. Thank you! -->
+
+Draft placeholder; content pending.

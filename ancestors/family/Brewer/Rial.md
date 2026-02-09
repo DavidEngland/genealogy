@@ -17,3 +17,5 @@ Your family tradition of **Union loyalty** is strongly supported by the historic
 Rial married **Hannah Horton** (1828–1899) in 1844. Together they had at least nine children, including your grandmother **Sarah Jane Brewer**, who eventually married into the **Lawson family**.
 
 Rial died on **November 13, 1862**, in **Louisville, Kentucky**, while the Civil War was still raging. His burial is associated with the **Cave Hill National Cemetery** in Louisville, though family members are also interred in the **Brewer Cemetery** in the Whitten community of Wayne County. Through his children and his service as a lawman and soldier, he remains a pivotal patriarch of the Western Highland Rim.
+
+Draft placeholder; content pending.

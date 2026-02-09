@@ -21,3 +21,5 @@ A related Wayne County civic line from the same era is the **Horton–Brewer** f
 
 - Draft review queue: Brewer-953 bio pending sources.
 - Draft review queue: Brewer-708 summary pending citations.
+- Note: add citations for all claims before publishing.
+- TODO: reformat summary after parser output is restored.

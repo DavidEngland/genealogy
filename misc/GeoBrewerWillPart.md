@@ -6,3 +6,5 @@ I give unto my son Hoel Brewer a young horse that we call Snip and feather to ma
 I give unto my Henry Brewer a gun.
 I give unto my son Oliver Brewer a gun.
 I give unto my son Nathaniel Brewer a gun.
+
+Draft placeholder; content pending.

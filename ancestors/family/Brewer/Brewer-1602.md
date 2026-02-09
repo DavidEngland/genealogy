@@ -35,3 +35,5 @@ Her mother, '''Hannah (Horton) Brewer''', is buried at Horton Cemetery in Wayne 
 === Acknowledgments ===
 
 Thank you to [[England-1357 | David England]] for creating WikiTree profile Brewer-1602 through the import of annie lawson ancestors.ged on Aug 28, 2013. Click to the Changes page for the details of edits by David and others.
+
+Draft placeholder; content pending.

@@ -25,3 +25,5 @@ It is important to distinguish these from **Sarah Brewer**, the daughter of Geor
 
 ### DNA Validation
 Genetic evidence supports the connection to the earliest **Sarah Lanier (c. 1686–1727)**. Autosomal DNA matches between distant cousins—such as Ron James and Marylyn May—provide "mathematical proof" of their shared 18th-century ancestry through her and George Brewer Sr.. These matches are consistent with the inheritance patterns expected for 7th cousins once removed.
+* Note: add citations or remove unsupported DNA claims.
+- TODO: reformat narrative after parser output is restored.

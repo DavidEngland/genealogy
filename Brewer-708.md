@@ -67,15 +67,5 @@ Thank you to [[England-1357|David England]] for creating WikiTree profile Brewer
 * 2026-02-05: Expanded search to state-level locations returned no candidates for North Carolina or Virginia.
 * 2026-02-05: Tennessee search returned one possible match: [[Brewer-4872|Elizabeth]] — born in Wayne, Tennessee (death listed as 1862). This is only a lead and needs documentary evidence before attachment.
 
-- Draft status: pending review; see Brewer-953 draft notes for process.
-
-== Draft Summary (unsourced; needs citations) ==
-* Birth: about 1746, reportedly Brunswick County, Virginia; parents often claimed as Lanier Brewer Sr. and Joanna Edmonds (needs sources).
-* Name variants: “Lanier,” “Near,” and “Lynn” appear in records (needs verification).
-* Migration pattern: tradition places him moving from Virginia to Cumberland/Moore County, North Carolina (needs sources).
-* Civic roles: listed in tax lists; served as road overseer and chain carrier on land grants (needs specific citations).
-* Census: appears in 1790 and 1820 Moore County (needs citations).
-* Family tradition: claims of multiple spouses (Rebecca Narcissa; Mary, possibly Mary Elizabeth Russell) and a very large number of children are unverified.
-* Indigenous ancestry claim: reported “Tuckahoe/Turkey Ho” reference in a descendant line is unverified.
-* DNA: Y‑DNA assertions about linkage to George Brewer/Sarah Lanier line are unverified here; confirm with documented kits and sources before stating.
+Draft placeholder; content pending.
 

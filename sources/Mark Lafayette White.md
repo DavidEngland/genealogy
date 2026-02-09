@@ -1,0 +1,1 @@
+Find a Grave, database and images (https://www.findagrave.com/memorial/73079429/mark_lafayette-white: accessed February 9, 2026), memorial page for Mark Lafayette White (6 Mar 1839–22 Dec 1923), Find a Grave Memorial ID 73079429, citing Centneary Cemetery, Lutts, Wayne County, Tennessee, USA; Maintained by Tab n Tony (contributor 47400810).
