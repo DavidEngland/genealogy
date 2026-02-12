@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        "wikitreeId": "Watts-9226",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-05 01:37:07",
+        "timestamp": 1770255427
+    },
+    "profile": {
+        "Id": 24553568,
+        "PageId": 26871761,
+        "Name": "Watts-9226",
+        "FirstName": "Robert",
+        "MiddleName": "",
+        "LastNameAtBirth": "Watts",
+        "LastNameCurrent": "Watts",
+        "RealName": "Robert",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1686-00-00",
+        "DeathDate": "0000-00-00",
+        "BirthLocation": "Swanton Abbot, Norfolk, England",
+        "DeathLocation": "",
+        "Gender": "Male",
+        "IsLiving": 0,
+        "Touched": "20201003175349",
+        "Privacy": 60,
+        "Manager": 16038374,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "Created": "20191011215257",
+        "Father": 24553575,
+        "Mother": 24553580
+    }
+}

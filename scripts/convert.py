@@ -1,3 +1,9 @@
+"""Quick GEDCOM conversion helper."""
+
+# Author: David Edward England, PhD
+# ORCID: https://orcid.org/0009-0001-2095-6646
+# Repo: https://github.com/DavidEngland/genealogy
+
 from gedcom.parser import Parser
 from gedcom.element.individual import Individual
 import json

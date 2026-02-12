@@ -18,3 +18,8 @@ The movement of veterans into the **Tennessee-Alabama borderlands** occurred dur
 Since **Whitten Crossroads** and **James Haddock** are not mentioned in the sources, you may want to independently verify if he received his grants for service in a specific unit, such as the **16th Mississippi Militia** or a **South Carolina** auxiliary, to further bridge his history with the regional narratives of the **Creek War** and the **War of 1812**.
 
 A related Wayne County civic line from the same era is the **Horton–Brewer** family, including **[[Horton-1030|Hannah Horton]]** and her husband **[[Brewer-1601|Rial (Ryal/Riley) Brewer]]** (m. before 1844), the county sheriff.
+
+- Draft review queue: Brewer-953 bio pending sources.
+- Draft review queue: Brewer-708 summary pending citations.
+- Note: add citations for all claims before publishing.
+- TODO: reformat summary after parser output is restored.

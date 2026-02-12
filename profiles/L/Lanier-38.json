@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "wikitreeId": "Lanier-38",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-05 01:37:07",
+        "timestamp": 1770255427
+    },
+    "profile": {
+        "Id": 1661047,
+        "PageId": 1687211,
+        "Name": "Lanier-38",
+        "FirstName": "Sarah",
+        "MiddleName": "",
+        "LastNameAtBirth": "Lanier",
+        "LastNameCurrent": "Brewer",
+        "RealName": "Sarah",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1686-00-00",
+        "DeathDate": "1727-00-00",
+        "BirthLocation": "Charles City County, Province of Maryland",
+        "DeathLocation": "Brunswick, Colony of Virginia",
+        "Gender": "Female",
+        "IsLiving": 0,
+        "Photo": "",
+        "Touched": "20260204132601",
+        "Privacy": 60,
+        "Manager": 2986564,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": null,
+        "Created": "20110518133445",
+        "Father": 2029384,
+        "Mother": 29852015
+    }
+}

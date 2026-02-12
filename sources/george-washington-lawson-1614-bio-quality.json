@@ -1,0 +1,1469 @@
+{
+    "metadata": {
+        "generated": "2026-02-08T23:47:43+00:00",
+        "input": "GEDs\/George-Washington-Lawson-1614.ged",
+        "total": 49,
+        "summary": {
+            "ok": 11,
+            "review": 11,
+            "needs-work": 27
+        }
+    },
+    "people": [
+        {
+            "wikitreeId": "Reaves-151",
+            "gedcomId": "@I24@",
+            "name": "Neal S. B.  Reaves",
+            "score": -32,
+            "status": "needs-work",
+            "noteLength": 681,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Reaves-151"
+            },
+            "flags": [
+                "no_refs",
+                "missing_birth_place",
+                "missing_death_date",
+                "missing_death_place",
+                "missing_spouse",
+                "missing_children",
+                "auto_generated",
+                "rough_draft",
+                "gedcom_import",
+                "please_edit"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "birth_date(+5)",
+                "has_parents(+5)",
+                "note_length>=300(+8)",
+                "external_ids(+2)",
+                "auto_generated(-35)",
+                "rough_draft(-15)",
+                "gedcom_import(-12)",
+                "please_edit(-10)"
+            ]
+        },
+        {
+            "wikitreeId": "Reaves-152",
+            "gedcomId": "@I25@",
+            "name": "David  Reaves",
+            "score": -27,
+            "status": "needs-work",
+            "noteLength": 681,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Reaves-152"
+            },
+            "flags": [
+                "no_refs",
+                "missing_death_date",
+                "missing_death_place",
+                "missing_spouse",
+                "missing_children",
+                "auto_generated",
+                "rough_draft",
+                "gedcom_import",
+                "please_edit"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "has_parents(+5)",
+                "note_length>=300(+8)",
+                "external_ids(+2)",
+                "auto_generated(-35)",
+                "rough_draft(-15)",
+                "gedcom_import(-12)",
+                "please_edit(-10)"
+            ]
+        },
+        {
+            "wikitreeId": "Lawson-1631",
+            "gedcomId": "@I11@",
+            "name": "Fannie E.  Lawson",
+            "score": -22,
+            "status": "needs-work",
+            "noteLength": 683,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Lawson-1631"
+            },
+            "flags": [
+                "no_refs",
+                "missing_death_place",
+                "missing_spouse",
+                "missing_children",
+                "auto_generated",
+                "rough_draft",
+                "gedcom_import",
+                "please_edit"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "has_parents(+5)",
+                "note_length>=300(+8)",
+                "external_ids(+2)",
+                "auto_generated(-35)",
+                "rough_draft(-15)",
+                "gedcom_import(-12)",
+                "please_edit(-10)"
+            ]
+        },
+        {
+            "wikitreeId": "Reaves-149",
+            "gedcomId": "@I22@",
+            "name": "Sarah  Reaves",
+            "score": -22,
+            "status": "needs-work",
+            "noteLength": 681,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Reaves-149"
+            },
+            "flags": [
+                "no_refs",
+                "missing_death_place",
+                "missing_spouse",
+                "missing_children",
+                "auto_generated",
+                "rough_draft",
+                "gedcom_import",
+                "please_edit"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "has_parents(+5)",
+                "note_length>=300(+8)",
+                "external_ids(+2)",
+                "auto_generated(-35)",
+                "rough_draft(-15)",
+                "gedcom_import(-12)",
+                "please_edit(-10)"
+            ]
+        },
+        {
+            "wikitreeId": "Lawson-1630",
+            "gedcomId": "@I10@",
+            "name": "Amos S.  Lawson",
+            "score": -17,
+            "status": "needs-work",
+            "noteLength": 773,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Lawson-1630"
+            },
+            "flags": [
+                "no_refs",
+                "missing_spouse",
+                "missing_children",
+                "auto_generated",
+                "rough_draft",
+                "gedcom_import",
+                "please_edit"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "death_place(+5)",
+                "has_parents(+5)",
+                "note_length>=300(+8)",
+                "external_ids(+2)",
+                "auto_generated(-35)",
+                "rough_draft(-15)",
+                "gedcom_import(-12)",
+                "please_edit(-10)"
+            ]
+        },
+        {
+            "wikitreeId": "Lawson-1636",
+            "gedcomId": "@I16@",
+            "name": "Elizabeth Jane  Lawson",
+            "score": -17,
+            "status": "needs-work",
+            "noteLength": 762,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Lawson-1636"
+            },
+            "flags": [
+                "no_refs",
+                "missing_spouse",
+                "missing_children",
+                "auto_generated",
+                "rough_draft",
+                "gedcom_import",
+                "please_edit"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "death_place(+5)",
+                "has_parents(+5)",
+                "note_length>=300(+8)",
+                "external_ids(+2)",
+                "auto_generated(-35)",
+                "rough_draft(-15)",
+                "gedcom_import(-12)",
+                "please_edit(-10)"
+            ]
+        },
+        {
+            "wikitreeId": "Lawson-1629",
+            "gedcomId": "@I8@",
+            "name": "Luther M.  Lawson",
+            "score": -17,
+            "status": "needs-work",
+            "noteLength": 773,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Lawson-1629"
+            },
+            "flags": [
+                "no_refs",
+                "missing_spouse",
+                "missing_children",
+                "auto_generated",
+                "rough_draft",
+                "gedcom_import",
+                "please_edit"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "death_place(+5)",
+                "has_parents(+5)",
+                "note_length>=300(+8)",
+                "external_ids(+2)",
+                "auto_generated(-35)",
+                "rough_draft(-15)",
+                "gedcom_import(-12)",
+                "please_edit(-10)"
+            ]
+        },
+        {
+            "wikitreeId": "Lawson-1628",
+            "gedcomId": "@I7@",
+            "name": "Thomas W Lawson",
+            "score": -15,
+            "status": "needs-work",
+            "noteLength": 1213,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Lawson-1628"
+            },
+            "flags": [
+                "no_refs",
+                "missing_death_place",
+                "missing_spouse",
+                "missing_children",
+                "auto_generated",
+                "rough_draft",
+                "gedcom_import",
+                "please_edit"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "has_parents(+5)",
+                "note_length>=800(+15)",
+                "external_ids(+2)",
+                "auto_generated(-35)",
+                "rough_draft(-15)",
+                "gedcom_import(-12)",
+                "please_edit(-10)"
+            ]
+        },
+        {
+            "wikitreeId": "Lawson-1633",
+            "gedcomId": "@I13@",
+            "name": "Ira Walter Lawson",
+            "score": -10,
+            "status": "needs-work",
+            "noteLength": 1259,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Lawson-1633"
+            },
+            "flags": [
+                "no_refs",
+                "missing_spouse",
+                "missing_children",
+                "auto_generated",
+                "rough_draft",
+                "gedcom_import",
+                "please_edit"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "death_place(+5)",
+                "has_parents(+5)",
+                "note_length>=800(+15)",
+                "external_ids(+2)",
+                "auto_generated(-35)",
+                "rough_draft(-15)",
+                "gedcom_import(-12)",
+                "please_edit(-10)"
+            ]
+        },
+        {
+            "wikitreeId": "Lawson-1626",
+            "gedcomId": "@I5@",
+            "name": "John Riley Lawson",
+            "score": -10,
+            "status": "needs-work",
+            "noteLength": 932,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Lawson-1626"
+            },
+            "flags": [
+                "no_refs",
+                "missing_spouse",
+                "missing_children",
+                "auto_generated",
+                "rough_draft",
+                "gedcom_import",
+                "please_edit"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "death_place(+5)",
+                "has_parents(+5)",
+                "note_length>=800(+15)",
+                "external_ids(+2)",
+                "auto_generated(-35)",
+                "rough_draft(-15)",
+                "gedcom_import(-12)",
+                "please_edit(-10)"
+            ]
+        },
+        {
+            "wikitreeId": "Shepard-1065",
+            "gedcomId": "@I48@",
+            "name": "Margaret M Shepard",
+            "score": 7,
+            "status": "needs-work",
+            "noteLength": 0,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Shepard-1065"
+            },
+            "flags": [
+                "missing_bio",
+                "missing_sources",
+                "no_refs",
+                "missing_birth_place",
+                "missing_death_date",
+                "missing_death_place",
+                "missing_parents",
+                "missing_spouse",
+                "missing_children"
+            ],
+            "reasons": [
+                "birth_date(+5)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Hays-6886",
+            "gedcomId": "@I49@",
+            "name": "Amanda Catherine Hays",
+            "score": 12,
+            "status": "needs-work",
+            "noteLength": 0,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Hays-6886"
+            },
+            "flags": [
+                "missing_bio",
+                "missing_sources",
+                "no_refs",
+                "missing_birth_place",
+                "missing_death_place",
+                "missing_parents",
+                "missing_spouse",
+                "missing_children"
+            ],
+            "reasons": [
+                "birth_date(+5)",
+                "death_date(+5)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Ayers-5519",
+            "gedcomId": "@I41@",
+            "name": "Amanda J Ayers",
+            "score": 12,
+            "status": "needs-work",
+            "noteLength": 0,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Ayers-5519"
+            },
+            "flags": [
+                "missing_bio",
+                "missing_sources",
+                "no_refs",
+                "missing_birth_place",
+                "missing_death_place",
+                "missing_parents",
+                "missing_spouse",
+                "missing_children"
+            ],
+            "reasons": [
+                "birth_date(+5)",
+                "death_date(+5)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Ayers-3755",
+            "gedcomId": "@I47@",
+            "name": "Caledonia S Ayers",
+            "score": 12,
+            "status": "needs-work",
+            "noteLength": 0,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Ayers-3755"
+            },
+            "flags": [
+                "missing_bio",
+                "missing_sources",
+                "no_refs",
+                "missing_birth_place",
+                "missing_death_place",
+                "missing_parents",
+                "missing_spouse",
+                "missing_children"
+            ],
+            "reasons": [
+                "birth_date(+5)",
+                "death_date(+5)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Pigg-83",
+            "gedcomId": "@I39@",
+            "name": "Eliza Ann Pigg",
+            "score": 12,
+            "status": "needs-work",
+            "noteLength": 0,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Pigg-83"
+            },
+            "flags": [
+                "missing_bio",
+                "missing_sources",
+                "no_refs",
+                "missing_birth_place",
+                "missing_death_place",
+                "missing_parents",
+                "missing_spouse",
+                "missing_children"
+            ],
+            "reasons": [
+                "birth_date(+5)",
+                "death_date(+5)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Osteen-64",
+            "gedcomId": "@I38@",
+            "name": "Esther H Osteen",
+            "score": 12,
+            "status": "needs-work",
+            "noteLength": 0,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Osteen-64"
+            },
+            "flags": [
+                "missing_bio",
+                "missing_sources",
+                "no_refs",
+                "missing_birth_place",
+                "missing_death_place",
+                "missing_parents",
+                "missing_spouse",
+                "missing_children"
+            ],
+            "reasons": [
+                "birth_date(+5)",
+                "death_date(+5)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Horton-1030",
+            "gedcomId": "@I36@",
+            "name": "Hannah  Horton",
+            "score": 12,
+            "status": "needs-work",
+            "noteLength": 0,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Horton-1030"
+            },
+            "flags": [
+                "missing_bio",
+                "missing_sources",
+                "no_refs",
+                "missing_birth_place",
+                "missing_death_place",
+                "missing_parents",
+                "missing_spouse",
+                "missing_children"
+            ],
+            "reasons": [
+                "birth_date(+5)",
+                "death_date(+5)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Bridgers-26",
+            "gedcomId": "@I40@",
+            "name": "James Howard Bridgers",
+            "score": 12,
+            "status": "needs-work",
+            "noteLength": 0,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Bridgers-26"
+            },
+            "flags": [
+                "missing_bio",
+                "missing_sources",
+                "no_refs",
+                "missing_birth_place",
+                "missing_death_place",
+                "missing_parents",
+                "missing_spouse",
+                "missing_children"
+            ],
+            "reasons": [
+                "birth_date(+5)",
+                "death_date(+5)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "White-14311",
+            "gedcomId": "@I43@",
+            "name": "Mary A White",
+            "score": 12,
+            "status": "needs-work",
+            "noteLength": 0,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "White-14311"
+            },
+            "flags": [
+                "missing_bio",
+                "missing_sources",
+                "no_refs",
+                "missing_birth_place",
+                "missing_death_place",
+                "missing_parents",
+                "missing_spouse",
+                "missing_children"
+            ],
+            "reasons": [
+                "birth_date(+5)",
+                "death_date(+5)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Franks-4219",
+            "gedcomId": "@I46@",
+            "name": "Mary Elizabeth Franks",
+            "score": 12,
+            "status": "needs-work",
+            "noteLength": 0,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Franks-4219"
+            },
+            "flags": [
+                "missing_bio",
+                "missing_sources",
+                "no_refs",
+                "missing_birth_place",
+                "missing_death_place",
+                "missing_parents",
+                "missing_spouse",
+                "missing_children"
+            ],
+            "reasons": [
+                "birth_date(+5)",
+                "death_date(+5)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Greeson-304",
+            "gedcomId": "@I45@",
+            "name": "Mary Lucinda Greeson",
+            "score": 12,
+            "status": "needs-work",
+            "noteLength": 0,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Greeson-304"
+            },
+            "flags": [
+                "missing_bio",
+                "missing_sources",
+                "no_refs",
+                "missing_birth_place",
+                "missing_death_place",
+                "missing_parents",
+                "missing_spouse",
+                "missing_children"
+            ],
+            "reasons": [
+                "birth_date(+5)",
+                "death_date(+5)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Reaves-224",
+            "gedcomId": "@I37@",
+            "name": "Osborn  Reaves",
+            "score": 12,
+            "status": "needs-work",
+            "noteLength": 0,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Reaves-224"
+            },
+            "flags": [
+                "missing_bio",
+                "missing_sources",
+                "no_refs",
+                "missing_birth_place",
+                "missing_death_place",
+                "missing_parents",
+                "missing_spouse",
+                "missing_children"
+            ],
+            "reasons": [
+                "birth_date(+5)",
+                "death_date(+5)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Belew-443",
+            "gedcomId": "@I50@",
+            "name": "Rachael  Belew",
+            "score": 12,
+            "status": "needs-work",
+            "noteLength": 0,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Belew-443"
+            },
+            "flags": [
+                "missing_bio",
+                "missing_sources",
+                "no_refs",
+                "missing_birth_place",
+                "missing_death_place",
+                "missing_parents",
+                "missing_spouse",
+                "missing_children"
+            ],
+            "reasons": [
+                "birth_date(+5)",
+                "death_date(+5)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Brewer-1601",
+            "gedcomId": "@I35@",
+            "name": "Rial  Brewer",
+            "score": 12,
+            "status": "needs-work",
+            "noteLength": 0,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Brewer-1601"
+            },
+            "flags": [
+                "missing_bio",
+                "missing_sources",
+                "no_refs",
+                "missing_birth_place",
+                "missing_death_place",
+                "missing_parents",
+                "missing_spouse",
+                "missing_children"
+            ],
+            "reasons": [
+                "birth_date(+5)",
+                "death_date(+5)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Stribling-592",
+            "gedcomId": "@I44@",
+            "name": "Sarah Ann Stribling",
+            "score": 12,
+            "status": "needs-work",
+            "noteLength": 0,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Stribling-592"
+            },
+            "flags": [
+                "missing_bio",
+                "missing_sources",
+                "no_refs",
+                "missing_birth_place",
+                "missing_death_place",
+                "missing_parents",
+                "missing_spouse",
+                "missing_children"
+            ],
+            "reasons": [
+                "birth_date(+5)",
+                "death_date(+5)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Franks-4220",
+            "gedcomId": "@I42@",
+            "name": "Sarah Annabella Franks",
+            "score": 12,
+            "status": "needs-work",
+            "noteLength": 0,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Franks-4220"
+            },
+            "flags": [
+                "missing_bio",
+                "missing_sources",
+                "no_refs",
+                "missing_birth_place",
+                "missing_death_place",
+                "missing_parents",
+                "missing_spouse",
+                "missing_children"
+            ],
+            "reasons": [
+                "birth_date(+5)",
+                "death_date(+5)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Lawson-1617",
+            "gedcomId": "@I2@",
+            "name": "James Allen Lawson",
+            "score": 31,
+            "status": "needs-work",
+            "noteLength": 7595,
+            "refs": 3,
+            "externalIds": {
+                "wikitree": "Lawson-1617"
+            },
+            "flags": [
+                "needs_sources",
+                "please_edit",
+                "family_info_needs_sources",
+                "family_tradition_needs_sources"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "has_refs(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "death_place(+5)",
+                "has_parents(+5)",
+                "has_spouse(+5)",
+                "has_children(+5)",
+                "has_categories_or_templates(+3)",
+                "note_length>=800(+15)",
+                "external_ids(+2)",
+                "needs_sources(-20)",
+                "please_edit(-10)",
+                "family_info_needs_sources(-12)",
+                "family_tradition_needs_sources(-12)"
+            ]
+        },
+        {
+            "wikitreeId": "Reaves-144",
+            "gedcomId": "@I26@",
+            "name": "Elizabeth E.  Reaves",
+            "score": 40,
+            "status": "review",
+            "noteLength": 722,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Reaves-144"
+            },
+            "flags": [
+                "no_refs",
+                "missing_death_place",
+                "missing_spouse",
+                "missing_children",
+                "please_edit"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "has_parents(+5)",
+                "note_length>=300(+8)",
+                "external_ids(+2)",
+                "please_edit(-10)"
+            ]
+        },
+        {
+            "wikitreeId": "Reaves-145",
+            "gedcomId": "@I21@",
+            "name": "Eliza Jane Reaves",
+            "score": 42,
+            "status": "review",
+            "noteLength": 816,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Reaves-145"
+            },
+            "flags": [
+                "no_refs",
+                "missing_death_date",
+                "missing_death_place",
+                "missing_spouse",
+                "missing_children",
+                "please_edit"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "has_parents(+5)",
+                "note_length>=800(+15)",
+                "external_ids(+2)",
+                "please_edit(-10)"
+            ]
+        },
+        {
+            "wikitreeId": "Lawson-1634",
+            "gedcomId": "@I14@",
+            "name": "Marshall Lewis Lawson",
+            "score": 47,
+            "status": "review",
+            "noteLength": 1231,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Lawson-1634"
+            },
+            "flags": [
+                "no_refs",
+                "missing_death_place",
+                "missing_spouse",
+                "missing_children",
+                "please_edit"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "has_parents(+5)",
+                "note_length>=800(+15)",
+                "external_ids(+2)",
+                "please_edit(-10)"
+            ]
+        },
+        {
+            "wikitreeId": "Lawson-1632",
+            "gedcomId": "@I12@",
+            "name": "Malisia Catherine Lawson",
+            "score": 57,
+            "status": "review",
+            "noteLength": 2418,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Lawson-1632"
+            },
+            "flags": [
+                "no_refs",
+                "missing_children",
+                "please_edit"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "death_place(+5)",
+                "has_parents(+5)",
+                "has_spouse(+5)",
+                "note_length>=800(+15)",
+                "external_ids(+2)",
+                "please_edit(-10)"
+            ]
+        },
+        {
+            "wikitreeId": "Watts-9266",
+            "gedcomId": "@I33@",
+            "name": "Wurteh WU-TE-WAH  Watts",
+            "score": 61,
+            "status": "review",
+            "noteLength": 192,
+            "refs": 1,
+            "externalIds": {
+                "wikitree": "Watts-9266"
+            },
+            "flags": [
+                "missing_death_place",
+                "missing_parents"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "has_refs(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "has_spouse(+5)",
+                "has_children(+5)",
+                "note_length>=120(+4)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Lawson-1627",
+            "gedcomId": "@I6@",
+            "name": "James Alvin Lawson",
+            "score": 62,
+            "status": "review",
+            "noteLength": 2513,
+            "refs": 7,
+            "externalIds": {
+                "wikitree": "Lawson-1627"
+            },
+            "flags": [
+                "missing_spouse",
+                "missing_children",
+                "please_edit"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "has_refs(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "death_place(+5)",
+                "has_parents(+5)",
+                "note_length>=800(+15)",
+                "external_ids(+2)",
+                "please_edit(-10)"
+            ]
+        },
+        {
+            "wikitreeId": null,
+            "gedcomId": "@I28@",
+            "name": "Elizabeth  Cooper or Copeland",
+            "score": 63,
+            "status": "review",
+            "noteLength": 589,
+            "refs": 1,
+            "externalIds": [],
+            "flags": [
+                "missing_death_place",
+                "missing_parents"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "has_refs(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "has_spouse(+5)",
+                "has_children(+5)",
+                "note_length>=300(+8)"
+            ]
+        },
+        {
+            "wikitreeId": "Reaves-146",
+            "gedcomId": "@I29@",
+            "name": "Sarah  Reaves",
+            "score": 65,
+            "status": "review",
+            "noteLength": 685,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Reaves-146"
+            },
+            "flags": [
+                "no_refs"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "death_place(+5)",
+                "has_parents(+5)",
+                "has_spouse(+5)",
+                "has_children(+5)",
+                "note_length>=300(+8)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Lawson-1736",
+            "gedcomId": "@I27@",
+            "name": "Thomas  Lawson",
+            "score": 65,
+            "status": "review",
+            "noteLength": 654,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Lawson-1736"
+            },
+            "flags": [
+                "no_refs"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "death_place(+5)",
+                "has_parents(+5)",
+                "has_spouse(+5)",
+                "has_children(+5)",
+                "note_length>=300(+8)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Lawson-8250",
+            "gedcomId": "@I32@",
+            "name": "Nathaniel  Lawson",
+            "score": 66,
+            "status": "review",
+            "noteLength": 246,
+            "refs": 1,
+            "externalIds": {
+                "wikitree": "Lawson-8250"
+            },
+            "flags": [
+                "missing_parents"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "has_refs(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "death_place(+5)",
+                "has_spouse(+5)",
+                "has_children(+5)",
+                "note_length>=120(+4)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Reaves-150",
+            "gedcomId": "@I23@",
+            "name": "Henry Clay  Reaves",
+            "score": 67,
+            "status": "review",
+            "noteLength": 4754,
+            "refs": 0,
+            "externalIds": {
+                "wikitree": "Reaves-150"
+            },
+            "flags": [
+                "no_refs",
+                "missing_children"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "death_place(+5)",
+                "has_parents(+5)",
+                "has_spouse(+5)",
+                "note_length>=800(+15)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Reaves-147",
+            "gedcomId": "@I19@",
+            "name": "Elisha Hugh Reaves",
+            "score": 75,
+            "status": "ok",
+            "noteLength": 2648,
+            "refs": 3,
+            "externalIds": {
+                "wikitree": "Reaves-147"
+            },
+            "flags": [
+                "missing_spouse",
+                "missing_children"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "has_refs(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "death_place(+5)",
+                "has_parents(+5)",
+                "has_categories_or_templates(+3)",
+                "note_length>=800(+15)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Lawson-8249",
+            "gedcomId": "@I31@",
+            "name": "Thomas  Lawson",
+            "score": 75,
+            "status": "ok",
+            "noteLength": 657,
+            "refs": 1,
+            "externalIds": {
+                "wikitree": "Lawson-8249"
+            },
+            "flags": [],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "has_refs(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "death_place(+5)",
+                "has_parents(+5)",
+                "has_spouse(+5)",
+                "has_children(+5)",
+                "note_length>=300(+8)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Lawson-1615",
+            "gedcomId": "@I18@",
+            "name": "John Martin Lawson",
+            "score": 77,
+            "status": "ok",
+            "noteLength": 3316,
+            "refs": 3,
+            "externalIds": {
+                "wikitree": "Lawson-1615"
+            },
+            "flags": [
+                "missing_children"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "has_refs(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "death_place(+5)",
+                "has_parents(+5)",
+                "has_spouse(+5)",
+                "note_length>=800(+15)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Martin-14317",
+            "gedcomId": "@I3@",
+            "name": "Mary Ann Martin",
+            "score": 77,
+            "status": "ok",
+            "noteLength": 2378,
+            "refs": 3,
+            "externalIds": {
+                "wikitree": "Martin-14317"
+            },
+            "flags": [
+                "missing_parents"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "has_refs(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "death_place(+5)",
+                "has_spouse(+5)",
+                "has_children(+5)",
+                "note_length>=800(+15)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Lawson-1635",
+            "gedcomId": "@I15@",
+            "name": "Samuel M Lawson",
+            "score": 77,
+            "status": "ok",
+            "noteLength": 4794,
+            "refs": 6,
+            "externalIds": {
+                "wikitree": "Lawson-1635"
+            },
+            "flags": [
+                "missing_children"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "has_refs(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "death_place(+5)",
+                "has_parents(+5)",
+                "has_spouse(+5)",
+                "note_length>=800(+15)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Brewer-1602",
+            "gedcomId": "@I4@",
+            "name": "Sarah Jane Brewer",
+            "score": 77,
+            "status": "ok",
+            "noteLength": 3156,
+            "refs": 7,
+            "externalIds": {
+                "wikitree": "Brewer-1602"
+            },
+            "flags": [
+                "missing_death_place"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "has_refs(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "has_parents(+5)",
+                "has_spouse(+5)",
+                "has_children(+5)",
+                "note_length>=800(+15)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Lawson-8248",
+            "gedcomId": "@I30@",
+            "name": "Thomas Jefferson Lawson",
+            "score": 77,
+            "status": "ok",
+            "noteLength": 2402,
+            "refs": 3,
+            "externalIds": {
+                "wikitree": "Lawson-8248"
+            },
+            "flags": [
+                "missing_children"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "has_refs(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "death_place(+5)",
+                "has_parents(+5)",
+                "has_spouse(+5)",
+                "note_length>=800(+15)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Lawson-1613",
+            "gedcomId": "@I9@",
+            "name": "George Henry Lawson",
+            "score": 80,
+            "status": "ok",
+            "noteLength": 2376,
+            "refs": 1,
+            "externalIds": {
+                "wikitree": "Lawson-1613"
+            },
+            "flags": [
+                "missing_children"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "has_refs(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "death_place(+5)",
+                "has_parents(+5)",
+                "has_spouse(+5)",
+                "has_categories_or_templates(+3)",
+                "note_length>=800(+15)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Reaves-148",
+            "gedcomId": "@I20@",
+            "name": "James Barton Reaves",
+            "score": 80,
+            "status": "ok",
+            "noteLength": 2101,
+            "refs": 2,
+            "externalIds": {
+                "wikitree": "Reaves-148"
+            },
+            "flags": [
+                "missing_children"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "has_refs(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "death_place(+5)",
+                "has_parents(+5)",
+                "has_spouse(+5)",
+                "has_categories_or_templates(+3)",
+                "note_length>=800(+15)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Lawson-1618",
+            "gedcomId": "@I17@",
+            "name": "Thomas Jefferson Lawson",
+            "score": 80,
+            "status": "ok",
+            "noteLength": 7511,
+            "refs": 11,
+            "externalIds": {
+                "wikitree": "Lawson-1618"
+            },
+            "flags": [
+                "missing_children"
+            ],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "has_refs(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "death_place(+5)",
+                "has_parents(+5)",
+                "has_spouse(+5)",
+                "has_categories_or_templates(+3)",
+                "note_length>=800(+15)",
+                "external_ids(+2)"
+            ]
+        },
+        {
+            "wikitreeId": "Lawson-1614",
+            "gedcomId": "@I1@",
+            "name": "George Washington Lawson",
+            "score": 85,
+            "status": "ok",
+            "noteLength": 7730,
+            "refs": 14,
+            "externalIds": {
+                "wikitree": "Lawson-1614"
+            },
+            "flags": [],
+            "reasons": [
+                "has_bio(+10)",
+                "has_sources(+10)",
+                "has_refs(+10)",
+                "birth_date(+5)",
+                "birth_place(+5)",
+                "death_date(+5)",
+                "death_place(+5)",
+                "has_parents(+5)",
+                "has_spouse(+5)",
+                "has_children(+5)",
+                "has_categories_or_templates(+3)",
+                "note_length>=800(+15)",
+                "external_ids(+2)"
+            ]
+        }
+    ]
+}

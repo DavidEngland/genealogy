@@ -1,5 +1,10 @@
 <?php
 /**
+ * Author: David Edward England, PhD
+ * ORCID: https://orcid.org/0009-0001-2095-6646
+ * Repo: https://github.com/DavidEngland/genealogy
+ */
+/**
  * Extract sources and biographical information from GEDCOM files
  * Outputs WikiTree-formatted markdown to sources/ folder
  *

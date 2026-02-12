@@ -12,7 +12,7 @@
 
 == Biography ==
 
-'''George Washington Lawson''' was born on 21 September 1840 in Wayne County, Tennessee, United States.<ref name="findagrave">{{FindAGrave|118366577}}</ref> He was the son of '''[[Lawson-1617|James A. Lawson]]''' (c. 1810–) and '''[[Martin-14317|Mary Polly Martin]]''' (c. 1818–).<ref name="census1850child">"United States, Census, 1850", FamilySearch (https://familysearch.org/ark:/61903/1:1:MC63-VHL : accessed 20 Jun 2025), Entry for George Lawson in household of James A Lawson and Mary Lawson, 1850.</ref><ref name="census1860child">"United States, Census, 1860", FamilySearch (https://familysearch.org/ark:/61903/1:1:M8TY-XYF : accessed 8 Jul 2024), Entry for Geo W Lawson in household of J A Lawson and Mary Lawson, 1860.</ref>
+'''George Washington Lawson''' was born on 21 September 1840 in Wayne County, Tennessee, United States.<ref name="findagrave">{{FindAGrave|118366577}}</ref> He was the son of '''[[Lawson-1617|James A. Lawson]]''' (c. 1810–) and '''[[Martin-14317|Mary Ann "Polly" Martin]]''' (c. 1818–).<ref name="census1850child">"United States, Census, 1850", FamilySearch (https://familysearch.org/ark:/61903/1:1:MC63-VHL : accessed 20 Jun 2025), Entry for George Lawson in household of James A Lawson and Mary Lawson, 1850.</ref><ref name="census1860child">"United States, Census, 1860", FamilySearch (https://familysearch.org/ark:/61903/1:1:M8TY-XYF : accessed 8 Jul 2024), Entry for Geo W Lawson in household of J A Lawson and Mary Lawson, 1860.</ref>
 
 George grew up in a household that also included his siblings Turner Lane Lawson and Lucinda J. Lawson, among others.<ref name="census1850child" />
 
@@ -61,6 +61,10 @@ After the war, George received a Union Army pension for his service.<ref name="p
 
 George W. Lawson provided affidavit testimony on 13 May 1897 in support of the pension application of his fellow Company F soldier, John E. Horton. At that time, George was 56 years old and residing at Lutts, Wayne County, Tennessee. He testified alongside John M. Lawson (age 54), confirming their service together in the 6th Tennessee Cavalry.<ref name="horton_pension">Pension file for John E. Horton, Co. F, 6th Tennessee Cavalry (Union), pension numbers 470.327 (1883) and 965.564 (1901).</ref>
 
+==== Family Tradition ====
+
+Family oral history states that George and Sarah went to Oklahoma hoping to “get rich,” and that George died there but was returned to Tennessee for burial at Cromwell Crossroads Cemetery.<ref name="oral_history">Oral history from David England’s grandmother (undated), recorded in family conversation prior to her death.</ref> The same tradition notes that a daughter who married a Bridgers remained in Oklahoma. It also says George was disabled following Civil War service, and that his service card and a photograph show the effects of that disability; this is a family recollection and needs documentary confirmation.<ref name="oral_history" />
+
 === Residences ===
 
 George and his family lived in various locations throughout their lives:
@@ -85,7 +89,11 @@ George Washington Lawson died on 29 August 1925 in Collinwood, Wayne County, Ten
 * Additional research needed on James A. Lawson's parents and origins
 * George appears in household of Turner Lane Lawson in some census years, suggesting possible extended family connections
 * Death location shows some sources indicating Seminole, Oklahoma (per pension card notation), though buried in Tennessee
+* Family oral history says a relative went to Hickman County and had multiple marriages, with a lawsuit after his death; relationship and details are unverified and need sources
 
 === Acknowledgments ===
 
 Thank you to [[England-1357 | David England]] for creating WikiTree profile Lawson-1614 through the import of annie lawson ancestors.ged on Aug 28, 2013. Click to the Changes page for the details of edits by David and others.
+
+- Pending: align with draft/source workflow used for Brewer profiles.
+- TODO: reformat bio after parser output is restored.

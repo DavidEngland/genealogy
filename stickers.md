@@ -56,8 +56,14 @@ Based on your files, here are specific recommendations:
 
 **[[Horton-1030|Hannah Horton]]** - No sticker recommended at this time (no documented service/eligibility in sources; spouse [[Brewer-1601|Rial (Ryal/Riley) Brewer]]).
 
+**[[Scott-9213|John Martin Scott]]** - No sticker recommended at this time (no documented service/eligibility in sources).
+
 Note: WikiTree uses = headers and '''bold'''.
 
 Note: Add stickers only when the service/eligibility is directly supported by a cited source in the profile’s Sources section.
+
+Note: For Brewer-953, add stickers only after sources are cited in the draft.
+
+Note: For Brewer-708, add stickers only after citations support eligibility.
 
 Would you like me to add appropriate stickers to any specific profiles? I can update the markdown files with the correct templates based on their documented service and lineage.

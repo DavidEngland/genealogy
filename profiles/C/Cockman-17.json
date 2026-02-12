@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        "wikitreeId": "Cockman-17",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-05 01:37:07",
+        "timestamp": 1770255427
+    },
+    "profile": {
+        "Id": 6367136,
+        "PageId": 6568340,
+        "Name": "Cockman-17",
+        "FirstName": "Margaret",
+        "MiddleName": "",
+        "LastNameAtBirth": "Cockman",
+        "LastNameCurrent": "Brewer",
+        "RealName": "Margaret",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1794-00-00",
+        "DeathDate": "1868-11-07",
+        "BirthLocation": "Moore, North Carolina, United States",
+        "DeathLocation": "Wayne, Tennessee, United States",
+        "Gender": "Female",
+        "IsLiving": 0,
+        "Touched": "20250130133546",
+        "Privacy": 60,
+        "Manager": 6359689,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "Created": "20130829193402",
+        "Father": 3803468,
+        "Mother": 3803464
+    }
+}

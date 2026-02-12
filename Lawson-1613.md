@@ -1,5 +1,7 @@
 [[Category:Wayne County, Tennessee]]
-[[Category:Florence, Alabama]][[Category:Tri Cities Memorial Gardens, Florence, Alabama]]
+[[Category:Florence, Alabama]]
+[[Category:Tri-Cities Memorial Gardens, Florence, Alabama]]
+
 == Biography ==
 
 George Henry Clay Lawson was born on 27 November 1875 in Wayne, Tennessee, United States, the son of George Washington Lawson and Sara Jane Brewer. He married Eliza Ann Pigg on 21 December 1902 in Wayne, Tennessee, United States. They were the parents of at least four sons and four daughters. He lived in Civil District 4, Wayne, Tennessee, United States in 1910 and in Battle Creek, Calhoun, Michigan, United States in 1930. He died on 31 January 1963 in Florence, Lauderdale, Alabama, United States, at age 87, and was buried in Florence, Lauderdale, Alabama, United States. <ref>Entered by David England, Thursday, August 29, 2013.</ref>
@@ -46,3 +48,4 @@ George Henry Clay Lawson was born on 27 November 1875 in Wayne, Tennessee, Unite
 === Acknowledgments ===
 
 Thank you to [[England-1357 | David England]] for [http://www.wikitree.com/index.php?title=Special:NetworkFeed&who=Lawson-1613 creating] Lawson-1613 on 29 Aug 13. Click the Changes tab for the details on contributions by David and others.
+- TODO: reformat bio after parser output is restored.

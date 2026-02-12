@@ -1,0 +1,51 @@
+{
+    "metadata": {
+        "wikitreeId": "Kegel-47",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-05 01:37:07",
+        "timestamp": 1770255427
+    },
+    "profile": {
+        "Id": 23119085,
+        "PageId": 25251880,
+        "Name": "Kegel-47",
+        "FirstName": "Leonhart",
+        "MiddleName": "",
+        "LastNameAtBirth": "Kegel",
+        "LastNameCurrent": "Cagle",
+        "RealName": "Leonhart",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1684-00-00",
+        "DeathDate": "1754-00-00",
+        "BirthLocation": "Obermelinghem, Kurfürstentum Pfalz, Heiliges Römisches Reich",
+        "DeathLocation": "Pennsylvania",
+        "Gender": "Male",
+        "IsLiving": 0,
+        "Photo": "Cagle_or_Kegel-1.jpg",
+        "Touched": "20260123143831",
+        "Privacy": 60,
+        "Manager": 18597292,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": {
+            "path": "/photo.php/e/eb/Cagle_or_Kegel-1.jpg",
+            "url": "/photo.php/thumb/e/eb/Cagle_or_Kegel-1.jpg/75px-Cagle_or_Kegel-1.jpg",
+            "file": "75px-Cagle_or_Kegel-1.jpg",
+            "dir": "/photo.php/thumb/e/eb",
+            "width": 75,
+            "height": 119,
+            "orig_width": "100",
+            "orig_height": "159"
+        },
+        "Created": "20101019152101",
+        "Father": 2916309,
+        "Mother": 2916312
+    }
+}

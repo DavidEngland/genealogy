@@ -1,0 +1,51 @@
+{
+    "metadata": {
+        "wikitreeId": "Kegel-53",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-05 01:37:07",
+        "timestamp": 1770255427
+    },
+    "profile": {
+        "Id": 24812799,
+        "PageId": 27165885,
+        "Name": "Kegel-53",
+        "FirstName": "Heinrich",
+        "MiddleName": "",
+        "LastNameAtBirth": "Kegel",
+        "LastNameCurrent": "Cagle",
+        "RealName": "Henry",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "Sr.",
+        "BirthDate": "1730-00-00",
+        "DeathDate": "1802-02-00",
+        "BirthLocation": "Obermehlingen, Palatinate, now Mehlengen, Germany",
+        "DeathLocation": "Moore County, North Carolina, United States",
+        "Gender": "Male",
+        "IsLiving": 0,
+        "Photo": "Kegel-53.jpg",
+        "Touched": "20251002021544",
+        "Privacy": 60,
+        "Manager": 18597292,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": {
+            "path": "/photo.php/0/07/Kegel-53.jpg",
+            "url": "/photo.php/thumb/0/07/Kegel-53.jpg/75px-Kegel-53.jpg",
+            "file": "75px-Kegel-53.jpg",
+            "dir": "/photo.php/thumb/0/07",
+            "width": 75,
+            "height": 55,
+            "orig_width": "1200",
+            "orig_height": "887"
+        },
+        "Created": "20101019152101",
+        "Father": 23119085,
+        "Mother": 14282801
+    }
+}

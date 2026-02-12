@@ -1,0 +1,49 @@
+{
+    "metadata": {
+        "wikitreeId": "Elmore-2488",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-06 19:19:51",
+        "timestamp": 1770405591
+    },
+    "profile": {
+        "Id": 29440835,
+        "PageId": 32357888,
+        "Name": "Elmore-2488",
+        "FirstName": "Nancy",
+        "MiddleName": "",
+        "LastNameAtBirth": "Elmore",
+        "LastNameCurrent": "Elmore",
+        "RealName": "Nancy",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1819-08-10",
+        "DeathDate": "1867-07-05",
+        "BirthLocation": "Lincoln, Kentucky, United States",
+        "DeathLocation": "Liberty Township, Grant, Indiana, United States",
+        "Gender": "Female",
+        "IsLiving": 0,
+        "Touched": "20210211002451",
+        "Privacy": 60,
+        "Manager": 28875274,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "Created": "20210211002058",
+        "Father": 29440852,
+        "Mother": 29440879,
+        "marriage_location": "",
+        "marriage_date": "0000-00-00",
+        "marriage_end_date": "0000-00-00",
+        "do_not_display": "0",
+        "data_status": {
+            "marriage_date": "",
+            "marriage_end_date": "",
+            "marriage_location": ""
+        }
+    }
+}

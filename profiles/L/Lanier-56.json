@@ -1,0 +1,51 @@
+{
+    "metadata": {
+        "wikitreeId": "Lanier-56",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-05 01:37:07",
+        "timestamp": 1770255427
+    },
+    "profile": {
+        "Id": 2029384,
+        "PageId": 2057657,
+        "Name": "Lanier-56",
+        "FirstName": "John",
+        "MiddleName": "",
+        "LastNameAtBirth": "Lanier",
+        "LastNameCurrent": "Lanier",
+        "RealName": "John",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "II",
+        "BirthDate": "1655-00-00",
+        "DeathDate": "1719-00-00",
+        "BirthLocation": "Greenwich, Kent, England",
+        "DeathLocation": "Prince George, Colony of Virginia",
+        "Gender": "Male",
+        "IsLiving": 0,
+        "Photo": "Lanier-56.png",
+        "Touched": "20260129114644",
+        "Privacy": 60,
+        "Manager": 11691184,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": {
+            "path": "/photo.php/a/af/Lanier-56.png",
+            "url": "/photo.php/thumb/a/af/Lanier-56.png/75px-Lanier-56.png",
+            "file": "75px-Lanier-56.png",
+            "dir": "/photo.php/thumb/a/af",
+            "width": 75,
+            "height": 50,
+            "orig_width": "909",
+            "orig_height": "612"
+        },
+        "Created": "20110616224516",
+        "Father": 2043280,
+        "Mother": 5771128
+    }
+}

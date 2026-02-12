@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        "wikitreeId": "Kegel-7",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-05 01:37:07",
+        "timestamp": 1770255427
+    },
+    "profile": {
+        "Id": 2916309,
+        "PageId": 2956162,
+        "Name": "Kegel-7",
+        "FirstName": "David",
+        "MiddleName": "",
+        "LastNameAtBirth": "Kegel",
+        "LastNameCurrent": "Kegel",
+        "RealName": "David",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1660-00-00",
+        "DeathDate": "1690-00-00",
+        "BirthLocation": "Germany",
+        "DeathLocation": "Germany",
+        "Gender": "Male",
+        "IsLiving": 0,
+        "Touched": "20220313133339",
+        "Privacy": 60,
+        "Manager": 13989254,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "Created": "20111002162803",
+        "Father": 2916316,
+        "Mother": null
+    }
+}

@@ -1,3 +1,10 @@
+## Administrative Updates (February 6, 2026)
+
+- Employment documents added in employment/ (resume and offer acceptance letter)
+- ORCID/name/repository metadata being standardized across scripts and docs
+
+---
+
 Based on the sources provided, there are several significant discrepancies and potential errors in traditional genealogical records that should be addressed to improve the accuracy of your family history.
 
 ### **1. The Gresham-Titsey Lineage Disconnect**

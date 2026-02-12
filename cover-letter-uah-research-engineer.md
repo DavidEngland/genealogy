@@ -1,21 +1,20 @@
-January 20, 2026
+February 6, 2026
 
-Dr. Richard McNider
-National Space Science and Technology Center
-University of Alabama in Huntsville
-Huntsville, AL 35805
+Dorothie Linton  
+HR Business Partner I  
+The University of Alabama in Huntsville  
+dorothie.linton@uah.edu
 
-Dear Dr. McNider,
+Dear Ms. Linton,
 
-I am writing to formally apply for the Research Engineer III position (Job ID 503278) at NSSTC, as discussed. I am pleased to accept this opportunity to contribute to your research group's ongoing work in atmospheric science and modeling.
+Thank you for the offer for the position of **Research Engineer III, Step 2 (503278 — On Call)** with the **Earth System Science Center** at The University of Alabama in Huntsville. I am pleased to accept the **tentative offer**.
 
-My background includes a Ph.D. in Mathematics and Atmospheric Sciences from UAH (1993), with specialized expertise in boundary-layer physics, numerical modeling, and recent independent work in physics-informed machine learning. I look forward to supporting your proposals for DOE and NSF funding and contributing to the research mission of NSSTC.
+I understand the compensation is **$45/hour** (full-time equivalent $93,600) and the proposed start date is **February 11, 2026** (with **February 18, 2026** as an alternate). Please let me know if you need any additional information from me before the formal offer letter is issued.
 
-Thank you for this opportunity. I have submitted my application through the UAH careers portal and am available to begin work at your convenience.
+Thank you again for this opportunity. I look forward to contributing to the ESSC research mission.
 
 Sincerely,
 
-David Edward England
-Ph.D., Mathematics & Atmospheric Sciences
-University of Alabama in Huntsville, 1993
-DavidEEngland@gmail.com
+David Edward England, PhD  
+DavidEEngland@Outlook.com  
+ORCID: https://orcid.org/0009-0001-2095-6646

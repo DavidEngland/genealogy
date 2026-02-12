@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "wikitreeId": "Hensley-565",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-06 19:19:41",
+        "timestamp": 1770405581
+    },
+    "profile": {
+        "Id": 3803487,
+        "PageId": 3870293,
+        "Name": "Hensley-565",
+        "FirstName": "Benjamin",
+        "MiddleName": "White",
+        "LastNameAtBirth": "Hensley",
+        "LastNameCurrent": "Hensley",
+        "RealName": "Benjamin",
+        "Nicknames": "",
+        "Prefix": "First Sgt",
+        "Suffix": "",
+        "BirthDate": "1837-09-26",
+        "DeathDate": "1921-09-18",
+        "BirthLocation": "Wayne, Tennessee, United States",
+        "DeathLocation": "Leslie, Searcy, Arkansas, United States",
+        "Gender": "Male",
+        "IsLiving": 0,
+        "Photo": "",
+        "Touched": "20220620153452",
+        "Privacy": 60,
+        "Manager": 0,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": null,
+        "Created": "20120327205324",
+        "Father": 1030775,
+        "Mother": 3803483
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "metadata": {
+        "wikitreeId": "Hayes-2458",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-06 19:20:07",
+        "timestamp": 1770405607
+    },
+    "profile": {
+        "Id": 5402217,
+        "PageId": 5549306,
+        "Name": "Hayes-2458",
+        "FirstName": "Susan",
+        "MiddleName": "",
+        "LastNameAtBirth": "Hayes",
+        "LastNameCurrent": "Berry",
+        "RealName": "Susan",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1829-02-26",
+        "DeathDate": "1921-01-09",
+        "BirthLocation": "Wayne, Tennessee, United States",
+        "DeathLocation": "Cloverdale, Lauderdale, Alabama, United States",
+        "Gender": "Female",
+        "IsLiving": 0,
+        "Photo": "Hayes-2458.jpg",
+        "Touched": "20240604035116",
+        "Privacy": 60,
+        "Manager": 21300259,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": {
+            "path": "/photo.php/b/bb/Hayes-2458.jpg",
+            "url": "/photo.php/thumb/b/bb/Hayes-2458.jpg/75px-Hayes-2458.jpg",
+            "file": "75px-Hayes-2458.jpg",
+            "dir": "/photo.php/thumb/b/bb",
+            "width": 75,
+            "height": 94,
+            "orig_width": "502",
+            "orig_height": "629"
+        },
+        "Created": "20130324175615",
+        "Father": 31895827,
+        "Mother": 7934565,
+        "marriage_location": "Wayne, Tennessee, United States",
+        "marriage_date": "1842-00-00",
+        "marriage_end_date": "0000-00-00",
+        "do_not_display": "0",
+        "data_status": {
+            "marriage_date": "",
+            "marriage_end_date": "",
+            "marriage_location": ""
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "metadata": {
+        "wikitreeId": "Brewer-953",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-06 19:20:07",
+        "timestamp": 1770405607
+    },
+    "profile": {
+        "Id": 3803476,
+        "PageId": 3870280,
+        "Name": "Brewer-953",
+        "FirstName": "Henry",
+        "MiddleName": "M.",
+        "LastNameAtBirth": "Brewer",
+        "LastNameCurrent": "Brewer",
+        "RealName": "Henry",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1780-00-00",
+        "DeathDate": "1868-06-17",
+        "BirthLocation": "Rowan, North Carolina, United States",
+        "DeathLocation": "Tennessee, United States",
+        "Gender": "Male",
+        "IsLiving": 0,
+        "Photo": "Brewer-953.jpg",
+        "Touched": "20260205193954",
+        "Privacy": 60,
+        "Manager": 21300259,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": {
+            "path": "/photo.php/5/51/Brewer-953.jpg",
+            "url": "/photo.php/thumb/5/51/Brewer-953.jpg/75px-Brewer-953.jpg",
+            "file": "75px-Brewer-953.jpg",
+            "dir": "/photo.php/thumb/5/51",
+            "width": 75,
+            "height": 119,
+            "orig_width": "2018",
+            "orig_height": "3204"
+        },
+        "Created": "20120327204825",
+        "Father": 2986588,
+        "Mother": 0
+    }
+}

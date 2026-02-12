@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        "wikitreeId": "Watts-9227",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-05 01:37:07",
+        "timestamp": 1770255427
+    },
+    "profile": {
+        "Id": 24553575,
+        "PageId": 26871768,
+        "Name": "Watts-9227",
+        "FirstName": "Robert",
+        "MiddleName": "",
+        "LastNameAtBirth": "Watts",
+        "LastNameCurrent": "Watts",
+        "RealName": "Robert",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1655-00-00",
+        "DeathDate": "1692-00-00",
+        "BirthLocation": "",
+        "DeathLocation": "",
+        "Gender": "Male",
+        "IsLiving": 0,
+        "Touched": "20191012230922",
+        "Privacy": 60,
+        "Manager": 16038374,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "Created": "20191011215355",
+        "Father": null,
+        "Mother": null
+    }
+}

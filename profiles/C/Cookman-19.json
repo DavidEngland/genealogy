@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        "wikitreeId": "Cookman-19",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-05 01:37:07",
+        "timestamp": 1770255427
+    },
+    "profile": {
+        "Id": 2916312,
+        "PageId": 2956165,
+        "Name": "Cookman-19",
+        "FirstName": "Katherine",
+        "MiddleName": "",
+        "LastNameAtBirth": "Cookman",
+        "LastNameCurrent": "Kegel",
+        "RealName": "Katherine",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1663-00-00",
+        "DeathDate": "1750-00-00",
+        "BirthLocation": "Germany",
+        "DeathLocation": "Germany",
+        "Gender": "Female",
+        "IsLiving": 0,
+        "Touched": "20220219163558",
+        "Privacy": 60,
+        "Manager": 0,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "Created": "20111002162934",
+        "Father": null,
+        "Mother": null
+    }
+}

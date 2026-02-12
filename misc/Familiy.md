@@ -66,3 +66,6 @@ The sources highlight several defining moments of resilience in these lines:
 * **Civil War Survival:** Your ancestor **Captain William Brown Parish** survived internment at the notorious **Camp Douglas** POW camp. Upon his parole, he reportedly received a **$10 gold piece** and returned to Lauderdale County to help build the community.
 * **Spiritual Stewardship:** Your 3rd-great-grandmother **Rachael Emily Haddock** donated the land for the **New Hope Church of Christ**, which became a cornerstone for the Parish and Whitten families.
 * **Frontier Justice:** The family's local influence was so strong that **Captain William Brown Parish** was present at the hanging of the outlaw **"Mountain" Tom Clark** in 1872, an event significant enough to be reported in the **New York Times**.
+
+- TODO: track unsourced family traditions for verification.
+- TODO: reformat summaries after parser output is restored.

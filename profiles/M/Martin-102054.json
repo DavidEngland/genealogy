@@ -1,0 +1,49 @@
+{
+    "metadata": {
+        "wikitreeId": "Martin-102054",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-06 19:20:03",
+        "timestamp": 1770405603
+    },
+    "profile": {
+        "Id": 45822664,
+        "PageId": 50625267,
+        "Name": "Martin-102054",
+        "FirstName": "William",
+        "MiddleName": "",
+        "LastNameAtBirth": "Martin",
+        "LastNameCurrent": "Martin",
+        "RealName": "William",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1820-12-09",
+        "DeathDate": "1858-07-08",
+        "BirthLocation": "Tennessee, United States",
+        "DeathLocation": "Tennessee, United States",
+        "Gender": "Male",
+        "IsLiving": 0,
+        "Touched": "20250216150604",
+        "Privacy": 60,
+        "Manager": 0,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "Created": "20250216145738",
+        "Father": 0,
+        "Mother": 0,
+        "marriage_location": "",
+        "marriage_date": "0000-00-00",
+        "marriage_end_date": "0000-00-00",
+        "do_not_display": "0",
+        "data_status": {
+            "marriage_date": "",
+            "marriage_end_date": "",
+            "marriage_location": ""
+        }
+    }
+}

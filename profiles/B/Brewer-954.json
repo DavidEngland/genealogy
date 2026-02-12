@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "wikitreeId": "Brewer-954",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-06 19:20:07",
+        "timestamp": 1770405607
+    },
+    "profile": {
+        "Id": 3803483,
+        "PageId": 3870288,
+        "Name": "Brewer-954",
+        "FirstName": "Mary",
+        "MiddleName": "D.",
+        "LastNameAtBirth": "Brewer",
+        "LastNameCurrent": "Hensley",
+        "RealName": "Mary",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1811-00-00",
+        "DeathDate": "1839-00-00",
+        "BirthLocation": "Tennessee",
+        "DeathLocation": "Tennessee",
+        "Gender": "Female",
+        "IsLiving": 0,
+        "Photo": "",
+        "Touched": "20240607030453",
+        "Privacy": 60,
+        "Manager": 15757479,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": null,
+        "Created": "20120327205012",
+        "Father": 3803476,
+        "Mother": 3803471
+    }
+}

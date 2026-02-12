@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "wikitreeId": "Cagle-580",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-05 01:37:07",
+        "timestamp": 1770255427
+    },
+    "profile": {
+        "Id": 3803464,
+        "PageId": 3870265,
+        "Name": "Cagle-580",
+        "FirstName": "Inna",
+        "MiddleName": "Caterana",
+        "LastNameAtBirth": "Cagle",
+        "LastNameCurrent": "Cockman",
+        "RealName": "Inna",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1760-00-00",
+        "DeathDate": "1818-00-00",
+        "BirthLocation": "Moore, North Carolina",
+        "DeathLocation": "Moore, North Carolina, United States",
+        "Gender": "Female",
+        "IsLiving": 0,
+        "Photo": "",
+        "Touched": "20250213231741",
+        "Privacy": 60,
+        "Manager": 14286692,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": null,
+        "Created": "20120327204201",
+        "Father": 24812799,
+        "Mother": 3773578
+    }
+}

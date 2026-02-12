@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "wikitreeId": "Cockman-8",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-05 01:37:07",
+        "timestamp": 1770255427
+    },
+    "profile": {
+        "Id": 3803468,
+        "PageId": 3870269,
+        "Name": "Cockman-8",
+        "FirstName": "Joseph",
+        "MiddleName": "",
+        "LastNameAtBirth": "Cockman",
+        "LastNameCurrent": "Cockman",
+        "RealName": "Joseph",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1743-11-11",
+        "DeathDate": "1805-00-00",
+        "BirthLocation": "Norfolk, England",
+        "DeathLocation": "Moore, North Carolina, United States",
+        "Gender": "Male",
+        "IsLiving": 0,
+        "Photo": "",
+        "Touched": "20250213231741",
+        "Privacy": 60,
+        "Manager": 13639499,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": null,
+        "Created": "20120327204334",
+        "Father": 16771046,
+        "Mother": 16771045
+    }
+}

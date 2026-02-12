@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Author: David Edward England, PhD
+# ORCID: https://orcid.org/0009-0001-2095-6646
+# Repo: https://github.com/DavidEngland/genealogy
 """Update The Shoals.md with indigenous perspective"""
 
 def update_shoals_file():

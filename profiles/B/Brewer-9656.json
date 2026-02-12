@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "wikitreeId": "Brewer-9656",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-06 19:19:51",
+        "timestamp": 1770405591
+    },
+    "profile": {
+        "Id": 29440577,
+        "PageId": 32357586,
+        "Name": "Brewer-9656",
+        "FirstName": "Benjamin",
+        "MiddleName": "F.",
+        "LastNameAtBirth": "Brewer",
+        "LastNameCurrent": "Brewer",
+        "RealName": "Benjamin",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1834-01-05",
+        "DeathDate": "1895-08-18",
+        "BirthLocation": "Grant, Indiana, United States",
+        "DeathLocation": "Indiana, United States",
+        "Gender": "Male",
+        "IsLiving": 0,
+        "Photo": "",
+        "Touched": "20210211002700",
+        "Privacy": 60,
+        "Manager": 28875274,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": null,
+        "Created": "20210210235557",
+        "Father": 29440623,
+        "Mother": 29440835
+    }
+}

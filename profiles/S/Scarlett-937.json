@@ -1,0 +1,49 @@
+{
+    "metadata": {
+        "wikitreeId": "Scarlett-937",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-06 19:19:51",
+        "timestamp": 1770405591
+    },
+    "profile": {
+        "Id": 37129933,
+        "PageId": 40919194,
+        "Name": "Scarlett-937",
+        "FirstName": "Martha",
+        "MiddleName": "Ann",
+        "LastNameAtBirth": "Scarlett",
+        "LastNameCurrent": "Hill",
+        "RealName": "Martha",
+        "Nicknames": "",
+        "Prefix": "",
+        "Suffix": "",
+        "BirthDate": "1817-06-22",
+        "DeathDate": "1895-08-16",
+        "BirthLocation": "Ohio, United States",
+        "DeathLocation": "Grant, Indiana, United States",
+        "Gender": "Female",
+        "IsLiving": 0,
+        "Touched": "20241214213729",
+        "Privacy": 60,
+        "Manager": 36846870,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "Created": "20230111182846",
+        "Father": 0,
+        "Mother": 0,
+        "marriage_location": "Grant, Henry County, Indiana, United States",
+        "marriage_date": "1866-04-19",
+        "marriage_end_date": "0000-00-00",
+        "do_not_display": "0",
+        "data_status": {
+            "marriage_location": "certain",
+            "marriage_date": "certain",
+            "marriage_end_date": ""
+        }
+    }
+}

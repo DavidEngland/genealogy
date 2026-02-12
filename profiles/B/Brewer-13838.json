@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "wikitreeId": "Brewer-13838",
+        "source": "WikiTree API",
+        "appId": "genealogy_parser_v1",
+        "fetched": "2026-02-06 19:19:25",
+        "timestamp": 1770405565
+    },
+    "profile": {
+        "Id": 37906432,
+        "PageId": 41771082,
+        "Name": "Brewer-13838",
+        "FirstName": "Richard",
+        "MiddleName": "McMillian Johnson",
+        "LastNameAtBirth": "Brewer",
+        "LastNameCurrent": "Brewer",
+        "RealName": "Richard",
+        "Nicknames": "",
+        "Prefix": "Pvt.",
+        "Suffix": "",
+        "BirthDate": "1843-05-26",
+        "DeathDate": "1914-04-09",
+        "BirthLocation": "Wayne County, Tennessee, United States",
+        "DeathLocation": "Wayne County, Tennessee, United States",
+        "Gender": "Male",
+        "IsLiving": 0,
+        "Photo": "",
+        "Touched": "20250212013648",
+        "Privacy": 60,
+        "Manager": 0,
+        "Privacy_IsPrivate": false,
+        "Privacy_IsPublic": false,
+        "Privacy_IsOpen": true,
+        "Privacy_IsAtLeastPublic": true,
+        "Privacy_IsSemiPrivate": false,
+        "Privacy_IsSemiPrivateBio": false,
+        "PhotoData": null,
+        "Created": "20230307133200",
+        "Father": 6473355,
+        "Mother": 20150837
+    }
+}
