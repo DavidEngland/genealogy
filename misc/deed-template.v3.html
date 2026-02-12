@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bridges v. Hargrove (1802)</title>
+    <link href="https://fonts.googleapis.com/css2?family=Pinyon+Script&family=Great+Vibes&family=IM+Fell+English+SC&family=Special+Elite&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --ink: #2a1f1d; /* Slightly softer than black, like aged iron gall ink */
+            --paper: #e9dcc0;
+            --seal: #8b0000;
+            --script-font: 'Pinyon Script', cursive;
+            --clerk-font: 'Great Vibes', cursive;
+        }
+
+        body {
+            margin: 0;
+            padding: 20px;
+            background: #222;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .deed-page {
+            max-width: 850px;
+            padding: 60px 80px;
+            background-color: var(--paper);
+            background-image:
+                url('https://www.transparenttextures.com/patterns/paper-fibers.png'),
+                radial-gradient(circle at 50% 50%, rgba(255,255,255,0.2), rgba(0,0,0,0.05));
+            color: var(--ink);
+            /* Creating an irregular, "hand-cut" paper edge */
+            clip-path: polygon(
+                0% 2%, 2% 0%, 98% 1%, 100% 3%,
+                99% 97%, 98% 100%, 2% 99%, 0% 98%
+            );
+            box-shadow: 10px 10px 30px rgba(0,0,0,0.5);
+            position: relative;
+            line-height: 1.4;
+            font-family: var(--script-font);
+            font-size: 1.4rem;
+            /* Subtle blur mimics ink soaking into paper */
+            text-shadow: 0.5px 0.5px 1px rgba(42, 31, 29, 0.2);
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        h1 {
+            font-family: 'IM Fell English SC', serif;
+            font-size: 2.2rem;
+            margin-bottom: 0;
+            text-decoration: underline;
+        }
+
+        .case-caption {
+            margin: 30px 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid rgba(0,0,0,0.1);
+            padding-bottom: 10px;
+        }
+
+        .versus {
+            font-family: var(--clerk-font);
+            font-size: 2.5rem;
+        }
+
+        .body-text {
+            text-indent: 40px;
+            margin-bottom: 20px;
+            text-align: justify;
+        }
+
+        .list-item {
+            margin-left: 60px;
+            margin-bottom: 10px;
+            list-style-type: none;
+        }
+
+        .judgment {
+            margin-top: 50px;
+            font-size: 2rem;
+            text-align: center;
+            font-weight: bold;
+            transform: rotate(-1deg);
+        }
+
+        /* The Wax Seal */
+        .wax-seal {
+            position: absolute;
+            bottom: 50px;
+            right: 80px;
+            width: 100px;
+            height: 100px;
+            background: var(--seal);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: rgba(255,255,255,0.4);
+            font-family: serif;
+            font-weight: bold;
+            font-size: 0.8rem;
+            text-align: center;
+            box-shadow:
+                inset 2px 2px 5px rgba(255,255,255,0.2),
+                inset -2px -2px 5px rgba(0,0,0,0.5),
+                3px 5px 10px rgba(0,0,0,0.3);
+            opacity: 0.9;
+            transform: rotate(15deg);
+        }
+
+        .wax-seal::after {
+            content: "KY COURT APPEALS";
+            border: 2px solid rgba(255,255,255,0.2);
+            border-radius: 50%;
+            padding: 10px;
+            width: 70px;
+            height: 70px;
+            display: flex;
+            align-items: center;
+        }
+
+        .signature {
+            margin-top: 60px;
+            float: left;
+            border-top: 1px solid var(--ink);
+            padding-top: 5px;
+            font-family: var(--clerk-font);
+            font-size: 1.8rem;
+        }
+
+        .filing-note {
+            font-family: 'Special Elite', cursive; /* Typewriter-esque or stamped look */
+            font-size: 0.9rem;
+            opacity: 0.7;
+            position: absolute;
+            top: 20px;
+            left: 30px;
+            transform: rotate(-5deg);
+        }
+    </style>
+</head>
+<body>
+    <main class="deed-page">
+        <div class="filing-note">No. 131 - Spring Term</div>
+
+        <header>
+            <h1>Commonwealth of Kentucky</h1>
+            <div style="font-size: 1.8rem;">In the Court of Appeals</div>
+            <div style="font-style: italic;">April 30th, 1802</div>
+        </header>
+
+        <section class="case-caption">
+            <div>
+                <strong>Absalom Bridges</strong><br>
+                <small>Plaintiff in Error</small>
+            </div>
+            <div class="versus">vs.</div>
+            <div style="text-align: right;">
+                <strong>Valentine Hargrove</strong><br>
+                <small>Defendant</small>
+            </div>
+        </section>
+
+        <p class="body-text">
+            Upon a writ of error to reverse a judgment of the Court of Quarter Sessions of Pulaski County. In this cause, the following errors are insisted upon by the Counsel, to wit:
+        </p>
+
+        <div class="list-item">1st. That it is not averred that the defendant obtained a certificate for the land.</div>
+        <div class="list-item">2nd. That it is not alleged the defendant had any title to convey.</div>
+        <div class="list-item">3rd. That no special request is laid.</div>
+
+        <p class="body-text">
+            The Court deems it unnecessary to decide the first two, the third being fatal. The rule is well settled that where the defendant is chargeable on a collateral matter and not on a mere debt, there ought to be a request precisely alleged as to time and place. The general allegation that he has often been requested is not sufficient.
+        </p>
+
+        <p class="body-text" style="font-weight: bold;">
+            Wherefore, it is ordered and adjudged that the judgment aforesaid be reversed...
+        </p>
+
+        <div class="judgment">Judgment Reversed.</div>
+
+        <div class="signature">
+            Teste: Achilles Sneed, C.C.A.
+        </div>
+
+        <div class="wax-seal"></div>
+    </main>
+</body>
+</html>
