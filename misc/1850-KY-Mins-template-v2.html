@@ -1,0 +1,301 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>1850s Circuit Court Minutes Template</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:opsz,wght@8..144,400;8..144,600&family=IM+Fell+English:ital@0;1&family=Pinyon+Script&family=Mr+De+Haviland&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --ink: #2a1f1d;
+            --paper: #efe0c4;
+            --edge: #d4c097;
+            --shadow: rgba(30, 20, 12, 0.38);
+            --script: "Mr De Haviland", "Pinyon Script", cursive;
+            --print: "EB Garamond", "IM Fell English", serif;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            padding: 20px;
+            background: #222;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            color: var(--ink);
+        }
+
+        .ledger-page {
+            max-width: 980px;
+            padding: 60px 80px 70px;
+            background-color: var(--paper);
+            background-image:
+                url("https://www.transparenttextures.com/patterns/paper-fibers.png"),
+                radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0.2), rgba(0, 0, 0, 0.05));
+            color: var(--ink);
+            clip-path: polygon(
+                0% 2%, 2% 0%, 98% 1%, 100% 3%,
+                99% 97%, 98% 100%, 2% 99%, 0% 98%
+            );
+            box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.5);
+            position: relative;
+            line-height: 1.5;
+            font-family: var(--script);
+            font-size: 1.5rem;
+            text-shadow: 0.5px 0.5px 1px rgba(42, 31, 29, 0.18);
+        }
+
+        .ledger-page::before {
+            content: "";
+            position: absolute;
+            inset: 16px;
+            border: 1px solid rgba(91, 60, 34, 0.3);
+            pointer-events: none;
+        }
+
+        .ledger-page::after {
+            content: "Minute Book No. 1";
+            position: absolute;
+            left: -46px;
+            top: 40px;
+            transform: rotate(-90deg);
+            font-family: "IM Fell English", serif;
+            font-size: 1rem;
+            opacity: 0.5;
+        }
+
+        .ledger-grid {
+            display: grid;
+            grid-template-columns: 120px 1fr;
+            gap: 20px;
+        }
+
+        .margin {
+            font-family: "IM Fell English", serif;
+            font-size: 1rem;
+            color: rgba(47, 36, 24, 0.85);
+            line-height: 1.5;
+        }
+
+        .margin .page {
+            font-size: 1.1rem;
+            letter-spacing: 0.05em;
+        }
+
+        .margin .case-no {
+            margin-top: 18px;
+            font-style: italic;
+        }
+
+        h1 {
+            margin: 0 0 6px;
+            font-family: "IM Fell English", serif;
+            font-size: 2rem;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+        }
+
+        .session-date {
+            margin: 0 0 16px;
+            font-family: "IM Fell English", serif;
+            font-size: 1.2rem;
+            letter-spacing: 0.04em;
+        }
+
+        p {
+            margin: 0 0 1.2rem;
+            font-size: 1.35rem;
+        }
+
+        .case-block {
+            margin: 18px 0 14px;
+            font-family: "IM Fell English", serif;
+            font-size: 1.25rem;
+            line-height: 1.4;
+        }
+
+        .case-line {
+            display: grid;
+            grid-template-columns: auto 30px 1fr;
+            gap: 10px;
+        }
+
+        .case-line .brace {
+            text-align: center;
+        }
+
+        .case-line .right {
+            text-align: left;
+        }
+
+        .label {
+            font-variant: small-caps;
+            letter-spacing: 0.05em;
+            font-family: "IM Fell English", serif;
+        }
+
+        .signature {
+            margin-top: 22px;
+            text-align: right;
+            font-family: var(--script);
+            font-size: 1.8rem;
+            color: rgba(47, 36, 24, 0.85);
+        }
+
+        .signature .prefix {
+            font-family: "IM Fell English", serif;
+            font-size: 1rem;
+            letter-spacing: 0.06em;
+            text-transform: uppercase;
+            display: block;
+            margin-bottom: 2px;
+        }
+
+        .clerk-note {
+            position: absolute;
+            top: 22px;
+            right: 36px;
+            font-family: var(--script);
+            font-size: 1.1rem;
+            opacity: 0.7;
+            transform: rotate(2deg);
+        }
+
+        @media (max-width: 720px) {
+            .ledger-page {
+                margin: 24px 14px 48px;
+                padding: 32px 22px 44px;
+            }
+
+            .ledger-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .margin {
+                display: flex;
+                gap: 18px;
+            }
+
+            .ledger-page::after {
+                left: -28px;
+                top: 24px;
+                font-size: 0.9rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <main class="ledger-page">
+        <div class="clerk-note">Minutes in the hand of John Martin B. Scott</div>
+        <div class="ledger-grid">
+            <aside class="margin" aria-hidden="true">
+                <div class="page">Page 1</div>
+                <div class="case-no">May 26, 1851</div>
+            </aside>
+
+            <section class="content">
+                <h1>State of Tennessee</h1>
+                <div class="session-date">Monday, May 26, 1851</div>
+
+                <p><span class="label">County of Wayne.</span> Be it remembered that a Circuit Court was begun and held in and for the County of Wayne at the Court house in the town of Waynesboro on the fourth Monday being the twenty sixth day of May in the year of our Lord one thousand eight hundred and fifty one there was present the Honourable Elijah Walker Judge of the fourteenth judicial Circuit of the State of Tennessee presiding. Rial Brewer, Esq. Sheriff of Wayne County returned into Court the venirefacias returnable to this term of the Court which venirefacias and the endorsements thereon are in the words and figures following to wit.</p>
+
+                <div class="case-block">
+                    <div class="case-line">
+                        <div><strong>State of Tennessee</strong></div>
+                        <div class="brace">}</div>
+                        <div class="right">Wayne County</div>
+                    </div>
+                    <div class="case-line">
+                        <div>To the Sheriff of said County</div>
+                        <div class="brace">}</div>
+                        <div class="right">Greeting</div>
+                    </div>
+                </div>
+
+                <p>Whereas at the March Term of said County Court of Wayne County it was ordered by the Court that the following good and lawful men of the County of Wayne be appointed and summonds by the Sheriff of Wayne County to be and attend at the next term of the Circuit Court to be held for the County of Wayne at the Court house in the town of Waynesboro on the fourth Monday in May next to wit Isham Turnbough, William Bowden, William M. Gallegly, Matthew H. Burks, Richard H. Whitaker, Samuel L. Burns, John S. Burns, Joacim Dugger, James Arnett, Nathaniel F. Johnson, James E. McKnight, Andrew Jackson, John Downing, John Martin, Matthew J. Sims, Lewis B. Gant, Daniel McPhaul, Silvester B. Lindsey, Samuel Brimley, Alexander C. McDougal, William Ray, William Thornton Sr., Amos Hardin, Gideon B. Hughes and that Joseph N. Robnett and Robert H. Cooper be appointed and summonds to attend and serve as constables to wait on the Court that that venirefacias issue returnable to said Court.</p>
+
+                <p><span class="label">Sheriff Return.</span> Came to hand same day issued. Rial Brewer Sh'ff. I have summonds all the within named persons within the time prescribed by law all of whom are freeholders or householders and citizens of Wayne County over the age of twenty one years May 20 1851 //s// Rial Brewer Sh'ff.</p>
+
+                <hr style="border: 0; border-top: 1px solid rgba(91, 60, 34, 0.3); margin: 22px 0;">
+
+                <div class="session-date">Tuesday, May 27, 1851</div>
+
+                <p>... of law whereupon came Isaac Grigg as security for said defendant and confesses judgement in favour of the State of Tennessee for the fine and costs aforesaid. It is therefore considered by the Court that the State of Tennessee recover as well of said security as of said defendant the fine and costs aforesaid and that execution issue.</p>
+
+                <div class="case-block">
+                    <div class="case-line">
+                        <div><strong>State of Tennessee</strong></div>
+                        <div class="brace">}</div>
+                        <div class="right"><strong>Indictment for Tipling</strong></div>
+                    </div>
+                    <div class="case-line">
+                        <div><em>vs.</em></div>
+                        <div class="brace">}</div>
+                        <div class="right">&nbsp;</div>
+                    </div>
+                    <div class="case-line">
+                        <div><strong>Buckley Ham</strong></div>
+                        <div class="brace">}</div>
+                        <div class="right">&nbsp;</div>
+                    </div>
+                </div>
+
+                <p>This day came the Attorney General who prosecutes on behalf of the State and the defendant in proper person whereupon on motion of said defendant by his attorney sufficient cause appearing for the same from the oral affidavit of the defendant it is ordered by the Court that this cause be continued until the next term of this Court. Whereupon came said defendant and Rial Brewer who came into Court as security for said defendant acknowledged themselves to be indebted to the State of Tennessee in the sum of two hundred and fifty dollars each to be levied of their goods and chattles lands and tenements respectively for the use of the state but to be void on condition that said defendant Buckley Ham shall make his personal appearance before the Judge of the next Circuit Court to be held for Wayne County at the Court house in Waynesboro on the first Tuesday after the fourth Monday in September next and answer the State of Tennessee on the indictment in this behalf and not depart from said Court without leave of the same. An entry skipped because of stricken text.</p>
+
+                <div class="margin" style="margin: 22px 0 0;">Page 11</div>
+                <div class="session-date" style="margin-top: 6px;">Tuesday, May 27, 1851</div>
+
+                <div class="case-block">
+                    <div class="case-line">
+                        <div><strong>State of Tennessee</strong></div>
+                        <div class="brace">}</div>
+                        <div class="right"><strong>Indictment for Trespass</strong></div>
+                    </div>
+                    <div class="case-line">
+                        <div><em>vs.</em></div>
+                        <div class="brace">}</div>
+                        <div class="right">&nbsp;</div>
+                    </div>
+                    <div class="case-line">
+                        <div><strong>Benjamin F. Brooks</strong></div>
+                        <div class="brace">}</div>
+                        <div class="right">&nbsp;</div>
+                    </div>
+                </div>
+
+                <p>This day came the Attorney General who prosecutes on behalf of the State and the defendant in proper person and said defendant being charged on the indictment in this behalf pleads guilty thereto and for his delivery puts himself on the mercy of the Court. It is therefore considered by the court that the defendant for the offense aforesaid be fined two dollars and fifty cents and that the State of Tennessee recover of said defendant the fine aforesaid also the costs in this behalf expended and that he remain in custody unless the fine and costs are paid or secured or be otherwise discharged by due course of law. Whereupon came John W. Berry and Rial Brewer as security for said defendant and confess judgement in favour of the State of Tennessee for the fine and costs aforesaid. It is therefore considered by the Court that the State of Tennessee recover as well of said securities as of said defendant the fine and costs aforesaid and that execution issue.</p>
+
+                <div class="case-block">
+                    <div class="case-line">
+                        <div><strong>State of Tennessee</strong></div>
+                        <div class="brace">}</div>
+                        <div class="right"><strong>Indictment assault &amp; battery &amp; affray</strong></div>
+                    </div>
+                    <div class="case-line">
+                        <div><em>vs.</em></div>
+                        <div class="brace">}</div>
+                        <div class="right">&nbsp;</div>
+                    </div>
+                    <div class="case-line">
+                        <div><strong>James Brewer</strong></div>
+                        <div class="brace">}</div>
+                        <div class="right">&nbsp;</div>
+                    </div>
+                </div>
+
+                <p>This day came the Attorney General who prosecutes on behalf of the State and the defendant in proper person and said defendant being charged on the indictment in this behalf pleads guilty thereto and for his deliverance puts himself upon the mercy of the court. It is therefore considered by the Court that said defendant for the offense aforesaid be fined ten dollars and fifty cents and that the State of Tennessee recover of said defendant the fine aforesaid also the costs in this behalf expended and that he remain in custody unless the fine and costs are paid or secured or be otherwise discharged by due course of law. Therefore came Rial Brewer as security for said defendant and confesses judgement in favour of the State of Tennessee for the fine and costs aforesaid. It is therefore considered by the Court that the State of Tennessee recover as will of said security as of said defendant the fine and costs aforesaid and that execution issue.</p>
+
+                <p>$1031.40 - No. 675 - Nashville 19th Decr. 1851</p>
+            </section>
+        </div>
+    </main>
+</body>
+</html>
+

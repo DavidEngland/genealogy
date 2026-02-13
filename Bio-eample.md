@@ -43,7 +43,7 @@ Their children were:
 * [[McCoy-595|Roseanna McCoy (1859-1889)]]
 * [[McCoy-596|Calvin McCoy (1862-1888)]]
 * [[McCoy-597|Pharmer McCoy (1863-1882)]]
-* [[McCoy-598|Randolf McCoy (1864-1882)]]
+* [[McCoy-598|Randolph McCoy (1864-1882)]]
 * [[McCoy-599|William McCoy (1866-)]]
 * [[McCoy-600|Trinvilla McCoy (1868-)]]
 * [[McCoy-601|Adelaide McCoy (1870-)]]

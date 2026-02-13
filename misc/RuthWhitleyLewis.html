@@ -1,0 +1,442 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>1850s Circuit Court Minutes Template</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:opsz,wght@8..144,400;8..144,600&family=IM+Fell+English:ital@0;1&family=Pinyon+Script&family=Mr+De+Haviland&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --ink: #2a1f1d;
+            --paper: #efe0c4;
+            --edge: #d4c097;
+            --shadow: rgba(30, 20, 12, 0.38);
+            --script: "Mr De Haviland", "Pinyon Script", cursive;
+            --print: "EB Garamond", "IM Fell English", serif;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            padding: 20px;
+            background: #222;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            color: var(--ink);
+        }
+
+        .ledger-page {
+            max-width: 980px;
+            padding: 60px 80px 70px;
+            background-color: var(--paper);
+            background-image:
+                url("https://www.transparenttextures.com/patterns/paper-fibers.png"),
+                radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0.2), rgba(0, 0, 0, 0.05));
+            color: var(--ink);
+            clip-path: polygon(
+                0% 2%, 2% 0%, 98% 1%, 100% 3%,
+                99% 97%, 98% 100%, 2% 99%, 0% 98%
+            );
+            box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.5);
+            position: relative;
+            line-height: 1.5;
+            font-family: var(--script);
+            font-size: 1.5rem;
+            text-shadow: 0.5px 0.5px 1px rgba(42, 31, 29, 0.18);
+        }
+
+        .ledger-page::before {
+            content: "";
+            position: absolute;
+            inset: 16px;
+            border: 1px solid rgba(91, 60, 34, 0.3);
+            pointer-events: none;
+        }
+
+        .ledger-page::after {
+            content: "Minute Book No. 1";
+            position: absolute;
+            left: -46px;
+            top: 40px;
+            transform: rotate(-90deg);
+            font-family: "IM Fell English", serif;
+            font-size: 1rem;
+            opacity: 0.5;
+        }
+
+        .ledger-grid {
+            display: grid;
+            grid-template-columns: 120px 1fr;
+            gap: 20px;
+        }
+
+        .chapter {
+            margin-bottom: 24px;
+        }
+
+        .chapter-title {
+            margin: 0 0 6px;
+            font-family: "IM Fell English", serif;
+            font-size: 2.2rem;
+            letter-spacing: 0.06em;
+            text-transform: uppercase;
+        }
+
+        .chapter-subtitle {
+            margin: 0 0 18px;
+            font-family: "IM Fell English", serif;
+            font-size: 1.2rem;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+        }
+
+        .note-block {
+            margin: 18px 0 28px;
+            padding: 18px 22px;
+            border: 1px solid rgba(91, 60, 34, 0.25);
+            background: rgba(255, 255, 255, 0.15);
+            position: relative;
+        }
+
+        .note-label {
+            font-family: "IM Fell English", serif;
+            font-size: 0.95rem;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            color: rgba(47, 36, 24, 0.7);
+            display: none;
+        }
+
+        .handwritten {
+            font-family: var(--script);
+            font-size: 1.5rem;
+            margin-top: 10px;
+        }
+
+        .transcription {
+            margin-top: 14px;
+            padding-top: 12px;
+            border-top: 1px dashed rgba(91, 60, 34, 0.35);
+            font-family: var(--print);
+            font-size: 1.12rem;
+            line-height: 1.6;
+            color: rgba(42, 31, 29, 0.9);
+        }
+
+        .image-placeholder {
+            margin-top: 14px;
+            padding: 18px;
+            border: 1px dashed rgba(91, 60, 34, 0.45);
+            font-family: "IM Fell English", serif;
+            font-size: 0.95rem;
+            text-align: center;
+            letter-spacing: 0.06em;
+            color: rgba(47, 36, 24, 0.65);
+            background: rgba(255, 255, 255, 0.22);
+            display: none}
+
+        .margin {
+            font-family: "IM Fell English", serif;
+            font-size: 1rem;
+            color: rgba(47, 36, 24, 0.85);
+            line-height: 1.5;
+        }
+
+        .margin .page {
+            font-size: 1.1rem;
+            letter-spacing: 0.05em;
+        }
+
+        .margin .case-no {
+            margin-top: 18px;
+            font-style: italic;
+        }
+
+        h1 {
+            margin: 0 0 6px;
+            font-family: "IM Fell English", serif;
+            font-size: 2rem;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+        }
+
+        .session-date {
+            margin: 0 0 16px;
+            font-family: "IM Fell English", serif;
+            font-size: 1.2rem;
+            letter-spacing: 0.04em;
+        }
+
+        p {
+            margin: 0 0 1.2rem;
+            font-size: 1.35rem;
+        }
+
+        .case-block {
+            margin: 18px 0 14px;
+            font-family: "IM Fell English", serif;
+            font-size: 1.25rem;
+            line-height: 1.4;
+        }
+
+        .case-line {
+            display: grid;
+            grid-template-columns: auto 30px 1fr;
+            gap: 10px;
+        }
+
+        .case-line .brace {
+            text-align: center;
+        }
+
+        .case-line .right {
+            text-align: left;
+        }
+
+        .label {
+            font-variant: small-caps;
+            letter-spacing: 0.05em;
+            font-family: "IM Fell English", serif;
+        }
+
+        .signature {
+            margin-top: 22px;
+            text-align: right;
+            font-family: var(--script);
+            font-size: 1.8rem;
+            color: rgba(47, 36, 24, 0.85);
+        }
+
+        .signature .prefix {
+            font-family: "IM Fell English", serif;
+            font-size: 1rem;
+            letter-spacing: 0.06em;
+            text-transform: uppercase;
+            display: block;
+            margin-bottom: 2px;
+        }
+
+        .clerk-note {
+            position: absolute;
+            top: 22px;
+            right: 36px;
+            font-family: var(--script);
+            font-size: 1.1rem;
+            opacity: 0.7;
+            transform: rotate(2deg);
+        }
+
+        @media (max-width: 720px) {
+            .ledger-page {
+                margin: 24px 14px 48px;
+                padding: 32px 22px 44px;
+            }
+
+            .ledger-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .margin {
+                display: flex;
+                gap: 18px;
+            }
+
+            .ledger-page::after {
+                left: -28px;
+                top: 24px;
+                font-size: 0.9rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <main class="ledger-page">
+        <div class="clerk-note">Minutes in the hand of John Martin B. Scott</div>
+        <div class="ledger-grid">
+            <aside class="margin" aria-hidden="true">
+                <div class="page">Page 1</div>
+                <div class="case-no">May 26, 1851</div>
+            </aside>
+
+            <section class="content">
+                <div class="chapter">
+                    <div class="chapter-title">The Hargrove Study</div>
+                    <div class="chapter-subtitle">Ruth Whitley Lewis</div>
+                </div>
+
+                <div class="note-block">
+                    <div class="note-label">Handwritten Note</div>
+                    <div class="handwritten">
+                        Ruth Whitley Lewis was the wife of Valentine Hargrove. Her father was Joseph Francis Lewis. Her grand father was Joseph Lewis of Goochland who married Winney King. (This information discovered recently in a Microfilm rented from A.G.L.L., F3652 "Annals of Henrico Parish.")
+                    </div>
+                    <div class="image-placeholder">[Image Placeholder - handwritten note scan]</div>
+                    <div class="transcription">
+                        Ruth Whitley Lewis was the wife of Valentine Hargrove. Her father was Joseph Francis Lewis. Her grand father was Joseph Lewis of Goochland who married Winney King. (This information discovered recently in a Microfilm rented from A.G.L.L., F3652 "Annals of Henrico Parish.")
+                    </div>
+                </div>
+
+                <div class="note-block">
+                    <div class="note-label">Handwritten Note</div>
+                    <div class="handwritten">
+                        Ruth's father was the brother of Sarah Lewis who m. Milner Redford their dau. m. Wm Robards, their son Lewis Robards m. Rachel Donaldson who m. 2nd President Andrew Jackson.
+                    </div>
+                    <div class="image-placeholder">[Image Placeholder - handwritten note scan]</div>
+                    <div class="transcription">
+                        Ruth's father was the brother of Sarah Lewis who m. Milner Redford their dau. m. Wm Robards, their son Lewis Robards m. Rachel Donaldson who m. 2nd President Andrew Jackson.
+                    </div>
+                </div>
+
+                <div class="note-block">
+                    <div class="note-label">Handwritten Note</div>
+                    <div class="handwritten">
+                        Ruth's father was the brother of Col. John Lewis that m. Mildred Lewis. Mildred Lewis was named for her father's maternal grandmother Mildred Reade Warner. Mildred's father was Col. Robert Lewis and wife Jane Meriwether.
+                    </div>
+                    <div class="image-placeholder">[Image Placeholder - handwritten note scan]</div>
+                    <div class="transcription">
+                        Ruth's father was the brother of Col. John Lewis that m. Mildred Lewis. Mildred Lewis was named for her father's maternal grandmother Mildred Reade Warner. Mildred's father was Col. Robert Lewis and wife Jane Meriwether.
+                    </div>
+                </div>
+
+                <div class="note-block">
+                    <div class="note-label">Handwritten Note</div>
+                    <div class="handwritten">
+                        Col. Robert Lewis's parents were John Lewis and Elizabeth Warner. Elizabeth Warner's sister Mildred Warner m. Augustine Washngton. Augustiine Washington's son Augustine m. as his 2nd wife Mary Ball and they were the parents of George Washinggton. Elizabeth and Miildred's father was Col. Augustine Warner Jr. and wife Mildred Reade.
+                    </div>
+                    <div class="image-placeholder">[Image Placeholder - handwritten note scan]</div>
+                    <div class="transcription">
+                        Col. Robert Lewis's parents were John Lewis and Elizabeth Warner. Elizabeth Warner's sister Mildred Warner m. Augustine Washngton. Augustiine Washington's son Augustine m. as his 2nd wife Mary Ball and they were the parents of George Washinggton. Elizabeth and Miildred's father was Col. Augustine Warner Jr. and wife Mildred Reade.
+                    </div>
+                </div>
+
+                <div class="note-block">
+                    <div class="note-label">Handwritten Note</div>
+                    <div class="handwritten">
+                        Mildred Reade's father was Col. George Reade of York Co. VA. and wife Elizabeth Martiau. Elizabeth Martiau parents were Capt. Nicholas Martiau and wife Jane Berkley.
+                    </div>
+                    <div class="image-placeholder">[Image Placeholder - handwritten note scan]</div>
+                    <div class="transcription">
+                        Mildred Reade's father was Col. George Reade of York Co. VA. and wife Elizabeth Martiau. Elizabeth Martiau parents were Capt. Nicholas Martiau and wife Jane Berkley.
+                    </div>
+                </div>
+
+                <div class="note-block">
+                    <div class="note-label">Handwritten Note</div>
+                    <div class="handwritten">
+                        The Reade, Washington and Martiau families are in the heritage records of England showing them back to King John and nine of the Barons off the Magne Carta. They go from King John to William the Conquerer and Charlemagne.
+                    </div>
+                    <div class="image-placeholder">[Image Placeholder - handwritten note scan]</div>
+                    <div class="transcription">
+                        The Reade, Washington and Martiau families are in the heritage records of England showing them back to King John and nine of the Barons off the Magne Carta. They go from King John to William the Conquerer and Charlemagne.
+                    </div>
+                </div>
+
+                <div class="note-block">
+                    <div class="note-label">Handwritten Note</div>
+                    <div class="handwritten">
+                        Joseph Francis Lewis is shown in Ky. in business with a King. Valentine and Ruth were shown as legatees in a King estate. (These deeds are in the Sources section of this book, Ky record) Winney King was Ruth Whitley Lewis's grandmother.
+                    </div>
+                    <div class="image-placeholder">[Image Placeholder - handwritten note scan]</div>
+                    <div class="transcription">
+                        Joseph Francis Lewis is shown in Ky. in business with a King. Valentine and Ruth were shown as legatees in a King estate. (These deeds are in the Sources section of this book, Ky record) Winney King was Ruth Whitley Lewis's grandmother.
+                    </div>
+                </div>
+
+                <div class="note-block">
+                    <div class="note-label">Handwritten Note</div>
+                    <div class="handwritten">
+                        Colonel William Whitley was Ruth's Uncle, her mother's brother. He was a famous Indian fighter. He along with his friends, Daniel Boone, John Hardgrove and brother in law General George Rogers Clarke built Crab Orchard Fort in KY The Lewis and Clarke were of the families, Lewis and Clarke discoverer's of the "Northwest Passage."
+                    </div>
+                    <div class="image-placeholder">[Image Placeholder - handwritten note scan]</div>
+                    <div class="transcription">
+                        Colonel William Whitley was Ruth's Uncle, her mother's brother. He was a famous Indian fighter. He along with his friends, Daniel Boone, John Hardgrove and brother in law General George Rogers Clarke built Crab Orchard Fort in KY The Lewis and Clarke were of the families, Lewis and Clarke discoverer's of the "Northwest Passage."
+                    </div>
+                </div>
+
+                <div class="chapter" style="margin-top: 28px;">
+                    <div class="chapter-title">The Hargrove Study</div>
+                    <div class="chapter-subtitle">George Hargrove</div>
+                </div>
+
+                <div class="note-block">
+                    <div class="note-label">Handwritten Note</div>
+                    <div class="handwritten">
+                        George Hrgrove patented 250 acres of land in Christianson Co. Ky. on the state waters of the Fort Donelelson Creek on Sept. 12, 1816. ( cert. %2427, found in the archives of Frankfort Ky.) On May 22, 1821 Gorge Hargrove gave his son, William B. Hargrove "For and in consideration of the love and goodwill he doth bear toward the said, William B. Hargrove 100 acres being part of a patent granted to the said George Hargrove... in the year of our Lord One Thousand Eight Hundred and Sixteen." (This found in deed Book A. pg. 120, Trigg Co., Ky)
+                    </div>
+                    <div class="image-placeholder">[Image Placeholder - handwritten note scan]</div>
+                    <div class="transcription">
+                        George Hrgrove patented 250 acres of land in Christianson Co. Ky. on the state waters of the Fort Donelelson Creek on Sept. 12, 1816. ( cert. %2427, found in the archives of Frankfort Ky.) On May 22, 1821 Gorge Hargrove gave his son, William B. Hargrove "For and in consideration of the love and goodwill he doth bear toward the said, William B. Hargrove 100 acres being part of a patent granted to the said George Hargrove... in the year of our Lord One Thousand Eight Hundred and Sixteen." (This found in deed Book A. pg. 120, Trigg Co., Ky)
+                    </div>
+                </div>
+
+                <div class="note-block">
+                    <div class="note-label">Handwritten Note</div>
+                    <div class="handwritten">
+                        George Hargrove was dead by 20 December 1823 when his heirs sold his 100 acres on Donelson Creek to Joseph Isbell ( Triggs Co. Ky. Deed Book A, pgs. 416,417) From this deed we know he had three sons: William B. Hargrove, Willis Hargrove, and John Hargrove.
+                    </div>
+                    <div class="image-placeholder">[Image Placeholder - handwritten note scan]</div>
+                    <div class="transcription">
+                        George Hargrove was dead by 20 December 1823 when his heirs sold his 100 acres on Donelson Creek to Joseph Isbell ( Triggs Co. Ky. Deed Book A, pgs. 416,417) From this deed we know he had three sons: William B. Hargrove, Willis Hargrove, and John Hargrove.
+                    </div>
+                </div>
+
+                <div class="note-block">
+                    <div class="note-label">Handwritten Note</div>
+                    <div class="handwritten">
+                        William B, Hargrove m. Sarah (Sally) but from Court Order Book A. pg.349, Trigg Co. Ky., we have proof of William B. Hargrove's widow, Sarah (Sally) putting out for apprenticeship these children, "herein of William B. Hargrove, deceased." This Court Order was dated 21 Sept. 1829. The Children listed were: Jett (Jethro), Nathan, Nathaniel, and Alfred.
+                    </div>
+                    <div class="image-placeholder">[Image Placeholder - handwritten note scan]</div>
+                    <div class="transcription">
+                        William B, Hargrove m. Sarah (Sally) but from Court Order Book A. pg.349, Trigg Co. Ky., we have proof of William B. Hargrove's widow, Sarah (Sally) putting out for apprenticeship these children, "herein of William B. Hargrove, deceased." This Court Order was dated 21 Sept. 1829. The Children listed were: Jett (Jethro), Nathan, Nathaniel, and Alfred.
+                    </div>
+                </div>
+
+                <div class="note-block">
+                    <div class="note-label">Handwritten Note</div>
+                    <div class="handwritten">
+                        We have proof of Richard Hargrove being born 4 mos after William died.
+                    </div>
+                    <div class="image-placeholder">[Image Placeholder - handwritten note scan]</div>
+                    <div class="transcription">
+                        We have proof of Richard Hargrove being born 4 mos after William died.
+                    </div>
+                </div>
+
+                <div class="note-block">
+                    <div class="note-label">Handwritten Note</div>
+                    <div class="handwritten">
+                        Found: Shiiloh Regional Library Center Hamilton Hills Shopping Center Jackson TEnn 38305
+                    </div>
+                    <div class="image-placeholder">[Image Placeholder - handwritten note scan]</div>
+                    <div class="transcription">
+                        Found: Shiiloh Regional Library Center Hamilton Hills Shopping Center Jackson TEnn 38305
+                    </div>
+                </div>
+
+                <div class="note-block">
+                    <div class="note-label">Handwritten Note</div>
+                    <div class="handwritten">
+                        GATES COUNTY, NORTH CAROLINA
+                        WILL BOOK 1 1779-1807
+                        Volume I
+                        By Sandra L. Almsay.
+                    </div>
+                    <div class="image-placeholder">[Image Placeholder - handwritten note scan]</div>
+                    <div class="transcription">
+                        GATES COUNTY, NORTH CAROLINA<br>
+                        WILL BOOK 1 1779-1807<br>
+                        Volume I<br>
+                        By Sandra L. Almsay.
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+</body>
+</html>
