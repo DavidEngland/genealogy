@@ -1,0 +1,226 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Enhanced Genealogical Records Schema",
+  "description": "Comprehensive schema for genealogical GEDCOM data with WikiTree integration, aligned with schema.org microdata standards and GEDCOM 7 date semantics",
+  "version": "3.0",
+  "type": "object",
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "description": "Project metadata and source information",
+      "properties": {
+        "projectName": { "type": "string" },
+        "projectDescription": { "type": "string" },
+        "generated": { "type": "string", "format": "date-time" },
+        "lastUpdated": { "type": "string", "format": "date-time" },
+        "source": { "type": "string" },
+        "gedcomVersion": {
+          "type": "string",
+          "enum": ["5.5", "5.5.1", "7.0"]
+        },
+        "charset": {
+          "type": "string",
+          "enum": ["ANSI", "UTF-8", "UTF-16", "ASCII"],
+          "default": "UTF-8"
+        },
+        "language": {
+          "type": "string",
+          "pattern": "^[a-z]{2}(-[A-Z]{2})?$",
+          "default": "en-US"
+        },
+        "contributors": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": { "type": "string" },
+              "role": {
+                "type": "string",
+                "enum": ["researcher", "compiler", "contributor", "transcriber", "verifier"]
+              },
+              "contact": { "type": "string", "format": "email" }
+            },
+            "required": ["name", "role"]
+          }
+        },
+        "copyright": { "type": "string" },
+        "customProperties": {
+          "type": "object",
+          "additionalProperties": true
+        }
+      },
+      "required": ["generated"]
+    },
+    "people": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/Person" }
+    },
+    "families": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/Family" }
+    },
+    "places": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/Place" }
+    },
+    "sources": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/Source" }
+    }
+  },
+  "required": ["metadata", "people", "families", "places", "sources"],
+  "$defs": {
+    "GedcomDate": {
+      "type": "object",
+      "description": "GEDCOM 7-compatible date representation with qualifiers and ranges",
+      "properties": {
+        "original": { "type": "string" },
+        "type": {
+          "type": "string",
+          "enum": ["exact", "approx", "before", "after", "between", "fromTo", "estimated", "calculated", "phrase", "unknown"]
+        },
+        "start": { "type": "string" },
+        "end": { "type": "string" },
+        "normalized": { "type": "string" },
+        "calendar": {
+          "type": "string",
+          "enum": ["gregorian", "julian", "other"],
+          "default": "gregorian"
+        },
+        "modifier": { "type": "string" },
+        "phrase": { "type": "string" }
+      },
+      "required": ["original", "type"]
+    },
+    "DateField": {
+      "oneOf": [
+        { "type": "string" },
+        { "$ref": "#/$defs/GedcomDate" }
+      ]
+    },
+    "Person": {
+      "type": "object",
+      "properties": {
+        "wikitreeId": { "type": ["string", "null"], "pattern": "^[A-Z]+-\\d+$" },
+        "gedcomId": { "type": "string", "pattern": "^@I\\d+@$" },
+        "externalIds": {
+          "type": "object",
+          "properties": {
+            "wikitree": { "type": "string" },
+            "familysearch": { "type": "string" },
+            "ancestry": { "type": "string" },
+            "findagrave": { "type": "string" },
+            "myheritage": { "type": "string" },
+            "geni": { "type": "string" },
+            "custom": {
+              "type": "object",
+              "additionalProperties": { "type": "string" }
+            }
+          }
+        },
+        "name": {
+          "type": "object",
+          "properties": {
+            "full": { "type": "string" },
+            "given": { "type": "string" },
+            "surname": { "type": "string" },
+            "maidenName": { "type": "string" },
+            "prefix": { "type": "string" },
+            "suffix": { "type": "string" },
+            "nickname": { "type": "string" },
+            "aliases": { "type": "array", "items": { "type": "string" } }
+          },
+          "required": ["full"]
+        },
+        "sex": { "type": "string", "enum": ["M", "F", "U", "X"] },
+        "birth": { "$ref": "#/$defs/PersonEvent" },
+        "death": { "$ref": "#/$defs/PersonEvent" },
+        "burial": { "$ref": "#/$defs/PersonEvent" },
+        "baptism": { "$ref": "#/$defs/PersonEvent" },
+        "occupation": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "title": { "type": "string" },
+              "place": { "type": "string" },
+              "date": { "$ref": "#/$defs/DateField" },
+              "sources": { "type": "array", "items": { "type": "string" } }
+            }
+          }
+        },
+        "familyAsSpouse": { "type": "array", "items": { "type": "string" } },
+        "familyAsChild": { "type": ["string", "null"] },
+        "biographicalSections": {
+          "type": "object",
+          "additionalProperties": {
+            "type": ["array", "string"],
+            "items": { "type": "string" }
+          }
+        },
+        "notes": { "type": "string" }
+      },
+      "required": ["wikitreeId", "name"]
+    },
+    "PersonEvent": {
+      "type": "object",
+      "properties": {
+        "date": { "$ref": "#/$defs/DateField" },
+        "place": { "type": "string" },
+        "placeId": { "type": "string" },
+        "cause": { "type": "string" },
+        "certainty": { "type": "string", "enum": ["certain", "probable", "possible", "uncertain"] },
+        "sources": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "Family": {
+      "type": "object",
+      "properties": {
+        "familyId": { "type": "string" },
+        "husband": { "type": "string" },
+        "wife": { "type": "string" },
+        "marriage": {
+          "type": "object",
+          "properties": {
+            "date": { "$ref": "#/$defs/DateField" },
+            "place": { "type": "string" },
+            "placeId": { "type": "string" },
+            "sources": { "type": "array", "items": { "type": "string" } }
+          }
+        },
+        "children": { "type": "array", "items": { "type": "string" } }
+      },
+      "required": ["familyId"]
+    },
+    "Place": {
+      "type": "object",
+      "properties": {
+        "placeId": { "type": "string" },
+        "name": { "type": "string" },
+        "type": { "type": "string" },
+        "parent": { "type": "string" },
+        "coordinates": {
+          "type": "object",
+          "properties": { "lat": { "type": "number" }, "lng": { "type": "number" } }
+        }
+      },
+      "required": ["placeId", "name"]
+    },
+    "Source": {
+      "type": "object",
+      "properties": {
+        "sourceId": { "type": "string" },
+        "title": { "type": "string" },
+        "abbreviation": { "type": "string" },
+        "type": { "type": "string" },
+        "author": { "type": "string" },
+        "publication": { "type": "string" },
+        "date": { "$ref": "#/$defs/DateField" },
+        "url": { "type": "string" },
+        "repository": { "type": "string" },
+        "callNumber": { "type": "string" }
+      },
+      "required": ["sourceId", "title", "type"]
+    }
+  }
+}

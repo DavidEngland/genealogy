@@ -11,9 +11,9 @@
  * a WikiTree searchPerson query.
  *
  * Usage:
- *   php wikitree_search_from_findagrave.php --source sources/Mark\ Lafayette\ White.md
- *   php wikitree_search_from_findagrave.php --source sources/Mark\ Lafayette\ White.md --limit 200 --verbose
- *   php wikitree_search_from_findagrave.php --source sources/Mark\ Lafayette\ White.md --out search-results/Mark-Lafayette-White.md
+ *   php scripts/wikitree_search_from_findagrave.php --source sources/Mark\ Lafayette\ White.md
+ *   php scripts/wikitree_search_from_findagrave.php --source sources/Mark\ Lafayette\ White.md --limit 200 --verbose
+ *   php scripts/scripts/wikitree_search_from_findagrave.php --source sources/Mark\ Lafayette\ White.md --out search-results/Mark-Lafayette-White.md
  *
  * @author David England
  * @date 2026-02-09
@@ -23,6 +23,10 @@ require_once __DIR__ . '/wikitree_api_client.php';
 
 $options = getopt('', [
     'source:',
+    'memorial:',
+    'url:',
+    'card-dir:',
+    'no-card',
     'limit:',
     'out:',
     'json:',
@@ -37,32 +41,38 @@ $options = getopt('', [
     'death-location:'
 ]);
 
-if (isset($options['help']) || empty($options['source'])) {
+if (isset($options['help']) || (empty($options['source']) && empty($options['memorial']) && empty($options['url']))) {
     showHelp();
     exit(0);
-}
-
-$sourcePath = $options['source'];
-if (!is_file($sourcePath)) {
-    fwrite(STDERR, "Error: Source file not found: {$sourcePath}\n");
-    exit(1);
 }
 
 $verbose = isset($options['verbose']);
 $limit = isset($options['limit']) ? max(1, (int)$options['limit']) : 100;
 $logFile = __DIR__ . '/../logs/wikitree_api_errors.log';
 $resultsDir = __DIR__ . '/../search-results';
+$cardDir = $options['card-dir'] ?? (__DIR__ . '/../cards/FaG');
+$writeCard = !isset($options['no-card']);
 
-$sourceText = file_get_contents($sourcePath);
-if ($sourceText === false || trim($sourceText) === '') {
-    fwrite(STDERR, "Error: Source file is empty or unreadable.\n");
-    exit(1);
-}
-
-$parsed = parseFindAGraveCitation($sourceText);
-if ($parsed === null) {
-    fwrite(STDERR, "Error: Unable to parse Find a Grave citation in source.\n");
-    exit(1);
+$sourcePath = $options['source'] ?? null;
+$sourceText = null;
+$parsed = null;
+if ($sourcePath) {
+    if (!is_file($sourcePath)) {
+        fwrite(STDERR, "Error: Source file not found: {$sourcePath}\n");
+        exit(1);
+    }
+    $sourceText = file_get_contents($sourcePath);
+    if ($sourceText === false || trim($sourceText) === '') {
+        fwrite(STDERR, "Error: Source file is empty or unreadable.\n");
+        exit(1);
+    }
+    $parsed = parseFindAGraveCitation($sourceText);
+    if ($parsed === null) {
+        fwrite(STDERR, "Error: Unable to parse Find a Grave citation in source.\n");
+        exit(1);
+    }
+} else {
+    $parsed = parseFromMemorialOrUrl($options['memorial'] ?? null, $options['url'] ?? null);
 }
 
 // Apply overrides from CLI
@@ -74,20 +84,21 @@ $parsed['DeathDate'] = $options['death-date'] ?? $parsed['DeathDate'];
 $parsed['BirthLocation'] = $options['birth-location'] ?? $parsed['BirthLocation'];
 $parsed['DeathLocation'] = $options['death-location'] ?? $parsed['DeathLocation'];
 
-$params = buildSearchParams($parsed, $limit);
-
-$api = new WikiTreeAPI($verbose, $logFile);
-$response = $api->searchPerson($params);
-if ($response === false) {
-    fwrite(STDERR, "Error: searchPerson failed\n");
+$hasName = trim(($parsed['FirstName'] ?? '') . ($parsed['LastName'] ?? '')) !== '';
+if (!$hasName) {
+    fwrite(STDERR, "Error: Missing name fields. Provide --source with a citation, or supply --first/--last.\n");
     exit(1);
 }
 
-$results = extractSearchResults($response);
+$api = new WikiTreeAPI($verbose, $logFile);
+[$response, $results, $attempts] = runSearchWithFallbacks($api, $parsed, $limit, $verbose);
 
 ensureDir($resultsDir);
+if ($writeCard) {
+    ensureDir($cardDir);
+}
 
-$base = pathinfo($sourcePath, PATHINFO_FILENAME);
+$base = $sourcePath ? pathinfo($sourcePath, PATHINFO_FILENAME) : buildMemorialBaseName($parsed);
 $defaultOut = "{$resultsDir}/{$base}-wikitree-search.md";
 $defaultJson = "{$resultsDir}/{$base}-wikitree-search.json";
 
@@ -99,7 +110,7 @@ file_put_contents($jsonPath, json_encode($response, JSON_PRETTY_PRINT | JSON_UNE
 $lines = [];
 $lines[] = "# WikiTree searchPerson from Find a Grave";
 $lines[] = "";
-$lines[] = "**Source**: {$sourcePath}";
+    $lines[] = "**Source**: " . ($sourcePath ?? '(memorial/url input)');
 $lines[] = "**Generated**: " . date('Y-m-d H:i:s');
 $lines[] = "";
 $lines[] = "## Parsed Find a Grave";
@@ -107,9 +118,12 @@ foreach (formatParsedSummary($parsed) as $line) {
     $lines[] = $line;
 }
 $lines[] = "";
-$lines[] = "## Search Parameters";
-foreach ($params as $key => $value) {
-    $lines[] = "* {$key}: {$value}";
+$lines[] = "## Search Parameters (Attempts)";
+foreach ($attempts as $i => $params) {
+    $lines[] = "* Attempt " . ($i + 1) . ":";
+    foreach ($params as $key => $value) {
+        $lines[] = "  - {$key}: {$value}";
+    }
 }
 $lines[] = "";
 $lines[] = "## Results";
@@ -128,6 +142,12 @@ file_put_contents($outPath, implode("\n", $lines) . "\n");
 echo "Saved results: {$outPath}\n";
 echo "Saved raw JSON: {$jsonPath}\n";
 
+if ($writeCard) {
+    $cardPath = buildCardPath($cardDir, $parsed, $base);
+    file_put_contents($cardPath, buildIndexCardMarkdown($parsed, $sourcePath));
+    echo "Saved index card: {$cardPath}\n";
+}
+
 function showHelp(): void {
     $help = <<<TXT
 WikiTree Search from Find a Grave Source
@@ -136,7 +156,11 @@ Usage:
   php wikitree_search_from_findagrave.php --source FILE [OPTIONS]
 
 Options:
-  --source FILE         Source markdown file containing Find a Grave citation (required)
+  --source FILE         Source markdown file containing Find a Grave citation
+  --memorial ID         Find a Grave Memorial ID (e.g., 73079429)
+  --url URL             Find a Grave memorial URL
+  --card-dir DIR        Output directory for index cards (default: cards/FaG)
+  --no-card             Skip writing the index card
   --limit N             Max results (default: 100)
   --out FILE            Output markdown file (default: search-results/{basename}-wikitree-search.md)
   --json FILE           Output JSON file (default: search-results/{basename}-wikitree-search.json)
@@ -151,6 +175,101 @@ Options:
   --help                Show this help
 TXT;
     echo $help . "\n";
+}
+
+function parseFromMemorialOrUrl(?string $memorialId, ?string $url): array {
+    $memorialId = $memorialId !== null ? trim($memorialId) : null;
+    $url = $url !== null ? trim($url) : null;
+
+    if ($url && preg_match('/findagrave\.com\/memorial\/(\d+)/i', $url, $m)) {
+        $memorialId = $memorialId ?? $m[1];
+    }
+
+    if ($memorialId && !$url) {
+        $url = "https://www.findagrave.com/memorial/{$memorialId}/";
+    }
+
+    return [
+        'Name' => null,
+        'FirstName' => null,
+        'MiddleName' => null,
+        'LastName' => null,
+        'BirthDate' => null,
+        'DeathDate' => null,
+        'BirthLocation' => null,
+        'DeathLocation' => null,
+        'Cemetery' => null,
+        'Location' => null,
+        'MemorialId' => $memorialId,
+        'Url' => $url,
+        'Accessed' => null,
+        'Maintainer' => null,
+        'ContributorId' => null,
+        'RawBirth' => null,
+        'RawDeath' => null
+    ];
+}
+
+function buildMemorialBaseName(array $parsed): string {
+    if (!empty($parsed['MemorialId'])) {
+        return 'FindAGrave-' . $parsed['MemorialId'];
+    }
+    return 'FindAGrave-search';
+}
+
+function buildCardPath(string $dir, array $parsed, string $fallbackBase): string {
+    $name = $parsed['Name'] ?? '';
+    $slug = slugify($name);
+    if ($slug === '') {
+        $slug = slugify($fallbackBase);
+    }
+    return rtrim($dir, '/') . '/' . $slug . '.md';
+}
+
+function slugify(string $text): string {
+    $text = trim($text);
+    if ($text === '') {
+        return '';
+    }
+    $text = preg_replace('/[^A-Za-z0-9]+/', '-', $text);
+    $text = trim($text, '-');
+    return $text;
+}
+
+function buildIndexCardMarkdown(array $parsed, ?string $sourcePath): string {
+    $lines = [];
+    $name = $parsed['Name'] ?? '';
+    $lines[] = "# {$name}";
+    $lines[] = "";
+    $lines[] = "## Index Card (4x5)";
+    $lines[] = "";
+    $lines[] = "* Birth: " . formatVital($parsed['BirthDate'] ?? '', $parsed['BirthLocation'] ?? '');
+    $lines[] = "* Death: " . formatVital($parsed['DeathDate'] ?? '', $parsed['DeathLocation'] ?? '');
+    if (!empty($parsed['Cemetery'])) {
+        $lines[] = "* Cemetery: " . $parsed['Cemetery'];
+    }
+    if (!empty($parsed['Location'])) {
+        $lines[] = "* Location: " . $parsed['Location'];
+    }
+    if (!empty($parsed['MemorialId'])) {
+        $lines[] = "* Find a Grave Memorial ID: " . $parsed['MemorialId'];
+    }
+    if (!empty($parsed['Url'])) {
+        $lines[] = "* Find a Grave URL: " . $parsed['Url'];
+    }
+    if (!empty($parsed['Accessed'])) {
+        $lines[] = "* Accessed: " . $parsed['Accessed'];
+    }
+    if (!empty($parsed['Maintainer'])) {
+        $lines[] = "* Maintainer: " . $parsed['Maintainer'];
+    }
+    if (!empty($parsed['ContributorId'])) {
+        $lines[] = "* Contributor ID: " . $parsed['ContributorId'];
+    }
+    if ($sourcePath) {
+        $lines[] = "* Source File: " . $sourcePath;
+    }
+    return implode("\n", $lines) . "\n";
 }
 
 function parseFindAGraveCitation(string $text): ?array {
@@ -323,6 +442,102 @@ function buildSearchParams(array $parsed, int $limit): array {
     return array_filter($params, function ($value) {
         return $value !== null && $value !== '';
     });
+}
+
+function runSearchWithFallbacks(WikiTreeAPI $api, array $parsed, int $limit, bool $verbose): array {
+    $attempts = buildSearchAttempts($parsed, $limit);
+    $allResults = [];
+    $firstResponse = null;
+
+    foreach ($attempts as $index => $params) {
+        if ($verbose) {
+            fwrite(STDERR, "[DEBUG] searchPerson attempt " . ($index + 1) . "\n");
+        }
+        $response = $api->searchPerson($params);
+        if ($response === false) {
+            fwrite(STDERR, "Error: searchPerson failed\n");
+            exit(1);
+        }
+        if ($firstResponse === null) {
+            $firstResponse = $response;
+        }
+        $results = extractSearchResults($response);
+        foreach ($results as $person) {
+            if (is_array($person)) {
+                $key = $person['Name'] ?? $person['WikiTreeId'] ?? $person['Id'] ?? null;
+                if ($key === null) {
+                    $allResults[] = $person;
+                } else {
+                    $allResults[$key] = $person;
+                }
+            }
+        }
+        if (!empty($allResults)) {
+            break;
+        }
+    }
+
+    if (is_array($allResults) && array_keys($allResults) !== range(0, count($allResults) - 1)) {
+        $allResults = array_values($allResults);
+    }
+
+    return [$firstResponse ?? [], $allResults, $attempts];
+}
+
+function buildSearchAttempts(array $parsed, int $limit): array {
+    $attempts = [];
+
+    $base = buildSearchParams($parsed, $limit);
+    if (!empty($base)) {
+        $attempts[] = $base;
+    }
+
+    $relaxed = $base;
+    unset($relaxed['MiddleName']);
+    if (!empty($relaxed)) {
+        $attempts[] = $relaxed;
+    }
+
+    $yearOnly = $base;
+    if (!empty($yearOnly['BirthDate'])) {
+        $year = substr($yearOnly['BirthDate'], 0, 4);
+        if (preg_match('/^\d{4}$/', $year)) {
+            $yearOnly['BirthDate'] = $year . '-00-00';
+        }
+    }
+    if (!empty($yearOnly['DeathDate'])) {
+        $year = substr($yearOnly['DeathDate'], 0, 4);
+        if (preg_match('/^\d{4}$/', $year)) {
+            $yearOnly['DeathDate'] = $year . '-00-00';
+        }
+    }
+    if (!empty($yearOnly)) {
+        $attempts[] = $yearOnly;
+    }
+
+    $nameOnly = [];
+    if (!empty($parsed['FirstName'])) {
+        $nameOnly['FirstName'] = $parsed['FirstName'];
+    }
+    if (!empty($parsed['LastName'])) {
+        $nameOnly['LastName'] = $parsed['LastName'];
+    }
+    if (!empty($nameOnly)) {
+        $nameOnly['limit'] = $limit;
+        $attempts[] = $nameOnly;
+    }
+
+    $locationOnly = $nameOnly;
+    if (!empty($parsed['BirthLocation'])) {
+        $locationOnly['BirthLocation'] = $parsed['BirthLocation'];
+    } elseif (!empty($parsed['DeathLocation'])) {
+        $locationOnly['DeathLocation'] = $parsed['DeathLocation'];
+    }
+    if (count($locationOnly) > count($nameOnly)) {
+        $attempts[] = $locationOnly;
+    }
+
+    return $attempts;
 }
 
 function extractSearchResults(array $response): array {
