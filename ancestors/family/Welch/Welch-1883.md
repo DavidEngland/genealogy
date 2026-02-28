@@ -74,7 +74,7 @@ The following Welch ancestors are documented through multiple sources:
 
 3. **Nicholas Welch** (c. 1738–1814)
    * Born: Lancaster County, Pennsylvania
-   * Spouse: Elizabeth E. Moore (1740–1799)
+   * Spouse: Elizabeth E. Moore (c. 1740–c. 1780-1782)
    * Children: Including Lewis Welch (b. 1780)
    * Military: Loyalist Major in Royal British Army, fought at Battle of Ramsour's Mill (June 20, 1780)
    * Death: Giles County, Tennessee, 1814
@@ -230,7 +230,7 @@ The Welch-Hargrove connection represents more than a simple marriage alliance—
 
 === Father: Lewis Welch (b. 1780) ===
 
-'''Lewis Welch''' was born in 1780 in North Carolina to '''Nicholas Welch''' (c. 1738–1814) and '''Elizabeth E. Moore''' (1740–1799). Lewis represented the migration of the Welch family from North Carolina into Kentucky during the early settlement period.
+'''Lewis Welch''' was born in 1780 in North Carolina to '''Nicholas Welch''' (c. 1738–1814) and '''Elizabeth E. Moore''' (c. 1740–c. 1780-1782). Lewis represented the migration of the Welch family from North Carolina into Kentucky during the early settlement period.
 
 === Mother: [Unknown] ===
 

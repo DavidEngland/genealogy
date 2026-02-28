@@ -25,7 +25,7 @@ His self-identification as an officer in "Hamilton's Regiment" is a significant 
 
 Family records are indispensable for building a complete biographical portrait, offering insights into personal relationships, lineage, and the domestic sphere that existed alongside public life. The available genealogical data outlines Nicholas Welch's documented marriages and the extensive family he raised, while also presenting a chronological puzzle requiring careful analysis.
 
-Records show that Nicholas Welch married Elizabeth E. Moore (1740-1799) in North Carolina in the year 1757. However, a separate entry from Philadelphia documents a marriage between a "Nicholas Welsh" and a Sarah Farren on December 26, 1794. This later marriage date precedes the documented death of his first wife, Elizabeth, by five years, creating a chronological discrepancy. Such inconsistencies are common in genealogical research and often point to complex life events that can only be clarified by later, corroborating evidence.
+Records show that Nicholas Welch married Elizabeth E. Moore (c. 1740-c. 1780-1782) in North Carolina in the year 1757. However, a separate entry from Philadelphia documents a marriage between a "Nicholas Welsh" and a Sarah Farren on December 26, 1794. Contemporary documentary evidence from the East Florida Claims Commission (1782) describes Nicholas arriving at St. Johns Town "as a widower with six children," definitively establishing that Elizabeth died between 1780-1782 during the family's forced exile. This resolves the earlier chronological puzzle and supports the three-marriages theory discussed by genealogist Connie Voss.
 
 From his marriage to Elizabeth E. Moore, Nicholas Welch had a large number of children, as documented in family records. His known children include:
 
@@ -50,7 +50,7 @@ From his marriage to Elizabeth E. Moore, Nicholas Welch had a large number of ch
 
 === Marriages and Family ===
 
-'''First Marriage:''' Nicholas Welch married '''Elizabeth E. Moore''' (1740–1799) in North Carolina in 1757.<ref>Ancestry.com. Global, Find a Grave Index for Burials at Sea and other Select Burial Locations, 1300s-Current; Memorial ID 234100609.</ref> They had at least seventeen children:
+'''First Marriage:''' Nicholas Welch married '''Elizabeth E. Moore''' (c. 1740–c. 1780-1782) in North Carolina in 1757.<ref>Ancestry.com. Global, Find a Grave Index for Burials at Sea and other Select Burial Locations, 1300s-Current; Memorial ID 234100609. Note: This source incorrectly lists death as "1799" but East Florida Claims Commission testimony from 1782 proves she died before that date.</ref> They had at least seventeen children:
 
 * [[Welch-8499|John Welch]] (b. 1758)
 * [[Welch-3467|William C. Welch]] (c. 1758/1760–1840), m. Elizabeth Jane Hembree; buried Savannah Cemetery, Hardin County, Tennessee
@@ -165,17 +165,169 @@ Collaboration with these individuals through the WikiTree messaging system is an
 
 === Research Notes ===
 
-'''Resolution of Conflicting Records:''' Earlier genealogical aggregations listed Welch's death in Rapides Parish, Louisiana, between 1810 and 1820. However, primary source evidence from both tax records and probate documents firmly establishes Giles County, Tennessee as his actual final residence and place of death. The apparent contradiction between his first and second marriages is resolved by the probate record, which identifies Sarah as his widow—confirming the 1794 Philadelphia marriage to Sarah Farren as his second marriage, which occurred after the documented death of his first wife, Elizabeth, in 1799.
+'''Resolution of Conflicting Records:''' Earlier genealogical aggregations listed Welch's death in Rapides Parish, Louisiana, between 1810 and 1820. However, primary source evidence from both tax records and probate documents firmly establishes Giles County, Tennessee as his actual final residence and place of death. The 1794 Philadelphia marriage to Sarah Farren occurred twelve years after Elizabeth's death (c. 1780-1782), with the St. Johns Town, East Florida Claims Commission testimony (1782) documenting Nicholas as "a widower with six children." This contemporary primary source definitively establishes Elizabeth died during the forced exile period, not in 1799 as some genealogical databases incorrectly state.
 
 '''Family Size and Naming Patterns:''' Nicholas Welch had between 17 and 21 children attributed to him and his wives. The recurrence of names such as John, Thomas, and Hester reflects common naming practices of the period, often related to infant mortality and the desire to preserve family names across generations.
 
 '''Frontier Mobility:''' The Welch family's movement from Pennsylvania to North Carolina to Kentucky and finally to Tennessee mirrors broader patterns of frontier migration documented in the Revolutionary and post-Revolutionary periods. The family's settlement in remote areas of the Tennessee River valley, combined with intermarriage with established frontier families like the Hargroves, illustrates how Loyalist and Patriot lineages became integrated in frontier communities.
 
+Conflicting dates
+
+John William Welch Sr. 1712-1769 had 2 sons Nicholas and Thomas. The 3rd child listed as John William Welch (1712-1769) is his record duplicated. This is incorrect. There may have been a 3rd son named John - but the wrong ID is used.
+Last Changed: October 1, 2023
+
+A
+April7099
+Father of Major Nicholas Welch
+
+I suggest researchers take note of the Memorials Mj Nicholas Welch made while in England with his son in 1785. He names his father (who is not John Welch) and that his family is living in Nassau, Bahamas.
+Last Changed: April 21, 2022
+
+C
+Carole Ingram
+Nicholas was administrator of his father
+
+Nicholas was administrator of his father's estate. He was a Loyalistduring the Revolutionary War.
+
+His wife, Sarah was appointed administratrix of his estate.
+
+TRYON COUNTY, NORTH CAROLINA MINUTES OF THE COURT OF PLEAS AND QUARTERSESSIONS 1769-1779
+
+October term 1772
+
+A Deed of Sale from Nicholas Welch to John Coster Dated the 24th Day ofOctober 1772 for 300 acres proved by Nicholas Warlock Evidence thereto.Let it be Registerd.
+
+TRYON COUNTY, NORTH CAROLINA MINUTES OF THE COURT OF PLEAS AND QUARTERSESSIONS 1769-1779
+
+April term 1774
+
+Nicholas Welch Ex'r of the Estate of John Welch produced to their CourtSixteen pounds Virginia Currency & four pounds proclamation moneybelonging to the s'd Estate which money Proves to be Counterfeit. It isordered that Nicholas
+Welch be allowed the said sum his Settlement with the court hereafterwhich said money was ord'd to be burnt which was done accordingly.
+
+TRYON COUNTY, NORTH CAROLINA MINUTES OF THE COURT OF PLEAS AND QUARTERSESSIONS 1769-1779
+
+April term 1774
+
+A Deed of Sale from Nicholas Welch & Elizabeth his Wife to James Lockhartfor ___
+
+acres of Land Dated the 30th Day of March 1774 acknowledged in OpenCourt. Ordered
+
+to be Registered.
+
+TRYON COUNTY, NORTH CAROLINA MINUTES OF THE COURT OF PLEAS AND QUARTER
+
+SESSIONS 1769-1779
+
+July term 1774
+
+Nicholas Welch Ex'r of the Last Will and Testament of John Welch Deceasedcame into
+
+open Court and made final Settlement of his Doings as Ex'r of the saidDeceaseds Estate
+
+and thereby it appears the sum of ?35 8 7 is due to him over & above whatthe sales of
+
+the said Estate Extended to as appears by accompt stated & settled andfiled this Term in
+
+this Office. It is therefore Ordered that the Land and plantation onwhich Margaret
+
+Whitley the Late Wife and Relict of John Welch Deceased now lives be soldby the said
+
+Nicholas Welch or his Order to pay off the said sum of ? 37 17 7 due tothe said Executor
+
+& that he return a further account of his proceedings on such sale forthe benefit of the
+
+said widow and orphans.
+
+TRYON COUNTY, NORTH CAROLINA MINUTES OF THE COURT OF PLEAS AND QUARTER
+
+SESSIONS 1769-1779
+
+October term 1774
+
+Pursuant to an order of Court at Last Term James Kerr Esq'r High Sheriffof Rowan
+
+County made return of the said order to this court for in these word, vizPursuant to the
+
+within order I have sold the land of John Welch at Ninety poundsproclamation money at
+
+Publick sale to Nicholas Welch being the highest bidder. James KerrSheriff. Ordered by
+
+the Court that the said order and return thereon be Registered.
+
+I don't know if this is for this Nicholas Welch or not, but I thoughtthat it was interesting:
+
+Welch, Nicholas: Acres: 374 Book: 5
+
+Survey Date: 6- 4-1783
+
+County: Lincoln
+
+WaterCourse: Sugar Cr:
+
+Reference: THE KENTUCKY LAND GRANTS,
+
+Volume 1, Part 1, CHAPTER II VIRGINIA GRANTS
+
+(1782-1792) THE COUNTIES OF KENTUCKY page 134
+
+Appears on the 1812 Tax List, Giles Co, TN
+
+1814-12-8
+
+Ordered letters of adm. of est. of Nicholas WELCH, dec'd, issue to SarahWELCH, she having qualified. GI Cty., TN Cty. Ct. Min., p 303.
+
+1814-12-8
+
+Sarah WELCH, adm. of est. of Nicholas WELCH, dec'd, returned an inventoryof estate. GI Cty., TN Cty. Ct. Min., p 304.
+
+1814-12-8
+
+Ordered sale issue to Sarah WELCH, adm. of Nicholas WELCH, dec'd, to sellarticles in inventory. GI Cty., TN Cty. Ct. Min., p 304
+
+1814-12-8
+
+Jeremiah PARKER, James GRAHAM and John HILLHOUSE appointed commissionersto allot to Sarah WELCH, widow of the late Nicholas WELCH, dec'dprovisions on hand sufficient for support of herself and family for oneyear from death of decedent. GI
+Cty., TN Cty. Ct. Min., p 308.
+
+1815-3-10
+
+The adm. of est. of Nicholas WELCH, dec'd, returned account of saoe ofsaid estate. GI Cty., TN Cty. Ct. Min., p 387
+MORE
+Last Changed: October 25, 2015
+
+M
+Meghan Young
+Most of Welch information comes from Mar
+
+Most of Welch information comes from Marcia McClure.
+
+6th Great Grandfather
+Last Changed: October 25, 2015
+
+M
+Melissa Bailey
+He resided in 1830 in Greenville Co., SC
+
+He resided in 1830 in Greenville Co., SC.
+Last Changed: August 26, 2013
+
+U
+UnknownMMMC-8MBY
+Welch information taken from Marcia McCl
+
+Welch information taken from Marcia McClure
+
+5th Great Grandfather
+Last Changed: August 26, 2013
+
+M
+Melissa Bailey
+
 Based on the sources, **Lewis Welch** was a central figure in the early settlement of **Perry County, Tennessee**, and served as a bridge between his father's Loyalist past and his descendants' integration into the American Republic.
 
 ### **Connection to Nicholas Welch**
 
-Lewis Welch was the **son of Major Nicholas Welch** (c. 1738–1814) and his second wife, **Elizabeth E. Moore** (1740–1799). His father was a prominent Loyalist officer who fought for the British at the Battle of Ramsour’s Mill. In contrast to his father’s British service, Lewis Welch is documented as a veteran of the **War of 1812**, fighting **for the United States**.
+Lewis Welch was the **son of Major Nicholas Welch** (c. 1738–1814) and his second wife, **Elizabeth E. Moore** (c. 1740–c. 1780-1782). His father was a prominent Loyalist officer who fought for the British at the Battle of Ramsour's Mill. In contrast to his father's British service, Lewis Welch is documented as a veteran of the **War of 1812**, fighting **for the United States**.
 
 ### **Presence in Perry County, Tennessee**
 

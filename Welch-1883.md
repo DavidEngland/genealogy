@@ -27,7 +27,7 @@ Elijah C. Welch died in 1867 in Hardin County, Tennessee, at age 57, during the 
 
 == Ancestry ==
 
-Elijah was the son of [[Welch-1890|Lewis Welch]] (b. 1780 in North Carolina), who migrated to Hopkins County, Kentucky, by 1810. Lewis was the son of [[Welch-185|Nicholas Welch]] (c. 1738–1814), a Loyalist Major in the Royal British Army during the American Revolution, and [[Moore-51757|Elizabeth E. Moore]] (1740–1799).
+Elijah was the son of [[Welch-1890|Lewis Welch]] (b. 1780 in North Carolina), who migrated to Hopkins County, Kentucky, by 1810. Lewis was the son of [[Welch-185|Nicholas Welch]] (c. 1738–1814), a Loyalist Major in the Royal British Army during the American Revolution, and [[Moore-51757|Elizabeth E. Moore]] (c. 1740–c. 1780-1782).
 
 The identity of Elijah's mother remains unknown. Researchers should examine Hopkins County, Kentucky vital records (1806–1820), land deeds, and church records for potential identification.
 

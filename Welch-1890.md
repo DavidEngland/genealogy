@@ -3,7 +3,7 @@
 
 == Biography ==
 
-'''Lewis Welch''' was born in 1780 in North Carolina to [[Welch-185|Nicholas Welch]] (c. 1738–1814) and [[Moore-51757|Elizabeth E. Moore]] (1740–1799). He served as a bridge between his father's Loyalist past and his descendants' integration into the American Republic, fighting for the United States in the War of 1812.
+'''Lewis Welch''' was born in 1780 in North Carolina to [[Welch-185|Nicholas Welch]] (c. 1738–1814) and [[Moore-51757|Elizabeth E. Moore]] (c. 1740–c. 1780-1782). He served as a bridge between his father's Loyalist past and his descendants' integration into the American Republic, fighting for the United States in the War of 1812.
 
 === Connection to Nicholas Welch ===
 
