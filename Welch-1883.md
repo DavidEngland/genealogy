@@ -1,7 +1,6 @@
 [[Category:Hopkins County, Kentucky]]
 [[Category:Hardin County, Tennessee]]
 [[Category:Farmers]]
-[[Category:Tennessee Settlers]]
 
 == Biography ==
 

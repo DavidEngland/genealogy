@@ -11,7 +11,7 @@
 
 ## ELEVATOR PITCH (30 seconds)
 
-Major Nicholas Welch chose the losing side in the American Revolution—and it cost him everything. Imprisoned, banished, his family stripped bare, he fled to Florida, then the Bahamas, then London to beg the King for compensation. Against all odds, he returned to America—the very nation he'd fought against—and rebuilt his life on the Tennessee frontier. This is the untold story of a Loyalist's journey from ruin to redemption, and a powerful reminder that American history has many sides.
+Major Nicholas Welch chose the losing side in the American Revolution—and it cost him everything. Imprisoned, banished, his family stripped bare, he fled to Florida, then the Bahamas, then London to beg the King for compensation. His service was so distinguished that **Lord Cornwallis himself—the British Commander who surrendered at Yorktown—testified on his behalf**. With just £448 (39% of his claim), Nicholas did the unthinkable: he returned to America—the very nation he'd fought against—and rebuilt his life on the Tennessee frontier. This is the untold story of a Loyalist's journey from ruin to redemption, and a powerful reminder that American history has many sides.
 
 ---
 
@@ -48,12 +48,15 @@ Major Nicholas Welch chose the losing side in the American Revolution—and it c
 
 ### What Makes This Book Unique
 
-1. **Single, Complete Narrative:** Follows one man birth to death
-2. **Geographic Breadth:** PA to NC to FL to Bahamas to London to SC to LA to TN
-3. **Primary Sources:** Nicholas's own 1786 Memorial, claims testimony
-4. **Redemption Arc:** Not just defeat, but return and reinvention
-5. **Family Story:** 16 children scattered across America
-6. **Accessible History:** Academic rigor, narrative appeal
+1. **Single, Complete Narrative:** Follows one man birth to death (1738-1814, 76 years)
+2. **Geographic Breadth:** PA → NC → FL → Bahamas → London → SC → LA → TN (5,000+ miles)
+3. **Primary Sources:** Nicholas's own 1786 Memorial with FIVE witness testimonies
+   - **LORD CORNWALLIS himself testified** - the British Commander-in-Chief
+   - Plus Lord Rawdon, Lt. Col. Hamilton (his CO), and two other officers
+   - This level of documentation is extraordinary for a Major-level officer
+4. **Redemption Arc:** Not just defeat, but return and reinvention as American citizen
+5. **Family Story:** 16+ children scattered across 10 states
+6. **Accessible History:** Academic rigor with narrative appeal (book club ready)
 
 ### Target Audience
 
@@ -508,11 +511,22 @@ Major Nicholas Welch chose the losing side in the American Revolution—and it c
 - Petition's conclusion:
   > "Half Pay... or some equivalent compensation, to enable him to return to his numerous & helpless family, who are now exposed to the greatest hardship, misery & want; without a dawn of hope for relief but from the Benevolence of His most Gracious Majesty and His Ministers."
 
-**Key Scene:** Nicholas in government office, presenting his Memorial, making his case
+**THE WITNESSES - This Changes Everything:**
+- Nicholas secured testimony from **FIVE British officers**:
+  1. **LORD CORNWALLIS** - Commander-in-Chief (surrendered at Yorktown!)
+  2. **LORD RAWDON** - Second-in-command, victor at Camden
+  3. **LT. COL. HAMILTON** - Nicholas's direct superior officer (most crucial)
+  4. **LT. COL. McARTHUR** - North Carolina operations
+  5. **LT. COL. BROWN** - possibly East Florida companion
+- This is EXTRAORDINARY - most claimants had 1-2 witnesses, rarely high-ranking
+- The British Commander-in-Chief testified on behalf of a Major-level officer
+- Five years after losing the war, these men vouched for Nicholas
 
-**Theme:** Formal justice, bureaucracy, a man vs. an empire
+**Key Scene:** Nicholas in government office, presenting his Memorial. Clerk reading aloud: "We have received testimony from Lord Cornwallis on your behalf..." Nicholas's disbelief that his commander-in-chief remembers him.
 
-**Sources:** Full text of Memorial at Royal Provincial website
+**Theme:** The power of reputation, the bonds forged in war transcend defeat
+
+**Sources:** Full text of Memorial at Royal Provincial website + 5 witness testimonies (clmwel2-6.htm)
 
 ---
 
@@ -1129,3 +1143,6 @@ Major Nicholas Welch chose the losing side in the American Revolution—and it c
 *Compiled by: David England*  
 *Date: February 28, 2026*  
 *For: [Publisher/Agent Name]*
+David Edward England, PhD
+<DavidEEngland@Outlook.com>
+ORCID: <https://orcid.org/0009-0001-2095-6646>

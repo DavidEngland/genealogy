@@ -1,0 +1,450 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Memorial of Nicholas Welsh, 1786</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=IM+Fell+English+SC&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --imperial-ink: #1a1412;
+            --burgundy: #6b1f2a;
+            --parchment: #f4eed4;
+            --aged-edge: #d9cca3;
+            --shadow: rgba(20, 12, 8, 0.45);
+            --seal-red: #8b1a1a;
+            --formal-serif: "EB Garamond", "Crimson Text", Georgia, serif;
+            --title-caps: "IM Fell English SC", serif;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            padding: 30px 15px;
+            background: linear-gradient(135deg, #2a2420 0%, #1a1612 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            color: var(--imperial-ink);
+        }
+
+        .petition-document {
+            max-width: 900px;
+            padding: 70px 90px 80px;
+            background-color: var(--parchment);
+            background-image:
+                url("https://www.transparenttextures.com/patterns/paper-fibers.png"),
+                radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0.3), rgba(0, 0, 0, 0.04));
+            color: var(--imperial-ink);
+            /* Irregular paper edge effect */
+            clip-path: polygon(
+                0% 1.5%, 1.8% 0%, 98.2% 0.8%, 100% 2.2%,
+                99% 97.5%, 98% 100%, 2% 99.5%, 0% 97.8%
+            );
+            box-shadow: 
+                12px 12px 35px var(--shadow),
+                inset 0 0 60px rgba(139, 26, 26, 0.03);
+            position: relative;
+            line-height: 1.65;
+            font-family: var(--formal-serif);
+            font-size: 1.15rem;
+            /* Subtle ink spread effect */
+            text-shadow: 0.3px 0.3px 0.8px rgba(26, 20, 18, 0.15);
+        }
+
+        /* Formal document border */
+        .petition-document::before {
+            content: "";
+            position: absolute;
+            inset: 28px;
+            border: 2px double rgba(107, 31, 42, 0.25);
+            border-radius: 2px;
+            pointer-events: none;
+        }
+
+        /* Georgian ornament top */
+        .petition-document::after {
+            content: "⚜";
+            position: absolute;
+            top: 38px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 1.3rem;
+            color: var(--burgundy);
+            opacity: 0.4;
+        }
+
+        /* Document Header */
+        .document-header {
+            text-align: center;
+            margin-bottom: 50px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid rgba(107, 31, 42, 0.2);
+        }
+
+        .document-title {
+            font-family: var(--title-caps);
+            font-size: 1.5rem;
+            letter-spacing: 0.08em;
+            margin: 12px 0 8px;
+            color: var(--burgundy);
+        }
+
+        .recipient {
+            font-family: var(--title-caps);
+            font-size: 1.1rem;
+            letter-spacing: 0.05em;
+            margin: 8px 0;
+            line-height: 1.5;
+        }
+
+        .salutation {
+            font-family: var(--formal-serif);
+            font-size: 1.25rem;
+            font-style: italic;
+            margin: 18px 0;
+            color: var(--imperial-ink);
+        }
+
+        /* Memorial body text */
+        .memorial-paragraph {
+            text-align: justify;
+            text-indent: 2.5em;
+            margin-bottom: 1.2rem;
+            hyphens: auto;
+        }
+
+        .memorial-paragraph:first-of-type {
+            text-indent: 0;
+        }
+
+        /* Emphasized terms */
+        strong {
+            font-weight: 600;
+            color: var(--burgundy);
+        }
+
+        /* Closing petition */
+        .prayer {
+            margin: 2rem 0 2.5rem;
+            text-align: justify;
+            font-style: italic;
+        }
+
+        /* Signature block */
+        .signature-block {
+            text-align: right;
+            margin: 2.5rem 0;
+            font-size: 1.2rem;
+        }
+
+        .signature-name {
+            font-family: var(--title-caps);
+            font-size: 1.3rem;
+            letter-spacing: 0.1em;
+            margin: 8px 0;
+            color: var(--imperial-ink);
+        }
+
+        .signature-location,
+        .signature-date {
+            font-size: 1.05rem;
+            margin: 4px 0;
+            font-style: italic;
+        }
+
+        /* Archive reference */
+        .archive-reference {
+            text-align: center;
+            font-size: 0.9rem;
+            font-style: italic;
+            color: #665544;
+            margin: 2rem 0;
+            padding: 12px;
+            background: rgba(139, 26, 26, 0.04);
+            border-radius: 3px;
+        }
+
+        /* Section dividers */
+        .section-divider {
+            text-align: center;
+            margin: 3rem 0;
+            color: var(--burgundy);
+            opacity: 0.5;
+            font-size: 1.2rem;
+            letter-spacing: 0.5em;
+        }
+
+        /* Witness testimonies */
+        .witness-section {
+            margin: 4rem 0 3rem;
+        }
+
+        .witness-header {
+            font-family: var(--title-caps);
+            font-size: 1.35rem;
+            letter-spacing: 0.08em;
+            text-align: center;
+            color: var(--burgundy);
+            margin: 3rem 0 2.5rem;
+            padding-bottom: 12px;
+            border-bottom: 1px solid rgba(107, 31, 42, 0.2);
+        }
+
+        .witness-testimony {
+            margin: 2.5rem 0;
+            padding: 25px 30px;
+            background: rgba(255, 255, 255, 0.3);
+            border-left: 3px solid var(--burgundy);
+            border-radius: 2px;
+        }
+
+        .witness-location {
+            font-family: var(--title-caps);
+            font-size: 1rem;
+            letter-spacing: 0.05em;
+            margin-bottom: 5px;
+            color: var(--burgundy);
+        }
+
+        .witness-date {
+            font-size: 0.95rem;
+            font-style: italic;
+            margin-bottom: 15px;
+            color: #554433;
+        }
+
+        .witness-text {
+            text-align: justify;
+            line-height: 1.7;
+            margin: 15px 0;
+        }
+
+        .witness-signature {
+            text-align: right;
+            margin-top: 18px;
+            font-family: var(--title-caps);
+            font-size: 1.15rem;
+            letter-spacing: 0.08em;
+        }
+
+        .witness-title {
+            font-size: 0.9rem;
+            font-style: italic;
+            color: #665544;
+        }
+
+        /* Context notes */
+        .context-note {
+            font-size: 0.9rem;
+            font-style: italic;
+            color: #665544;
+            margin-top: 12px;
+            padding: 10px 15px;
+            background: rgba(107, 31, 42, 0.05);
+            border-radius: 3px;
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 768px) {
+            .petition-document {
+                padding: 40px 30px 50px;
+                font-size: 1rem;
+            }
+
+            .document-title {
+                font-size: 1.2rem;
+            }
+
+            .recipient {
+                font-size: 0.95rem;
+            }
+
+            .witness-testimony {
+                padding: 18px 20px;
+            }
+        }
+
+        @media print {
+            body {
+                background: white;
+                padding: 0;
+            }
+
+            .petition-document {
+                box-shadow: none;
+                max-width: 100%;
+                page-break-inside: avoid;
+            }
+
+            .witness-testimony {
+                page-break-inside: avoid;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<article class="petition-document">
+
+    <!-- Document Header -->
+    <header class="document-header">
+        <div class="recipient">
+            To the Right Honorable the Lords Commissioners of<br>
+            His Majesty's Treasury
+        </div>
+        <h1 class="document-title">The Memorial of Nicholas Welsh</h1>
+        <p class="salutation">Humbly Sheweth</p>
+    </header>
+
+    <!-- Memorial Body -->
+    <section class="memorial-body">
+        <p class="memorial-paragraph">
+            That Your Memorialist was an inhabitant of <strong>Tryon County, North Carolina</strong> for above <strong>thirty years</strong> before the Rebellion in that Country.
+        </p>
+
+        <p class="memorial-paragraph">
+            That soon after the commencement of the dissentions in America, Your Memorialist, on account of his <strong>Loyalty to the King</strong>, & attachment to the British Government, was <strong>twice arrested & imprisoned</strong>, under the Charge of <strong>Treason against the State</strong>; from which he was released by the interposition of Attornies at Law, employed at the great expence of <strong>One hundred & fifty pounds</strong>.
+        </p>
+
+        <p class="memorial-paragraph">
+            That Your Memorialist finding he could no longer remain in that Country without being obliged to take Arms against the King, determined to join the British army; and hearing of the expedition against Georgia, Your Memorialist assembled the <strong>Loyalists in his neighbourhood</strong>, & accompanied by <strong>270 men</strong> left his family & all his property, and set out for that Province;
+        </p>
+
+        <p class="memorial-paragraph">
+            That they were <strong>pursued by the Rebels & three times attacked on the march</strong>: above <strong>fifty of the men being Killed or Wounded</strong>, some taken prisoners, and others declining the enterprize, Your Memorialist, with <strong>Ninety men</strong>, joined the army under Command of <strong>Colonel Archibald Campbell</strong> at <strong>Briar Creek in Georgia in February 1779</strong>.
+        </p>
+
+        <p class="memorial-paragraph">
+            That Your Memorialist was immediately appointed <strong>Major of the Royal North Carolina Regiment</strong> under <strong>Colonel John Hamilton</strong>, and the said ninety men were all Inlisted, & served in the said Regiment; And Your Memorialist was often <strong>exposed to eminent danger</strong> by venturing, privately into the enemy's Country to encourage the Loyalists to join the army: by which means a considerable number of men were Inlisted in the said Regiment, and otherwise employed in His Majesty's Service.
+        </p>
+
+        <p class="memorial-paragraph">
+            That immediately after the defeat of <strong>Colonel Ferguson at King's Mountain in October 1780</strong>, Your Memorialists family (his <strong>Wife & nine Children</strong>) were <strong>Banished</strong> that Province, & sent to Georgia by the Rebels, who <strong>seized all the Property</strong> Your Memorialist had left there, including <strong>two valuable Negro Slaves</strong>, and stript the family of every thing they had, except only a small part of their wearing apparel.
+        </p>
+
+        <p class="memorial-paragraph">
+            That Your Memorialist, hearing of the distressed situation of his family in Georgia, was obliged to leave the Regiment at <strong>Wilmington, North Carolina in May 1781</strong>; and not being possessed, at that time, of any thing equal to their Relief & Support, determined to raise what he could upon his said Commission, which he was permitted to <strong>resign to Major Daniel Manson for the trifling Sum of £150</strong>. Since which time he has received <strong>no pay, or allowance whatever from Government</strong>, except Provisions as a Refugee.
+        </p>
+
+        <p class="memorial-paragraph">
+            That Your Memorialist from that time resided with his family, within the Lines of the British Army, in Georgia until it was abandoned, then in <strong>East Florida 'till 1784</strong>, when he removed to <strong>New Providence</strong>, where his family now are, in very great distress. His Children dispersed, during this his absence, among such families as could be prevailed on to take them in.
+        </p>
+
+        <p class="memorial-paragraph">
+            That Your Memorialist being obliged by the distresses of his numerous family to relinquish his Majority as aforesaid, was of course <strong>not Returned on the Provincial Half Pay List</strong>: Yet humbly hopes that upon examination it will appear that his <strong>constant Loyalty, long Sufferings, and faithful Services</strong> may justly intitle him to <strong>His Majesty's allowance of Half Pay</strong> (deducting the £150. received from Major Manson) or some equivalent compensation, to enable him to return to his numerous & helpless family, who are now exposed to the <strong>greatest hardship, misery & want</strong>; without a dawn of hope for relief but from the Benevolence of His most Gracious Majesty and His Ministers.
+        </p>
+
+        <p class="prayer">
+            Your Memorialist therefore humbly begs Your Lordships will be pleased to take the same into Your consideration and Grant him such Relief as may appear Just and Reasonable: Or that Your Lordships will be pleased to Appoint a Board of Field Officers of His Majesty's Army to enquire into the merits of his case, and to Report the same to Your Lordships. <strong>And Your Memorialist will ever pray &c &c &c</strong>
+        </p>
+    </section>
+
+    <!-- Signature -->
+    <div class="signature-block">
+        <div class="signature-name">Nicholas Welsh</div>
+        <div class="signature-location">London</div>
+        <div class="signature-date">20th March 1786</div>
+    </div>
+
+    <!-- Archive Reference -->
+    <div class="archive-reference">
+        Great Britain, Public Record Office, Treasury, Class I, Volume 629, folios 391-392
+    </div>
+
+    <div class="section-divider">⚜ ⚜ ⚜</div>
+
+    <!-- Witness Testimonies -->
+    <section class="witness-section">
+        <h2 class="witness-header">Witness Testimonies</h2>
+
+        <!-- McArthur -->
+        <article class="witness-testimony">
+            <div class="witness-location">Nassau, New Providence, Bahama Islands</div>
+            <div class="witness-date">September 29th, 1785</div>
+            <p class="witness-text">
+                I do hereby certify that Mr. Nicholas Welsh served as <strong>Major in the Royal North Carolina Regiment</strong> during some part of the war, and that he hath, for these <strong>last three years, constantly resided in East Florida or the Bahama Islands</strong>.
+            </p>
+            <div class="witness-signature">
+                <div>Archd. McArthur</div>
+                <div class="witness-title">Brigadr. Genl. Commandg. In the Bahama Islands</div>
+            </div>
+            <div class="context-note">
+                McArthur wrote this testimony while Welsh was still in Nassau, eight months before the Memorial was filed in London.
+            </div>
+        </article>
+
+        <!-- Hamilton -->
+        <article class="witness-testimony">
+            <div class="witness-location">London</div>
+            <div class="witness-date">February 21st, 1786</div>
+            <p class="witness-text">
+                I do hereby certify that having <strong>carefully perused the preceeding Memorial</strong>, I have found the circumstances therein recited to be <strong>perfectly true</strong>, as the Conduct of Mr. Welsh came under my immediate Cognizance from the Month of <strong>February 1779</strong>, until the period of Selling his Commission of Major in the Regiment which I had the honor to Command; which to my certain knowledge was from the <strong>laudable motive of relieving his family</strong> which was reduced to very exigent & distressing circumstances; And at the time of his being incited to that measure, <strong>no Idea or hope was entertained that the Provincials would receive Half pay</strong>: Wherefore, and from an entire conviction & belief of Mr Welsh having been actuated by the motives assigned, and from a perfect knowledge of his <strong>Zealous & faithful Services & extreme Sufferings</strong>, I do <strong>most humbly, & most earnestly Recommend him to the particular notice & favor of Government</strong>.
+            </p>
+            <div class="witness-signature">
+                <div>Jno. Hamilton, Commt.</div>
+                <div class="witness-title">late Ro. No. Car Regimt.</div>
+            </div>
+            <div class="context-note">
+                Hamilton was Welsh's direct commanding officer throughout the war. This is the most detailed testimony, written one month before the Memorial was filed.
+            </div>
+        </article>
+
+        <!-- Cornwallis -->
+        <article class="witness-testimony">
+            <div class="witness-location">Mansfield Street, London</div>
+            <div class="witness-date">March 16th, 1786</div>
+            <p class="witness-text">
+                I certify that Mr. Nicholas Welsh late Major of Col: Hamilton's Regt. was an <strong>Active & Zealous loyalist</strong> and I think his <strong>fidelity & Sufferings entitle him to some Attention from Government</strong>.
+            </p>
+            <div class="witness-signature">
+                <div>Cornwallis</div>
+            </div>
+            <div class="context-note">
+                Written just four days before the Memorial was filed. Lord Cornwallis, British Commander-in-Chief in America who surrendered at Yorktown (1781), rarely testified for Provincial officers. His willingness to do so demonstrates Welsh's reputation transcended the defeat.
+            </div>
+        </article>
+
+        <!-- Rawdon -->
+        <article class="witness-testimony">
+            <div class="witness-location">Location not specified</div>
+            <div class="witness-date">Date not specified</div>
+            <p class="witness-text">
+                Mr. Nicholas Welsh served with the Army in <strong>North & South Carolina</strong>, and I have reason to believe, <strong>lost all his property by that Conduct</strong>.
+            </p>
+            <div class="witness-signature">
+                <div>Rawdon</div>
+            </div>
+            <div class="context-note">
+                Lord Rawdon, second-in-command to Cornwallis and victor at the Battle of Camden (1780), confirms Welsh's service and property losses.
+            </div>
+        </article>
+
+        <!-- Brown -->
+        <article class="witness-testimony">
+            <div class="witness-location">Location not specified</div>
+            <div class="witness-date">Date not specified</div>
+            <p class="witness-text">
+                I do hereby certify that the bearer Major Nicholas Welsh served in the Regiment of North Carolina under the command of Lt: Col: Hamilton, & in consequence of his <strong>loyalty & Services lost his Possessions</strong>, and has Subjected himself & a <strong>large family to the greatest distress</strong>.
+            </p>
+            <div class="witness-signature">
+                <div>Thos. Brown</div>
+                <div class="witness-title">late Lt. Col: Commandt. King's Rangers</div>
+            </div>
+            <div class="context-note">
+                Thomas Brown commanded the King's Rangers (East Florida Rangers) and likely knew Welsh during his time in East Florida, 1781-1784.
+            </div>
+        </article>
+
+    </section>
+
+</article>
+
+</body>
+</html>

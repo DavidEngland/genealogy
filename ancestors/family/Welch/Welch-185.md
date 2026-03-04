@@ -218,11 +218,37 @@ The identity of "Sarah Welch" who administered Nicholas's estate in 1814 remains
 
 === Primary Sources ===
 
+==== North Carolina Records (1769–1796) ====
+
+* "Lincoln Co., NC Grantor Records 1769–1907," database, FamilySearch, [https://familysearch.org/ark:/61903/3:1:3QS7-L983-DJWT?view=explore&groupId=TH-1951-37002-15789-88 FamilySearch], (accessed 14 Jan 2025). '''Lincoln County, NC Grantor Index: Welch.''' Letters testamentary for estate of John Welch (Nicholas's father).
+
+* "Lincoln County, NC Real Estate Conveyance Records 1793–1800," database, FamilySearch, [https://familysearch.org/ark:/61903/3:1:3QS7-998W-3WK4?view=explore&groupId=TH-1961-37083-2255-71 FamilySearch], (accessed 14 Jan 2025). '''January 1796 Deed from William, Nicholas and Thomas Welch living in the county of Pendleton, South Carolina to George Whitley of Lincoln, North Carolina.''' A certain tract of land laying in Lincoln County being part of a tract of land granted to John Welch.
+
+==== Federal Census Records ====
+
+* "United States Census, 1790," database, FamilySearch, [https://familysearch.org/ark:/61903/1:1:XHKJ-ZHV FamilySearch], (accessed 7 Aug 2022). Entry for Nicholas Welch, 1790.
+
+* "United States Census, 1800," database, FamilySearch, [https://familysearch.org/ark:/61903/1:1:XHR4-YXT FamilySearch], (accessed 7 Aug 2022). Entry for Nicholas Welch, 1800.
+
+==== Tennessee Records (1812–1815) ====
+
+* "Tennessee, Early Tax List Records, 1783-1895," database, Ancestry.com, [https://search.ancestry.com/cgi-bin/sse.dll?indiv=1&dbid=2883&h=18704 Ancestry], (accessed 18 Dec 2019). '''Name: Nicholas Welch; Year: 1812; Residence: Giles, Tennessee.''' Early Tax Lists of Tennessee. Microfilm, 12 rolls. The Tennessee State Library and Archives, Nashville, Tennessee.
+
+* "Giles County Court Minutes November 1813–December 1816," database, FamilySearch, [https://familysearch.org/ark:/61903/3:1:3QS7-99PS-K24Z?view=fullText&keywords=Nicholas+Welch&groupId=M9J2-1ZS FamilySearch], (accessed 31 Jan 2025). '''June 1814: Porter Spence Plt vs Nicholas Welch In Debt.'''
+
+* "Giles County Court Minutes November 1813–December 1816," database, FamilySearch, [https://familysearch.org/ark:/61903/3:1:3QS7-99PS-K29V?view=fullText&keywords=Nicholas+Welch%2CTennessee&groupId=M9J2-1ZS FamilySearch], (accessed 31 Jan 2025). '''December 1814: Sarah Welch administratrix of Nicholas Welch, deceased returned an inventory of said estate which was ordered recorded.'''
+
+* "Giles County Court Minutes November 1813–December 1816," database, FamilySearch, [https://familysearch.org/ark:/61903/3:1:3QS7-99PS-K29Z?view=fullText&keywords=Nicholas+Welch&groupId=M9J2-1ZS FamilySearch], (accessed 31 Jan 2025). '''March 1815: The Administratrix of Nicholas Welch is Returned an account of the sale of said Estate which is received and order to be recorded.'''
+
 * Tennessee Genealogical Records Repository, Giles County, TN Miscellaneous Genealogical Notes, 1814-12-8 (estate administration for Nicholas Welch)
 
-* Giles County, Tennessee, 1812 Tax Lists, Nos. 162-328, entry 0270 for Nicholas Welch
+==== Revolutionary War Service ====
 
 * "Sketches of Western North Carolina Illustrating Principally the Revolutionary Period of Mecklenburg, Rowan, Lincoln and Adjoining Counties" [database on-line], account of Nicholas Welch at Battle of Ramsour's Mill
+
+* '''Memorial of Nicholas Welsh to the Lords Commissioners of His Majesty's Treasury, 20 March 1786.''' Great Britain, Public Record Office, Treasury, Class I, Volume 629, folios 391-392. [http://www.royalprovincial.com/Military/mems/nc/clmwel.htm Royal Provincial Corps - Loyalist Journal]. Full text transcription with five witness testimonies from Lord Cornwallis, Lord Rawdon, Lt. Col. Hamilton, Lt. Col. McArthur, and Lt. Col. Brown.
+
+==== East Florida Records (1782–1784) ====
 
 * '''East Florida Claims Commission testimony''' regarding St. Johns Town residents, including Nicholas Welsh (spelling variant). Cited in University of Florida, Florida History Online, "St. Johns Town" article. Posted 06 Sep 2013 by MelaneyWelch. (Full URL to be located)
 
