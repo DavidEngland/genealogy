@@ -9,6 +9,8 @@
 
 === Early Life and Family ===
 
+Brown Parish was the son of '''William Brown Parish''' (also known as W. B. Parrish), a prominent Wayne County, Tennessee administrator. His father served as court-appointed Guardian for the minor heirs of Isaac Parrish (James, John, and Mary Jane) in March 1859, demonstrating the family's standing among Wayne County's administrative stalwarts alongside Magistrate John Martin Scott and Administrator James Allen Lawson.<ref name="guardian">Wayne County, Tennessee, "County Court Clerk - Settlements, Guardians' and Administrators'," Vol. 1854–1861, page 106. Settlement of W. B. Parrish, Guardian for the heirs of Isaac Parish, filed 7 March 1859. Digital Image: FamilySearch Image Group 004776155, Image 346 of 576.</ref> Legal filings document the elder William Brown Parish's close financial connections to the Olive family (Richard and Sarah Olive), suggesting a kinship network extending from Wake County, North Carolina, into Middle Tennessee and eventually Lauderdale County, Alabama.
+
 Brown Parish married '''[[Parish-371 | Rachael Emily Haddock]]''' (1838–1908), daughter of **War of 1812 veteran James Haddock Jr.** Their union connected the **Parish** and **Haddock** families, cornerstone settlers of **Wayne County, Tennessee**, and **Lauderdale County, Alabama**.<ref>Conversation History; Family records</ref>
 
 Rachael made significant community contributions, notably donating the land on which **New Hope Church of Christ** was established.<ref>Gresham, Virgil L. ''A Family Named Gresham''. Hutchinson, Kansas, 1976-1977, pp. 28, 48.</ref>

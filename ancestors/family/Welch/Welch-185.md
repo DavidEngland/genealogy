@@ -17,7 +17,7 @@ The American Revolution was more than a war for independence; it was a bitter ci
 
 Born around 1738-1740 in Lancaster County, Pennsylvania, Nicholas Welch was the son of John Welch and Elizabeth Whiteside, part of the great wave of Scotch-Irish Presbyterian immigration that transformed the Appalachian frontier. Following his mother's death when he was only four years old, Nicholas was raised in a world that valued fortitude and self-reliance. By the 1760s, he had followed the migratory current of the Great Wagon Road southward, establishing himself as a landowner in Tryon County, North Carolina (later Lincoln County). His standing in the community was formally recognized in 1769 when he was granted letters testamentary to administer the estate of his late father, John.
 
-Around 1757, Nicholas married '''[[Moore-51757|Elizabeth E. Moore]]''' (1740–1799), daughter of a Virginia planter, traditionally identified as [[Moore-1641|John William Moore]] of New Kent and Hanover Counties. While genealogical records lack a definitive primary source for this connection, the union undoubtedly anchored him to the Southern gentry and produced a large family. Through land, marriage, and family, Welch had become a man of considerable substance, deeply rooted in the Carolina soil.
+Around 1757, Nicholas married '''[[Moore-51757|Elizabeth E. Moore]]''' (c. 1740–c. 1780-1782), daughter of a Virginia planter, traditionally identified as [[Moore-1641|John William Moore]] of New Kent and Hanover Counties (though see Research Notes below for alternative parentage theories). While genealogical records lack a definitive primary source for this connection, the union undoubtedly anchored him to the Southern gentry and produced a large family. Through land, marriage, and family, Welch had become a man of considerable substance, deeply rooted in the Carolina soil.
 
 === Allegiance to the Crown: A Loyalist in the American Revolution ===
 
@@ -57,6 +57,30 @@ In his 1786 Memorial, Welch detailed the severe repercussions his family faced f
 
 Upon hearing of his family's "distressed situation," Welch felt compelled to prioritize their survival over his military duties. He left his regiment at Wilmington in May 1781 and, lacking any other means to support them, resigned his commission for the "trifling Sum of £150." For the remainder of the war, he and his family lived as refugees within British lines, moving from Georgia to East Florida (until 1784), and finally to New Providence in the Bahamas. Their life was one of constant uncertainty and hardship, dependent on government provisions for survival.
 
+==== St. Johns Town, East Florida (1782–1784) ====
+
+By 1782, Nicholas Welch had relocated to '''St. Johns Town''' (also known as '''Hester's Bluff''') on the St. Johns River in East Florida, joining thousands of Loyalist refugees evacuated from Savannah and Charleston. This brief but significant settlement became the second most populous town in the province almost overnight, as developer '''Thomas Williamson''' platted 230 residential and commercial lots to accommodate the influx of displaced Loyalists.<ref>University of Florida, Florida History Online, "St. Johns Town" (accessed via MelaneyWelch posting, 06 Sep 2013)</ref>
+
+According to testimony given to the East Florida Claims Commission, '''Nicholas Welsh''' (spelling variant) arrived at St. Johns Town '''as a widower with six children'''. This crucial detail indicates that his wife Elizabeth had died sometime between the Battle of Ramsour's Mill (June 1780) and his arrival in Florida (1782), likely during the chaotic exile from North Carolina or Georgia.
+
+The Claims Commission records document Welch's holdings in East Florida:
+
+* A house in St. Johns Town
+* Nine enslaved laborers
+* A lot with a warehouse
+* Tools and cattle for agricultural operations
+* A '''500-acre land grant from Governor Patrick Tonyn'''
+
+The description of Welch as a "planter originally from New York" appears to be an error in the testimony; his documented origins were in Pennsylvania and North Carolina. The confusion may have arisen from his military service or temporary residence during his Loyalist activities.
+
+'''St. Johns Town's Brief Existence:'''
+
+The flourishing settlement was short-lived. When Britain ceded East Florida to Spain in 1783, the Loyalist refugees faced yet another displacement. '''John Russell''', a fellow resident, testified that:
+
+> "the Town was in a very flourishing way, convenient for trade, and, from the extent of the river traffic must have become a Town of great consequence to the Country in a short time."
+
+Developer Thomas Williamson dismantled his personal dwelling, loaded it on barges, and shipped it to Jamaica in 1784, calling the sale price of £172 "the sole satisfaction or compensation" for his losses. Nicholas Welch, like most St. Johns Town residents, relocated to the Bahamas in 1784.
+
 === A Plea to the Crown: The Memorial of 1786 ===
 
 From his refuge in the Bahamas, Nicholas Welch undertook one last mission on behalf of his family: a journey to London to petition the Crown for compensation. His 1786 Memorial to the Lords Commissioners of His Majesty's Treasury is a carefully constructed narrative of victimhood, a formal yet desperate appeal from a ruined subject. In it, he meticulously outlines his unwavering loyalty, his active military service, and the immense suffering both he and his family endured.
@@ -93,7 +117,7 @@ The Welch family's journey—from Royalist Major to patriotic American soldiers 
 
 === Marriage and Family ===
 
-Nicholas married '''[[Moore-51757|Elizabeth E. Moore]]''' (1740–1799) around 1757 in North Carolina. Their children included:
+Nicholas married '''[[Moore-51757|Elizabeth E. Moore]]''' (c. 1740–c. 1780-1782) around 1757 in North Carolina. Their children included:
 
 * [[Welch-8499|John Welch]] (b. 1758)
 * [[Welch-3467|William C. Welch]] (b. c. 1758)
@@ -115,7 +139,7 @@ Through Lewis Welch, Nicholas became the great-grandfather of [[Welch-1883|Elija
 The documented lineage from Nicholas Welch to Serena Welch is:
 
 '''Nicholas Welch''' (c. 1738–1814)<br/>
-∧ married [[Moore-51757|Elizabeth E. Moore]] (1740–1799)
+∧ married [[Moore-51757|Elizabeth E. Moore]] (c. 1740–c. 1780-1782)
 
 → '''[[Welch-1890|Lewis Welch]]''' (1780–unknown)<br/>
 ∧ married Unknown (identity remains research gap)
@@ -130,13 +154,47 @@ Through this lineage, Nicholas's Loyalist service connects to the Patriot [[Harg
 
 == Research Notes ==
 
+=== Three Marriages Theory ===
+
+Evidence suggests Nicholas Welch may have been married '''three times''', not twice as commonly documented:
+
+'''Wife #1 (Unknown):''' Historical researcher Connie Voss, citing compiled genealogical sources, indicates Nicholas's "first wife is unknown." This would have occurred before 1757 and may explain some of the chronological puzzles in the family record.
+
+'''Alternative Theory - Two Elizabeths, Both Moores:''' 
+Some genealogists propose Nicholas may have married '''two different women both named Elizabeth Moore''':
+* '''Elizabeth Moore #1''' (unknown-c. 1757?) - Possible first wife, mother of earliest children (John b. 1758, William b. 1758-1760)
+* '''Elizabeth E. Moore #2''' (c. 1740-c. 1780-1782) - Married 1757, mother of children born 1761-1780
+
+'''Evidence for Two Elizabeths:'''
+* Naming patterns: Eldest son '''John Welch''' (b. 1758) vs. second '''John Welsh''' (b. 1769) - suggests first John died, or different mothers
+* Geographic discrepancies: Some records place early births in different locations
+* Moore family connections: Multiple Elizabeth Moores documented in Lincoln County, NC Moore families
+* '''DNA testing could resolve this''' - descendants of early children vs. later children would match different Moore family lines if mothers were different
+
+'''Wife #2 or #3: [[Moore-51757|Elizabeth E. Moore]]''' (c. 1740–c. 1780-1782), married 1757 in North Carolina. The '''St. Johns Town, East Florida''' Claims Commission testimony (1782) describes '''Nicholas Welsh''' arriving at the settlement "'''as a widower with six children'''." This is the most significant documentary evidence indicating Elizabeth died between the Battle of Ramsour's Mill (June 1780) and the family's arrival in East Florida (1782).
+
+* '''Find A Grave Memorial 234100609''' lists her death as "1799 in Giles County, Tennessee," but this appears to be an error that has propagated through online genealogical databases.
+* The "widower" testimony from 1782 definitively places her death before that date.
+* Elizabeth was the mother of most of Nicholas's documented children born between 1758-1780.
+
+'''Wife #3 or #4: Sarah Farren''', married 26 December 1794 in Philadelphia, Pennsylvania.<ref>Pennsylvania, U.S., Compiled Marriage Records, 1700-1821</ref> The Giles County, Tennessee probate records (8 December 1814) identify "'''Sarah WELCH, widow of the late Nicholas WELCH'''" as the administratrix of his estate, confirming she survived him. Connie Voss notes this marriage occurred "in Giles Co., Tennessee after 1810," but the Philadelphia marriage record predates this by 16 years, suggesting the couple may have married in Philadelphia before relocating to Tennessee.
+
+'''The Sarah Confusion:'''
+The identity of "Sarah Welch" who administered Nicholas's estate in 1814 remains ambiguous:
+* '''Option A:''' Sarah Farren (3rd/4th wife) - Probate explicitly calls her "widow"
+* '''Option B:''' [[Welch-8497|Sarah Welch]] (daughter, b. 1766) - Could have administered as daughter while stepmother Sarah was elderly/incapacitated
+* '''Option C:''' Same person - Was Sarah Farren's full name "Sarah Elizabeth Farren"? Did she use "Sarah Welch" as daughter after becoming widow?
+
+'''DNA Resolution Strategy:''' See [[DNA-RESEARCH-STRATEGY.md]] for comprehensive plan to resolve these marriage questions through genetic genealogy.
+
 === Unresolved Questions ===
 
-1. **Exact birth date and location** — Only "c. 1738, Lancaster County, Pennsylvania" is documented
-2. **Military unit details** — "Hamilton's Regiment" mentioned in period accounts, but specific service records not located
-3. **Death location discrepancy** — Some sources list "Rapides Parish, Louisiana" but Giles County, Tennessee is far more likely given the 1812 tax list and 1814 probate records
-4. **Identity of Lewis Welch's mother** — Nicholas's wife Elizabeth died in 1799, but Lewis was born in 1780; no evidence of remarriage found
-5. **Burial location** — No grave site identified
+1. **Identity of First Wife** — If the three-marriages theory is correct, who was Nicholas's first wife, and when/where did that marriage occur?
+2. **Exact death date and location of Elizabeth Moore** — Died between June 1780 (Battle of Ramsour's Mill) and 1782 (St. Johns Town arrival). Did she die during the forced exile from North Carolina, in Georgia, or in early East Florida?
+3. **Which children belong to which mother?** — If there were three wives, which children were born to Wife #1, Wife #2 (Elizabeth), and potentially Wife #3 (Sarah)?
+4. **Exact birth date and location** — Only "c. 1738, Lancaster County, Pennsylvania" is documented for Nicholas
+5. **Military unit details** — "Hamilton's Regiment" mentioned in period accounts, but specific British service records not located
+6. **Burial location** — No grave site identified for Nicholas; also no grave located for Elizabeth Moore
 
 === Recommended Research Strategies ===
 
@@ -166,6 +224,10 @@ Through this lineage, Nicholas's Loyalist service connects to the Patriot [[Harg
 
 * "Sketches of Western North Carolina Illustrating Principally the Revolutionary Period of Mecklenburg, Rowan, Lincoln and Adjoining Counties" [database on-line], account of Nicholas Welch at Battle of Ramsour's Mill
 
+* '''East Florida Claims Commission testimony''' regarding St. Johns Town residents, including Nicholas Welsh (spelling variant). Cited in University of Florida, Florida History Online, "St. Johns Town" article. Posted 06 Sep 2013 by MelaneyWelch. (Full URL to be located)
+
+* '''John Russell testimony''' to East Florida Claims Commission regarding St. Johns Town, 1784. Cited in University of Florida Florida History Online collection.
+
 === Secondary Sources ===
 
 * "History of the Battle at Ramsour's Mill," The Lincoln County Historic Properties Commission, The Lincoln County Historical Association (accessed July 27, 2012)
@@ -179,6 +241,10 @@ Through this lineage, Nicholas's Loyalist service connects to the Patriot [[Harg
 * Ancestry.com, ''Global, Find a Grave Index for Burials at Sea and other Select Burial Locations, 1300s-Current'' [database on-line], Lehi, UT: Ancestry.com Operations, Inc., 2012, Memorial #234100609 for Nicholas Welch
 
 * "Family Tree," database, FamilySearch (http://familysearch.org : modified 30 June 2023, 16:40), entry for Nicholas W Welch (PID https://familysearch.org/ark:/61903/4:1:L6ZC-3QY)
+
+* Voss, Connie. "Nicholas Welch" genealogical research article. From the research of Herb Perry. Hardin County Historical Society (HCHS) ''The Historian''. (Discusses three marriages theory and family migration patterns)
+
+* Jones-Mahoney. ''Some Welch/Welsh/Walsh Families of North Carolina''. (Cites Nicholas Welch's Memorial to British government and claims for losses)
 
 === See Also ===
 

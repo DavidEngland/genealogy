@@ -25,9 +25,25 @@ According to historical accounts, Welch appeared in his community dressed in a n
 
 Through his persuasive narratives and strategic use of financial incentives, he successfully recruited men to the Loyalist cause. He participated in the '''Battle of Ramsour's Mill''' on 20 June 1780, a significant engagement fought entirely between Loyalist and Patriot militias in North Carolina.<ref>"History of the Battle at Ramsour's Mill." The Lincoln County Historic Properties Commission. The Lincoln County Historical Association. http://ramsoursmill.org/history/history-battle-ramsours-mill (accessed 27 July 2012).</ref>
 
+=== Exile to East Florida ===
+
+Following the Patriot victories at Ramsour's Mill and King's Mountain, Nicholas Welch and his family were banished from North Carolina. By 1782, he had relocated to '''St. Johns Town''' (also called '''Hester's Bluff''') on the St. Johns River in East Florida, a Loyalist refugee settlement that became the second most populous town in the province.
+
+East Florida Claims Commission testimony describes '''Nicholas Welsh''' (spelling variant) arriving at St. Johns Town '''as a widower with six children'''. His documented holdings included:
+
+* A house in St. Johns Town
+* Nine enslaved laborers
+* A lot with a warehouse
+* Tools and cattle
+* A '''500-acre land grant from Governor Patrick Tonyn'''
+
+When Britain ceded East Florida to Spain in 1783, Welch relocated to New Providence in the Bahamas (1784), where he remained until petitioning the Crown for compensation in London (1786). He later returned to the United States, settling in Giles County, Tennessee.<ref>University of Florida, Florida History Online, "St. Johns Town" (accessed via MelaneyWelch, 06 Sep 2013)</ref>
+
 === Marriages and Family ===
 
-'''First Marriage:''' Nicholas Welch married '''Elizabeth E. Moore''' (1740–1799) in North Carolina in 1757.<ref>Ancestry.com. Global, Find a Grave Index for Burials at Sea and other Select Burial Locations, 1300s-Current; Memorial ID 234100609.</ref> They had at least fifteen children:
+'''First Marriage (possibly):''' One historical source suggests Nicholas had an unknown first wife before Elizabeth Moore, though this remains unconfirmed.
+
+'''Second Marriage:''' Nicholas Welch married '''Elizabeth E. Moore''' (c. 1740–c. 1780-1782) in North Carolina in 1757. The St. Johns Town testimony showing him as a "widower" in 1782 indicates Elizabeth died between 1780-1782, likely during the forced exile from North Carolina or in Georgia. They had numerous children:
 
 * John Welch
 * William C. Welch
@@ -46,7 +62,7 @@ Through his persuasive narratives and strategic use of financial incentives, he 
 * Elizabeth Welch
 * Lewis Welch
 
-'''Second Marriage:''' '''Nicholas Welsh''' (alternate spelling) married '''Sarah Farren''' on 26 December 1794 in Philadelphia, Pennsylvania.<ref>Ancestry.com. Pennsylvania, U.S., Compiled Marriage Records, 1700-1821 [database on-line]. Provo, UT, USA: Ancestry.com Operations Inc, 2011. Marriage of Nicholas Welsh to Sarah Farren, 26 Dec 1794, Philadelphia, Pennsylvania.</ref> This marriage has been corroborated by probate records, as discussed below.
+'''Third Marriage:''' '''Nicholas Welsh''' (alternate spelling) married '''Sarah Farren''' on 26 December 1794 in Philadelphia, Pennsylvania.<ref>Ancestry.com. Pennsylvania, U.S., Compiled Marriage Records, 1700-1821 [database on-line]. Provo, UT, USA: Ancestry.com Operations Inc, 2011. Marriage of Nicholas Welsh to Sarah Farren, 26 Dec 1794, Philadelphia, Pennsylvania.</ref> The 1814 probate records identify "Sarah WELCH, widow of the late Nicholas WELCH" as administratrix of his estate.
 
 === Final Years and Death ===
 
@@ -56,11 +72,17 @@ Following the Revolutionary War, Welch relocated to frontier Tennessee. He is do
 
 ''"Ordered letters of adm. of est. of Nicholas WELCH, dec'd, issue to Sarah WELCH, she having qualified."''<ref>Tennessee Genealogical Records Repository, Giles County, TN Cty. Ct. Min., p. 303.</ref>
 
-Subsequent court orders appointed commissioners to allot provisions for '''Sarah WELCH, widow of the late Nicholas WELCH''', definitively establishing his death in Giles County, Tennessee by December 1814, and identifying his second wife, Sarah Farren Welch, as his surviving widow.
+Subsequent court orders appointed commissioners to allot provisions for '''Sarah WELCH, widow of the late Nicholas WELCH''', definitively establishing his death in Giles County, Tennessee by December 1814.
 
 === Research Notes ===
 
-'''Resolution of Conflicting Records:''' Earlier genealogical aggregations listed Welch's death in Rapides Parish, Louisiana, between 1810 and 1820. However, primary source evidence from both tax records and probate documents firmly establishes Giles County, Tennessee as his actual final residence and place of death. The apparent contradiction between his first and second marriages is resolved by the probate record, which identifies Sarah as his widow—confirming the 1794 Philadelphia marriage to Sarah Farren as his second marriage, which occurred after the documented death of his first wife, Elizabeth, in 1799.
+'''Three Marriages Theory:''' Evidence from multiple sources suggests Nicholas Welch had '''three marriages''':
+
+1. '''Unknown first wife''' (mentioned by genealogist Connie Voss, but identity and dates unknown)
+2. '''Elizabeth E. Moore''' (c. 1740–c. 1780-1782), married 1757. '''Critical evidence:''' St. Johns Town, East Florida testimony (1782) describes Nicholas arriving "as a widower with six children," definitively placing Elizabeth's death between June 1780-1782, likely during the exile from North Carolina. '''Note:''' FindAGrave Memorial 234100609 lists her death as "1799" but this contradicts the 1782 widower testimony.
+3. '''Sarah Farren''' (married 26 Dec 1794 in Philadelphia), survived him as widow in 1814
+
+'''Death Location Resolution:''' Earlier sources listed Rapides Parish, Louisiana, but primary records (1812 tax list, 1814 probate) firmly establish Giles County, Tennessee.
 
 == Sources ==
 

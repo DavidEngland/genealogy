@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "generated": "2026-02-13T17:03:17+00:00",
+        "source": "GEDCOM to Biography Converter"
+    },
+    "people": [
+        {
+            "wikitreeId": "Watts-9266",
+            "gedcomId": "@I1@",
+            "name": "Wurteh WU-TE-WAH  Watts",
+            "givenName": "",
+            "surname": "",
+            "sex": "F",
+            "allIds": {
+                "wikitree": "Watts-9266"
+            },
+            "birth": {
+                "date": "ABT 1741",
+                "place": "Tasigi Town, Cherokee Nation East"
+            },
+            "death": {
+                "date": "ABT 1814"
+            }
+        },
+        {
+            "wikitreeId": "Lawson-8250",
+            "gedcomId": "@I2@",
+            "name": "Nathaniel  Lawson",
+            "givenName": "",
+            "surname": "",
+            "sex": "M",
+            "allIds": {
+                "wikitree": "Lawson-8250"
+            },
+            "birth": {
+                "date": "7 Apr 1726",
+                "place": "Pittsylvania, Virginia"
+            },
+            "death": {
+                "date": "ABT 1759",
+                "place": "North Carolina"
+            }
+        },
+        {
+            "wikitreeId": "Lawson-8249",
+            "gedcomId": "@I3@",
+            "name": "Thomas  Lawson",
+            "givenName": "",
+            "surname": "",
+            "sex": "M",
+            "allIds": {
+                "wikitree": "Lawson-8249"
+            },
+            "birth": {
+                "date": "ABT 1755",
+                "place": "Abbeville, South Carolina"
+            },
+            "death": {
+                "date": "ABT 1827",
+                "place": "Abbeville, South Carolina, United States"
+            }
+        }
+    ],
+    "relationships": []
+}

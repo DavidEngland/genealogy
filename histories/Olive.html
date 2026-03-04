@@ -1,0 +1,423 @@
+<!DOCTYPE html><html><head>
+      <title>Olive</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      
+      <link rel="stylesheet" href="file:////Users/davidengland/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.8.20/crossnote/dependencies/katex/katex.min.css">
+      
+      
+      
+      
+      
+      <style>
+      code[class*=language-],pre[class*=language-]{color:#333;background:0 0;font-family:Consolas,"Liberation Mono",Menlo,Courier,monospace;text-align:left;white-space:pre;word-spacing:normal;word-break:normal;word-wrap:normal;line-height:1.4;-moz-tab-size:8;-o-tab-size:8;tab-size:8;-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none}pre[class*=language-]{padding:.8em;overflow:auto;border-radius:3px;background:#f5f5f5}:not(pre)>code[class*=language-]{padding:.1em;border-radius:.3em;white-space:normal;background:#f5f5f5}.token.blockquote,.token.comment{color:#969896}.token.cdata{color:#183691}.token.doctype,.token.macro.property,.token.punctuation,.token.variable{color:#333}.token.builtin,.token.important,.token.keyword,.token.operator,.token.rule{color:#a71d5d}.token.attr-value,.token.regex,.token.string,.token.url{color:#183691}.token.atrule,.token.boolean,.token.code,.token.command,.token.constant,.token.entity,.token.number,.token.property,.token.symbol{color:#0086b3}.token.prolog,.token.selector,.token.tag{color:#63a35c}.token.attr-name,.token.class,.token.class-name,.token.function,.token.id,.token.namespace,.token.pseudo-class,.token.pseudo-element,.token.url-reference .token.variable{color:#795da3}.token.entity{cursor:help}.token.title,.token.title .token.punctuation{font-weight:700;color:#1d3e81}.token.list{color:#ed6a43}.token.inserted{background-color:#eaffea;color:#55a532}.token.deleted{background-color:#ffecec;color:#bd2c00}.token.bold{font-weight:700}.token.italic{font-style:italic}.language-json .token.property{color:#183691}.language-markup .token.tag .token.punctuation{color:#333}.language-css .token.function,code.language-css{color:#0086b3}.language-yaml .token.atrule{color:#63a35c}code.language-yaml{color:#183691}.language-ruby .token.function{color:#333}.language-markdown .token.url{color:#795da3}.language-makefile .token.symbol{color:#795da3}.language-makefile .token.variable{color:#183691}.language-makefile .token.builtin{color:#0086b3}.language-bash .token.keyword{color:#0086b3}pre[data-line]{position:relative;padding:1em 0 1em 3em}pre[data-line] .line-highlight-wrapper{position:absolute;top:0;left:0;background-color:transparent;display:block;width:100%}pre[data-line] .line-highlight{position:absolute;left:0;right:0;padding:inherit 0;margin-top:1em;background:hsla(24,20%,50%,.08);background:linear-gradient(to right,hsla(24,20%,50%,.1) 70%,hsla(24,20%,50%,0));pointer-events:none;line-height:inherit;white-space:pre}pre[data-line] .line-highlight:before,pre[data-line] .line-highlight[data-end]:after{content:attr(data-start);position:absolute;top:.4em;left:.6em;min-width:1em;padding:0 .5em;background-color:hsla(24,20%,50%,.4);color:#f4f1ef;font:bold 65%/1.5 sans-serif;text-align:center;vertical-align:.3em;border-radius:999px;text-shadow:none;box-shadow:0 1px #fff}pre[data-line] .line-highlight[data-end]:after{content:attr(data-end);top:auto;bottom:.4em}html body{font-family:'Helvetica Neue',Helvetica,'Segoe UI',Arial,freesans,sans-serif;font-size:16px;line-height:1.6;color:#333;background-color:#fff;overflow:initial;box-sizing:border-box;word-wrap:break-word}html body>:first-child{margin-top:0}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{line-height:1.2;margin-top:1em;margin-bottom:16px;color:#000}html body h1{font-size:2.25em;font-weight:300;padding-bottom:.3em}html body h2{font-size:1.75em;font-weight:400;padding-bottom:.3em}html body h3{font-size:1.5em;font-weight:500}html body h4{font-size:1.25em;font-weight:600}html body h5{font-size:1.1em;font-weight:600}html body h6{font-size:1em;font-weight:600}html body h1,html body h2,html body h3,html body h4,html body h5{font-weight:600}html body h5{font-size:1em}html body h6{color:#5c5c5c}html body strong{color:#000}html body del{color:#5c5c5c}html body a:not([href]){color:inherit;text-decoration:none}html body a{color:#08c;text-decoration:none}html body a:hover{color:#00a3f5;text-decoration:none}html body img{max-width:100%}html body>p{margin-top:0;margin-bottom:16px;word-wrap:break-word}html body>ol,html body>ul{margin-bottom:16px}html body ol,html body ul{padding-left:2em}html body ol.no-list,html body ul.no-list{padding:0;list-style-type:none}html body ol ol,html body ol ul,html body ul ol,html body ul ul{margin-top:0;margin-bottom:0}html body li{margin-bottom:0}html body li.task-list-item{list-style:none}html body li>p{margin-top:0;margin-bottom:0}html body .task-list-item-checkbox{margin:0 .2em .25em -1.8em;vertical-align:middle}html body .task-list-item-checkbox:hover{cursor:pointer}html body blockquote{margin:16px 0;font-size:inherit;padding:0 15px;color:#5c5c5c;background-color:#f0f0f0;border-left:4px solid #d6d6d6}html body blockquote>:first-child{margin-top:0}html body blockquote>:last-child{margin-bottom:0}html body hr{height:4px;margin:32px 0;background-color:#d6d6d6;border:0 none}html body table{margin:10px 0 15px 0;border-collapse:collapse;border-spacing:0;display:block;width:100%;overflow:auto;word-break:normal;word-break:keep-all}html body table th{font-weight:700;color:#000}html body table td,html body table th{border:1px solid #d6d6d6;padding:6px 13px}html body dl{padding:0}html body dl dt{padding:0;margin-top:16px;font-size:1em;font-style:italic;font-weight:700}html body dl dd{padding:0 16px;margin-bottom:16px}html body code{font-family:Menlo,Monaco,Consolas,'Courier New',monospace;font-size:.85em;color:#000;background-color:#f0f0f0;border-radius:3px;padding:.2em 0}html body code::after,html body code::before{letter-spacing:-.2em;content:'\00a0'}html body pre>code{padding:0;margin:0;word-break:normal;white-space:pre;background:0 0;border:0}html body .highlight{margin-bottom:16px}html body .highlight pre,html body pre{padding:1em;overflow:auto;line-height:1.45;border:#d6d6d6;border-radius:3px}html body .highlight pre{margin-bottom:0;word-break:normal}html body pre code,html body pre tt{display:inline;max-width:initial;padding:0;margin:0;overflow:initial;line-height:inherit;word-wrap:normal;background-color:transparent;border:0}html body pre code:after,html body pre code:before,html body pre tt:after,html body pre tt:before{content:normal}html body blockquote,html body dl,html body ol,html body p,html body pre,html body ul{margin-top:0;margin-bottom:16px}html body kbd{color:#000;border:1px solid #d6d6d6;border-bottom:2px solid #c7c7c7;padding:2px 4px;background-color:#f0f0f0;border-radius:3px}@media print{html body{background-color:#fff}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{color:#000;page-break-after:avoid}html body blockquote{color:#5c5c5c}html body pre{page-break-inside:avoid}html body table{display:table}html body img{display:block;max-width:100%;max-height:100%}html body code,html body pre{word-wrap:break-word;white-space:pre}}.markdown-preview{width:100%;height:100%;box-sizing:border-box}.markdown-preview ul{list-style:disc}.markdown-preview ul ul{list-style:circle}.markdown-preview ul ul ul{list-style:square}.markdown-preview ol{list-style:decimal}.markdown-preview ol ol,.markdown-preview ul ol{list-style-type:lower-roman}.markdown-preview ol ol ol,.markdown-preview ol ul ol,.markdown-preview ul ol ol,.markdown-preview ul ul ol{list-style-type:lower-alpha}.markdown-preview .newpage,.markdown-preview .pagebreak{page-break-before:always}.markdown-preview pre.line-numbers{position:relative;padding-left:3.8em;counter-reset:linenumber}.markdown-preview pre.line-numbers>code{position:relative}.markdown-preview pre.line-numbers .line-numbers-rows{position:absolute;pointer-events:none;top:1em;font-size:100%;left:0;width:3em;letter-spacing:-1px;border-right:1px solid #999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.markdown-preview pre.line-numbers .line-numbers-rows>span{pointer-events:none;display:block;counter-increment:linenumber}.markdown-preview pre.line-numbers .line-numbers-rows>span:before{content:counter(linenumber);color:#999;display:block;padding-right:.8em;text-align:right}.markdown-preview .mathjax-exps .MathJax_Display{text-align:center!important}.markdown-preview:not([data-for=preview]) .code-chunk .code-chunk-btn-group{display:none}.markdown-preview:not([data-for=preview]) .code-chunk .status{display:none}.markdown-preview:not([data-for=preview]) .code-chunk .output-div{margin-bottom:16px}.markdown-preview .md-toc{padding:0}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link div,.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link p{display:inline}.markdown-preview .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}.scrollbar-style::-webkit-scrollbar{width:8px}.scrollbar-style::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}.scrollbar-style::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,.66);border:4px solid rgba(150,150,150,.66);background-clip:content-box}html body[for=html-export]:not([data-presentation-mode]){position:relative;width:100%;height:100%;top:0;left:0;margin:0;padding:0;overflow:auto}html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{position:relative;top:0;min-height:100vh}@media screen and (min-width:914px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{padding:2em calc(50% - 457px + 2em)}}@media screen and (max-width:914px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{font-size:14px!important;padding:1em}}@media print{html body[for=html-export]:not([data-presentation-mode]) #sidebar-toc-btn{display:none}}html body[for=html-export]:not([data-presentation-mode]) #sidebar-toc-btn{position:fixed;bottom:8px;left:8px;font-size:28px;cursor:pointer;color:inherit;z-index:99;width:32px;text-align:center;opacity:.4}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] #sidebar-toc-btn{opacity:1}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc{position:fixed;top:0;left:0;width:300px;height:100%;padding:32px 0 48px 0;font-size:14px;box-shadow:0 0 4px rgba(150,150,150,.33);box-sizing:border-box;overflow:auto;background-color:inherit}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar{width:8px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,.66);border:4px solid rgba(150,150,150,.66);background-clip:content-box}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc a{text-decoration:none}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc{padding:0 16px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link div,html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link p{display:inline}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{left:300px;width:calc(100% - 300px);padding:2em calc(50% - 457px - 300px / 2);margin:0;box-sizing:border-box}@media screen and (max-width:1274px){html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{width:100%}}html body[for=html-export]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .markdown-preview{left:50%;transform:translateX(-50%)}html body[for=html-export]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .md-sidebar-toc{display:none}
+/* Please visit the URL below for more information: */
+/*   https://shd101wyy.github.io/markdown-preview-enhanced/#/customize-css */
+
+      </style>
+      <!-- The content below will be included at the end of the <head> element. --><script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function () {
+    // your code here
+  });
+</script></head><body for="html-export">
+    
+    
+      <div class="crossnote markdown-preview  ">
+      
+<h1 id="olive-family-history">Olive Family History </h1>
+<h2 id="critical-clarification-two-different-women-named-sarah">Critical Clarification: Two Different Women Named Sarah </h2>
+<p><strong>This document addresses considerable genealogical confusion regarding two distinct women named Sarah who married men named James Olive, both dying on the same date in the same county:</strong></p>
+<h3 id="1-sarah-sally-hartsfield-olive">1. Sarah "Sally" Hartsfield Olive </h3>
+<ul>
+<li><strong>Birth:</strong> 1787, North Carolina</li>
+<li><strong>Death:</strong> 11 January 1878, Lauderdale County, Alabama</li>
+<li><strong>Married:</strong> <strong>James Olive</strong> (son of <strong>Jesse Olive</strong> and Monicah Massey)</li>
+<li><strong>Marriage Date:</strong> 16 April 1812, Wake County, North Carolina</li>
+</ul>
+<h3 id="2-sarah-meriwether-olive">2. Sarah Meriwether Olive </h3>
+<ul>
+<li><strong>Birth:</strong> ca. 1776, Amherst County, Virginia</li>
+<li><strong>Death:</strong> 11 January 1878, Lauderdale County, Alabama</li>
+<li><strong>Married:</strong> <strong>James Olive</strong> (son of <strong>Anthony Olive</strong> and Kerrenhappuch Hendon, b. 13 March 1785)</li>
+<li><strong>Marriage Date:</strong> 24 December 1808</li>
+</ul>
+<p><strong>Both women died on the same date (11 January 1878) in Lauderdale County, Alabama</strong>, creating significant genealogical confusion that has persisted for decades.</p>
+<hr>
+<h2 id="sarah-sally-hartsfield-olive-17871878">Sarah "Sally" Hartsfield Olive (1787–1878) </h2>
+<h3 id="family-background">Family Background </h3>
+<ul>
+<li><strong>Father:</strong> Andrew Hartsfield Sr.</li>
+<li><strong>Mother:</strong> _____ McElroy</li>
+<li><strong>Siblings:</strong> Multiple (see Hartsfield family records)</li>
+</ul>
+<h3 id="marriage-to-james-olive">Marriage to James Olive </h3>
+<p><strong>Date:</strong> 16 April 1812, Wake County, North Carolina<br>
+<strong>Groom:</strong> James Olive (son of Jesse Olive and Monicah Massey, b. ca. 1786)<br>
+<strong>Bondsman:</strong> John Olive<br>
+<strong>Witness:</strong> B. S. King</p>
+<p>Referenced in father Andrew Hartsfield Sr.'s will (20 December 1822, Wake County): "my daughter Salley, wife of James Olive" (Wake Wills, Book 12/123)</p>
+<h3 id="migration-and-later-life">Migration and Later Life </h3>
+<p>James Olive died ca. 1830 in Bedford County, North Carolina. After his death, Sally (Hartsfield) Olive relocated to Lauderdale County, Alabama, likely as part of the larger Hartsfield family migration to the Paris, Tennessee area.</p>
+<p><strong>Note:</strong> There are accounts of a cholera outbreak during the migration, with families camping at a log church near Columbia, Tennessee (later rebuilt by slaves of the James Polk Plantation). Several family members died during this outbreak, possibly including James Olive, though this has not been conclusively proven.</p>
+<h3 id="death-and-burial">Death and Burial </h3>
+<p><strong>Death:</strong> 11 January 1878, Lauderdale County, Alabama</p>
+<p><strong>Tombstone Inscription:</strong></p>
+<blockquote>
+<p>"Sarah Wife of James Olive<br>
+Born in 1787<br>
+Died January 11, 1878</p>
+<p>Sleep on dear mother<br>
+and take thy rest.<br>
+God called thee home.<br>
+He thought it best."</p>
+</blockquote>
+<p><strong>Burial:</strong> Reynolds Family Cemetery, Pruitton, Lauderdale County, Alabama</p>
+<p><strong>Find A Grave Memorial:</strong> #33768595 (created by LindaLou, 12 February 2009)</p>
+<p><strong>Source:</strong> "James Olive Family, Wake, NC," published by Olive Family Association, 1965</p>
+<hr>
+<h2 id="sarah-meriwether-olive-ca-17761878">Sarah Meriwether Olive (ca. 1776–1878) </h2>
+<h3 id="family-background-1">Family Background </h3>
+<ul>
+<li><strong>Birth:</strong> ca. 1776, Amherst County, Virginia</li>
+<li><strong>Parents:</strong> Meriwether family (details needed)</li>
+</ul>
+<h3 id="marriage-to-james-olive-1">Marriage to James Olive </h3>
+<p><strong>Date:</strong> 24 December 1808<br>
+<strong>Groom:</strong> James Olive (son of Anthony Olive and Kerrenhappuch Hendon)</p>
+<ul>
+<li>James Olive b. 13 March 1785</li>
+<li>James Olive d. 2 May 1858, Holmes County, Mississippi</li>
+</ul>
+<h3 id="geographic-mobility-and-possible-remarriages">Geographic Mobility and Possible Remarriages </h3>
+<p><strong>Research Finding:</strong> Richard and Sarah Olive were documented living in southern Alabama, approximately halfway between Florence (The Shoals area) and Mobile—a considerable distance south from Lauderdale County.</p>
+<p><strong>Hypothesis:</strong> Given the geographic distance and time span (James Olive died 1858; Sarah died 1878), Sarah may have been widowed and remarried one or more times before her final residence in Lauderdale County. This would explain:</p>
+<ol>
+<li>The southern Alabama location</li>
+<li>The 20-year gap between James's death and her own</li>
+<li>Possible connections to different family networks</li>
+</ol>
+<p><strong>Age Note:</strong> If Sarah was born ca. 1776 and died in 1878, she would have been approximately 102 years old at death. While not impossible, this remarkable longevity warrants further verification of birth date.</p>
+<h3 id="death">Death </h3>
+<p><strong>Death:</strong> 11 January 1878, Lauderdale County, Alabama<br>
+<strong>Burial:</strong> (Location to be confirmed—different from Sally Hartsfield Olive)</p>
+<p><strong>Research Needed:</strong></p>
+<ul>
+<li>Complete marital history after James Olive's death (1858)</li>
+<li>Confirmation of birth year</li>
+<li>Burial location</li>
+<li>Connection to Richard Olive found in southern Alabama</li>
+<li>Children and descendants</li>
+</ul>
+<hr>
+<h2 id="the-james-olive-17131805-line-origin-of-both-families">The James Olive (1713–1805) Line: Origin of Both Families </h2>
+<h3 id="overview">Overview </h3>
+<p>Both Sarah Hartsfield Olive and Sarah Meriwether Olive married descendants of <strong>James Olive (1713–1805)</strong>, who is the common ancestor of numerous Olive families in North Carolina, Georgia, Alabama, Tennessee, and beyond.</p>
+<h3 id="ancestry-of-james-olive-17131805">Ancestry of James Olive (1713–1805) </h3>
+<p><strong>Parents:</strong></p>
+<ul>
+<li><strong>Father:</strong> William Olive of Virginia</li>
+<li><strong>Mother:</strong> (Name unknown)</li>
+</ul>
+<p><strong>Birth:</strong> Baptized 4 October 1713, Abingdon Parish, Gloucester County, Virginia</p>
+<p><strong>Siblings</strong> (from Gloucester County Parish records):</p>
+<ul>
+<li>William Olive Jr. (baptized 12 November 1710)</li>
+<li>Edward Olive (baptized 19 February 1715/16)</li>
+<li>Alexander Olive (baptized 9 June 1723)</li>
+</ul>
+<p><strong>Marriages:</strong></p>
+<ol>
+<li>Mary Allard (m. 4 November 1735, Gloucester County, Virginia)</li>
+<li>Elizabeth (surname unknown) - married by time of his death</li>
+</ol>
+<p><strong>Death:</strong> 22 January 1805, Wake County, North Carolina<br>
+<strong>Wife Elizabeth's Death:</strong> ca. 1814</p>
+<h3 id="important-note-distinction-from-olliffoliff-lines">Important Note: Distinction from Olliff/Oliff Lines </h3>
+<p>The authors of "Olliff Family History" concluded that the <strong>James Olive (1713)</strong> line is <strong>NOT connected</strong> to the <strong>John Shears Olliff</strong> line, despite similarities in spelling and geography. The Olliff line likely originated from the "Oliff" families of Richmond and Westmoreland Counties, Virginia, separated from the Olive line by the Rappahannock River.</p>
+<p>While descendants of John Shears Olliff sometimes used the "Olive" spelling (particularly in pension applications), genealogical researchers have documented the James Olive descendants separately and found no connection point.</p>
+<hr>
+<h2 id="children-of-james-olive-17131805-and-descendants">Children of James Olive (1713–1805) and Descendants </h2>
+<p>James Olive had at least ten children. The two James Olives who married the two Sarahs descended from different sons:</p>
+<h3 id="1-james-olive-jr-b-ca-1748">1. James Olive Jr. (b. ca. 1748) </h3>
+<ul>
+<li><strong>Mother:</strong> Mary Allard (first wife)</li>
+<li><strong>Spouse:</strong> Elizabeth Burt</li>
+<li><strong>Residence:</strong> Wake County, NC; later Columbia County, GA</li>
+<li><strong>Children:</strong> Lucy, <strong>John (b. 30 Nov 1770)</strong>, Wiley, Frances, Bud/Bad, Thomas W., Berry, Abel</li>
+</ul>
+<h4 id="john-olive-17701836---son-of-james-jr">John Olive (1770–1836) - Son of James Jr. </h4>
+<ul>
+<li><strong>Born:</strong> 30 November 1770, Raleigh, North Carolina</li>
+<li><strong>Died:</strong> 13 December 1836, Columbia County, Georgia (age 67)</li>
+<li><strong>Married:</strong> Sarah Magruder (18 January 1803, Columbia County, GA)</li>
+<li><strong>Sarah Magruder:</strong> b. 16 September 1779, d. 19 November 1833 (age 55)</li>
+<li><strong>Children:</strong> Ann Belle (b. 1804), Mary Magruder (b. 1807), Harriett (b. &amp; d. 17 May 1809), Martha Burt (b. 1809), Young Burt (b. 1813), Fabius Johnson (b. 1815), Louisa Elizabeth (b. 1817), Evalina Frances (b. 1820)</li>
+</ul>
+<p><strong>Tombstones (Columbia County, GA):</strong></p>
+<ul>
+<li>John: "In Memory of John Olive, native of Raleigh, North Carolina, who died in Columbia County, Georgia, December 13, 1836, in the 67th year of his age."</li>
+<li>Sarah Magruder: "In Memory of Sarah Magruder, wife of John Olive, and daughter of Ninian O. and Mary Magruder, who died on the 19th November 1833 in the 55th year of her age."</li>
+</ul>
+<h3 id="2-william-olive-b-ca-1753">2. William Olive (b. ca. 1753) </h3>
+<ul>
+<li><strong>Spouse:</strong> Elizabeth Hendon</li>
+<li><strong>Children:</strong> James (b. 1773), Elizabeth, William Jr. (b. ca. 1778), Isham (b. ca. 1778), Howell (b. 1780–1790), Sally, Keturah (b. ca. 1790), Siddia, Merrell (b. 1790–1800), Lydia</li>
+</ul>
+<p><strong>Notable Descendants:</strong></p>
+<ul>
+<li>James Olive (b. 1773) m. Waitey Strait → William, Cader Nutt (b. 23 Apr 1813), Ira (b. 1817)</li>
+<li>Isham Olive (b. ca. 1778) m. Dicy Ann Taylor (1806) → Gray, James Berry (b. 18 Jan 1807), Howell (b. 1814) | d. 1855, Henderson Co., TN</li>
+<li>Howell Olive m. Sally Barker (24 Dec 1806) → Martha | d. 1837, Henderson Co., TN</li>
+</ul>
+<h4 id="william-olive-jr-b-4-sept-1802---son-of-william">William Olive Jr. (b. 4 Sept 1802) - Son of William </h4>
+<ul>
+<li><strong>Married:</strong> Elizabeth Barker (21 December 1802)</li>
+<li><strong>Died:</strong> 1827, Wake County, North Carolina</li>
+<li><strong>Children:</strong> Katurah, Louisa (m. Mr. Armstead), Polly, Merrill (b. 23 June 1816), Harriett (m. Asa Eubanks, 30 Jan 1829), Clary (m. Allen Wilson, 23 Feb 1820), Elizabeth</li>
+</ul>
+<p><strong>Merrill Olive</strong> (son of William Jr.) m. Martha Jane Upchurch (b. 28 Oct 1820) on 29 Mar 1855, Chatham Co., NC → Percy Wingate (b. 14 Oct 1879), Jamie, Daisy</p>
+<h4 id="merrell-olive-b-17901800---son-of-william">Merrell Olive (b. 1790–1800) - Son of William </h4>
+<ul>
+<li><strong>First Marriage:</strong> Elizabeth Penney (ca. 1816)</li>
+<li><strong>Son:</strong> James Lorren Olive (b. ca. 1818, Wake Co., NC)</li>
+<li><strong>Death:</strong> 1826, Wake County, North Carolina</li>
+</ul>
+<p><strong>James Lorren Olive</strong> m. Mary Lawrence (Wake Co., NC) → John (b. 22 July 1847, Cherokee Co., GA) | James d. ca. 1890, Cherokee Co., GA</p>
+<p><em>Mildred Olive is a descendant of James Lorren Olive.</em></p>
+<h3 id="3-southwood-olive-b-ca-1755">3. Southwood Olive (b. ca. 1755) </h3>
+<ul>
+<li><strong>Spouse:</strong> Nancy Hendon</li>
+<li><strong>Children:</strong> Abel (b. 1780–1790), Matthew (b. 1780–1790), Keziah (b. 1780–1790), Mary (b. ca. 1786, d. 1860), Asa (b. ca. 1790, d. ca. 1855), Isham (b. 1794), Eli (b. ca. 1800), Cynthia, James (d. ca. 1837)</li>
+</ul>
+<p><strong>Notable Marriages:</strong></p>
+<ul>
+<li>Abel m. Polly Hays (24 Dec 1808) | d. 1847, Wake Co., NC</li>
+<li>Matthew m. Nancy Dupree | d. 1840–1850, Wake Co., NC</li>
+<li>Keziah m. James Dupree (12 Apr 1819) | d. 1840–1850, Wake Co., NC</li>
+<li>Asa m. Betsy Gray (31 July 1823)</li>
+<li>Isham m. Charlotte (surname unknown) | d. after 1860, Wake Co., NC</li>
+<li>Eli m. Kiddy Lawrence (13 Oct 1835) | d. after 1850, Wake Co., NC</li>
+<li>Cynthia m. Green Mills (8 Mar 1845)</li>
+</ul>
+<h3 id="4-john-olive-b-ca-1756">4. John Olive (b. ca. 1756) </h3>
+<ul>
+<li><strong>First Spouse:</strong> Rachel Partridge (believed daughter of Nicholas Partridge)</li>
+<li><strong>Second Spouse:</strong> Nancy Womble</li>
+<li><strong>Children:</strong> Burrell (b. 2 Sept 1787), Rachel, John Jr. (b. 1800–1810), Michael (b. ca. 1801), Sally, Berry (b. ca. 1804), Frances "Franky" (b. ca. 1803), Daniel (b. 1800–1810), Green</li>
+</ul>
+<p><strong>Notable Descendants:</strong></p>
+<ul>
+<li><strong>Burrell Olive</strong> m. Mary "Polly" Johnson (daughter of John and Sarah Johnson, Chatham Co., NC) → Johnson (b. 7 June 1816) | Burrell d. 18 Oct 1846, Chatham Co., NC</li>
+<li>Rachel m. Samuel Wilson (24 Sept 1813)</li>
+<li>John Jr. m. Elizabeth Wall (11 Dec 1822)</li>
+<li><strong>Michael Olive</strong> m. Keziah Armistead | d. after 1876, <strong>Lauderdale County, Alabama</strong></li>
+</ul>
+<h3 id="5-anthony-olive-b-ca-1759---father-of-james-who-married-sarah-meriwether">5. Anthony Olive (b. ca. 1759) - <strong>FATHER OF JAMES WHO MARRIED SARAH MERIWETHER</strong> </h3>
+<ul>
+<li><strong>Spouse:</strong> Kerrenhappuch Hendon (daughter of Isham Hendon and Keziah Johnson)</li>
+<li><strong>Death:</strong> February 1798, Oglethorpe County, Georgia</li>
+<li><strong>Children:</strong>
+<ul>
+<li>Mary (b. 5 Dec 1778) m. Henry Hartsfield (7 Aug 1798, Oglethorpe Co., GA)</li>
+<li>Hendon (b. 21 Nov 1780) m. Sarah Hartsfield (Oglethorpe Co., GA)</li>
+<li>John (b. 11 Oct 1782) m. Polly Richardson (12 Nov 1803)</li>
+<li><strong>James (b. 13 Mar 1785) m. Sarah Meriwether (24 Dec 1808) | d. 2 May 1858, Holmes Co., MS</strong></li>
+<li>Keziah (b. 22 Sept 1787) d. 4 Aug 1802, Oglethorpe Co., GA</li>
+<li>Elizabeth (b. 15 Oct 1790) m. Henry Hartsfield (1 Jan 1829)</li>
+<li>Sarah (b. 5 Mar 1793) m. Allen Richardson (26 June 1811) | d. 19 Apr 1847, Upson Co., GA</li>
+<li>Nancy (b. 24 Oct 1798) m. James Hartsfield (15 Apr 1812) | d. 18 Sept 1866</li>
+</ul>
+</li>
+</ul>
+<h3 id="6-jesse-olive-b-ca-1759---father-of-james-who-married-sarah-hartsfield">6. Jesse Olive (b. ca. 1759) - <strong>FATHER OF JAMES WHO MARRIED SARAH HARTSFIELD</strong> </h3>
+<ul>
+<li><strong>Spouse:</strong> Monicah Massey (daughter of Richard Massey)</li>
+<li><strong>Death:</strong> 1829, Wake County, North Carolina</li>
+<li><strong>Children:</strong>
+<ul>
+<li>Richard Calvin (b. 12 Oct 1786) m. Sarah Mann Drake | d. after 1860, Fayette Co., AL</li>
+<li>Sarah m. Dempsey Bowden (19 Dec 1808) → relocated to Henry Co., TN</li>
+<li>John m. (1) Halland Bowden (29 Sept 1812), (2) Mary Bowden | d. 1859, Henry Co., TN</li>
+<li>Jesse Jr. (b. 1800–1810) m. Betsey Barker (16 Dec 1830)</li>
+<li><strong>James (b. ca. 1786) m. Sally Hartsfield (16 Apr 1812) | d. ca. 1830, Bedford Co., NC</strong></li>
+<li>Rachel m. William F. Smith (25 Dec 1813)</li>
+<li>Gilly (b. 1797) m. John Hartsfield (27 Nov 1815) → relocated to Henry Co., TN</li>
+<li>Mary (b. 1804) m. William Washington Lyon (18 June 1821)</li>
+<li>Elizabeth m. Hardy Crowder (30 Aug 1828)</li>
+</ul>
+</li>
+</ul>
+<p><strong>Note on Jesse's family migration:</strong> Jesse died in North Carolina, but his wife Monicah and their children migrated toward Paris, Tennessee (the Hartsfield settlement). During the journey, there was a cholera outbreak, and the group camped at a log church near Columbia, Tennessee. Several family members died there. It is believed (but not proven) that James Olive, Jesse's son who married Sally Hartsfield, may have died during this outbreak.</p>
+<p><strong>Monicah (Massey) Olive:</strong> b. 1764, d. 1854, Henderson County, Tennessee</p>
+<h3 id="7-abel-olive-b-20-july-1763">7. Abel Olive (b. 20 July 1763) </h3>
+<ul>
+<li><strong>First Spouse:</strong> Betty Ann Willis (m. 16 April 1785)</li>
+<li><strong>Second Spouse:</strong> Martha Minter (m. 25 December 1795) - daughter of Richard Minter</li>
+<li><strong>Death:</strong> 22 August 1822, Trigg County, Kentucky</li>
+<li><strong>Migration:</strong> Tennessee, then Kentucky</li>
+<li><strong>Children (14):</strong>
+<ul>
+<li>Nancy (b. 8 Mar 1786) m. Joshua Eastland (16 Mar 1802)</li>
+<li>Joel (b. 15 Mar 1789) → Stewart Co., TN by 1809</li>
+<li>Jose (b. 16 Mar 1789) → Franklin Co., AL by 1820</li>
+<li>William (b. 11 July 1791) → Hill Co., TX by 1880</li>
+<li>Ira (b. 29 June 1793) → Tipton Co., TN by 1830</li>
+<li>Abel Jr. (b. 8 Sept 1796) m. Elizabeth Ricks (4 Oct 1814) | d. 1875, Madison Co., IL</li>
+<li>Uel (b. 25 Oct 1798) m. (1) Mary Wester (18 Feb 1818), (2) Elizabeth Foy (3 May 1837) | d. 6 Aug 1880, Trigg Co., KY</li>
+<li>Jesse (b. 1 May 1801)</li>
+<li>Richard (b. 18 Oct 1803) m. Eveline Rutter (23 Feb 1825)</li>
+<li>Patsey (b. 21 Dec 1805)</li>
+<li>John (b. 22 Dec 1807) | d. 28 Apr 1885, Johnson Co., IL</li>
+<li>Mary Ann (b. 2 Jan 1812)</li>
+<li>Salley (b. 7 Nov 1814)</li>
+<li>James (b. 4 June 1817) m. (1) Sanai (Martin) Tabor (3 June 1834), (2) Mary Ann (Lane) Shumate (17 Nov 1864) | d. 14 July 1902, Illinois</li>
+</ul>
+</li>
+</ul>
+<h3 id="8-amy-olive">8. Amy Olive </h3>
+<ul>
+<li><strong>Married:</strong> Isaac Hill</li>
+</ul>
+<h3 id="9-rachel-olive">9. Rachel Olive </h3>
+<ul>
+<li><strong>Married:</strong> Joseph Embry</li>
+<li><strong>Relocated:</strong> Oglethorpe County, Georgia</li>
+</ul>
+<h3 id="10-winnie-olive">10. Winnie Olive </h3>
+<ul>
+<li>(No further information available)</li>
+</ul>
+<hr>
+<h2 id="geographic-distribution-of-olive-descendants">Geographic Distribution of Olive Descendants </h2>
+<p>The descendants of James Olive (1713–1805) dispersed widely across the American South and beyond:</p>
+<ul>
+<li><strong>North Carolina:</strong> Wake County (original settlement), Chatham County, Durham County</li>
+<li><strong>Virginia:</strong> Gloucester County (origin), Amherst County</li>
+<li><strong>Georgia:</strong> Oglethorpe County, Columbia County, Cherokee County, Upson County</li>
+<li><strong>Tennessee:</strong> Henry County, Henderson County, Stewart County, Tipton County, Davidson County</li>
+<li><strong>Alabama:</strong> Lauderdale County, Fayette County, Franklin County</li>
+<li><strong>Mississippi:</strong> Holmes County</li>
+<li><strong>Kentucky:</strong> Trigg County</li>
+<li><strong>Illinois:</strong> Madison County, Johnson County</li>
+<li><strong>Texas:</strong> Hill County</li>
+</ul>
+<hr>
+<h2 id="research-notes-and-clarifications">Research Notes and Clarifications </h2>
+<h3 id="the-olive-vs-olliff-spelling-question">The "Olive" vs. "Olliff" Spelling Question </h3>
+<p>Extensive research by Olliff family historians concluded that the <strong>James Olive (1713) line is NOT connected to the John Shears Olliff line</strong>, despite:</p>
+<ul>
+<li>Geographic proximity (both in Virginia, both in North Carolina)</li>
+<li>Similar spelling variations</li>
+<li>Use of "Olive" spelling by some Olliff descendants in official documents</li>
+</ul>
+<p>The Olliff line likely originated from the "Oliff" families of Richmond and Westmoreland Counties, Virginia, separated from the Gloucester County Olive line by the Rappahannock River.</p>
+<p>Joseph Olliff (son of John Shears Olliff) signed pension applications as "Olliff" even though the documents used "Olive" spelling throughout. This has led to considerable confusion but does not indicate a connection between the lines.</p>
+<p><strong>Source:</strong> "Olliff Family History," Section 9-305</p>
+<h3 id="connection-to-other-family-lines">Connection to Other Family Lines </h3>
+<p>Researchers contributing to Olive family genealogy discovered unexpected connections to other prominent families:</p>
+<ul>
+<li><strong>Bryan Family:</strong> Olive (Hotchkiss) Cartwright and John Dorroh both descend from John Bryan and Sarah Bryan of Rowan County, North Carolina</li>
+<li><strong>Shelton Family:</strong> Mildred Olive descends from John Shelton (b. 1780s) and Catherine (Messer) Shelton</li>
+</ul>
+<h3 id="hartsfield-connections">Hartsfield Connections </h3>
+<p>The Hartsfield family intermarried extensively with the Olive family:</p>
+<ul>
+<li>Sarah "Sally" Hartsfield married James Olive (son of Jesse)</li>
+<li>Multiple children of Anthony Olive married Hartsfields:
+<ul>
+<li>Mary Olive m. Henry Hartsfield</li>
+<li>Hendon Olive m. Sarah Hartsfield</li>
+<li>Elizabeth Olive m. Henry Hartsfield</li>
+<li>Nancy Olive m. James Hartsfield</li>
+</ul>
+</li>
+</ul>
+<p>The "Hartsfield settlement" near Paris, Tennessee was a destination for multiple Olive family members migrating from North Carolina.</p>
+<hr>
+<h2 id="primary-sources-and-references">Primary Sources and References </h2>
+<ol>
+<li><strong>"James Olive Family of Wake County, North Carolina"</strong> by Olive (Hotchkiss) Cartwright (1965), Pages 2–37</li>
+<li><strong>"The Heritage of Wake County, North Carolina"</strong> by Lynne Belvin and Harriette Riggs (1983)</li>
+<li><strong>"Sketch of James Olive of Wake County, North Carolina"</strong> by Mildred Olive (1992)</li>
+<li><strong>"Register of Abingdon Parish, Gloucester County, Virginia"</strong> by Robert W. Robins, Page 131</li>
+<li><strong>"Olliff Family History,"</strong> Section 9-305</li>
+<li><strong>Wake County, North Carolina Records:</strong>
+<ul>
+<li>Marriage bonds</li>
+<li>Will Book 12/123 (Andrew Hartsfield Sr., 20 Dec 1822)</li>
+</ul>
+</li>
+<li><strong>Georgia County Records:</strong>
+<ul>
+<li>Oglethorpe County marriages</li>
+<li>Columbia County marriages and deaths</li>
+</ul>
+</li>
+<li><strong>Find A Grave Memorial #33768595</strong> (Sarah "Sally" Hartsfield Olive)</li>
+<li><strong>International Genealogical Index (IGI), LDS</strong></li>
+<li><strong>Pedigree Chart of Mildred Olive</strong> (1985)</li>
+</ol>
+<h3 id="online-resources-referenced">Online Resources Referenced </h3>
+<ul>
+<li><a href="http://www.rcasey.net/olliff/ollive.htm">http://www.rcasey.net/olliff/ollive.htm</a></li>
+<li><a href="http://olivefamilytree.com/jesse.htm">http://olivefamilytree.com/jesse.htm</a></li>
+<li><a href="http://genforum.genealogy.com/olive">http://genforum.genealogy.com/olive</a></li>
+</ul>
+<hr>
+<h2 id="contact-information-for-ongoing-research">Contact Information for Ongoing Research </h2>
+<p><strong>Active researchers maintaining the James Olive line:</strong></p>
+<ul>
+<li>Irene (Olive) Kittinger, Cary, North Carolina</li>
+<li>Mildred Olive, Big Spring, Texas</li>
+</ul>
+<p>Descendants of the James Olive (1713) line are encouraged to contact these researchers to contribute to and benefit from ongoing genealogical work.</p>
+<hr>
+<h2 id="outstanding-research-questions">Outstanding Research Questions </h2>
+<ol>
+<li>
+<p><strong>Sarah Meriwether Olive's complete history:</strong></p>
+<ul>
+<li>Verify birth year (ca. 1776 would make her 102 at death)</li>
+<li>Identify possible remarriage(s) between 1858 and 1878</li>
+<li>Locate burial site</li>
+<li>Clarify connection to Richard Olive in southern Alabama</li>
+</ul>
+</li>
+<li>
+<p><strong>James Olive (son of Jesse) death location:</strong></p>
+<ul>
+<li>Did he die ca. 1830 in Bedford County, NC?</li>
+<li>Or did he die during cholera outbreak near Columbia, TN?</li>
+<li>Or did he die en route to Alabama?</li>
+</ul>
+</li>
+<li>
+<p><strong>Geographic movements:</strong></p>
+<ul>
+<li>Complete migration patterns of families moving from NC to TN, AL, and beyond</li>
+<li>Identify specific "Hartsfield settlement" location near Paris, TN</li>
+</ul>
+</li>
+<li>
+<p><strong>Children and descendants:</strong></p>
+<ul>
+<li>Document children of Sarah Hartsfield and James Olive (son of Jesse)</li>
+<li>Document children of Sarah Meriwether and James Olive (son of Anthony)</li>
+</ul>
+</li>
+</ol>
+<hr>
+<p><strong>Document prepared:</strong> February 2026<br>
+<strong>Based on sources dated:</strong> 1965–2011, with new research findings 2026</p>
+
+      </div>
+      
+      
+    
+    
+    
+    
+    
+    
+  
+    </body></html>
