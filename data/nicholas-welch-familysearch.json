@@ -1,0 +1,273 @@
+{
+    "metadata": {
+        "source": "FamilySearch",
+        "parsed": "2026-03-04T19:53:38+00:00",
+        "sourceFile": "Major Nicholas Welch 1740-1814 \u2022 L6ZC-3Q.md"
+    },
+    "principal": {
+        "name": "Major Nicholas Welch",
+        "familysearch_id": "L6ZC-3QY",
+        "birth_year": 1740,
+        "death_year": 1814,
+        "death_status": "deceased",
+        "wikitree_id": null,
+        "findagrave_id": null,
+        "source_line": 1,
+        "raw_line": "Major Nicholas Welch 1740-1814 \u2022 L6ZC-3QY"
+    },
+    "spouse": {
+        "name": "Elizabeth E Moore",
+        "familysearch_id": "L75M-7D6",
+        "birth_year": 1740,
+        "death_year": 1799,
+        "death_status": "deceased",
+        "wikitree_id": null,
+        "findagrave_id": null,
+        "source_line": 3,
+        "raw_line": "1740-1799 \u2022 L75M-7D6"
+    },
+    "children": [
+        {
+            "name": "Osias Welch",
+            "familysearch_id": "L84F-S9W",
+            "birth_year": 1760,
+            "death_year": 1833,
+            "death_status": "deceased",
+            "wikitree_id": null,
+            "findagrave_id": null,
+            "source_line": 5,
+            "raw_line": "1760-1833 \u2022 L84F-S9W"
+        },
+        {
+            "name": "William G. Welch",
+            "familysearch_id": "GTVW-2LD",
+            "birth_year": 1760,
+            "death_year": 1838,
+            "death_status": "deceased",
+            "wikitree_id": null,
+            "findagrave_id": null,
+            "source_line": 7,
+            "raw_line": "1760-1838 \u2022 GTVW-2LD"
+        },
+        {
+            "name": "Mary Welch",
+            "familysearch_id": "L75M-7FL",
+            "birth_year": 1761,
+            "death_year": 1822,
+            "death_status": "deceased",
+            "wikitree_id": null,
+            "findagrave_id": null,
+            "source_line": 11,
+            "raw_line": "1761-1822 \u2022 L75M-7FL"
+        },
+        {
+            "name": "Nicholas William Welch Jr.",
+            "familysearch_id": "G3GQ-V35",
+            "birth_year": 1762,
+            "death_year": 1830,
+            "death_status": "deceased",
+            "wikitree_id": null,
+            "findagrave_id": null,
+            "source_line": 13,
+            "raw_line": "1762-1830 \u2022 G3GQ-V35"
+        },
+        {
+            "name": "Margaret E. Welch",
+            "familysearch_id": "GN5K-8LW",
+            "birth_year": 1765,
+            "death_year": 1841,
+            "death_status": "deceased",
+            "wikitree_id": null,
+            "findagrave_id": null,
+            "source_line": 17,
+            "raw_line": "1765-1841 \u2022 GN5K-8LW"
+        },
+        {
+            "name": "Thomas Welch",
+            "familysearch_id": "GTVW-G8Q",
+            "birth_year": 1765,
+            "death_year": 1850,
+            "death_status": "deceased",
+            "wikitree_id": null,
+            "findagrave_id": null,
+            "source_line": 19,
+            "raw_line": "1765-1850 \u2022 GTVW-G8Q"
+        },
+        {
+            "name": "Anne Welch",
+            "familysearch_id": "9DM2-Y16",
+            "birth_year": 1765,
+            "death_year": null,
+            "death_status": "deceased",
+            "wikitree_id": null,
+            "findagrave_id": null,
+            "source_line": 21,
+            "raw_line": "1765-Deceased \u2022 9DM2-Y16"
+        },
+        {
+            "name": "Welch",
+            "familysearch_id": "GTV7-T6K",
+            "birth_year": 1767,
+            "death_year": null,
+            "death_status": "deceased",
+            "wikitree_id": null,
+            "findagrave_id": null,
+            "source_line": 23,
+            "raw_line": "1767-Deceased \u2022 GTV7-T6K"
+        },
+        {
+            "name": "baby Welch",
+            "familysearch_id": "KNH8-8CF",
+            "birth_year": 1767,
+            "death_year": null,
+            "death_status": "deceased",
+            "wikitree_id": null,
+            "findagrave_id": null,
+            "source_line": 25,
+            "raw_line": "1767-Deceased \u2022 KNH8-8CF"
+        },
+        {
+            "name": "Sarah Welch",
+            "familysearch_id": "9DM2-Y1F",
+            "birth_year": 1768,
+            "death_year": null,
+            "death_status": "deceased",
+            "wikitree_id": null,
+            "findagrave_id": null,
+            "source_line": 27,
+            "raw_line": "1768-Deceased \u2022 9DM2-Y1F"
+        },
+        {
+            "name": "Henry Welch",
+            "familysearch_id": "9CHF-B7C",
+            "birth_year": 1769,
+            "death_year": 1840,
+            "death_status": "deceased",
+            "wikitree_id": null,
+            "findagrave_id": null,
+            "source_line": 29,
+            "raw_line": "1769-1840 \u2022 9CHF-B7C"
+        },
+        {
+            "name": "Baby Boy Welch",
+            "familysearch_id": "KHD2-1XP",
+            "birth_year": 1769,
+            "death_year": null,
+            "death_status": "deceased",
+            "wikitree_id": null,
+            "findagrave_id": null,
+            "source_line": 31,
+            "raw_line": "1769-Deceased \u2022 KHD2-IXP"
+        },
+        {
+            "name": "Welch",
+            "familysearch_id": "GTKN-SZS",
+            "birth_year": 1769,
+            "death_year": null,
+            "death_status": "deceased",
+            "wikitree_id": null,
+            "findagrave_id": null,
+            "source_line": 33,
+            "raw_line": "1769-Deceased \u2022 GTKN-SZS"
+        },
+        {
+            "name": "John Welch",
+            "familysearch_id": "KNHX-SLS",
+            "birth_year": 1770,
+            "death_year": 1835,
+            "death_status": "deceased",
+            "wikitree_id": null,
+            "findagrave_id": null,
+            "source_line": 35,
+            "raw_line": "1770-1835 \u2022 KNHX-SLS"
+        },
+        {
+            "name": "Richard welch",
+            "familysearch_id": "GDFN-T1Z",
+            "birth_year": 1760,
+            "death_year": 1850,
+            "death_status": "deceased",
+            "wikitree_id": null,
+            "findagrave_id": null,
+            "source_line": 37,
+            "raw_line": "1760-1850 \u2022 GDFN-TIZ"
+        },
+        {
+            "name": "Hester Welch",
+            "familysearch_id": "LH7Z-MVX",
+            "birth_year": 1770,
+            "death_year": null,
+            "death_status": "deceased",
+            "wikitree_id": null,
+            "findagrave_id": null,
+            "source_line": 39,
+            "raw_line": "1770-Deceased \u2022 LH7Z-MVX"
+        },
+        {
+            "name": "Charity Welch",
+            "familysearch_id": "MGSF-SKT",
+            "birth_year": 1772,
+            "death_year": 1844,
+            "death_status": "deceased",
+            "wikitree_id": null,
+            "findagrave_id": null,
+            "source_line": 41,
+            "raw_line": "1772-1844 \u2022 MGSF-SKT"
+        },
+        {
+            "name": "Lewis Welch",
+            "familysearch_id": "LRC4-1FR",
+            "birth_year": 1780,
+            "death_year": null,
+            "death_status": "deceased",
+            "wikitree_id": null,
+            "findagrave_id": null,
+            "source_line": 46,
+            "raw_line": "1780-Deceased \u2022 LRC4-1FR"
+        },
+        {
+            "name": "William B Welch",
+            "familysearch_id": "GSR7-D7C",
+            "birth_year": 1790,
+            "death_year": 1850,
+            "death_status": "deceased",
+            "wikitree_id": null,
+            "findagrave_id": null,
+            "source_line": 50,
+            "raw_line": "1790-1850 \u2022 GSR7-D7C"
+        },
+        {
+            "name": "Sarah Farren",
+            "familysearch_id": "LH7Z-MWT",
+            "birth_year": 1790,
+            "death_year": null,
+            "death_status": "deceased",
+            "wikitree_id": null,
+            "findagrave_id": null,
+            "source_line": 52,
+            "raw_line": "1790-Deceased \u2022 LH7Z-MWT"
+        },
+        {
+            "name": "Edmond Welch",
+            "familysearch_id": "K66Y-W69",
+            "birth_year": 1810,
+            "death_year": null,
+            "death_status": "deceased",
+            "wikitree_id": null,
+            "findagrave_id": null,
+            "source_line": 54,
+            "raw_line": "1810-Deceased \u2022 K66Y-W69"
+        },
+        {
+            "name": "Richard Henry Welch",
+            "familysearch_id": "GY71-713",
+            "birth_year": 1760,
+            "death_year": 1861,
+            "death_status": "deceased",
+            "wikitree_id": null,
+            "findagrave_id": null,
+            "source_line": 58,
+            "raw_line": "1760-1861 \u2022 GY71-713"
+        }
+    ]
+}
