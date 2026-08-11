@@ -315,9 +315,10 @@ function extractDatabaseIds(string $text): array {
         $ids['familysearch'] = $m[1] ?? $m[2];
     }
     
-    // FindAGrave: memorial IDs
-    if (preg_match('/findagrave\.com\/memorial\/(\d+)|FAG[:\s]+(\d+)|Find[\s-]?A[\s-]?Grave[:\s]+(\d+)/i', $text, $m)) {
-        $ids['findagrave'] = $m[1] ?? $m[2] ?? $m[3];
+    // FindAGrave: memorial IDs (URLs, text formats, and WikiTree template)
+    if (preg_match('/findagrave\.com\/memorial\/(\d+)|FAG[:\s]+(\d+)|Find[\s-]?A[\s-]?Grave[:\s]+(\d+)|\{\{FindAGrave\|(\d+)\}\}/i', $text, $m)) {
+        // Filter out empty strings from alternation groups
+        $ids['findagrave'] = $m[1] ?: ($m[2] ?: ($m[3] ?: $m[4]));
     }
     
     // Ancestry: tree/person IDs
@@ -443,6 +444,12 @@ GEDCOM to Sync Data Parser
 
 Parses WikiTree GEDCOM files into structured JSON for sync tools.
 Extracts FindAGrave memorial IDs, URLs, and family relationships.
+
+ID Extraction Formats:
+  - FindAGrave: URLs, "FAG: 12345", "Find A Grave: 12345", {{FindAGrave|12345}}
+  - WikiTree: wiki/Surname-123 format
+  - FamilySearch: ark:/61903/... or person/ID format
+  - Ancestry: URLs or "Ancestry: 123456" format
 
 Usage:
   php gedcom_to_sync_data.php --input FILE [OPTIONS]

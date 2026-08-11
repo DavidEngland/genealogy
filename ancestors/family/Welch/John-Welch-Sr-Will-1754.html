@@ -1,0 +1,327 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Last Will and Testament of John Welch Sr. (1754)</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Pinyon+Script&family=IM+Fell+English+SC&family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --colonial-ink: #1a1412;
+            --aged-paper: #e9dcc0;
+            --sepia-shadow: rgba(20, 12, 8, 0.45);
+            --seal-wax: #8b1a1a;
+            --script: "Pinyon Script", cursive;
+            --formal-serif: "EB Garamond", Georgia, serif;
+            --title-caps: "IM Fell English SC", serif;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            padding: 30px 15px;
+            background: linear-gradient(135deg, #2a2420 0%, #1a1612 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            color: var(--colonial-ink);
+        }
+
+        .will-document {
+            max-width: 850px;
+            padding: 60px 70px 70px;
+            background-color: var(--aged-paper);
+            background-image:
+                url("https://www.transparenttextures.com/patterns/paper-fibers.png"),
+                radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0.2), rgba(0, 0, 0, 0.05));
+            color: var(--colonial-ink);
+            clip-path: polygon(
+                0% 1.5%, 1.5% 0%, 98.5% 0.5%, 100% 2%,
+                99.5% 98%, 98% 100%, 2% 99.5%, 0% 98%
+            );
+            box-shadow: 
+                10px 10px 30px var(--sepia-shadow),
+                inset 0 0 40px rgba(139, 26, 26, 0.02);
+            position: relative;
+            line-height: 1.6;
+            font-family: var(--formal-serif);
+            font-size: 1.1rem;
+            text-shadow: 0.3px 0.3px 0.7px rgba(26, 20, 18, 0.12);
+        }
+
+        /* Decorative border */
+        .will-document::before {
+            content: "";
+            position: absolute;
+            inset: 25px;
+            border: 1.5px solid rgba(26, 20, 18, 0.15);
+            border-radius: 2px;
+            pointer-events: none;
+        }
+
+        /* Header styling */
+        .document-header {
+            text-align: center;
+            margin-bottom: 45px;
+            padding-bottom: 20px;
+            border-bottom: 2px double rgba(26, 20, 18, 0.2);
+        }
+
+        .executor-note {
+            font-family: var(--script);
+            font-size: 1.6rem;
+            margin-bottom: 8px;
+            color: rgba(26, 20, 18, 0.7);
+        }
+
+        .document-title {
+            font-family: var(--title-caps);
+            font-size: 1.2rem;
+            letter-spacing: 0.1em;
+            margin: 15px 0 10px;
+            color: var(--colonial-ink);
+            font-weight: 600;
+        }
+
+        .location-date {
+            font-style: italic;
+            font-size: 0.95rem;
+            color: rgba(26, 20, 18, 0.75);
+            margin-top: 8px;
+        }
+
+        /* Opening invocation */
+        .invocation {
+            text-align: center;
+            font-family: var(--title-caps);
+            font-size: 1.15rem;
+            letter-spacing: 0.08em;
+            margin: 35px 0 30px;
+            color: var(--colonial-ink);
+        }
+
+        /* Paragraphs */
+        .will-paragraph {
+            text-indent: 2.5em;
+            margin-bottom: 20px;
+            text-align: justify;
+            hyphens: auto;
+        }
+
+        /* Bequests */
+        .bequest {
+            margin: 18px 0 18px 40px;
+            text-indent: -25px;
+            padding-left: 25px;
+        }
+
+        .bequest-label {
+            font-weight: 600;
+            font-variant: small-caps;
+            color: rgba(26, 20, 18, 0.85);
+        }
+
+        /* Names emphasis */
+        .person-name {
+            font-weight: 600;
+        }
+
+        /* Special notes */
+        .nota-bene {
+            margin: 25px 20px;
+            padding: 15px;
+            border-left: 3px solid rgba(139, 26, 26, 0.3);
+            background: rgba(139, 26, 26, 0.03);
+            font-style: italic;
+        }
+
+        /* Signature block */
+        .signature-block {
+            margin-top: 50px;
+            padding-top: 25px;
+            border-top: 1px solid rgba(26, 20, 18, 0.2);
+        }
+
+        .signed-line {
+            text-align: right;
+            margin: 12px 0;
+            font-family: var(--script);
+            font-size: 1.5rem;
+        }
+
+        .seal-notation {
+            display: inline-block;
+            margin-left: 15px;
+            font-family: var(--title-caps);
+            font-size: 0.85rem;
+            letter-spacing: 0.1em;
+            color: var(--seal-wax);
+            border: 1px solid var(--seal-wax);
+            border-radius: 50%;
+            padding: 3px 8px;
+        }
+
+        /* Witness section */
+        .witness-section {
+            margin-top: 35px;
+            padding-top: 25px;
+            border-top: 1px solid rgba(26, 20, 18, 0.2);
+        }
+
+        .witness-title {
+            font-weight: 600;
+            font-variant: small-caps;
+            margin-bottom: 10px;
+        }
+
+        .witness-name {
+            margin-left: 40px;
+            font-style: italic;
+        }
+
+        /* Probate certificate */
+        .probate-certificate {
+            margin-top: 50px;
+            padding: 25px;
+            background: rgba(26, 20, 18, 0.03);
+            border: 1.5px solid rgba(26, 20, 18, 0.15);
+            border-radius: 3px;
+        }
+
+        .probate-certificate p {
+            text-indent: 0;
+            margin-bottom: 15px;
+        }
+
+        .attestation {
+            text-align: right;
+            margin-top: 30px;
+            font-family: var(--script);
+            font-size: 1.4rem;
+        }
+
+        /* Editorial notes */
+        .editorial-note {
+            color: #666;
+            font-size: 0.85rem;
+            font-style: italic;
+            margin: -10px 0 35px;
+            padding: 12px;
+            background: rgba(100, 100, 100, 0.05);
+            border-left: 3px solid #999;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .will-document {
+                padding: 40px 30px;
+                font-size: 1rem;
+            }
+            .document-title {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="will-document">
+        <div class="document-header">
+            <div class="executor-note">Ex James Welsh</div>
+            <div class="document-title">Last Will and Testament</div>
+            <div class="location-date">
+                Paxton Township, Lancaster County, Pennsylvania<br>
+                January 21, 1754
+            </div>
+        </div>
+
+        <div class="editorial-note">
+            <strong>Editorial Note:</strong> The testator's name appears as "James Willsh" in the original document, but evidence suggests this may be <strong>John Welch Sr.</strong> The executor named is "John Wellsh," who is likely <strong>John Welch Jr.</strong> (1712–1775), father of <strong>Major Nicholas Welch</strong> (c. 1738–1814). Nicholas was approximately 16 years old when this will was written and would have been the testator's grandson.
+        </div>
+
+        <div class="invocation">In the Name of God Amen</div>
+
+        <p class="will-paragraph">
+            I, <span class="person-name">James [John?] Welch</span> of the Township of Paxton & County of Lancaster and Province of Pennsylvania, being very sick and weak of body, but of perfect mind and memory, and calling to mind the mortality of the body that it is appointed for all men once to die, and therefore I recommend my soul to God that gave it, and my body to the earth to be buried in a Christian and decent manner. And as for such worldly goods that God hath been pleased to bestow on me, I dispose of in the manner and form as followeth, viz:
+        </p>
+
+        <div class="bequest">
+            <span class="bequest-label">First:</span> I give and bequeath to my beloved wife <span class="person-name">Mary Welch</span> all the household furniture, with one-third part of the cows and sheep, with one horse, and her maintenance out of the place during her widowhood or till the two youngest boys, viz. <span class="person-name">Robert</span> and <span class="person-name">Joseph</span>, come to age. And in case that she sees fit to alter her place of residence, she is to have <strong>one hundred pounds</strong> from my four youngest sons, viz. <span class="person-name">Thomas</span>, <span class="person-name">James</span>, <span class="person-name">Robert</span>, and <span class="person-name">Joseph</span>.
+        </div>
+
+        <div class="bequest">
+            <span class="bequest-label">Secondly:</span> I give and bequeath unto my son <span class="person-name">John</span> forty pounds, to be paid in the year of our Lord 1759.
+        </div>
+
+        <div class="bequest">
+            <span class="bequest-label">Thirdly:</span> I give and bequeath to my son-in-law <span class="person-name">William Peterson</span> ten pounds, to be paid in the year 1759.
+        </div>
+
+        <div class="bequest">
+            <span class="bequest-label">Fourthly:</span> I give and bequeath unto my son <span class="person-name">Thomas</span> one hundred and fifty acres of land from the middle of the Great Swamp and backward to the east corner, and one horse named Buck.
+        </div>
+
+        <div class="bequest">
+            <span class="bequest-label">Fifthly:</span> I give and bequeath unto my son <span class="person-name">James</span> one hundred acres of land from the middle of the Great Swamp & backwards, joining James McKnaught.
+        </div>
+
+        <div class="bequest">
+            <span class="bequest-label">Sixthly:</span> I give and bequeath to my two sons <span class="person-name">Robert</span> and <span class="person-name">Joseph</span> the remainder of the land next the river.
+        </div>
+
+        <div class="bequest">
+            <span class="bequest-label">Seventhly:</span> I give and bequeath to my daughter <span class="person-name">Jean</span> one bay horse with a large blaze in his forehead, with a side saddle and bridle, with forty pounds of money to be paid in the year 1759.
+        </div>
+
+        <div class="bequest">
+            <span class="bequest-label">Eighthly:</span> I give and bequeath to my daughter <span class="person-name">Ezabel</span> [Isabel] fifty pounds when [she] come[s] to age.
+        </div>
+
+        <div class="bequest">
+            <span class="bequest-label">Ninthly:</span> I give and bequeath to my daughter <span class="person-name">Mary</span> fifty pounds when she come[s] to age.
+        </div>
+
+        <div class="nota-bene">
+            <strong>N.B.</strong> That these four sons—<span class="person-name">Thomas</span>, <span class="person-name">James</span>, <span class="person-name">Robert</span>, and <span class="person-name">Joseph</span>—is to pay all debts and legacies according as each of them possesses of the land.
+        </div>
+
+        <p class="will-paragraph">
+            And I order and appoint my well-beloved wife <span class="person-name">Mary Welch</span> and son <span class="person-name">John Welch</span> my executors, revoking all other wills and executors whatsoever.
+        </p>
+
+        <p class="will-paragraph">
+            As witness my hand and seal this <strong>21st day of January, 1754</strong>.
+        </p>
+
+        <p class="will-paragraph">
+            I order the servant man <span class="person-name">Michel McDaniel</span> for the benefit of the plantation, and <span class="person-name">Thomas</span> to be his master. And I order that the two youngest [sons] have their victuals [food] and clothes until they be fit to do for themselves.
+        </p>
+
+        <div class="signature-block">
+            <div class="signed-line">
+                James J. Welch <span class="seal-notation">L.S.</span>
+            </div>
+        </div>
+
+        <div class="witness-section">
+            <div class="witness-title">Witnesses:</div>
+            <div class="witness-name">Richard McClure</div>
+            <div class="witness-name">William Anderson</div>
+        </div>
+
+        <div class="probate-certificate">
+            <p>
+                The 3rd day of May, 1754, before me the subscriber came <span class="person-name">Richard McClure</span> and <span class="person-name">William Anderson</span>, the witnesses to the within written will, and on their corporal [oath] did declare and said that they were present and saw and heard <span class="person-name">James [John?] Welch</span>, the testator, sign, seal, publish, and declare the within writing as and for his last will and testament, and that at the doing thereof he was of sound and disposing mind, memory, and understanding, according to the best of their knowledge, observation, and belief.
+            </p>
+            <div class="attestation">
+                Edw. Shippen, <span style="font-family: var(--title-caps); font-size: 0.9rem;">D. Master</span>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

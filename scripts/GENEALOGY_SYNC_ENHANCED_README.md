@@ -182,9 +182,11 @@ The GEDCOM parser automatically extracts FindAGrave memorial IDs from:
    - Keep all other children with Elizabeth E Moore
 
 3. **[MEDIUM] Add FindAGrave IDs**
-   - Elizabeth Moore: Search for memorial
-   - Lewis Welch: Search for memorial
-   - Other children: Search and add
+   - Elizabeth Moore: Add `{{FindAGrave|MEMORIAL_ID}}` to biography
+   - Lewis Welch: Add `{{FindAGrave|MEMORIAL_ID}}` to biography
+   - Other children: Search and add using WikiTree template format
+   - Template format: `{{FindAGrave|107643743}}`
+   - See: https://www.wikitree.com/wiki/Help:Find_A_Grave
 
 4. **[LOW] Fix FamilySearch Sarah Farren Entry**
    - LH7Z-MWT currently shows as child born 1790
@@ -350,6 +352,7 @@ Since automated download requires authentication:
 1 NOTE Find A Grave: 234157064
 1 NOTE FAG 234157064
 1 NOTE Memorial #234157064
+1 NOTE {{FindAGrave|234157064}}
 // → All extract to findagrave_id
 ```
 

@@ -6,7 +6,6 @@ Applied Mathematician · Atmospheric Scientist · Scientific Computing & ML
 - Email: DavidEEngland@Outlook.com
 - ORCID: https://orcid.org/0009-0001-2095-6646
 - GitHub: https://github.com/DavidEngland
-- Repository: https://github.com/DavidEngland/genealogy
 - LinkedIn: https://www.linkedin.com/in/davidengland
 
 ---

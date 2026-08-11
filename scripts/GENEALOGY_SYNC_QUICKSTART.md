@@ -273,8 +273,9 @@ Based on what we know:
 
 4. **Add FindAGrave IDs**
    - Use memorial IDs from sync report
-   - Add to profile sources
-   - Format: `Find A Grave Memorial #107643743`
+   - Add to profile biography using WikiTree template
+   - Format: `{{FindAGrave|107643743}}`
+   - See: https://www.wikitree.com/wiki/Help:Find_A_Grave
 
 ### Correct FamilySearch Entries
 

@@ -427,7 +427,7 @@ http://www.royalprovincial.com/Military/mems/nc/clmwel.htm
 **Subsequent court orders appointed commissioners to allot provisions for:**  
 **"Sarah WELCH, widow of the late Nicholas WELCH"**
 
-*Definitively establishing his death in Giles County, Tennessee by December 1814*
+*Definitively establishing his death by December 1814*
 
 ---
 

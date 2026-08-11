@@ -1,0 +1,55 @@
+# WikiTree → FamilySearch ID Quick Reference
+# Nicholas Welch Children (Welch-185)
+# Generated: 2026-03-05
+
+## CONFIRMED MATCHES (Auto-matched, score ≥60)
+
+Welch-3467    GTVW-2LD    William         1758-1838    score:70
+Welch-8495    GDFJ-7QW    Judith          1761-1860    score:75
+Welch-11475   G3GQ-V35    Nicholas Jr.    1762-1830    score:75
+Welch-8473    L75M-7FL    Mary            1762-1822    score:70
+Welch-1567    GN5K-8LW    Margaret        1765-1841    score:75
+Welch-8494    L83N-6DG    Elizabeth       1780-1847    score:60
+
+## PROBABLE MATCHES (Manual verification recommended)
+
+Welch-1890    LRC4-1FR    Lewis           1780-        YOUR ANCESTOR ⭐
+Welch-8498    GTVW-G8Q    Thomas          1765-1810    (death year differs)
+Welch-8497    9DM2-Y1F    Sarah           1766-1826
+Welsh-62      9DM2-Y16    Ann/Anne        1766-
+Welch-8493    LH7Z-MVX    Hester/Hesta    1768-
+Welch-8499    KNHX-SLS    John            1758-1814    (or Welsh-63?)
+Welsh-63      KNHX-SLS    John            1769-1830    (or Welch-8499?)
+
+## USAGE EXAMPLES
+
+### Add to WikiTree Biography:
+* FamilySearch: [https://www.familysearch.org/tree/person/id/L75M-7FL L75M-7FL]
+
+### Add to FamilySearch Notes:
+WikiTree profile: https://wikitree.com/wiki/Welch-8473
+
+### Batch WikiTree Update Template:
+```
+{{FamilySearch|L75M-7FL}}
+```
+
+## COMMANDS TO REGENERATE
+
+# Extract FamilySearch children from HTML:
+php scripts/parse_familysearch_children.php \
+  --input "ancestors/family/Welch/ElizabethEMooreChildren-NicholasWelchPerFS.html" \
+  --output data/nicholas-welch-fs-children.json
+
+# Match WikiTree to FamilySearch:
+php scripts/wikitree_familysearch_matcher.php \
+  --wikitree Welch-185 \
+  --familysearch data/nicholas-welch-fs-children.json \
+  --output wikitree-familysearch-matches.json
+
+# Match with both parents:
+php scripts/wikitree_familysearch_matcher.php \
+  --wikitree Welch-185 \
+  --wikitree Moore-51757 \
+  --familysearch data/nicholas-welch-fs-children.json \
+  --verbose

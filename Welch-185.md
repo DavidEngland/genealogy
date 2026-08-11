@@ -1,8 +1,4 @@
 [[Category:Loyalists, American Revolution]]
-[[Category: American Revolution]]
-[[Category: Pennsylvania]]
-[[Category: North Carolina]]
-[[Category: Tennessee]]
 [[Category: Giles County, Tennessee]]
 
 {{1776 Sticker|rank=Major|unit=Hamilton's Regiment, Royal British Army of North Carolina}}
@@ -84,17 +80,74 @@ Subsequent court orders appointed commissioners to allot provisions for '''Sarah
 
 '''Death Location Resolution:''' Earlier sources listed Rapides Parish, Louisiana, but primary records (1812 tax list, 1814 probate) firmly establish Giles County, Tennessee.
 
+== Timeline ==
+
+=== Pennsylvania (c. 1738–1759) ===
+
+* '''c. 1738–1740''' — Born in Lancaster County, Pennsylvania, son of John Welch and Elizabeth Whitesides<ref>Pennsylvania Marriage Records. Harrisburg, PA: Pennsylvania Archives Printed Series, 1876. Series 2, Series 6.</ref>
+* '''c. 1742''' — Mother Elizabeth Whitesides dies
+* '''c. 1748''' — Grandfather William Welsh dies
+* '''1750s''' — Raised in Pennsylvania German Lutheran community
+
+=== North Carolina Migration (1759–1781) ===
+
+* '''24 Oct 1759''' — Father John Welch receives land grant on Catawba River, Anson/Mecklenburg/Tryon County, North Carolina
+* '''1761''' — Nicholas serves as chainbearer on father's survey
+* '''c. 1757''' — Marries Elizabeth Moore
+* '''12 Jul 1766''' — Purchases 170 acres on Howard/Hayward Creek, Mecklenburg County
+* '''5 Jun 1769''' — Named executor in father's will
+* '''20 Mar 1772''' — Granted 300 acres on Indian Creek, Tryon County
+* '''1772–1775''' — Established planter; multiple children born
+
+=== Revolutionary War (1775–1781) ===
+
+* '''1776–1777''' — Twice arrested for "treason"; released after legal costs
+* '''1778''' — Raises approximately 270 Loyalists to join British in Georgia
+* '''Feb 1779''' — Reaches Briar Creek with approximately 90 men; commissioned Major, Royal North Carolina Regiment
+* '''10 Mar–12 Apr 1779''' — Prisoner of war for 34 days in Greenwood, South Carolina
+* '''1779–1780''' — Recruiting service behind Patriot lines
+* '''20 Jun 1780''' — Battle of Ramsour's Mill; three sons captured<ref>"History of the Battle at Ramsour's Mill." The Lincoln County Historic Properties Commission. http://ramsoursmill.org/history/history-battle-ramsours-mill (accessed 27 July 2012).</ref>
+* '''Late 1780''' — Wife and nine children banished; property confiscated
+* '''May 1781''' — Resigns commission to aid family
+
+=== Exile: Georgia, East Florida, Bahamas (1781–1786) ===
+
+* '''1781''' — Reunites with family in Georgia
+* '''c. 1780–1782''' — Wife Elizabeth Moore dies during exile
+* '''1782''' — Moves to St. Johns Town, East Florida; arrives as widower with six children<ref>University of Florida, Florida History Online, "St. Johns Town" (accessed via MelaneyWelch, 06 Sep 2013).</ref>
+* '''1783''' — East Florida ceded to Spain
+* '''1784''' — Relocates to New Providence, Bahamas
+* '''1784–1786''' — At least one daughter marries in Bahamas to James Misick; relocates to Grand Turks Island
+
+=== London Petitions (1786) ===
+
+* '''20 Mar 1786''' — Files first memorial to Treasury
+* '''Oct 1786''' — Files second memorial
+* '''Late 1786''' — Awarded £448 compensation
+
+=== Return to America (1788–1799) ===
+
+* '''c. 1788''' — Returns to United States; appears in Orangeburgh/96 Districts, South Carolina
+* '''24 Aug 1789''' — Named heir in settlement of father's estate
+* '''1790''' — Census: Orangeburg District, South Carolina
+* '''5 Aug 1793''' — Receives six South Carolina land grants totaling 6,000 acres
+* '''26 Dec 1794''' — Marries Sarah Farren in Philadelphia, Pennsylvania<ref>Ancestry.com. Pennsylvania, U.S., Compiled Marriage Records, 1700-1821. Marriage of Nicholas Welsh to Sarah Farren, 26 Dec 1794, Philadelphia, Pennsylvania.</ref>
+
+=== Louisiana (1799–1812) ===
+
+* '''1799''' — Appears in District Cataoulou, Rapides Parish, Louisiana
+* '''1810''' — Census: Rapides Parish, Louisiana
+
+=== Tennessee (1812–1814) ===
+
+* '''1812''' — Tax list: Giles County, Tennessee<ref>Tennessee Genealogical Records Repository, Giles County, TN Miscellaneous Genealogical Notes. Giles County, Tennessee 1812 Tax Lists.</ref>
+* '''1813''' — Signs petition concerning land titles
+* '''8 Dec 1814''' — Probate: Administration granted to widow Sarah Welch<ref>Tennessee Genealogical Records Repository, Giles County, TN Cty. Ct. Min., p. 303.</ref>
+
+
 == Sources ==
 
-<references>
-<ref>Pennsylvania Marriage Records. Harrisburg, PA: Pennsylvania Archives Printed Series, 1876. Series 2, Series 6; cited in Ancestry.com. Pennsylvania, U.S., Compiled Marriage Records, 1700-1821.</ref>
-<ref>Sketches of Western North Carolina Illustrating Principally the Revolutionary Period of Mecklenburg, Rowan, Lincoln and Adjoining Counties; as cited in The American Revolution in North Carolina: The Battle of Ramsour's Mill.</ref>
-<ref>"History of the Battle at Ramsour's Mill." The Lincoln County Historic Properties Commission. The Lincoln County Historical Association. http://ramsoursmill.org/history/history-battle-ramsours-mill (accessed 27 July 2012).</ref>
-<ref>Ancestry.com. Global, Find a Grave Index for Burials at Sea and other Select Burial Locations, 1300s-Current [database on-line]. Lehi, UT, USA: Ancestry.com Operations, Inc., 2012. Name: Maj Nicholas Welch; Birth Date: 1740; Birth Place: Lancaster, Lancaster County, Pennsylvania, United States of America; Death Date: Dec 1814; Death Place: Giles County, Tennessee, United States of America; Spouse: Elizabeth Welch.</ref>
-<ref>Ancestry.com. Pennsylvania, U.S., Compiled Marriage Records, 1700-1821 [database on-line]. Provo, UT, USA: Ancestry.com Operations Inc, 2011. Marriage of Nicholas Welsh to Sarah Farren, 26 Dec 1794, Philadelphia, Pennsylvania.</ref>
-<ref>Tennessee Genealogical Records Repository, Giles County, TN Miscellaneous Genealogical Notes. Giles County, Tennessee 1812 Tax Lists, Nos. 162-328, entry 0270 Welch, Nicholas.</ref>
-<ref>Tennessee Genealogical Records Repository, Giles County, TN Cty. Ct. Min., p. 303. Ordered letters of adm. of est. of Nicholas WELCH, dec'd, issue to Sarah WELCH, she having qualified. 8 December 1814.</ref>
-</references>
+<references />
 
 * "Family Tree," database, ''FamilySearch'' (<http://familysearch.org> : modified 30 June 2023, 16:40), entry for Nicholas W Welch
 * Ancestry.com. Roster of South Carolina Patriots in the American Revolution [database on-line]. Provo, UT, USA: Ancestry.com Operations Inc, 2006.
